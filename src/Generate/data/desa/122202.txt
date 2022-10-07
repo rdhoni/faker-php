@@ -1,0 +1,15 @@
+1222022001, perk perlabian
+1222022002, perk teluk panji
+1222022003, perk tolan i/ii
+1222022004, perk batang saponggol
+1222022005, perk tolan
+1222022006, air merah
+1222022007, teluk panji
+1222022008, tanjung medan
+1222022009, kampung perlabian
+1222022010, tanjung selamat
+1222022011, tanjung mulia
+1222022012, teluk panji i
+1222022013, teluk panji ii
+1222022014, teluk panji iii
+1222022015, teluk panji iv

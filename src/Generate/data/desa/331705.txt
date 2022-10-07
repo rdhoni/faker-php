@@ -1,0 +1,23 @@
+3317052001, lodan kulon
+3317052002, lodan wetan
+3317052003, bonjor
+3317052004, tawangrejo
+3317052005, sampung
+3317052006, baturno
+3317052007, babaktulung
+3317052008, nglojo
+3317052009, jambangan
+3317052010, pelang
+3317052011, gilis
+3317052012, gunungmulyo
+3317052013, gonggang
+3317052014, sumbermulyo
+3317052015, kalipang
+3317052016, dadapmulyo
+3317052017, sendangmulyo
+3317052018, banowan
+3317052019, temperak
+3317052020, karangmangu
+3317052021, bajingjowo
+3317052022, bajingmeduro
+3317052023, sarangmeduro

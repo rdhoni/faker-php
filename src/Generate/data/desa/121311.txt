@@ -1,0 +1,12 @@
+1213111003, huta godang
+1213112001, alahan kae
+1213112002, habincaran
+1213112004, huta padang up
+1213112005, hutaimbaru up
+1213112007, patahajang
+1213112008, simpang banyak jae
+1213112009, simpang banyak julu
+1213112010, simpang duhu dolok
+1213112011, simpang duhu lombang
+1213112012, simpang pining
+1213112013, tolang

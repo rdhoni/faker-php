@@ -1,0 +1,7 @@
+7171061001, sario utara
+7171061002, sario kotabaru
+7171061003, sario tumpaan
+7171061004, sario
+7171061005, titiwungan utara
+7171061006, titiwungan selatan
+7171061007, ranotana

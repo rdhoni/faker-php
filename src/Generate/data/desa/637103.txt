@@ -1,0 +1,9 @@
+6371031001, belitung utara
+6371031002, belitung selatan
+6371031003, pelambuan
+6371031004, telaga biru
+6371031005, telawang
+6371031006, teluk tiram
+6371031007, kuin selatan
+6371031008, kuin cerucuk
+6371031009, basirih

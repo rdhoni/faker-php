@@ -1,0 +1,7 @@
+1223021001, tanjung leidong
+1223022002, teluk pulai dalam
+1223022003, teluk pulai luar
+1223022004, kelapa sebatang
+1223022005, simandulang
+1223022006, air hitam
+1223022007, pangkalan lunang

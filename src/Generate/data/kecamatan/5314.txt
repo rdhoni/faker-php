@@ -1,0 +1,10 @@
+531401, rote barat daya
+531402, rote barat laut
+531403, lobalain
+531404, rote tengah
+531405, pantai baru
+531406, rote timur
+531407, rote barat
+531408, rote selatan
+531409, ndao nuse
+531410, landu leko

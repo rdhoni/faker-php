@@ -1,0 +1,11 @@
+1402061001, pangkalan kasai
+1402062002, kelesa
+1402062003, beligan
+1402062004, seresam
+1402062005, paya rumbai
+1402062006, bukit meranti
+1402062007, buluh rampai
+1402062008, titian resak
+1402062009, petala bumi
+1402062010, sibabat
+1402062011, bandar padang

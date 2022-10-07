@@ -1,0 +1,10 @@
+1701102001, tumbak tebing
+1701102002, gunung kayo
+1701102003, gindo suli
+1701102004, talang indah
+1701102005, kuripan
+1701102006, padang nibung
+1701102007, tanjung tebat
+1701102008, padang jawi
+1701102009, tanjung aur
+1701102010, padang burnai

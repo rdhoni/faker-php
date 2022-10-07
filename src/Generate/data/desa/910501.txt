@@ -1,0 +1,13 @@
+9105011004, tarau
+9105011005, serui kota
+9105011006, serui jaya
+9105012014, serui laut
+9105012015, banawa
+9105012017, turu
+9105012019, pasir hitam
+9105012020, pasir putih
+9105012023, manaini
+9105012024, imandoa
+9105012026, barawaikap
+9105012027, bawai
+9105012028, nundawipi

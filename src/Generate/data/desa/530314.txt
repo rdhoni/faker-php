@@ -1,0 +1,10 @@
+5303141001, oelami
+5303141006, tublopo
+5303142002, kiusili
+5303142003, naiola
+5303142004, maurisu
+5303142005, oetalus
+5303142007, maurisu utara
+5303142008, maurisu selatan
+5303142009, maurisu tengah
+5303142010, naiola timur

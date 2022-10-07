@@ -1,0 +1,12 @@
+6310061001, kampung baru
+6310061002, tungkaran pangeran
+6310062003, sari gadung
+6310062004, mekar sari
+6310062005, sungaidua
+6310062006, batu ampar
+6310062007, gunungbesar
+6310062008, pulau burung
+6310062009, baroqah
+6310062010, bersujud
+6310062011, sejahtera
+6310062012, gunungantasari

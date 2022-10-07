@@ -1,0 +1,12 @@
+3217072001, ciptaharja
+3217072002, cipatat
+3217072003, citatah
+3217072004, rajamandalakulon
+3217072005, mandalawangi
+3217072006, kertamukti
+3217072007, nyalindung
+3217072008, gunungmasigit
+3217072009, cirawamekar
+3217072010, mandalasari
+3217072011, sumurbandung
+3217072012, sarimukti

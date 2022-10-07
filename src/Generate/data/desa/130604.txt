@@ -1,0 +1,6 @@
+1306042001, matua hilia
+1306042002, matua mudiak
+1306042003, tigo balai
+1306042004, lawang
+1306042005, parik panjang);
+1306042006, panta pauh

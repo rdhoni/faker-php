@@ -1,0 +1,6 @@
+3101, kab adm kep seribu
+3171, kota adm jakarta pusat
+3172, kota adm jakarta utara
+3173, kota adm jakarta barat
+3174, kota adm jakarta selatan
+3175, kota adm jakarta timur

@@ -1,0 +1,15 @@
+1604212001, sugi waras
+1604212002, tanjung periuk
+1604212003, tanjung karangan
+1604212004, muara tandi
+1604212005, darmo
+1604212006, indikat ilir
+1604212007, tanjung baru
+1604212008, mandi angin
+1604212009, ngalam baru
+1604212010, sukarami
+1604212011, tanjung dalam
+1604212012, tanah pilih
+1604212013, tanjung beringin
+1604212014, batay
+1604212015, suka makmur

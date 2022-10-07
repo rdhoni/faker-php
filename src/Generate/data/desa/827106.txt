@@ -1,0 +1,16 @@
+8271061001, takoma
+8271061002, tanah raja
+8271061003, muhajirin
+8271061004, stadion
+8271061005, maliaro
+8271061006, kampung pisang
+8271061007, marikurubu
+8271061008, kota baru
+8271061009, gamalama
+8271061010, kalumpang
+8271061011, moya
+8271061012, santiong
+8271061013, makassar barat
+8271061014, makassar timur
+8271061015, salahuddin
+8271061016, tongole

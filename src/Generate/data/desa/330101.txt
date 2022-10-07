@@ -1,0 +1,11 @@
+3301012001, tambakreja
+3301012002, bumireja
+3301012003, ciklapa
+3301012004, kedungreja
+3301012005, tambaksari
+3301012006, rejamulya
+3301012007, sidanegara
+3301012008, kaliwungu
+3301012009, jatisari
+3301012010, bangunreja
+3301012011, bojongsari

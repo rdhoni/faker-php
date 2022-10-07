@@ -1,0 +1,8 @@
+1405051001, langgam
+1405052002, tambak
+1405052003, penarikan
+1405052004, segati
+1405052005, sotol
+1405052006, pangkalan gondai
+1405052007, langkan
+1405052008, padang luas

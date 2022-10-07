@@ -1,0 +1,11 @@
+6107082002, gerantung
+6107082003, monterado
+6107082004, goa boma
+6107082006, nek ginap
+6107082007, beringin baru
+6107082008, sendoreng
+6107082009, rantau
+6107082010, mekar baru
+6107082011, jahandung
+6107082012, serindu
+6107082013, siaga

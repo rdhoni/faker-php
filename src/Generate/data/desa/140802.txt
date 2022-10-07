@@ -1,0 +1,15 @@
+1408021001, sungai apit
+1408022002, teluk lanus
+1408022003, tanjung kuras
+1408022004, parit i/ii
+1408022005, teluk mesjid
+1408022008, sungai kayu ara
+1408022009, lalang
+1408022010, mengkapan
+1408022011, sungai rawa
+1408022012, penyengat
+1408022014, teluk batil
+1408022016, bungsur
+1408022017, harapan
+1408022019, kayu ara permai
+1408022020, rawa mekar jaya

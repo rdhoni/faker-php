@@ -1,0 +1,8 @@
+5307172001, bu selatan
+5307172002, bu utara
+5307172003, bu watuweti
+5307172004, loke
+5307172005, renggarasi
+5307172006, detubinga
+5307172007, tuwa
+5307172008, poma

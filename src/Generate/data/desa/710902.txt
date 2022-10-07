@@ -1,0 +1,12 @@
+7109021002, paseng
+7109021003, paniki
+7109021004, ondong
+7109022001, peling sawang
+7109022005, kanawong
+7109022006, bumbiha
+7109022007, pehe
+7109022008, lehi
+7109022009, peling
+7109022010, makalehi
+7109022011, makalehi utara
+7109022012, makalehi timur

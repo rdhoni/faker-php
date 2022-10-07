@@ -1,0 +1,13 @@
+3528072001, plakpak
+3528072002, palesanggar
+3528072003, pegantenan
+3528072004, bulangan branta
+3528072005, bulangan barat
+3528072006, bulangan haji
+3528072007, tlagah
+3528072008, bulangan timur
+3528072009, tebul timur
+3528072010, tebul barat
+3528072011, ambender
+3528072012, pasanggar
+3528072013, tanjung

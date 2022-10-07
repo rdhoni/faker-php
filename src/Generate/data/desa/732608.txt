@@ -1,0 +1,8 @@
+7326081002, nonongan utara
+7326082001, salu
+7326082003, salu sopai
+7326082004, tombang langda
+7326082005, marante
+7326082006, langda
+7326082007, nonongan selatan
+7326082008, salu sarre

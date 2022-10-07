@@ -1,0 +1,14 @@
+3529102001, bataal barat
+3529102002, bataal timur
+3529102003, rombiya barat
+3529102004, rombiya timur
+3529102005, talaga
+3529102006, billapora barat
+3529102007, billapora timur
+3529102008, ganding
+3529102009, gadu timur
+3529102010, gadu barat
+3529102011, ketawang larangan
+3529102012, ketawang parebaan
+3529102013, ketawang daleman
+3529102014, ketawang karay

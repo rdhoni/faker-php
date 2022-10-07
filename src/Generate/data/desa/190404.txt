@@ -1,0 +1,10 @@
+1904042001, simpang katis
+1904042002, celuak
+1904042003, sungkap
+1904042004, beruas
+1904042005, puput
+1904042006, teru
+1904042007, terak
+1904042008, pasir garam
+1904042009, katis
+1904042010, pinang sebatang

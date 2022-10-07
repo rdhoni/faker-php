@@ -1,0 +1,14 @@
+610501, sintang
+610502, tempunak
+610503, sepauk
+610504, ketungau hilir
+610505, ketungau tengah
+610506, ketungau hulu
+610507, dedai
+610508, kayan hilir
+610509, kayan hulu
+610514, serawai
+610515, ambalau
+610519, kelam permai
+610520, sungai tebelian
+610521, binjai hulu

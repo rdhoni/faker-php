@@ -1,0 +1,14 @@
+1813112001, pagar bukit
+1813112002, tanjung kemala
+1813112003, suka marga
+1813112004, kota jawa
+1813112005, penyandingan
+1813112006, bandar dalam
+1813112007, way haru
+1813112008, pemerihan
+1813112009, suka negeri
+1813112010, sumberejo
+1813112011, siring gading
+1813112012, way tias
+1813112013, tanjung rejo
+1813112014, pagar bukit induk

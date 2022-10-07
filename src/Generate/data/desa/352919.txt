@@ -1,0 +1,17 @@
+3529192001, grujugan
+3529192002, longos
+3529192003, andulang
+3529192004, gapura timur
+3529192005, mandala
+3529192006, gersik putih
+3529192007, gapura tengah
+3529192008, gapura barat
+3529192009, panagan
+3529192010, palo\lo\an
+3529192011, banjar timur
+3529192012, banjar barat
+3529192013, batudinding
+3529192014, baban
+3529192015, karangbudi
+3529192016, braji
+3529192017, poja

@@ -1,0 +1,16 @@
+3324122001, sidomukti
+3324122002, penyangkringan
+3324122003, bumiayu
+3324122004, manggungsari
+3324122005, sumberagung
+3324122006, ngasinan
+3324122007, weleri
+3324122008, nawangsari
+3324122009, karangdowo
+3324122010, penaruban
+3324122011, sambongsari
+3324122012, karanganom
+3324122013, payung
+3324122014, pucuksari
+3324122015, tratemulyo
+3324122016, montongsari

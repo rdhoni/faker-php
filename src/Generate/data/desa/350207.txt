@@ -1,0 +1,18 @@
+3502072001, karangpatihan
+3502072002, tegalrejo
+3502072003, bedrug
+3502072004, wagir kidul
+3502072005, singgahan
+3502072006, patik
+3502072007, pulung
+3502072008, pulung merdiko
+3502072009, sidoharjo
+3502072010, wotan
+3502072011, plunturan
+3502072012, pomahan
+3502072013, kesugihan
+3502072014, serag
+3502072015, wayang
+3502072016, munggung
+3502072017, bekiring
+3502072018, banaran

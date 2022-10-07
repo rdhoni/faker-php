@@ -1,0 +1,19 @@
+6204041005, pendang
+6204042001, sungai telang
+6204042002, majundre
+6204042003, bundar
+6204042004, talekoi
+6204042006, marawan lama
+6204042007, marawan baru
+6204042008, reong
+6204042009, tarusan
+6204042010, panarukan
+6204042011, maruga
+6204042012, hingan
+6204042013, danau bambure
+6204042014, tamparak
+6204042015, hulu tampang
+6204042016, bantai bambure
+6204042017, rampa mea
+6204042018, gunung rantau
+6204042019, tamparak layung

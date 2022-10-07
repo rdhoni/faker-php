@@ -1,0 +1,18 @@
+1602152001, sungai menang
+1602152002, karangsia
+1602152003, sungai ceper
+1602152004, gajah mati
+1602152005, sungai tepuk
+1602152006, sungai sibur
+1602152007, talang makmur
+1602152008, harapan jaya
+1602152009, talang jaya
+1602152010, sidomulyo
+1602152011, bumi pratama mandira
+1602152012, pinang indah
+1602152013, gajah makmur
+1602152014, gading jaya
+1602152015, gajah mukti
+1602152016, gajah mulya
+1602152017, sri gading
+1602152018, gading mas

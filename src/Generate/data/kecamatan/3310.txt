@@ -1,0 +1,26 @@
+331001, prambanan
+331002, gantiwarno
+331003, wedi
+331004, bayat
+331005, cawas
+331006, trucuk
+331007, kebonarum
+331008, jogonalan
+331009, manisrenggo
+331010, karangnongko
+331011, ceper
+331012, pedan
+331013, karangdowo
+331014, juwiring
+331015, wonosari
+331016, delanggu
+331017, polanharjo
+331018, karanganom
+331019, tulung
+331020, jatinom
+331021, kemalang
+331022, ngawen
+331023, kalikotes
+331024, klaten utara
+331025, klaten tengah
+331026, klaten selatan

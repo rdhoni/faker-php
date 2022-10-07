@@ -1,0 +1,26 @@
+6103011001, tanjung kapuas
+6103011002, tanjung sekayam
+6103011003, sungai sengkuang
+6103011004, ilir kota
+6103011005, beringin
+6103011006, bunut
+6103012007, penyeladi
+6103012008, nanga biang
+6103012009, rambin
+6103012010, entakai
+6103012011, pana
+6103012012, mengkiang
+6103012013, kambong
+6103012014, sungai mawang
+6103012015, lape
+6103012016, penyelimau
+6103012017, sungai alai
+6103012018, semerangkai
+6103012019, sungai batu
+6103012020, sungai muntik
+6103012021, lintang kapuas
+6103012022, lintang pelaman
+6103012023, belangin
+6103012024, penyelimau jaya
+6103012025, tapang dulang
+6103012026, botuh lintang

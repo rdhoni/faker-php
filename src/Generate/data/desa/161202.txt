@@ -1,0 +1,13 @@
+1612022001, sukarami
+1612022002, tanjung baru
+1612022003, prabu menang
+1612022004, tanding marga
+1612022005, karang tanding
+1612022006, lubuk tampui
+1612022007, tempirai
+1612022008, tempirai selatan
+1612022009, kota baru
+1612022010, tempirai utara
+1612022011, tempirai timur
+1612022012, tambak
+1612022013, muara ikan

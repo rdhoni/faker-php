@@ -1,0 +1,24 @@
+920501, misool misool utara)
+920502, waigeo utara
+920503, waigeo selatan
+920504, salawati utara
+920505, kepulauan ayau
+920506, misool timur
+920507, waigeo barat
+920508, waigeo timur
+920509, teluk mayalibit
+920510, kofiau
+920511, meos mansar
+920513, misool selatan
+920514, warwarbomi
+920515, waigeo barat kepulauan
+920516, misool barat
+920517, kepulauan sembilan
+920518, kota waisai
+920519, tiplol mayalibit
+920520, batanta utara
+920521, salawati barat
+920522, salawati tengah
+920523, supnin
+920524, ayau
+920525, batanta selatan

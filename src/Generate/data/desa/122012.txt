@@ -1,0 +1,13 @@
+1220122001, huta raja
+1220122002, ujung batu julu
+1220122003, gunung manaon ub
+1220122004, labuhan jurung
+1220122005, martujuan
+1220122006, paya bahung ub
+1220122007, tobing tinggi ub
+1220122008, ujung batu jae
+1220122009, marlaung
+1220122010, mananti
+1220122011, jambu tonang
+1220122012, manare tua
+1220122013, pasir lancat ub

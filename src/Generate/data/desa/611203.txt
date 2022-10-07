@@ -1,0 +1,14 @@
+6112032001, simpang kanan
+6112032002, mega timur
+6112032003, bengkarek
+6112032004, lingga
+6112032005, sungai ambawang kuala
+6112032006, jawa tengah
+6112032007, durian
+6112032008, pancaroba
+6112032009, puguk
+6112032010, korek
+6112032011, pasak
+6112032012, pasak piang
+6112032013, teluk bakung
+6112032015, sungai malaya

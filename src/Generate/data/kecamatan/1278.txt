@@ -1,0 +1,6 @@
+127801, gunungsitoli
+127802, gunungsitoli selatan
+127803, gunungsitoli utara
+127804, gunungsitoli idanoi
+127805, gunungsitoli alo\oa
+127806, gunungsitoli barat

@@ -1,0 +1,15 @@
+6304042001, anjir serapat muara
+6304042002, anjir muara kota
+6304042003, patih muhur
+6304042004, anjir muara kota tengah
+6304042005, anjir serapat lama
+6304042006, anjir serapat baru
+6304042007, anjir muara lama
+6304042008, sungai punggu
+6304042009, anjir serapat baru i
+6304042010, patih muhur baru
+6304042011, sei punggu baru
+6304042012, anjir serapat muara i
+6304042013, sepakat barsama
+6304042014, marabahan baru
+6304042015, beringin jaya

@@ -1,0 +1,11 @@
+7603172001, mehalaan
+7603172002, botteng
+7603172003, salukonta
+7603172004, mesakada
+7603172005, mehalaan barat
+7603172006, saluahok
+7603172007, salubalo
+7603172008, passembuk
+7603172009, kondo
+7603172010, leko sukamaju
+7603172011, ulumea

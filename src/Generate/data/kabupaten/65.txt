@@ -1,0 +1,5 @@
+6501, kab bulungan
+6502, kab malinau
+6503, kab nunukan
+6504, kab tana tidung
+6571, kota tarakan

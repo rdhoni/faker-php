@@ -1,0 +1,20 @@
+7101202001, mariri lama
+7101202002, mariri baru
+7101202003, nonapan ii
+7101202004, nonapan i
+7101202005, wineru
+7101202006, gogaluman
+7101202007, poigar i
+7101202008, nanasi
+7101202009, pomoman
+7101202010, tiberias
+7101202011, mondatong
+7101202012, poigar ii
+7101202013, poigar iii
+7101202014, mariri ii
+7101202015, mariri i
+7101202016, nonapan baru
+7101202017, nanasi timur
+7101202018, nonapan
+7101202019, tanjung mariri
+7101202020, mondatong baru

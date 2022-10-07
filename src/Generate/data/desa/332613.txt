@@ -1,0 +1,19 @@
+3326131013, pekajangan
+3326131019, kedungwuni timur
+3326131020, kedungwuni barat
+3326132001, kedungpatangewu
+3326132002, pakisputih
+3326132003, rowocacing
+3326132004, langkap
+3326132005, tosaran
+3326132006, pajomblangan
+3326132007, proto
+3326132008, kwayangan
+3326132010, podo
+3326132011, salakbrojo
+3326132012, ambokembang
+3326132014, tangkiltengah
+3326132015, karangdowo
+3326132016, bugangan
+3326132017, rengas
+3326132018, tangkilkulon

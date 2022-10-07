@@ -1,0 +1,16 @@
+6407122001, gerungung
+6407122002, pereng taliq
+6407122003, tanjung soke
+6407122004, deraya
+6407122005, lemper
+6407122006, muara siram
+6407122007, resak
+6407122008, jambuk
+6407122009, muara gusik
+6407122010, penawai
+6407122011, muara kedang
+6407122012, jambuk makmur
+6407122014, siram makmur
+6407122015, siram jaya
+6407122016, bukit harapan
+6407122019, tanjung sari

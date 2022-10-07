@@ -1,0 +1,5 @@
+1274021001, tanjung balai kota iii
+1274021002, tanjung balai kota iv
+1274021003, sejahtera
+1274021004, kuala silo bestari
+1274021005, matahalasan

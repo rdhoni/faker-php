@@ -1,0 +1,12 @@
+1401062001, pangkalan baru
+1401062002, desa baru
+1401062003, teratak buluh
+1401062005, lubuk siam
+1401062006, buluh cina
+1401062007, buluh nipis
+1401062011, tanah merah
+1401062012, pandau jaya
+1401062013, tanjung balam
+1401062014, kepau jaya
+1401062015, pangkalan serik
+1401062016, kubang jaya

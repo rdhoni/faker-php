@@ -1,0 +1,12 @@
+140501, ukui
+140502, pangkalan kerinci
+140503, pangkalan kuras
+140504, pangkalan lesung
+140505, langgam
+140506, pelalawan
+140507, kerumutan
+140508, bunut
+140509, teluk meranti
+140510, kuala kampar
+140511, bandar sei kijang
+140512, bandar petalangan

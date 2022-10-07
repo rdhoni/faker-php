@@ -1,0 +1,49 @@
+1107072001, tampieng tunong
+1107072002, tampieng baroh
+1107072003, dayah caleue
+1107072004, jurong
+1107072005, keutapang
+1107072006, dayah keurako
+1107072007, mesjid lam ujong
+1107072008, baro jruek
+1107072009, yub mee
+1107072010, raya
+1107072011, pulo gampong u
+1107072012, pante lhok kaju
+1107072014, sukon tungkop
+1107072015, rawa tungkop
+1107072016, mesjid tungkop
+1107072017, dayah muara
+1107072018, pante garot
+1107072019, garot cut
+1107072020, keubang
+1107072021, blang garot
+1107072022, meulayu
+1107072023, tungkop cut
+1107072024, guci
+1107072025, teungoh blang
+1107072026, mesjid dijiem
+1107072027, sukon ulee gampong
+1107072028, lam kabu
+1107072029, ulee birah
+1107072030, mesjid baro
+1107072031, lam reuneng
+1107072032, cot seuke
+1107072033, drien
+1107072034, rumia
+1107072035, wakheuh
+1107072036, baro bluek
+1107072037, mesjid ulee gampong
+1107072038, dayah bie
+1107072039, bale baro bluek
+1107072040, putoe gapui
+1107072041, blang rapai
+1107072042, neulop ii
+1107072043, baro gapui
+1107072044, bale baroh gapui
+1107072045, glee gapui
+1107072046, teungoh suwiek
+1107072047, mesjid suwiek
+1107072048, tuha suwiek
+1107072049, beureudep
+1107072050, blang lhok kaju

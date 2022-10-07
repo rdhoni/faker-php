@@ -1,0 +1,8 @@
+3671061001, paninggilan
+3671061002, sudimara barat
+3671061003, sudimara timur
+3671061004, tajur
+3671061005, parung serab
+3671061006, sudimara jaya
+3671061007, sudimara selatan
+3671061008, paninggilan utara

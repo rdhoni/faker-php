@@ -1,0 +1,12 @@
+820501, mangoli timur
+820502, sanana
+820503, sulabesi barat
+820506, mangoli barat
+820507, sulabesi tengah
+820508, sulabesi timur
+820509, sulabesi selatan
+820510, mangoli utara timur
+820511, mangoli tengah
+820512, mangoli selatan
+820513, mangoli utara
+820518, sanana utara

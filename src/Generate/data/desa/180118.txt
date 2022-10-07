@@ -1,0 +1,15 @@
+1801182001, merbau mataram
+1801182002, suban
+1801182003, tanjung baru
+1801182004, baru ranji
+1801182005, karang jaya
+1801182006, talang jawa
+1801182007, lebung sari
+1801182008, puji rahayu
+1801182009, batu agung
+1801182010, tanjung harapan
+1801182011, sinar karya
+1801182012, triharjo
+1801182013, panca tunggal
+1801182014, mekar jaya
+1801182015, karang jaya

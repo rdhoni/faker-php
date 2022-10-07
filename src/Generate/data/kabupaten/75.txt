@@ -1,0 +1,6 @@
+7501, kab gorontalo
+7502, kab boalemo
+7503, kab bone bolango
+7504, kab pahuwato
+7505, kab gorontalo utara
+7571, kota gorontalo

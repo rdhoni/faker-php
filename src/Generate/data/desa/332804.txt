@@ -1,0 +1,20 @@
+3328042001, cenggini
+3328042002, bukateja
+3328042003, kalibakung
+3328042004, karangjambu
+3328042005, cilongok
+3328042006, tembongwah
+3328042007, danareja
+3328042008, sangkanjaya
+3328042009, danawarih
+3328042010, pagerwangi
+3328042011, harjowinangun
+3328042012, batuagung
+3328042013, kaliwungu
+3328042014, banjaranyar
+3328042015, sesepan
+3328042016, wringinjenggot
+3328042017, pamiritan
+3328042018, balapulang wetan
+3328042019, balapulang kulon
+3328042020, cibunar

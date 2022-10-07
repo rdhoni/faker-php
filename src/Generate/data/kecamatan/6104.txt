@@ -1,0 +1,20 @@
+610401, matan hilir utara
+610402, marau
+610403, manis mata
+610404, kendawangan
+610405, sandai
+610407, sungai laur
+610408, simpang hulu
+610411, nanga tayap
+610412, matan hilir selatan
+610413, tumbang titi
+610414, jelai hulu
+610416, delta pawan
+610417, muara pawan
+610418, benua kayong
+610419, hulu sungai
+610420, simpang dua
+610421, air upas
+610422, singkup
+610424, pemahan
+610425, sungai melayu rayak

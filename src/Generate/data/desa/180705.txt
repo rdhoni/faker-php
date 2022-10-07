@@ -1,0 +1,17 @@
+1807052001, sumber gede
+1807052002, sidomukti
+1807052003, sidomulyo
+1807052004, trimulyo
+1807052005, girikarto
+1807052006, hargomulyo
+1807052007, wonokarto
+1807052008, sukoharjo
+1807052009, giriklopomulyo
+1807052010, sidodadi
+1807052011, sambikarto
+1807052012, sumber sari
+1807052013, karya mukti
+1807052014, mekar mulya
+1807052015, jadi mulyo
+1807052016, mekar mukti
+1807052017, mekar sari

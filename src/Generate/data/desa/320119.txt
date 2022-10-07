@@ -1,0 +1,16 @@
+3201192001, curug
+3201192002, pangradin
+3201192003, kalongsawah
+3201192004, sipak
+3201192005, jasinga
+3201192006, koleang
+3201192007, cikopomayak
+3201192008, setu
+3201192009, barengkok
+3201192010, bagoang
+3201192011, pangaur
+3201192012, pamagersari
+3201192013, jugala jaya
+3201192014, tegalwangi
+3201192015, neglasari
+3201192016, wirajaya

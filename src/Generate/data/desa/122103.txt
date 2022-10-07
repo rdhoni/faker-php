@@ -1,0 +1,27 @@
+1221032001, binanga tolu
+1221032002, tanjung baringin
+1221032003, huristak
+1221032004, paran tonga
+1221032005, gonting julu
+1221032006, bulu cina
+1221032007, sigading
+1221032008, pasir lancat lama
+1221032009, siala gundi
+1221032010, tobing julu
+1221032011, tar sihoda-hoda
+1221032012, huta pasir ulak tano
+1221032013, tobing jae
+1221032014, pasar huristak
+1221032015, sipirok baru
+1221032016, pasir lancat baru
+1221032017, tobing tinggi
+1221032018, ganal
+1221032019, paya bujing
+1221032020, pulo bariang
+1221032021, ramba
+1221032022, gonting jae
+1221032023, gala bonang
+1221032024, tanjung morang
+1221032025, gunung manaon
+1221032026, gunung matinggi
+1221032027, pasir pinang

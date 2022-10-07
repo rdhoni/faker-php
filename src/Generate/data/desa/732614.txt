@@ -1,0 +1,4 @@
+7326141002, baruppu selatan
+7326142001, baruppu utara
+7326142003, baruppu benteng batu
+7326142004, baruppu parodo

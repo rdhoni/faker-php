@@ -1,0 +1,10 @@
+3322072001, gedong
+3322072002, kebumen
+3322072003, sepakung
+3322072004, wirogomo
+3322072005, kemambang
+3322072006, tegaron
+3322072007, rowoboni
+3322072008, kebondowo
+3322072009, banyubiru
+3322072010, ngrapah

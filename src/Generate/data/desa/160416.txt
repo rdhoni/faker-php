@@ -1,0 +1,18 @@
+1604162001, pandan arang
+1604162002, tanjung kurung
+1604162003, nanjungan
+1604162004, pagardin
+1604162005, pulau beringin
+1604162006, beriningin jaya
+1604162007, banu ayu
+1604162008, tanjung alam
+1604162009, sirah pulau
+1604162010, tanjung beringin
+1604162011, pagar jati
+1604162012, karang cahaya
+1604162013, jaga baya
+1604162014, keban agung
+1604162015, padang bindu
+1604162016, beringin janggut
+1604162017, keban raya
+1604162018, lubuk tungkang

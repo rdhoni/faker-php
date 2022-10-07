@@ -1,0 +1,46 @@
+1111102001, jangka mesjid
+1111102002, jangka keutapang
+1111102003, jangka alue u
+1111102004, jangka alue
+1111102005, jangka alue bie
+1111102006, gampong meulinteung
+1111102007, paya bieng
+1111102008, meunasah  krueng
+1111102009, barat lanyan
+1111102010, lamkuta
+1111102011, geundot
+1111102012, lueng
+1111102013, kambuek
+1111102014, ruseb ara
+1111102015, ruseb dayah
+1111102016, bada barat
+1111102017, bada timu
+1111102018, tanjongan
+1111102019, tanah anoe
+1111102020, lhok bugeng
+1111102021, lampoh rayeuk
+1111102022, pulo reudeup
+1111102023, pulo seuna
+1111102024, linggong
+1111102025, pulo blang
+1111102026, pulo iboih
+1111102027, abeuk jaloh
+1111102028, pulo u
+1111102029, alue buya
+1111102030, alue buya pasi
+1111102031, pante sukon
+1111102032, pante paku
+1111102033, bugak blang
+1111102034, bugak mesjid
+1111102035, bugak krueng matee
+1111102036, bugak krueng
+1111102037, pante ranub
+1111102038, pulo pineung meunasah  dua
+1111102039, punjot
+1111102040, bugeng
+1111102041, alue kuta
+1111102042, alue bayeu utang
+1111102043, ulee ceu
+1111102044, kuala cerape
+1111102045, pante peusangan
+1111102046, alue bie pusong

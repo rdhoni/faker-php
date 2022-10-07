@@ -1,0 +1,28 @@
+1806032001, karang anyar
+1806032002, kalirejo
+1806032003, dadirejo
+1806032004, banyu urip
+1806032005, wonosobo
+1806032006, soponyono
+1806032007, bandar kejadian
+1806032008, way panas
+1806032009, sinar saudara
+1806032010, sridadi
+1806032011, lakaran
+1806032012, padang ratu
+1806032013, pardasuka
+1806032014, tanjung kurung
+1806032015, padang manis
+1806032016, kejadian
+1806032017, dadisari
+1806032018, kalisari
+1806032019, banjar negara
+1806032020, pekon balak
+1806032021, kunyayan
+1806032022, banjar sari
+1806032023, negeri ngarip
+1806032034, dadimulyo
+1806032035, sampang turus
+1806032036, sri melati
+1806032037, way liwok
+1806032038, sumur tujuh

@@ -1,0 +1,12 @@
+1610132001, lubuk rukam
+1610132002, tanjung alai
+1610132003, kandis i
+1610132004, kumbang ulu
+1610132005, kumbang ilir
+1610132006, miji
+1610132007, santapan barat
+1610132008, pandan arang
+1610132009, muara kumbang
+1610132010, kandis ii
+1610132011, santapan timur
+1610132012, lubuk segonang

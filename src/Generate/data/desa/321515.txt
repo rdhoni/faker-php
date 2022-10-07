@@ -1,0 +1,12 @@
+3215152001, mekarmaya
+3215152002, cilamaya
+3215152003, muara
+3215152004, muarabaru
+3215152005, sukatani
+3215152006, tegalwaru
+3215152007, tegalsari
+3215152008, cikalong
+3215152009, cikarang
+3215152010, rawagempol wetan
+3215152011, rawagempol kulon
+3215152012, sukakerta

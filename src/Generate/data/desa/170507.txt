@@ -1,0 +1,14 @@
+1705072001, talang giring
+1705072002, padang capo ilir
+1705072003, padang capo ulu
+1705072004, talang kebun
+1705072005, gunung agung
+1705072006, cawang
+1705072007, arang sapat
+1705072008, dusun tengah
+1705072009, tanjung kuaw
+1705072010, napal jungur
+1705072011, tumbu\an
+1705072012, rena panjang
+1705072013, sakaian
+1705072014, lubuk terentang

@@ -1,0 +1,9 @@
+920203, warmare
+920204, prafi
+920205, masni
+920212, manokwari barat
+920213, manokwari timur
+920214, manokwari utara
+920215, manokwari selatan
+920217, tanah rubuh
+920221, sidey

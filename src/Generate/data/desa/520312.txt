@@ -1,0 +1,10 @@
+5203122001, rempung
+5203122002, pringgasela
+5203122003, jurit
+5203122004, pengadangan
+5203122005, aik dewa
+5203122006, jurit baru
+5203122007, pringgasela selatan
+5203122008, pengadangan barat
+5203122009, timbanuh
+5203122010, pringgasela timur

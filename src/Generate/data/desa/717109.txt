@@ -1,0 +1,9 @@
+7171091001, malalayang satu
+7171091002, bahu
+7171091003, kleak
+7171091004, batu kota
+7171091005, malalayang satu timur
+7171091006, malalayang satu barat
+7171091007, malalayang dua
+7171091008, winangun satu
+7171091009, winangun dua

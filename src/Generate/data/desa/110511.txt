@@ -1,0 +1,26 @@
+1105112001, seuradek
+1105112002, lubuk panyang
+1105112003, paya baro
+1105112004, kubu capang
+1105112005, pasi ara wt
+1105112006, gampong baro wt
+1105112007, rambong
+1105112008, cot punti
+1105112009, alue eumpeuk
+1105112010, alue bilie
+1105112011, pasi janeng
+1105112012, tangkeh
+1105112013, alue kuyun
+1105112014, bukit meugajah
+1105112015, blang dalam
+1105112016, teumiket ranom
+1105112017, blang makmue
+1105112018, gampong baro kb
+1105112019, alue meuganda
+1105112020, alue seuralen
+1105112021, rambong pinto
+1105112022, tuwi eumpeuk
+1105112023, blang luah kb
+1105112024, seuneubok  dalam
+1105112025, paya meugenderang
+1105112026, gunong payang

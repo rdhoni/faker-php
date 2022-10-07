@@ -1,0 +1,9 @@
+1803192001, nyapah banyu
+1803192002, sinar gunung
+1803192003, campang gijul
+1803192004, sumber tani
+1803192005, pekurun
+1803192006, ogan campang
+1803192007, pekurun tengah
+1803192008, pekurun udik
+1803192009, ogan jaya

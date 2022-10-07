@@ -1,0 +1,16 @@
+1701031018, masat
+1701032001, tanjung aur i
+1701032002, anggut
+1701032003, tanjung eran
+1701032004, padang lebar
+1701032005, gedung agung
+1701032015, batu bandung
+1701032016, ulak lebar
+1701032017, kota bumi
+1701032019, air umban
+1701032020, sebilo
+1701032021, ganjuh
+1701032022, puding
+1701032023, padang tambak
+1701032024, padang mumpo
+1701032025, beringin datar

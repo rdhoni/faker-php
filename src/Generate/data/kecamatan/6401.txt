@@ -1,0 +1,10 @@
+640101, batu sopang
+640102, tanjung harapan
+640103, paser belengkong
+640104, tanah grogot
+640105, kuaro
+640106, long ikis
+640107, muara komam
+640108, long kali
+640109, batu engau
+640110, muara samu

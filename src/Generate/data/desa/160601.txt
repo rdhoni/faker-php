@@ -1,0 +1,14 @@
+1606011009, kayu ara
+1606011010, serasan jaya
+1606011011, soak baru
+1606011012, balai agung
+1606012001, sukarami
+1606012002, lumpatan
+1606012003, bailangu
+1606012004, muara teladan
+1606012005, bandar jaya
+1606012006, sungai medak
+1606012007, sungai batang
+1606012008, rimba ukur
+1606012013, lumpatan 2
+1606012014, baliangu timur

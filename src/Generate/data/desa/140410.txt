@@ -1,0 +1,10 @@
+1404101001, kuala enok
+1404102002, selatnama
+1404102003, sungainyiur
+1404102004, tanjungbaru
+1404102005, tekulai hilir
+1404102006, tekulai hulu
+1404102007, tekulai bugis
+1404102008, tanjungpasir
+1404102009, tanah merah
+1404102010, sungailaut

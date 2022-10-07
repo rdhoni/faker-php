@@ -1,0 +1,5 @@
+820701, morotai selatan
+820702, morotai selatan barat
+820703, morotai jaya
+820704, morotai utara
+820705, morotai timur

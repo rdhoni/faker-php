@@ -1,0 +1,20 @@
+6308072001, banjang
+6308072002, patarikan
+6308072003, teluk buluh
+6308072004, pandulangan
+6308072005, danau terati
+6308072006, garunggang
+6308072007, baruh tabing
+6308072008, murung padang
+6308072009, teluk sarikat
+6308072010, beringin
+6308072011, kalintamui
+6308072012, pelanjungan sari
+6308072013, lok bangkai
+6308072014, sungai bahadangan
+6308072015, karias dalam
+6308072016, rantau bujur
+6308072017, kaludan kecil
+6308072018, kaludan besar
+6308072019, pawalutan
+6308072020, pulau damar

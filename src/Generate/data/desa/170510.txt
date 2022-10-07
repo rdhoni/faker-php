@@ -1,0 +1,10 @@
+1705101003, puguk
+1705102001, talang rami
+1705102002, talang beringin
+1705102004, pandan
+1705102005, selingsingan
+1705102006, simpang
+1705102007, sekalak
+1705102008, lubuk resam
+1705102009, sinar pagi
+1705102010, talang empat

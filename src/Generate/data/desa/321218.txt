@@ -1,0 +1,12 @@
+3212182001, kiajaran wetan
+3212182002, kiajaran kulon
+3212182003, lanjan
+3212182004, langut
+3212182005, larangan
+3212182006, waru
+3212182007, legok
+3212182008, bojongslawi
+3212182009, lohbener
+3212182010, pamayahan
+3212182011, sindangkerta
+3212182012, rambatan kulon

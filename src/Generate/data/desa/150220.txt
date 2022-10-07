@@ -1,0 +1,4 @@
+1502202001, tambang emas
+1502202002, tanjung benuang
+1502202003, pulau bayur
+1502202004, selango

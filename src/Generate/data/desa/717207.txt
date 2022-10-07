@@ -1,0 +1,8 @@
+7172071001, bitung barat satu
+7172071002, pakadoodan
+7172071003, bitung barat dua
+7172071004, bitung tengah
+7172071005, bitung timur
+7172071006, kakenturan satu
+7172071007, kekenturan dua
+7172071008, pateten tiga

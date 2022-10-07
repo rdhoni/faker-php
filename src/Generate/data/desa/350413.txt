@@ -1,0 +1,16 @@
+3504132001, tenggur
+3504132002, panjerejo
+3504132003, karangsari
+3504132004, tugu
+3504132005, sukorejo wetan
+3504132006, jatidowo
+3504132007, banjarejo
+3504132008, tanen
+3504132009, sumberagung
+3504132010, blimbing
+3504132011, rejotangan
+3504132012, pakisrejo
+3504132013, tegalrejo
+3504132014, ariyojeding
+3504132015, tenggong
+3504132016, buntaran

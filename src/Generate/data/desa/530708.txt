@@ -1,0 +1,12 @@
+5307082001, darat gunung
+5307082002, ojang
+5307082003, hikong
+5307082006, nebe
+5307082007, wailamung
+5307082008, lewomada
+5307082010, nangahale
+5307082011, darat pantai
+5307082013, talibura
+5307082014, kringa
+5307082015, bangkoor
+5307082017, timutawa

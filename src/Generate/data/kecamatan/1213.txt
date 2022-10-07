@@ -1,0 +1,23 @@
+121301, panyabungan
+121302, panyabungan utara
+121303, panyabungan timur
+121304, panyabungan selatan
+121305, panyabungan barat
+121306, siabu
+121307, bukit malintang
+121308, kotanopan
+121309, lembah sorik marapi
+121310, tambangan
+121311, ulu pungkut
+121312, muara sipongi
+121313, batang natal
+121314, lingga bayu
+121315, batahan
+121316, natal
+121317, muara batang gadis
+121318, ranto baek
+121319, huta bargot
+121320, puncak sorik marapi
+121321, pakantan
+121322, sinunukan
+121323, naga juang

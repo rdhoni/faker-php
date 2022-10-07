@@ -1,0 +1,5 @@
+9203011001, fak fak selatan
+9203011002, fak fak utara
+9203012007, gewerpe
+9203012011, lusi peri
+9203012012, wrikapal

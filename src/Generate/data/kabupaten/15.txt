@@ -1,0 +1,11 @@
+1501, kab kerinci
+1502, kab merangin
+1503, kab sarolangun
+1504, kab batanghari
+1505, kab muaro jambi
+1506, kab tanjung jabung barat
+1507, kab tanjung jabung timur
+1508, kab bungo
+1509, kab tebo
+1571, kota jambi
+1572, kota sungai penuh

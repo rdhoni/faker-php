@@ -1,0 +1,8 @@
+167301, lubuk linggau timur i
+167302, lubuk linggau barat i
+167303, lubuk linggau selatan i
+167304, lubuk linggau utara i
+167305, lubuk linggau timur ii
+167306, lubuk linggau barat ii
+167307, lubuk linggau selatan ii
+167308, lubuk linggau utara ii

@@ -1,0 +1,14 @@
+1409031003, muara lembu
+1409032001, pangkalan indarung
+1409032002, pulaupadang
+1409032004, logas
+1409032005, kebun lado
+1409032006, sungaikuning
+1409032007, sungaisirih
+1409032008, sungaibawang
+1409032009, air emas
+1409032010, pasir emas
+1409032011, petai baru
+1409032012, sungaikeranji
+1409032013, sumber datar
+1409032014, logas hilir

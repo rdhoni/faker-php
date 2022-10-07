@@ -1,0 +1,16 @@
+5309091010, benteng tengah
+5309091011, nangamese
+5309092005, taenterong
+5309092006, wangka
+5309092008, lengkosambi
+5309092009, tadho
+5309092012, sambinasi
+5309092013, latung
+5309092014, rawangkalo
+5309092016, wangka selatan
+5309092017, lengkosambi timur
+5309092018, lengkosambi barat
+5309092019, sambinasi barat
+5309092020, lengkosambi utara
+5309092021, taen terong satu
+5309092022, taen terong dua

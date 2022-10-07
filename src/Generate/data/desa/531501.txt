@@ -1,0 +1,13 @@
+5315012001, bari
+5315012002, rokap
+5315012003, mbakung
+5315012004, nggilat
+5315012005, rego
+5315012006, wontong
+5315012007, raba
+5315012008, nanga kantor
+5315012014, watubaru
+5315012015, lewat
+5315012016, watu manggar
+5315012025, sarae naru
+5315012026, nanga kantor barat

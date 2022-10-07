@@ -1,0 +1,6 @@
+8271011001, jambula
+8271011002, foramadiahi
+8271011003, kastela
+8271011004, rua
+8271011005, afe taduma
+8271011019, dorpedu

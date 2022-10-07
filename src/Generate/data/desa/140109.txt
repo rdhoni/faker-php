@@ -1,0 +1,24 @@
+1401092001, gema
+1401092002, tanjung belit
+1401092003, tanjung belit selatan
+1401092004, koto lama
+1401092005, batu sanggan
+1401092006, aur kuning
+1401092007, ludai
+1401092008, tanjung karang
+1401092009, batu sasak
+1401092010, pangkalan kapas
+1401092011, kebun tinggi
+1401092012, tanjung beringin
+1401092013, gajah bertalut
+1401092014, danau sontul
+1401092015, pangkalan serai
+1401092016, dua sepakat
+1401092017, terusan
+1401092018, deras tajak
+1401092019, sungai santi
+1401092020, subayang jaya
+1401092021, tanjung permai
+1401092022, bukitbetung
+1401092023, muarobio
+1401092024, lubuk bingau

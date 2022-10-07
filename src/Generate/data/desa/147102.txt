@@ -1,0 +1,6 @@
+1471021001, simpang empat
+1471021002, sumahilang
+1471021003, tanah datar
+1471021004, kota baru
+1471021005, sukaramai
+1471021006, kota tinggi

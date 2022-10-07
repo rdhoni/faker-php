@@ -1,0 +1,5 @@
+717301, tomohon selatan
+717302, tomohon tengah
+717303, tomohon utara
+717304, tomohon barat
+717305, tomohon timur

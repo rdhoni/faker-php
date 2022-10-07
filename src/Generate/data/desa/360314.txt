@@ -1,0 +1,10 @@
+3603141001, kosambi barat
+3603141003, salembaran jaya
+3603141010, dadap
+3603142002, kosambi timur
+3603142004, salembaran jati
+3603142005, ranga rengas
+3603142006, rawa burung
+3603142007, cengklong
+3603142008, belimbing
+3603142009, jati mulya

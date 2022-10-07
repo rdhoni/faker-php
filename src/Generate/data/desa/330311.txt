@@ -1,0 +1,13 @@
+3303112001, ponjen
+3303112002, buara
+3303112003, brakas
+3303112004, bungkanel
+3303112005, lumpang
+3303112006, karanggedang
+3303112007, kabunderan
+3303112008, jambudesa
+3303112009, maribaya
+3303112010, karanganyar
+3303112012, banjarkerta
+3303112013, kalijaran
+3303112014, kaliori

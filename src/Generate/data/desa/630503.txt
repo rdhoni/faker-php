@@ -1,0 +1,17 @@
+6305032001, pandulangan
+6305032002, labung
+6305032003, mandurian
+6305032004, serawi
+6305032005, pematang karangan hulu
+6305032006, pematang karangan
+6305032007, pandahan
+6305032008, pematang karangan hilir
+6305032009, hiyung
+6305032010, andhika
+6305032011, sukaramai
+6305032012, tirik
+6305032013, kepayang
+6305032014, batang lantik
+6305032015, mandurian hilir
+6305032016, sungai bahalang
+6305032017, papagan makmur

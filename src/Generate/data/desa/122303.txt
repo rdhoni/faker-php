@@ -1,0 +1,7 @@
+1223031001, kampung mesjid
+1223032002, kuala bangka
+1223032003, sei sentang
+1223032004, teluk piai
+1223032005, tanjung mangedar
+1223032006, teluk binjai
+1223032007, sei apung

@@ -1,0 +1,13 @@
+3303032001, bandingan
+3303032002, lamuk
+3303032003, sokanegara
+3303032004, gumiwang
+3303032005, krenceng
+3303032006, nangkasawit
+3303032007, pandansari
+3303032008, kejobong
+3303032009, langgar
+3303032010, timbang
+3303032011, nangkod
+3303032012, kedarpan
+3303032013, pangempon

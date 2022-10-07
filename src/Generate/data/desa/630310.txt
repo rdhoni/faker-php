@@ -1,0 +1,11 @@
+6303102001, kupang rejo
+6303102002, sungai pinang
+6303102003, kahelaan
+6303102004, rantau nangka
+6303102005, rantau bakula
+6303102006, belimbing lama
+6303102010, sumber baru
+6303102011, belimbing baru
+6303102012, pakutik
+6303102013, sumber harapan
+6303102015, hakim makmur

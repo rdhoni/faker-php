@@ -1,0 +1,21 @@
+140101, bangkinang kota
+140102, kampar
+140103, tambang
+140104, xiii koto kampar
+140105, kuok
+140106, siak hulu
+140107, kampar kiri
+140108, kampar kiri hilir
+140109, kampar kiri hulu
+140110, tapung
+140111, tapung hilir
+140112, tapung hulu
+140113, salo
+140114, rumbio jaya
+140115, bangkinang
+140116, perhentian raja
+140117, kampa
+140118, kampar utara
+140119, kampar kiri tengah
+140120, gunung sahilan
+140121, koto kampar hulu

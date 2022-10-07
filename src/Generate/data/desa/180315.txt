@@ -1,0 +1,11 @@
+1803152001, negeri ujung karang
+1803152002, bandar agung
+1803152003, karang sari
+1803152004, karang rejo ii
+1803152005, karang sakti
+1803152006, karang mulyo
+1803152007, banjar negeri
+1803152008, banjar ratu
+1803152009, negeri ratu
+1803152010, pakuon agung
+1803152011, sumber agung

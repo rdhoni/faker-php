@@ -1,0 +1,18 @@
+{
+    "name": "rdhoni/faker-php",
+    "description": "Generate Data Faker",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rdhoni\\FakerPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rdhoni",
+            "email": "demitbaru624@gmail.com"
+        }
+    ],
+    "require": {}
+}

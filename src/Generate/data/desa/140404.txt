@@ -1,0 +1,8 @@
+1404041001, tembilahan kota
+1404041002, tembilahan hilir
+1404041003, seberang tembilahan
+1404041004, sungaiperak
+1404041005, sungaiberingin
+1404041006, pekan arba
+1404041007, seberang tembilahan barat
+1404041008, seberang tembilahan selatan

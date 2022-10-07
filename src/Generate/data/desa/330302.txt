@@ -1,0 +1,14 @@
+3303022001, tidu
+3303022002, wirasaba
+3303022003, kembangan
+3303022004, cipawon
+3303022005, karangcengis
+3303022006, karanggedang
+3303022007, karangnangka
+3303022008, kutawis
+3303022009, kebutuh
+3303022010, penaruban
+3303022011, kedungjati
+3303022012, bukateja
+3303022013, majasari
+3303022014, bajong

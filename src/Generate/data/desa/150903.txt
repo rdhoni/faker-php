@@ -1,0 +1,17 @@
+1509031001, pulautemiang
+1509032002, sungai rambai
+1509032003, pagar puding
+1509032004, teluk kembang jambu
+1509032005, teluk kasai rambahan
+1509032006, rantau langkap
+1509032007, tanjung aur
+1509032008, bungo tanjung
+1509032009, pulau panjang
+1509032010, lubuk benteng
+1509032011, teluk kuali
+1509032012, malako intan
+1509032015, jambu
+1509032016, pulau jelmu
+1509032017, medan seri rambahan
+1509032018, ulak banjir rambahan
+1509032019, teluk pandan rambahan

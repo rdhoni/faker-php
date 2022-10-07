@@ -1,0 +1,10 @@
+1701092001, batu panco
+1701092002, batu kuning
+1701092003, bandar agung
+1701092004, merambung
+1701092005, simpang pino
+1701092006, talang tinggi
+1701092007, keban jati
+1701092008, lubuk tapi
+1701092009, kayu ajaran
+1701092010, air tenam dalam

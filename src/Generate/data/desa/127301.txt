@@ -1,0 +1,5 @@
+1273011001, huta barangan
+1273011002, angin nauli
+1273011003, huta tonga-tonga
+1273011004, sibolga ilir
+1273011005, simare-mare

@@ -1,0 +1,14 @@
+3209282001, kedungdalem
+3209282002, panunggul
+3209282003, gegesik wetan
+3209282004, gegesik kidul
+3209282005, gegesik lor
+3209282006, gegesik kulon
+3209282007, slendra
+3209282008, jagapura kidul
+3209282009, jagapura wetan
+3209282010, jagapura kulon
+3209282011, jagapura lor
+3209282012, sibubut
+3209282013, bayalangu lor
+3209282014, bayalangu kidul

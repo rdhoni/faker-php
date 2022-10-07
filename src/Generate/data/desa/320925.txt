@@ -1,0 +1,9 @@
+3209252001, kalianyar
+3209252002, pangurangan kulon
+3209252003, pangurangan wetan
+3209252004, pangurangan lor
+3209252005, pangurangan
+3209252006, gujeg
+3209252007, lemahtamba
+3209252008, karanganyar
+3209252009, kroya

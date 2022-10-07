@@ -1,0 +1,6 @@
+617101, pontianak selatan
+617102, pontianak timur
+617103, pontianak barat
+617104, pontianak utara
+617105, pontianak kota
+617106, pontianak tenggara

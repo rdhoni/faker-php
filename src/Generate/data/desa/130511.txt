@@ -1,0 +1,5 @@
+1305112001, sintuak
+1305112002, toboh gadang
+1305112003, toboh gadang selatan
+1305112004, toboh gadang barat
+1305112005, toboh gadang timur

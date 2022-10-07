@@ -1,0 +1,46 @@
+1111012001, keude aceh
+1111012002, sangso
+1111012003, pante rheng
+1111012004, meuliek
+1111012005, namploh baro
+1111012006, namploh manyang
+1111012007, namploh blanggarang
+1111012008, namploh krueng
+1111012009, namploh papeun
+1111012010, meunasah  lueng
+1111012011, lhok seumira
+1111012012, ulee jeumatan
+1111012013, lancok
+1111012014, paloh
+1111012015, mesjid baro
+1111012016, batee iliek
+1111012017, pulo baroh
+1111012018, matang wakeuh
+1111012019, darussalam
+1111012020, matang jereung
+1111012021, matang
+1111012022, cot mane
+1111012023, alue barat
+1111012024, cot siren
+1111012025, ulee alue
+1111012026, pineung siribee
+1111012027, gampong baro
+1111012028, kandang
+1111012029, gampong putoh
+1111012030, mideun jok
+1111012031, mideun geudong
+1111012032, lueng keubeu
+1111012033, glumpang  bungkok
+1111012034, glumpang  meulum
+1111012035, cot meurak baroh
+1111012036, cot meurak blang
+1111012037, meurah
+1111012038, ulee ue
+1111012039, matang teungoh
+1111012040, tanjong baro
+1111012041, angkieng barat
+1111012042, meunasah lincah
+1111012043, meunasah lancok
+1111012044, meunasah puuk
+1111012045, tonjongan idem
+1111012084, geulumpang payong

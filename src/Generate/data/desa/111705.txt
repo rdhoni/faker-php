@@ -1,0 +1,40 @@
+1117052001, bale atu
+1117052002, bale redelong
+1117052003, batin wih pongas
+1117052004, belang ara
+1117052005, blang sentang
+1117052006, blang tampu
+1117052007, bujang
+1117052009, delung tue
+1117052010, hakim tunggul naru
+1117052011, isaq busur
+1117052012, kenawat redelong
+1117052013, kute lintang
+1117052014, panji mulia i
+1117052015, panji mulia ii
+1117052016, pasar simpang tiga
+1117052017, reje guru
+1117052018, rembele
+1117052019, sedie jadi
+1117052020, tingkem asli
+1117052021, tingkem benyer
+1117052022, tingkem bersatu
+1117052023, ujung gele
+1117052024, uning bersah
+1117052025, gunung teritit
+1117052026, waq pondok sayur
+1117052027, babussalam
+1117052028, paya gajah
+1117052029, kute tanyung
+1117052030, meluem
+1117052031, delung asli
+1117052032, pilar jaya
+1117052033, serule kayu
+1117052034, uring
+1117052035, mupakat jadi
+1117052036, kute kering
+1117052037, blang panas
+1117052038, mutiara baru
+1117052039, bukit bersatu
+1117052040, godang
+1117052041, karang rejo

@@ -1,0 +1,10 @@
+927101, sorong
+927102, sorong timur
+927103, sorong barat
+927104, sorong kepulauan
+927105, sorong utara
+927106, sorong manoi
+927107, sorong kota
+927108, klaurung
+927109, malaimsimsa
+927110, maladum mes

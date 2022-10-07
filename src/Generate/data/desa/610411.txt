@@ -1,0 +1,20 @@
+6104112001, nanga tayap
+6104112002, pangkalan telok
+6104112003, pangkalan suka
+6104112004, betenung
+6104112005, batu mas
+6104112006, sungai kelik
+6104112007, lembah hijau satu
+6104112008, lembah hijau dua
+6104112009, siantau raya
+6104112010, sebadak raya
+6104112011, simpang tiga sembelangaan
+6104112012, mensubang
+6104112013, tajok kayong
+6104112014, kayong utara
+6104112015, kayong hulu
+6104112016, sepakat jaya
+6104112017, cegolak
+6104112018, pateh benteng
+6104112019, tanjung medan
+6104112020, kayung tuhe

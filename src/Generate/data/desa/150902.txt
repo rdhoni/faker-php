@@ -1,0 +1,11 @@
+1509021001, sungai bengkal
+1509022002, sungai aro
+1509022003, teluk rendah pasar
+1509022004, teluk rendah ulu
+1509022005, teluk rendah ilir
+1509022008, tuo ilir
+1509022011, betung bedarah timur
+1509022012, betung bedarah barat
+1509022014, kunangan
+1509022015, muara ketalo
+1509022017, sungai bengkal barat

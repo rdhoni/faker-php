@@ -1,0 +1,17 @@
+1802012001, sri way langsep
+1802012002, way krui
+1802012003, kalirejo
+1802012004, balai rejo
+1802012005, watu agung
+1802012006, sri basuki
+1802012007, kaliwungu
+1802012008, kali dadi
+1802012009, sri mulyo
+1802012010, sri dadi
+1802012011, suko sari
+1802012012, sinar sari
+1802012013, ponco warno
+1802012014, sri purnomo
+1802012015, sinar rejo
+1802012016, agung timur
+1802012017, kalisari

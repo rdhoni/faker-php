@@ -1,0 +1,15 @@
+3304012001, berta
+3304012002, derik
+3304012003, gumelem wetan
+3304012004, gumelem kulon
+3304012005, penarusan wetan
+3304012006, penarusan kulon
+3304012007, brengkok
+3304012008, pekikiran
+3304012009, piasa wetan
+3304012010, karangsalam
+3304012011, kemranggon
+3304012012, susukan
+3304012013, dermasari
+3304012014, kedawung
+3304012015, karangjati

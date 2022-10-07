@@ -1,0 +1,10 @@
+6501072001, lepak aru
+6501072002, long lasan
+6501072003, long peso
+6501072004, long bia
+6501072005, muara pangean
+6501072006, long lian
+6501072007, long pelaah
+6501072008, long lejuh
+6501072009, long pelban
+6501072010, long buang

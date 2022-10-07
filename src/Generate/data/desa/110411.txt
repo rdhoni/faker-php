@@ -1,0 +1,20 @@
+1104112001, bukit sama
+1104112002, gunung bukit
+1104112003, jongok meluem
+1104112004, kelupak mata
+1104112005, lot kala
+1104112006, mendale
+1104112007, paya reje tami dalem
+1104112008, paya tumpi
+1104112009, pinangan
+1104112010, bukit
+1104112011, bukit ewih tami delem
+1104112012, gunung bahgie
+1104112013, gunung balohen
+1104112014, jongkok bathin
+1104112015, kala lengkio
+1104112016, kute lot
+1104112017, paya tumpi baru
+1104112018, paya tumpi i
+1104112019, timangan gading
+1104112020, telege atu

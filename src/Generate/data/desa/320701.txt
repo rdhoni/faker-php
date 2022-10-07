@@ -1,0 +1,12 @@
+3207011001, ciamis
+3207011002, kertasari
+3207011003, maleber
+3207011004, cigembor
+3207011005, benteng
+3207011006, linggasari
+3207011007, sindangrasa
+3207012008, pawindan
+3207012009, cisadap
+3207012010, imbanagara
+3207012011, imbanagara raya
+3207012012, panyingkiran

@@ -1,0 +1,13 @@
+1201011001, pasar batu gerigis
+1201011002, padang masiang
+1201012003, kampung solok
+1201012004, pasar terandam
+1201012005, sigambo gambo
+1201012006, ujung batu
+1201012007, kinali
+1201012008, kampung mudik
+1201012009, aek dakka
+1201012010, patupangan
+1201012011, gabungan hasang
+1201012017, bungo tanjung
+1201012018, kedai gedang

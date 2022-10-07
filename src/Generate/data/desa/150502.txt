@@ -1,0 +1,16 @@
+1505021010, sengeti
+1505022001, suak putat
+1505022002, rantau majo
+1505022003, pulau kayu aro
+1505022004, pematang pulai
+1505022005, tan tan
+1505022006, kedotan
+1505022007, keranggan
+1505022008, berembang
+1505022009, sekernan
+1505022011, gerunggung
+1505022012, tunas baru
+1505022013, bukit baling
+1505022014, tanjung lanjut
+1505022015, suko awin jaya
+1505022016, tunas mudo

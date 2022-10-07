@@ -1,0 +1,19 @@
+1504051002, jembatan mas
+1504052001, tebing tinggi
+1504052003, serasah
+1504052004, lubuk ruso
+1504052005, kuap
+1504052006, senaning
+1504052007, kubu kandang
+1504052008, ture
+1504052009, pulau betung
+1504052010, lopak aur
+1504052011, selat
+1504052012, teluk
+1504052013, pulau raman
+1504052014, kaos
+1504052015, simpang kubu kandang
+1504052016, awin
+1504052017, olak rambahan
+1504052019, teluk ketapang
+1504052020, kampung pulau

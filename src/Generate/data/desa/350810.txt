@@ -1,0 +1,12 @@
+3508101003, citrodiwangsan
+3508101004, ditotrunan
+3508101005, jogotrunan
+3508101009, jogoyudan
+3508101010, rogotrunan
+3508101011, tompokersan
+3508101012, kepuharjo
+3508102001, banjarwaru
+3508102002, labruk lor
+3508102006, denok
+3508102007, blukon
+3508102008, boreng

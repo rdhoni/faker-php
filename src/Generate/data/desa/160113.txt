@@ -1,0 +1,12 @@
+1601131003, tanjungagung
+1601131004, saung naga
+1601131005, talang jawa
+1601131007, batu kuning
+1601131011, air gading
+1601132001, batu putih
+1601132002, laya
+1601132006, pusar
+1601132008, karang agung
+1601132009, karang endah
+1601132010, tanjung karang
+1601132012, sukamaju

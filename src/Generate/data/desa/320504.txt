@@ -1,0 +1,13 @@
+3205041012, pananjung
+3205042001, sukajadi
+3205042002, cimanganten
+3205042003, jati
+3205042004, rancabango
+3205042005, sukawangi
+3205042006, sirnajaya
+3205042007, tanjung kamuning
+3205042008, mekarjaya
+3205042009, langensari
+3205042010, mekarwangi
+3205042011, pasawahan
+3205042013, panjiwangi

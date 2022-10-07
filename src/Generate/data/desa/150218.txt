@@ -1,0 +1,14 @@
+1502182001, tanjung mudo
+1502182002, koto teguh
+1502182003, baru
+1502182004, talang tembago
+1502182005, beringin tinggi
+1502182006, pematang pauh
+1502182007, rantau suli
+1502182008, gedang
+1502182010, koto baru
+1502182011, tanjung benuang
+1502182012, jangkat
+1502182013, tanjung alam
+1502182014, kabu
+1502182015, simpang talang tembago

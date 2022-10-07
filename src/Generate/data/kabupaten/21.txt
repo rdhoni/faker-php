@@ -1,0 +1,7 @@
+2101, kab bintan
+2102, kab karimun
+2103, kab natuna
+2104, kab lingga
+2105, kab kepulauan anambas
+2171, kota batam
+2172, kota tanjung pinang

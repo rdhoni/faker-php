@@ -1,0 +1,17 @@
+1101032001, suaq bakung
+1101032002, rantau binuang
+1101032003, barat daya
+1101032004, sialang
+1101032005, kapeh
+1101032006, pulo ie
+1101032007, kedai runding
+1101032008, kedai kandang
+1101032009, gampong luar
+1101032010, ujung
+1101032011, jua
+1101032012, pasi meurapat
+1101032013, ujung pasir
+1101032014, geulumbuk
+1101032015, pasie lembang
+1101032016, ujung padang
+1101032017, indra damai

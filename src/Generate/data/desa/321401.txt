@@ -1,0 +1,10 @@
+3214011001, nagri kidul
+3214011002, nagri kaler
+3214011003, nagri tengah
+3214011004, sindangkasih
+3214011005, cipaisan
+3214011006, purwamekar
+3214011007, ciseureuh
+3214011008, tegalmuncul
+3214011009, munjuljaya
+3214012010, citalang

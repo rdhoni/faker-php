@@ -1,0 +1,25 @@
+1110022001, lipat kajang
+1110022002, kain golong
+1110022003, kuta kerangan
+1110022004, siatas
+1110022005, pangi
+1110022006, sukarejo
+1110022007, ujung limus
+1110022008, silatong
+1110022009, pertabas
+1110022010, lae riman
+1110022011, pakiraman
+1110022012, kuta batu
+1110022013, lae nipe
+1110022014, kuta tinggi
+1110022015, tuhtuhan
+1110022016, lae gecih
+1110022017, guha
+1110022018, lae gambir
+1110022019, cibubukan
+1110022020, serasah
+1110022021, tugan
+1110022022, tanjung mas
+1110022023, lipat kajang atas
+1110022024, sidodadi
+1110022025, pandan sari

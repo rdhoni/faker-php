@@ -1,0 +1,11 @@
+181301, pesisir tengah
+181302, pesisir selatan
+181303, lemong
+181304, pesisir utara
+181305, karya penggawa
+181306, pulaupisang
+181307, way krui
+181308, krui selatan
+181309, ngambur
+181310, ngaras
+181311, bangkunat

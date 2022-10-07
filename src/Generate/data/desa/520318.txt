@@ -1,0 +1,10 @@
+5203182001, gelanggang
+5203182002, surabaya
+5203182003, lepak
+5203182004, gereneng
+5203182005, montong tangi
+5203182006, menceh
+5203182007, lepak timur
+5203182008, surabaya utara
+5203182009, gereneng timur
+5203182010, lenting

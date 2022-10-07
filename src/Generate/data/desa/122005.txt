@@ -1,0 +1,23 @@
+1220052001, pancur pangko
+1220052002, hasambi
+1220052003, paran nangka
+1220052004, batu rancang
+1220052005, sitanggoru
+1220052006, siunggam dolok
+1220052007, balimbing jae
+1220052008, sipupus lombang
+1220052009, balimbing julu
+1220052010, sobar
+1220052011, pamuntaran
+1220052012, paran gadung
+1220052013, padang bujur
+1220052014, ubar
+1220052015, lantosan ii
+1220052016, batu gana
+1220052017, padang baruas
+1220052018, aek bargot
+1220052019, gariang
+1220052020, balakka
+1220052021, parupuk jae
+1220052022, parupuk julu
+1220052023, sialang

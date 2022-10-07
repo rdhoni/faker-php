@@ -1,0 +1,31 @@
+1403011001, kota bengkalis
+1403011002, damon
+1403011003, rimba sekampung
+1403012004, kelapapati
+1403012005, pedekik
+1403012006, pangkalan batang
+1403012007, sebauk
+1403012008, teluklatak
+1403012009, meskom
+1403012010, senggoro
+1403012011, air putih
+1403012012, sei alam
+1403012013, penampi
+1403012014, temeran
+1403012015, penebal
+1403012016, pematang duku
+1403012017, ketam putih
+1403012018, kelemantan
+1403012019, sekodi
+1403012020, wonosari
+1403012021, kuala alam
+1403012022, kelebuk
+1403012023, palkun
+1403012024, sungaibatang
+1403012025, prapat tunggal
+1403012026, simpang ayam
+1403012027, senderek
+1403012028, kelemantan barat
+1403012029, damai
+1403012030, pangkalan batang barat
+1403012031, pematang duku timur

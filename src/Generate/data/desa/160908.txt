@@ -1,0 +1,15 @@
+1609082001, kota dalam
+1609082002, teluk agung
+1609082003, pulau duku
+1609082004, tanjung besar
+1609082005, sinar marga
+1609082006, kota baru
+1609082007, galang tinggi
+1609082008, sukaraja
+1609082009, sri menanti
+1609082010, kepayang
+1609082011, kemang bandung
+1609082012, selabung belimbing jaya
+1609082013, bunut
+1609082014, air baru
+1609082015, pere\an

@@ -1,0 +1,8 @@
+1210191001, sei berombang
+1210192002, sei penggantungan
+1210192003, sei lumut
+1210192004, sei tawar
+1210192005, sei sanggul
+1210192006, sei sakat
+1210192007, sei baru
+1210192008, wonosari

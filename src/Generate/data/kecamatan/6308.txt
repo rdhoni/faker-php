@@ -1,0 +1,10 @@
+630801, danau panggang
+630802, babirik
+630803, sungai pandan
+630804, amuntai selatan
+630805, amuntai tengah
+630806, amuntai utara
+630807, banjang
+630808, haur gading
+630809, paminggir
+630810, sungai tabukan

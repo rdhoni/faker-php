@@ -1,0 +1,12 @@
+7102232001, kalasey satu
+7102232002, kalasey dua
+7102232003, tateli
+7102232004, tateli weru
+7102232005, tateli satu
+7102232006, tateli dua
+7102232007, tateli tiga
+7102232008, koha
+7102232009, koha barat
+7102232010, koha timur
+7102232011, koha selatan
+7102232012, agotey

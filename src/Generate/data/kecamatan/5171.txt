@@ -1,0 +1,4 @@
+517101, denpasar selatan
+517102, denpasar timur
+517103, denpasar barat
+517104, denpasar utara

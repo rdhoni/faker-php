@@ -1,0 +1,9 @@
+620501, montallat
+620502, gunung timang
+620503, gunung purei
+620504, teweh timur
+620505, teweh tengah
+620506, lahei
+620507, teweh baru
+620508, teweh selatan
+620509, lahei barat

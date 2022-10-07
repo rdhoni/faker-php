@@ -1,0 +1,15 @@
+6211042001, manen paduran
+6211042002, manen kaleka
+6211042003, lawang uru
+6211042004, hurung
+6211042005, hanua
+6211042006, ramang
+6211042007, tambak
+6211042008, pahawan
+6211042009, goha
+6211042010, bawan
+6211042011, tumbang tarusan
+6211042012, pandawei
+6211042013, pangi
+6211042014, tangkahen
+6211042015, kasali baru

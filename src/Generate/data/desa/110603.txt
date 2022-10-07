@@ -1,0 +1,52 @@
+1106032001, reukih dayah
+1106032002, indrapuri
+1106032003, lam leubok
+1106032004, empee ara
+1106032005, limo blang
+1106032006, limo mesjid
+1106032007, limo lamleuweung
+1106032008, lheue
+1106032009, meusale
+1106032010, cureh
+1106032011, cot kareung
+1106032012, lamlung
+1106032013, meureu ulee titie
+1106032014, meureu bueng-u
+1106032015, mureu baro
+1106032016, meureu lamglumpang
+1106032017, pasar indrapuri
+1106032018, manggra
+1106032019, reukih kupula
+1106032020, lam ilie mesjid
+1106032021, lam ilie tengoh
+1106032022, lam ilie ganto
+1106032023, meunara
+1106032024, aneuk glee
+1106032025, krueng lamkareung
+1106032026, sinyeu
+1106032027, seureumo
+1106032028, ulee kareung
+1106032029, lambeutong
+1106032030, lampupok  baro
+1106032031, lampupuk  raya
+1106032032, seulangai
+1106032033, riting
+1106032034, sihom lhok
+1106032035, sihom cot
+1106032036, seuot baroh
+1106032037, seuot tunong
+1106032038, lampanah  ranjo
+1106032039, lampanah  teungoh
+1106032040, lampanah  dayah
+1106032041, lampanah  baro
+1106032042, lampanah  tunong
+1106032043, groet blang
+1106032044, groet manyang
+1106032045, groet baro
+1106032046, jruek bak kreh
+1106032047, jruek balee
+1106032049, mon alue
+1106032050, lambeunot
+1106032051, ulee ue
+1106032052, lamsiot
+1106032053, lingom

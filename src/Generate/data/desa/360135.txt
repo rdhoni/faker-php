@@ -1,0 +1,8 @@
+3601352001, cimanis
+3601352002, teluklada
+3601352003, kertaraharja
+3601352004, bojen
+3601352005, kutamekar
+3601352006, sobang
+3601352007, pangkalan
+3601352008, bojenwetan

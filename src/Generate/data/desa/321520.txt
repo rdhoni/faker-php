@@ -1,0 +1,14 @@
+3215202001, pancakarya
+3215202002, dayeuhluhur
+3215202003, lemahduhur
+3215202004, lemahkarya
+3215202005, lemahsubur
+3215202006, lemahmakmur
+3215202008, purwajaya
+3215202010, tanjungjaya
+3215202011, sumberjaya
+3215202012, pagadungan
+3215202013, tempuran
+3215202014, cikuntul
+3215202016, jayanegara
+3215202017, ciparagejaya

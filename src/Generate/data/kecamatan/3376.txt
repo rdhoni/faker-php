@@ -1,0 +1,4 @@
+337601, tegal barat
+337602, tegal timur
+337603, tegal selatan
+337604, margadana

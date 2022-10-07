@@ -1,0 +1,14 @@
+1610082001, mandi angin
+1610082002, tanjung lubuk
+1610082003, tebing gerinting selatan
+1610082004, arisan gading
+1610082005, tanjung dayang selatan
+1610082006, beti
+1610082007, meranjat i
+1610082008, meranjat ilir
+1610082009, meranjat ii
+1610082010, sukaraja lama
+1610082011, sukaraja baru
+1610082012, tebing gerinting utara
+1610082013, tanjung dayang utara
+1610082014, meranjat iii

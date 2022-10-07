@@ -1,0 +1,20 @@
+1501042001, kayu aro ambai
+1501042002, bunga tanjung
+1501042004, semerah
+1501042005, sebukar
+1501042008, hiang tinggi
+1501042009, ambai atas
+1501042010, tanjungmudo
+1501042011, pendung tengah
+1501042012, pendung hilir
+1501042013, koto baru hiang
+1501042014, betung kuning
+1501042025, pondok beringin
+1501042026, ambai bawah
+1501042028, hiang karya
+1501042029, hiang lestari
+1501042030, angkasa pura
+1501042031, hiang sakti
+1501042032, baru semerah
+1501042033, koto sekilan ambai
+1501042034, penawar tinggi

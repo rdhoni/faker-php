@@ -1,0 +1,17 @@
+1218042001, cempedak lobang
+1218042002, firdaus
+1218042004, pergulaan
+1218042006, sei rampah
+1218042008, sei rejo
+1218042009, sei parit
+1218042010, silau rakyat
+1218042012, firdaus estate
+1218042014, pematang ganjang
+1218042015, pematang pelintahan
+1218042016, rambung estate
+1218042017, rambung sialang hulu
+1218042018, rambung sialang tengah
+1218042019, rambung sialang hilir
+1218042024, simpang empat
+1218042026, sinah kasih
+1218042027, tanah raja

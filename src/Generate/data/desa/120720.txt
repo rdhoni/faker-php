@@ -1,0 +1,20 @@
+1207202001, tiga juhar
+1207202002, tanjung bampu
+1207202003, rumah rih
+1207202004, liang muda
+1207202005, durian iv mbelang
+1207202006, tanah gara hulu
+1207202007, gunung manupak a
+1207202008, bah bah buntu
+1207202009, tanjung muda
+1207202010, tanjung raja
+1207202011, kuta mbelin
+1207202012, rumah sumbul
+1207202013, ranggit-git
+1207202014, liang pematang
+1207202015, gunung manupak b
+1207202016, rumah lengo
+1207202017, sipinggan
+1207202018, tanjung timur
+1207202019, durian tinggung
+1207202020, sibunga bunga hilir

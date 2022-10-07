@@ -1,0 +1,12 @@
+630501, binuang
+630502, tapin selatan
+630503, tapin tengah
+630504, tapin utara
+630505, candi laras selatan
+630506, candi laras utara
+630507, bakarangan
+630508, piani
+630509, bungur
+630510, lokpaikat
+630511, salam babaris
+630512, hatungun

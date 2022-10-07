@@ -1,0 +1,13 @@
+1223011001, aek kanopan
+1223011002, aek kanopan timur
+1223012003, kuala beringin
+1223012004, parpaudangan
+1223012005, pulo dogom
+1223012006, londut
+1223012007, perkebunan kanopan ulu
+1223012008, perkebunan membang muda
+1223012009, perkebunan labuhan haji
+1223012010, perkebunan hanna
+1223012011, sonomartani
+1223012012, sukarame
+1223012013, sukarame baru

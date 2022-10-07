@@ -1,0 +1,21 @@
+1501092010, koto tuo
+1501092011, sungaitanduk
+1501092012, kersik tuo
+1501092013, sangir
+1501092014, koto baru
+1501092015, koto panjang
+1501092016, koto tengah
+1501092017, sungaibendung air
+1501092022, sungaisampun
+1501092024, bedeng baru
+1501092025, batang sangir
+1501092030, sungaidalam
+1501092038, koto periang
+1501092039, lindung jaya
+1501092041, renah kasah
+1501092042, pasar sungai tanduk
+1501092043, mekar sari
+1501092045, mekar jaya
+1501092047, sangir tengah
+1501092048, tanjungbungo
+1501092049, bendung air timur

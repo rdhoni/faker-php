@@ -1,0 +1,21 @@
+3525092001, sukorejo
+3525092002, gedangan
+3525092003, wadeng
+3525092004, lasem
+3525092005, kertosono
+3525092006, sambipondok
+3525092007, raci kulon
+3525092008, golokan
+3525092009, raci tengah
+3525092010, purwodadi
+3525092011, sidomulyo
+3525092012, srowo
+3525092013, kauman
+3525092014, bunderan
+3525092015, asempapak
+3525092016, mriyunan
+3525092017, mojoasem
+3525092018, sedagaran
+3525092019, ngawen
+3525092020, pengulu
+3525092021, randuboto

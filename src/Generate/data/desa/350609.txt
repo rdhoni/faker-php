@@ -1,0 +1,15 @@
+3506092001, gondang
+3506092002, kayunan
+3506092003, panjer
+3506092004, jarak
+3506092005, ploso kidul
+3506092006, ploso lor
+3506092007, brenggolo
+3506092008, donganti
+3506092009, kawedusan
+3506092010, klanderan
+3506092011, punjul
+3506092012, pranggang
+3506092013, sumberagung
+3506092014, wonorejo trisulo
+3506092015, sepawon

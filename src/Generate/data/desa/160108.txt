@@ -1,0 +1,12 @@
+1601082001, gunung meraksa
+1601082003, tanjung pura
+1601082004, tanjung sari
+1601082005, tangsi lontar
+1601082006, belambangan
+1601082007, kesambirata
+1601082008, gunung liwat
+1601082015, pengandonan
+1601082016, semanding
+1601082017, tanjungan
+1601082018, ujanmas
+1601082019, gunung kuripan

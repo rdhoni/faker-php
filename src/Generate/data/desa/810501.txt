@@ -1,0 +1,10 @@
+8105012003, bula
+8105012004, salas
+8105012010, englas
+8105012011, bula air fatolo
+8105012012, sesar
+8105012022, tansi ambon
+8105012023, kampung wailola
+8105012024, kampung gorom
+8105012025, limumir
+8105012026, fattolo

@@ -1,0 +1,20 @@
+1501172001, belui
+1501172002, baru kubang
+1501172003, koto panjang
+1501172004, kubang gedang
+1501172005, semumu
+1501172006, belui tinggi
+1501172007, koto tuo
+1501172008, koto payang
+1501172009, tebat ijuk
+1501172010, sekungkung
+1501172011, simpang belui
+1501172012, koto lanang
+1501172013, ladeh
+1501172014, lubuk suli
+1501172015, kayu aho mangkak koto lanang
+1501172016, tambak tinggi
+1501172017, kubang agung
+1501172018, tebat ijuk dili
+1501172019, koto simpai kubang
+1501172020, pahlawan belui

@@ -1,0 +1,4 @@
+9205202001, yensawai timur
+9205202002, yensawai barat
+9205202003, arefi timur
+9205202004, arefi selatan

@@ -1,0 +1,15 @@
+3302062001, grujugan
+3302062002, sirau
+3302062003, sibalung
+3302062004, sibrama
+3302062005, kedungpring
+3302062006, kecila
+3302062007, nusamangir
+3302062008, karangjati
+3302062009, kebarongan
+3302062010, sidamulya
+3302062011, pageralang
+3302062012, alasmalang
+3302062013, petarangan
+3302062014, karanggintung
+3302062015, karangsalam

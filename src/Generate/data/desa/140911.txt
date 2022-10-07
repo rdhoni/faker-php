@@ -1,0 +1,14 @@
+1409112001, pasar inuman
+1409112002, koto inuman
+1409112003, pulaupanjang hulu
+1409112004, pulaupanjang hilir
+1409112005, sigaruntang
+1409112006, pulaubusuk
+1409112007, bedeng sikuran
+1409112008, banjar nan tigo
+1409112009, pulausipan
+1409112010, pulaubusuk jaya
+1409112011, seberang pulau busuk
+1409112012, lebuh lurus
+1409112013, kampung baru koto
+1409112014, ketaping jaya

@@ -1,0 +1,26 @@
+1607031008, kayuara kuning
+1607031009, mulya agung
+1607031012, pangkalan balai
+1607031023, seterio
+1607031033, kedondong raye
+1607032006, langkan
+1607032007, pangkalan panji
+1607032010, lubuk saung
+1607032011, ujung tanjung
+1607032013, sidang mas
+1607032014, galang tinggi
+1607032015, petaling
+1607032016, rimba alai
+1607032017, pelajau ilir
+1607032018, regan agung
+1607032019, sukamulya
+1607032020, tanjungagung
+1607032021, tanjungmenang
+1607032022, sri bandung
+1607032024, pelajau
+1607032025, tanjungberingin
+1607032026, terentang
+1607032028, tanjungkepayang
+1607032034, sukaraja baru
+1607032037, terlangu
+1607032038, rimba balai

@@ -1,0 +1,20 @@
+3529072001, moncek barat
+3529072002, moncek tengah
+3529072003, moncek timur
+3529072004, banaresep timur
+3529072005, tarogan
+3529072006, kambingan barat
+3529072007, poreh
+3529072008, lenteng timur
+3529072009, lembung timur
+3529072010, lenteng barat
+3529072011, banaresep barat
+3529072012, billapora rebba
+3529072013, lembung barat
+3529072014, ellak laok
+3529072015, ellak daya
+3529072016, daramista
+3529072017, jambu
+3529072018, cangkreng
+3529072019, meddelan
+3529072020, sendir

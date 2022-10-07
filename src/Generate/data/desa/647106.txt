@@ -1,0 +1,5 @@
+6471061001, prapatan
+6471061002, telaga sari
+6471061003, klandasan ulu
+6471061004, klandasan ilir
+6471061005, damai

@@ -1,0 +1,20 @@
+6301031001, sarang halang
+6301031002, karang taruna
+6301031003, pelaihari
+6301031004, angsau
+6301031005, pabahanan
+6301032006, bumi jaya
+6301032008, sungai riam
+6301032009, tampang
+6301032010, telaga
+6301032011, panjaratan
+6301032012, atu-atu
+6301032015, panggung
+6301032016, tungkaran
+6301032017, ujung batu
+6301032020, panggung baru
+6301032024, ambungan
+6301032025, guntung besar
+6301032026, kampung baru
+6301032027, sumber mulia
+6301032029, pemuda

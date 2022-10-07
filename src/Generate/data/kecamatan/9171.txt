@@ -1,0 +1,5 @@
+917101, jayapura utara
+917102, jayapura selatan
+917103, abepura
+917104, muara tami
+917105, heram

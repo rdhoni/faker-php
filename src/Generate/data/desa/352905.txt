@@ -1,0 +1,20 @@
+3529052001, guluk manjung
+3529052002, kapedi
+3529052003, pakandangan barat
+3529052004, pakandangan tengah
+3529052005, pakandangan sangra
+3529052006, aeng dake
+3529052007, aeng baja kenek
+3529052008, bluto
+3529052009, lobuk
+3529052010, bumbungan
+3529052011, masaran
+3529052012, palongan
+3529052013, aeng baja raja
+3529052014, karang campaka
+3529052015, sera barat
+3529052016, sera tengah
+3529052017, sera timur
+3529052018, gingging
+3529052019, errabu
+3529052020, gilang

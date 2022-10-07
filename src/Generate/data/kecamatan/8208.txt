@@ -1,0 +1,8 @@
+820801, taliabu barat
+820802, taliabu barat laut
+820803, lede
+820804, taliabu utara
+820805, taliabu timur
+820806, taliabu timur selatan
+820807, taliabu selatan
+820808, tabona

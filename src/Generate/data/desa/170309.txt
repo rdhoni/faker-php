@@ -1,0 +1,12 @@
+1703092001, lubuk banyau
+1703092002, talang tua
+1703092003, marga sakti
+1703092004, tanjung harapan
+1703092005, padang jaya
+1703092006, arga mulya
+1703092007, sido mukti
+1703092008, marga jaya
+1703092009, tanah hitam
+1703092010, tambak rejo
+1703092011, sido luhur
+1703092012, tanah tinggi

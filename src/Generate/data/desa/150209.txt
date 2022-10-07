@@ -1,0 +1,15 @@
+1502092001, nilo dingin
+1502092002, tanjung berugo
+1502092003, tuo
+1502092004, koto rami
+1502092005, rancan
+1502092006, pasar masurai
+1502092007, rantau jering
+1502092008, tanjung dalam
+1502092009, muaro pangi
+1502092010, sungai lalang
+1502092011, talang asal
+1502092012, muara kelukup
+1502092013, muara lengayo
+1502092014, talang paruh
+1502092015, durian mukut

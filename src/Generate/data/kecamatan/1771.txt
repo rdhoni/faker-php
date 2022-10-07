@@ -1,0 +1,9 @@
+177101, selebar
+177102, gading cempaka
+177103, teluk segara
+177104, muara bangka hulu
+177105, kampung melayu
+177106, ratu agung
+177107, ratu samban
+177108, sungai serut
+177109, singaran pati

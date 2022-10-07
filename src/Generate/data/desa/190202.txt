@@ -1,0 +1,12 @@
+1902022001, membalong
+1902022002, perpat
+1902022003, lassar
+1902022004, simpang rusa
+1902022005, kembiri
+1902022006, bantan
+1902022007, tanjungrusa
+1902022008, mentigi
+1902022009, pulau seliu
+1902022010, pulau sumedang
+1902022011, gunung riting
+1902022012, padang kandis

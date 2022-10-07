@@ -1,0 +1,5 @@
+1310072001, koto salak
+1310072002, ampalu
+1310072003, padukuan
+1310072004, pulau mainan
+1310072005, simalidu

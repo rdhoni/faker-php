@@ -1,0 +1,7 @@
+1406102001, pasir agung
+1406102002, pasir intan
+1406102003, rambah jaya
+1406102004, bangun purba
+1406102005, bangun purba timur jaya
+1406102006, bangun purba barat
+1406102007, tangun

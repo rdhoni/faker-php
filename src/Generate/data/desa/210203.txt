@@ -1,0 +1,9 @@
+2102031001, tanjungbalai
+2102031002, telukair
+2102031003, sungailakam timur
+2102031006, lubuk semut
+2102031007, tanjungbalai kota
+2102031008, sungailakam barat
+2102032004, parit
+2102032005, tulang
+2102032009, selatmendaun

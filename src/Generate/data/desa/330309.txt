@@ -1,0 +1,16 @@
+3303092001, gandasuli
+3303092002, kalapacung
+3303092003, karangmalang
+3303092004, banjarsari
+3303092005, majapura
+3303092006, bobotsari
+3303092007, karangduren
+3303092008, pakuncen
+3303092009, karangtalun
+3303092010, gunungkarang
+3303092011, talagening
+3303092012, tlagayasa
+3303092013, dagan
+3303092014, palumbungan
+3303092015, limbasari
+3303092016, palumbungan wetan

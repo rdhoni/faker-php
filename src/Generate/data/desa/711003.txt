@@ -1,0 +1,11 @@
+7110032001, idumun
+7110032002, matabulu
+7110032003, nuangan
+7110032006, bai
+7110032007, jiko belanga
+7110032010, nuangan i
+7110032011, iyok
+7110032012, loyow
+7110032014, matabulu timur
+7110032018, nuangan barat
+7110032019, nuangan selatan

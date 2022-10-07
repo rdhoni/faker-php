@@ -1,0 +1,11 @@
+1408101001, simpang belutu
+1408101002, telaga sam-sam
+1408101003, kandis kota
+1408102004, belutu
+1408102005, kandis
+1408102006, sam-sam
+1408102007, bekalar
+1408102008, jambai makmur
+1408102009, sungai gondang
+1408102010, pencing bekuto
+1408102011, libo jaya

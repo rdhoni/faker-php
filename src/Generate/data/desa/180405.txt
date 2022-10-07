@@ -1,0 +1,6 @@
+1804051016, tugu sari
+1804052001, simpang sari
+1804052010, sukajaya
+1804052011, sindang pagar
+1804052012, sukapura
+1804052013, way petai

@@ -1,0 +1,9 @@
+737301, wara
+737302, wara utara
+737303, wara selatan
+737304, telluwanua
+737305, wara timur
+737306, wara barat
+737307, sendana
+737308, mungkajang
+737309, bara

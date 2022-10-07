@@ -1,0 +1,12 @@
+1607212001, penuguan
+1607212002, sumber rejo
+1607212003, sumber mukti
+1607212004, sumber agung
+1607212005, wonodadi
+1607212006, mekar sari
+1607212007, songo makmur
+1607212008, karang manunggal
+1607212009, purwodadi
+1607212010, ringin harjo
+1607212011, bumi rejo
+1607212012, kelapa dua

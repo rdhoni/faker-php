@@ -1,0 +1,9 @@
+5271021001, pagesangan
+5271021002, mataram timur
+5271021008, pagutan
+5271021009, pagesangan barat
+5271021010, pagesangan timur
+5271021011, pejanggik
+5271021012, punia
+5271021013, pagutan timur
+5271021014, pagutan barat

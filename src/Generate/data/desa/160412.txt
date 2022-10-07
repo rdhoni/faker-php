@@ -1,0 +1,20 @@
+1604122001, talang baru
+1604122002, talang pagar agung
+1604122003, bantunan
+1604122004, suka bumi
+1604122005, pulau panggung
+1604122006, pajar bulan
+1604122007, kota raya lembak
+1604122008, sumur
+1604122009, gelung sakti
+1604122010, pulau
+1604122011, ulak bandung
+1604122012, talang padang tinggi
+1604122019, aceh
+1604122020, pajar tinggi
+1604122025, kota raya darat
+1604122026, jenti\an
+1604122027, tongkok
+1604122028, benua raja
+1604122029, talang mengkenang
+1604122030, talang tangsi

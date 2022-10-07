@@ -1,0 +1,19 @@
+1606051016, ngulak i
+1606051019, ngulak
+1606052001, air balui
+1606052002, nganti
+1606052003, jud i
+1606052004, jud ii
+1606052005, penggage
+1606052006, ngunang
+1606052007, ngulak ii
+1606052008, ngulak iii
+1606052009, ulak embacang
+1606052010, terusan
+1606052011, kemang
+1606052012, tanjung raya
+1606052013, air itam
+1606052014, keban i
+1606052015, keban ii
+1606052017, panai
+1606052018, macang sakti

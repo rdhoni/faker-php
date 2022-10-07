@@ -1,0 +1,10 @@
+1212212001, lumban rau tengah
+1212212002, lumban rau timur
+1212212003, lumban rau utara
+1212212004, sipagabu
+1212212005, napajoring
+1212212006, liat tondung
+1212212007, batu manumpak
+1212212008, lumban rau tenggara
+1212212009, cinta damai
+1212212010, siantarasa

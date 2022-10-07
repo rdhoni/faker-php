@@ -1,0 +1,8 @@
+157201, sungai penuh
+157202, pesisir bukit
+157203, hamparan rawang
+157204, tanah kampung
+157205, kumun debai
+157206, pondok tinggi
+157207, koto baru
+157208, sungai bungkal

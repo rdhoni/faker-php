@@ -1,0 +1,12 @@
+3212112001, segeran kidul
+3212112002, segeran
+3212112003, juntiweden
+3212112004, dadap
+3212112005, juntunyuat
+3212112006, juntikedokan
+3212112007, pondoh
+3212112008, sambirmaya
+3212112009, tinumpuk
+3212112010, juntikebon
+3212112011, lombang
+3212112012, limbangan

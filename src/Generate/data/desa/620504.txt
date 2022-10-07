@@ -1,0 +1,12 @@
+6205042001, sampirang i
+6205042002, sampirang ii
+6205042003, liju
+6205042004, benangin iii
+6205042005, benangin ii
+6205042006, benangin v
+6205042007, benangin i
+6205042008, muara wakat
+6205042012, mampuak i
+6205042013, jamut);
+6205042014, sei liju
+6205042015, mampuak ii

@@ -1,0 +1,23 @@
+180301, bukit kemuning
+180302, kotabumi
+180303, sungkai selatan
+180304, tanjung raja
+180305, abung timur
+180306, abung barat
+180307, abung selatan
+180308, sungkai utara
+180309, kotabumi utara
+180310, kotabumi selatan
+180311, abung tengah
+180312, abung tinggi
+180313, abung semuli
+180314, abung surakarta
+180315, muara sungkai
+180316, bunga mayang
+180317, hulu sungkai
+180318, sungkai tengah
+180319, abung pekurun
+180320, sungkai jaya
+180321, sungkai barat
+180322, abung kunang
+180323, blambangan pagar

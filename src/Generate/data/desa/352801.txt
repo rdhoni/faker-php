@@ -1,0 +1,17 @@
+3528012001, dabuan
+3528012002, terrak
+3528012003, mangar
+3528012004, bandaran
+3528012005, kramat
+3528012006, ambat
+3528012007, branta pesisir
+3528012008, tlanakan
+3528012009, branta tinggi
+3528012010, tlesah
+3528012011, larangan tokol
+3528012012, ceguk
+3528012013, panglegur
+3528012014, bukek
+3528012015, gugul
+3528012016, larangan slampar
+3528012017, taro\an

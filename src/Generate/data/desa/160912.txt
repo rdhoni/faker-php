@@ -1,0 +1,22 @@
+1609121013, simpang sender
+1609122001, tanjung kemala
+1609122002, sukamarga
+1609122003, subik
+1609122004, jepara
+1609122005, hangkusa
+1609122006, sukarami
+1609122007, padang ratu
+1609122008, tanjung setia
+1609122009, gedung baru
+1609122010, tanjung sari
+1609122011, suka bumi
+1609122012, sumber mulia
+1609122014, way relai
+1609122015, tanjung baru ranau
+1609122016, simpang sender selatan
+1609122017, simpang sender utara
+1609122018, simpang sender timur
+1609122019, simpang sender tengah
+1609122020, sumber jaya
+1609122021, pakhda suka
+1609122022, serumpun jaya

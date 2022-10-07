@@ -1,0 +1,12 @@
+340101, temon
+340102, wates
+340103, panjatan
+340104, galur
+340105, lendah
+340106, sentolo
+340107, pengasih
+340108, kokap
+340109, girimulyo
+340110, nanggulan
+340111, samigaluh
+340112, kalibawang

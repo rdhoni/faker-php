@@ -1,0 +1,17 @@
+3301062001, sikampuh
+3301062002, pekuncen
+3301062003, ayamalas
+3301062004, pesanggrahan
+3301062005, kroya
+3301062006, karangmangu
+3301062007, pucung kidul
+3301062008, mergawati
+3301062009, pucung lor
+3301062010, bajing
+3301062011, gentasari
+3301062012, kedawung
+3301062013, mujur
+3301062014, buntu
+3301062015, karangturi
+3301062016, bajing kulon
+3301062017, mujur lor

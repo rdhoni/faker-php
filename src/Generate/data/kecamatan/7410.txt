@@ -1,0 +1,6 @@
+741001, kulisusu
+741002, kambowa
+741003, bonegunu
+741004, kulisusu barat
+741005, kulisusu utara
+741006, wakorumba utara

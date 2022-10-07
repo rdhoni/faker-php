@@ -1,0 +1,17 @@
+1105062001, alue lhok
+1105062002, alue bakong
+1105062003, berawang
+1105062004, blang sibeutong
+1105062005, cot keumuneng
+1105062006, cot lada
+1105062007, gunong panah
+1105062008, kuta padang
+1105062009, kuala pling
+1105062010, layung
+1105062011, liceh
+1105062012, peulanteu  sp
+1105062013, rambong
+1105062014, seumuleng
+1105062015, suak pangkat
+1105062016, seuneubok  trap
+1105062017, ulee blang

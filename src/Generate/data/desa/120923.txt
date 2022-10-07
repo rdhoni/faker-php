@@ -1,0 +1,10 @@
+1209232001, tanjung alam
+1209232002, perkebunan sei dadap i/ii
+1209232003, perkebunan sei dadap iii/iv
+1209232004, sei kamah i
+1209232005, sei kamah ii
+1209232006, bahung sibatu-batu
+1209232007, sei alim hasak
+1209232008, tanjung asri
+1209232009, sei kamah baru);
+1209232010, pasiran

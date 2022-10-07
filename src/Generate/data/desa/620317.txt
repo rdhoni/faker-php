@@ -1,0 +1,15 @@
+6203171001, pulau kupang
+6203172002, pulau mambulau
+6203172003, sei lunuk
+6203172004, sei jangkit
+6203172005, tamban luar
+6203172006, terusan raya
+6203172007, terusan karya
+6203172008, terusan makmur
+6203172009, terusan mulya
+6203172010, bamban raya
+6203172011, bangun harjo
+6203172012, terusan baguntan raya
+6203172013, terusan raya barat
+6203172014, terusan raya hulu
+6203172015, budi mufakat

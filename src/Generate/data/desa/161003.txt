@@ -1,0 +1,19 @@
+1610031001, tanjung raja
+1610031027, tanjung raja barat
+1610031028, tanjung raja utara
+1610031035, tanjung raja timur
+1610032002, suka pindah
+1610032007, tanjung temiang
+1610032008, seri dalam
+1610032018, kerinjing
+1610032019, ulak kerbau baru
+1610032020, ulak kerbau lama
+1610032021, tanjung agas
+1610032022, siring alam
+1610032023, talang balai baru i
+1610032024, talang balai lama
+1610032030, skonjing
+1610032031, tanjung raja selatan
+1610032032, belanti
+1610032033, tanjung harapan
+1610032034, talang balai baru ii

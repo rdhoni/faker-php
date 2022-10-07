@@ -1,0 +1,5 @@
+127501, binjai utara
+127502, binjai kota
+127503, binjai barat
+127504, binjai timur
+127505, binjai selatan

@@ -1,0 +1,8 @@
+6102011006, tanjung
+6102011007, tengah
+6102011009, terusan
+6102012001, sengkubang
+6102012002, penibung
+6102012003, pasir
+6102012013, kuala secapah
+6102012015, malikian

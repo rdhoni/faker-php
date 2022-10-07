@@ -1,0 +1,11 @@
+3305201002, panjatan
+3305201003, karanganyar
+3305201004, jatiluhur
+3305201007, plarangan
+3305202001, sidomulyo
+3305202005, candi
+3305202006, giripurno
+3305202008, karangkemiri
+3305202009, wonorejo
+3305202010, grenggeng
+3305202011, pohkumbang

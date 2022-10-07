@@ -1,0 +1,11 @@
+3403102001, umbulrejo
+3403102002, sawahan
+3403102003, tambakromo
+3403102004, kenteng
+3403102005, sumbergiri
+3403102006, genjahan
+3403102007, ponjong
+3403102008, karangasem
+3403102009, bedoyo
+3403102010, sidorejo
+3403102011, gombang

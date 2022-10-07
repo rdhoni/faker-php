@@ -1,0 +1,15 @@
+1407021011, bagan punak
+1407021012, bagan kota
+1407021015, bagan hulu
+1407021016, bagan barat
+1407021017, bagan timur
+1407022009, labuhan tangga kecil
+1407022010, labuhan tangga besar
+1407022013, bagan jawa
+1407022014, parit aman
+1407022019, labuhan tangga baru
+1407022021, bagan jawa pesisir
+1407022022, serusa
+1407022023, labuhan tangga hilir
+1407022024, bagan punak meranti
+1407022025, bagan punak pesisir

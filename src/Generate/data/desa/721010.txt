@@ -1,0 +1,5 @@
+7210102001, lambara
+7210102002, sibalaya selatan
+7210102003, sibalaya utara
+7210102004, sibowi
+7210102005, sibalaya barat

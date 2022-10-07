@@ -1,0 +1,6 @@
+327101, bogor selatan
+327102, bogor timur
+327103, bogor tengah
+327104, bogor barat
+327105, bogor utara
+327106, tanah sareal

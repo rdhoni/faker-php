@@ -1,0 +1,24 @@
+160401, tanjungsakti pumu
+160406, jarai
+160407, kota agung
+160408, pulaupinang
+160409, merapi barat
+160410, lahat
+160412, pajar bulan
+160415, mulak ulu
+160416, kikim selatan
+160417, kikim timur
+160418, kikim tengah
+160419, kikim barat
+160420, pseksu
+160421, gumay talang
+160422, pagar gunung
+160423, merapi timur
+160424, tanjung sakti pumi
+160425, gumay ulu
+160426, merapi selatan
+160427, tanjungtebat
+160428, muarapayang
+160429, sukamerindu
+160430, mulak sebingkai
+160431, lahat selatan

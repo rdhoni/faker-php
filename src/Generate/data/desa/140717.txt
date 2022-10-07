@@ -1,0 +1,10 @@
+1407171001, bagan sinembah kota
+1407172002, bagan sinembah
+1407172003, harapan makmur selatan
+1407172004, harapan makmur
+1407172005, makmur jaya
+1407172006, salak
+1407172007, panca mukti
+1407172008, bagan sinembah timur
+1407172009, bagan sinembah utara
+1407172010, bagan sinembah barat

@@ -1,0 +1,16 @@
+1706052004, air buluh
+1706052005, pulau baru
+1706052006, pasar ipuh
+1706052007, medan jaya
+1706052008, sibak
+1706052009, semundam
+1706052014, retak ilir
+1706052015, tanjung harapan
+1706052017, tanjung jaya
+1706052023, manunggal jaya
+1706052028, pulai payung
+1706052029, tanjung medan
+1706052030, tirta mulya
+1706052033, pasar baru
+1706052034, pulau makmur
+1706052035, mundam marap

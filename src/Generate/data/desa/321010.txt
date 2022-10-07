@@ -1,0 +1,14 @@
+3210102001, parakan
+3210102002, patuanan
+3210102003, nanggerang
+3210102004, lame
+3210102005, mindi
+3210102006, rajawangi
+3210102007, leuwikujang
+3210102008, mirat
+3210102009, leuwimunding
+3210102010, ciparay
+3210102011, heuleut
+3210102012, karangasem
+3210102013, tanjungsari
+3210102014, parungjaya

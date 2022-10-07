@@ -1,0 +1,9 @@
+1201071001, tapian nauli ii
+1201072002, tapian nauli i
+1201072003, tapian nauli iii
+1201072004, tapian nauli iv
+1201072005, aloban bair
+1201072006, mela dolok
+1201072007, mela i
+1201072008, mela ii
+1201072009, bair

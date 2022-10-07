@@ -1,0 +1,13 @@
+3601092001, sukadame
+3601092002, pagelaran
+3601092003, surakarta
+3601092004, montor
+3601092005, kertasana
+3601092006, bama
+3601092007, margasana
+3601092008, sindanglaya
+3601092009, tegalpapak
+3601092010, bulagor
+3601092011, harapankarya
+3601092012, senangsari
+3601092013, margagiri

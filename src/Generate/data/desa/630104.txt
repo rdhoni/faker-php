@@ -1,0 +1,11 @@
+6301042001, sungai bakau
+6301042002, maluka baulin
+6301042003, bawah layung
+6301042004, tambak sarinah
+6301042005, kali besar
+6301042006, handil negara
+6301042007, padang luas
+6301042008, kurau
+6301042017, tambak karya
+6301042018, raden
+6301042019, sarikandi

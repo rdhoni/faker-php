@@ -1,0 +1,15 @@
+6112052001, tanjung beringin
+6112052002, batu ampar
+6112052003, teluk nibung
+6112052004, padang tikar satu
+6112052005, padang tikar dua
+6112052006, tasik malaya
+6112052007, sungai besar
+6112052008, sungai jawi
+6112052009, nipah panjang
+6112052010, ambarawa
+6112052011, tanjung harapan
+6112052012, sungai kerawang
+6112052013, sumber agung
+6112052014, muara tiga
+6112052015, medan mas

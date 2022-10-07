@@ -1,0 +1,23 @@
+6101042001, tebas kuala
+6101042002, tebas sungai
+6101042003, sempalai
+6101042004, bekut
+6101042005, seberkat
+6101042006, sejiram
+6101042007, makrampai
+6101042008, mekar sekuntum
+6101042009, mensere
+6101042010, pusaka
+6101042011, segedong
+6101042012, sungai kelambu
+6101042013, serumpun buluh
+6101042014, pangkalan kongsi
+6101042015, dungun perapakan
+6101042016, batu makjage
+6101042017, serindang
+6101042018, bukit sigoler
+6101042019, matang labong
+6101042020, maktangguk
+6101042021, segarau parit
+6101042022, maribas
+6101042023, seret ayon

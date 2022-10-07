@@ -1,0 +1,10 @@
+820201, weda
+820202, patani
+820203, pulau gebe
+820204, weda utara
+820205, weda selatan
+820206, patani utara
+820207, weda tengah
+820208, patani barat
+820209, weda timur
+820210, patani timur

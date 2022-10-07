@@ -1,0 +1,21 @@
+6302061001, kotabaru hulu
+6302061002, baharu selatan
+6302061003, kotabaru tengah
+6302061004, kotabaru hilir
+6302062009, megasari
+6302062010, sebelimbingan
+6302062011, stagen
+6302062012, rampa
+6302062013, sungai taib
+6302062014, semayap
+6302062015, dirgahayu
+6302062016, sebatung
+6302062017, baharu utara
+6302062018, tirawan
+6302062019, hilir muara
+6302062020, sigam
+6302062021, sarang tiung
+6302062022, gunung ulin
+6302062024, gedambaan
+6302062025, gunung sari
+6302062026, batuah

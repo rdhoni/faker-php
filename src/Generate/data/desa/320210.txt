@@ -1,0 +1,10 @@
+3202102001, cikembar
+3202102002, parakanlima
+3202102003, bojong
+3202102004, cimanggu
+3202102005, bojongkembar
+3202102006, sukamaju
+3202102007, cibatu
+3202102008, kertaraharja
+3202102009, sukamulya
+3202102010, bojongraharja

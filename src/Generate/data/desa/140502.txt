@@ -1,0 +1,7 @@
+1405021007, pangkalan kerinci barat
+1405021008, pangkalan kerinci kota
+1405021009, pangkalan kerinci timur agung
+1405022001, mekar jaya
+1405022002, kuala terusan
+1405022003, makmur
+1405022005, rantau baru

@@ -1,0 +1,13 @@
+7105132001, pinamorongan
+7105132002, kaneyan
+7105132003, koreng
+7105132004, tumaluntung
+7105132005, rumoong atas
+7105132006, lansot
+7105132007, wiau lapi
+7105132008, wuwuk
+7105132014, rumoong atas dua
+7105132017, lansot timur
+7105132018, wuwuk barat
+7105132019, tumaluntung satu
+7105132020, wiau lapi barat

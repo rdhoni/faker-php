@@ -1,0 +1,6 @@
+9205042001, samate
+9205042002, kapatlap
+9205042003, jefman barat
+9205042015, wamega
+9205042016, jefman timur
+9205042017, waidim

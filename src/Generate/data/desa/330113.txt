@@ -1,0 +1,15 @@
+3301132001, panimbang
+3301132002, bantarmangu
+3301132003, bantarpanjang
+3301132004, cimanggu
+3301132005, cilempuyang
+3301132006, negarajati
+3301132007, cisalak
+3301132008, cibalung
+3301132009, karangsari
+3301132010, kutabima
+3301132011, pesahangan
+3301132012, cijati
+3301132013, karangreja
+3301132014, rejodadi
+3301132015, mandala

@@ -1,0 +1,14 @@
+1410042001, alai
+1410042002, tenan
+1410042003, insit
+1410042004, tanjung
+1410042005, tanjung peranap
+1410042006, kundur
+1410042007, mekong
+1410042008, batang malas
+1410042009, mantiasa
+1410042010, gogok darussalam
+1410042011, maini darul aman
+1410042012, mengkikip
+1410042013, alai selatan
+1410042014, tanjung darul takzim

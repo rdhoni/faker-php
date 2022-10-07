@@ -1,0 +1,5 @@
+6502102001, long ampung
+6502102002, long uro
+6502102003, lidung payau
+6502102004, sungai barang
+6502102005, metulang

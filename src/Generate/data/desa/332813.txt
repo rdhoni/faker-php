@@ -1,0 +1,18 @@
+3328132001, ketanggungan
+3328132002, kupu
+3328132003, sidakaton
+3328132004, sidapurna
+3328132005, pepedan
+3328132006, pengarasan
+3328132007, lawatan
+3328132008, dukuhturi
+3328132009, pekauman kulon
+3328132010, pagongan
+3328132011, debongwetan
+3328132012, kepandean
+3328132013, grogol
+3328132014, bandasari
+3328132015, sutapranan
+3328132016, kademangaran
+3328132017, karanganyar
+3328132018, pengabean

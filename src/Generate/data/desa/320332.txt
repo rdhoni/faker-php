@@ -1,0 +1,9 @@
+3203322001, simpang
+3203322002, kalibaru
+3203322003, pusakajaya
+3203322004, kubang
+3203322005, girimukti
+3203322006, karangjaya
+3203322007, mekarmulya
+3203322008, girijaya
+3203322009, padamulya

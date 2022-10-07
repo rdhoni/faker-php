@@ -1,0 +1,17 @@
+1502032004, durian rambun
+1502032007, lubuk birah
+1502032008, lubuk beringin
+1502032009, rantau macang
+1502032010, peradu temberas
+1502032011, teluk sikumbang
+1502032012, muara siau
+1502032013, tiaro
+1502032015, air lago
+1502032016, badak tekurung
+1502032017, rantau bidaro
+1502032018, rantau panjang
+1502032021, pulau raman
+1502032024, pasar muara siau
+1502032027, sepantai renah
+1502032028, sungai ulas
+1502032029, rantau bayur

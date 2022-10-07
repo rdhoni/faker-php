@@ -1,0 +1,11 @@
+1373011001, aur mulio
+1373011002, kubang sirakuk utara
+1373011003, kubang s selatan
+1373011004, pasar
+1373011005, tanah lapang
+1373011006, aia dingin
+1373012007, lunto timur
+1373012008, lunto barat
+1373012009, kubang tangah
+1373012010, kubang utara sikabu
+1373012011, pasa kubang

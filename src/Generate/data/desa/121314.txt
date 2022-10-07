@@ -1,0 +1,20 @@
+1213141024, simpang gambir
+1213141028, tapus
+1213142001, aek garingging
+1213142002, aek manyuruk
+1213142003, bandar limabung
+1213142006, lancat
+1213142010, kampung baru
+1213142011, lobung
+1213142014, pangkalan
+1213142015, perk simpang gambir
+1213142019, sikumbu
+1213142021, simpang bajole
+1213142022, simpang duku
+1213142023, simpang durian
+1213142025, simpang koje
+1213142029, dalan lidang
+1213142031, bonca bayuon
+1213142033, padang silojongan
+1213142034, perbatasan
+1213142035, tangsi atas

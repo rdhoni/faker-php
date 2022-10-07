@@ -1,0 +1,10 @@
+3202122001, kalaparea
+3202122002, pawenang
+3202122003, nagrak utara
+3202122004, cisarua
+3202122009, balekambang
+3202122010, babakan panjang
+3202122011, darmareja
+3202122012, cihanyawar
+3202122013, nagrak selatan
+3202122014, girijaya

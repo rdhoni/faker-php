@@ -1,0 +1,9 @@
+757101, kota barat
+757102, kota selatan
+757103, kota utara
+757104, dungingi
+757105, kota timur
+757106, kota tengah
+757107, sipatana
+757108, dumbo raya
+757109, hulonthalangi

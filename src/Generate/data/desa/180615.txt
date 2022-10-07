@@ -1,0 +1,16 @@
+1806152001, datarajan
+1806152002, gunung tiga
+1806152003, karang rejo
+1806152004, pagar alam ulu belu
+1806152005, muara dua ulu belu
+1806152006, ngarip
+1806152007, penantian ulu belu
+1806152008, gunung sari
+1806152009, ulu semong
+1806152010, sirna galih
+1806152011, rejo sari
+1806152012, suka maju
+1806152013, tanjung baru
+1806152014, sinar banten
+1806152015, air abang
+1806152016, petay kayu

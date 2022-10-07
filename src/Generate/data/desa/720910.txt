@@ -1,0 +1,10 @@
+7209101001, uentanaga bawah
+7209101002, uentanaga atas
+7209101003, dondo
+7209101007, uamalingku
+7209101008, dondo barat
+7209101009, muara toba
+7209102004, sumoli
+7209102005, sabulira toba
+7209102006, labuan
+7209102010, patingko

@@ -1,0 +1,21 @@
+1219011001, pangkalan dodek
+1219011002, pangkalan dodek baru
+1219011021, pagurawan
+1219012003, aek nauli
+1219012004, durian
+1219012005, lalang
+1219012006, medang
+1219012007, pakam
+1219012008, pakam raya
+1219012009, pematang cengkering
+1219012010, sei buah keras
+1219012011, sei rakyat
+1219012012, sidomulyo
+1219012013, tanjung sigoni
+1219012014, nenas siam
+1219012015, pakam raya selatan
+1219012016, mandarsah
+1219012017, medang baru
+1219012018, pematang nibung
+1219012019, cengkering pekan
+1219012020, sei raja

@@ -1,0 +1,12 @@
+7415011002, busoa
+7415011003, laompo
+7415011004, masiri
+7415011005, majapahit
+7415011010, lakambau
+7415011011, molagina
+7415011012, bandar batauga
+7415012001, lawela
+7415012006, bola
+7415012007, poogalampa
+7415012008, lawela selatan
+7415012009, lampanairi

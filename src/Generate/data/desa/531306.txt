@@ -1,0 +1,22 @@
+5313062001, balauring
+5313062002, nilanapo
+5313062003, leubatang
+5313062004, walang sawah
+5313062005, mahal i
+5313062006, aramengi
+5313062007, meluwiting
+5313062008, hingalamamengi
+5313062009, dolulolong
+5313062010, hoelea i
+5313062011, roma
+5313062012, leuwayang
+5313062013, leudanung
+5313062014, normal
+5313062015, wailolong
+5313062016, hoelea ii
+5313062017, lebewala
+5313062018, mahal ii
+5313062019, peusawa
+5313062020, wowong
+5313062021, normal i
+5313062022, meluwiting i

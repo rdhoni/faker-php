@@ -1,0 +1,16 @@
+1703071026, purwodadi
+1703071027, gunung alam
+1703072001, tanjung raman
+1703072002, lubuk sahung
+1703072003, kuro tidur
+1703072004, karang suci
+1703072005, rama agung
+1703072008, talang denau
+1703072009, gunung selan
+1703072010, datar ruyung
+1703072011, senali
+1703072012, gunung agung
+1703072014, sido urip
+1703072015, karang anyar i
+1703072016, taba tembilang
+1703072022, karang anyar ii

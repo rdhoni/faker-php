@@ -1,0 +1,27 @@
+6204061006, jelapat
+6204061007, hilir seper
+6204061008, buntok kota
+6204062001, danau ganting
+6204062002, muara talang
+6204062003, teluk telaga
+6204062004, baru
+6204062005, danau sadar
+6204062009, pamait
+6204062010, sababilah
+6204062011, mangaris
+6204062012, tetei lanan
+6204062013, pamangka
+6204062014, sanggu
+6204062015, lembeng
+6204062016, muara ripung
+6204062017, madara
+6204062018, murung paken
+6204062019, mabuan
+6204062020, kalahien
+6204062021, penda asam
+6204062022, pararapak
+6204062023, teluk mampun
+6204062024, tanjung jawa
+6204062025, telang andrau
+6204062026, dangka
+6204062027, danau masura

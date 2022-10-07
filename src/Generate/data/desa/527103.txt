@@ -1,0 +1,10 @@
+5271031004, cakranegara selatan
+5271031005, cakranegara barat
+5271031006, cakranegara timur
+5271031007, cakranegara utara
+5271031009, sayang-sayang
+5271031010, cakranegara selatan baru
+5271031011, sapta marga
+5271031012, cilinaya
+5271031013, mayura
+5271031014, karang taliwang

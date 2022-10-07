@@ -1,0 +1,17 @@
+3524132001, pucuk
+3524132002, gempolpading
+3524132003, kesambi
+3524132004, plososetro
+3524132005, wanar
+3524132006, karangtinggil
+3524132007, warukulon
+3524132008, waruwetan
+3524132009, kedali
+3524132010, paji
+3524132011, sumberjo
+3524132012, cungkup
+3524132013, bugoharjo
+3524132014, ngambeg
+3524132015, babatkumpul
+3524132016, tanggungan
+3524132017, padenganploso

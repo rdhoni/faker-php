@@ -1,0 +1,13 @@
+1608042001, gunung batu
+1608042010, ulak baru
+1608042011, gunung jati
+1608042012, kuripan
+1608042013, negeri sakti
+1608042014, campang tiga hulu
+1608042015, sukaraja
+1608042016, cempaka
+1608042017, sukabumi
+1608042018, campang tiga ilir
+1608042019, maluai indah
+1608042020, harisan jaya
+1608042021, campang tiga jaya

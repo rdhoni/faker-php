@@ -1,0 +1,11 @@
+7107011004, tosuraya
+7107011005, wawali
+7107011008, lowu dua
+7107011009, lowu satu
+7107011016, lowu utara
+7107011017, nataan
+7107011018, tosuraya barat
+7107011019, tosuraya selatan
+7107011020, wawali pasan
+7107012003, rasi
+7107012021, rasi satu

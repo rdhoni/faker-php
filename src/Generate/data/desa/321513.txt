@@ -1,0 +1,10 @@
+3215132001, dawuan timur
+3215132002, kalihurip
+3215132003, cikampek kota
+3215132004, dawuan tengah
+3215132006, cikampek selatan
+3215132007, cikampek pusaka
+3215132008, cikampek barat
+3215132009, cikampek timur
+3215132010, kamojing
+3215132011, dawuan barat

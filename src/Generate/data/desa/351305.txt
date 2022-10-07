@@ -1,0 +1,10 @@
+3513052001, malasankulon
+3513052002, tigasan wetan
+3513052003, tigasan kulon
+3513052004, pondok wuluh
+3513052005, leces
+3513052006, sumberkedawung
+3513052007, kerpangan
+3513052008, clarak
+3513052009, jorongan
+3513052010, warujinggo

@@ -1,0 +1,17 @@
+3523082001, gemulung
+3523082002, sidonganti
+3523082003, trantang
+3523082004, wolutengah
+3523082005, tenggerwetan
+3523082006, gaji
+3523082007, hargoretno
+3523082008, margorejo
+3523082009, kedungrejo
+3523082010, jarorejo
+3523082011, mliwang
+3523082012, kasiman
+3523082013, margomulyo
+3523082014, temayang
+3523082015, sumberarum
+3523082016, karanglo
+3523082017, padasan

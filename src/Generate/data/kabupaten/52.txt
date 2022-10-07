@@ -1,0 +1,10 @@
+5201, kab lombok barat
+5202, kab lombok tengah
+5203, kab lombok timur
+5204, kab sumbawa
+5205, kab dompu
+5206, kab bima
+5207, kab sumbawa barat
+5208, kab lombok utara
+5271, kota mataram
+5272, kota bima

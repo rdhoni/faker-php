@@ -1,0 +1,31 @@
+1116032001, kesehatan
+1116032002, suka jadi
+1116032006, menanggini
+1116032007, tanjung karang
+1116032009, bundar
+1116032011, dalam
+1116032012, tanah terban
+1116032013, air tenang
+1116032014, johar
+1116032015, tupah
+1116032016, banai
+1116032017, rantau panjang
+1116032018, medang ara
+1116032019, pahlawan
+1116032020, alur selalas
+1116032021, paya tampah
+1116032022, alur baung
+1116032023, kebun tanah terban
+1116032024, kebun medang ara
+1116032025, kebun afdeling seleleh
+1116032026, paya awe
+1116032027, simpang empat
+1116032028, paya kulbi
+1116032029, alur bemban
+1116032030, paya meta
+1116032031, tanjong seumantoh
+1116032032, bukit keranji
+1116032033, kebun tanjung seumantoh
+1116032034, bukit panjang
+1116032035, alue lhok
+1116032036, sukajadi paya bujok

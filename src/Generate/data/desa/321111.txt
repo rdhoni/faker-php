@@ -1,0 +1,12 @@
+3211112001, gudang
+3211112002, tanjungsari
+3211112003, jatisari
+3211112004, margaluyu
+3211112005, kutamandiri
+3211112006, margajaya
+3211112007, raharja
+3211112008, cijambu
+3211112009, pasigaran
+3211112010, gunungmanik
+3211112011, kadakajaya
+3211112012, cinanjung

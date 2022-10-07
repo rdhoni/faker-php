@@ -1,0 +1,9 @@
+1405061001, pelalawan
+1405062002, sungai ara
+1405062003, ransang
+1405062004, kuala tolam
+1405062005, sering
+1405062006, telayap
+1405062007, batang nilo kecil
+1405062008, delik
+1405062010, lalang kabung

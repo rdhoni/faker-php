@@ -1,0 +1,20 @@
+6112012001, sungai raya
+6112012002, sungai ambangah
+6112012003, arang limbung
+6112012004, kuala dua
+6112012005, tebang kacang
+6112012006, sungai asam
+6112012007, pulau limbung
+6112012008, kapur
+6112012009, gunung tamang
+6112012010, sungai bulan
+6112012011, limbung
+6112012012, teluk kapuas
+6112012013, madu sari
+6112012014, mekar sari
+6112012015, mekar baru
+6112012016, sungai raya dalam
+6112012017, parit baru
+6112012018, pulau jambu
+6112012019, kalibandung
+6112012020, muara baru

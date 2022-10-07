@@ -1,0 +1,15 @@
+3319012001, bakalankrapyak
+3319012002, prambatan kidul
+3319012003, prambatan lor
+3319012004, garung kidul
+3319012005, setrokalangan
+3319012006, banget
+3319012007, blimbing kidul
+3319012008, sidorekso
+3319012009, gamong
+3319012010, kedungdowo
+3319012011, garung lor
+3319012012, karangampel
+3319012013, mijen
+3319012014, kaliwungu
+3319012015, papringan

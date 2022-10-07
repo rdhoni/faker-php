@@ -1,0 +1,16 @@
+3374131001, ngemplak simongan
+3374131002, manyaran
+3374131003, krapyak
+3374131004, tambakharjo
+3374131005, kalibanteng kulon
+3374131006, kalibanteng kidul
+3374131007, gisikdrono
+3374131008, bongsari
+3374131009, bojongsalaman
+3374131010, salamanmloyo
+3374131011, cabean
+3374131012, karangayu
+3374131013, krobokan
+3374131014, tawangsari
+3374131015, tawangmas
+3374131016, kembangarum

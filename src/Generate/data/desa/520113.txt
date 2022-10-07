@@ -1,0 +1,10 @@
+5201132001, lembar
+5201132002, jembatan kembar
+5201132003, mareje
+5201132004, sekotong timur
+5201132005, labuan tereng
+5201132006, jembatan gantung
+5201132007, lembar selatan
+5201132008, mareje timur
+5201132009, jembatan kembar timur
+5201132010, eyat mayang

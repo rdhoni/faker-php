@@ -1,0 +1,13 @@
+3528112001, bujur barat
+3528112002, pangereman
+3528112003, bangserreh
+3528112004, lesong laok
+3528112005, ponjanan barat
+3528112006, ponjanan timur
+3528112007, kapong
+3528112008, lesong daja
+3528112009, batu bintang
+3528112010, blaban
+3528112011, tamberu
+3528112012, bujur tengah
+3528112013, bujur timur

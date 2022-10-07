@@ -1,0 +1,35 @@
+1115022001, jeuram
+1115022002, pante ceureumen
+1115022003, kuta baro jeuram
+1115022004, parom
+1115022005, peureulak
+1115022006, kuta sayeh
+1115022007, blang baro
+1115022008, padang
+1115022009, alue tho
+1115022010, lhok parom
+1115022011, sapek
+1115022012, alue dodok
+1115022013, cot kumbang
+1115022014, kuta kumbang
+1115022015, nigan
+1115022016, gampong cot
+1115022017, blang pateuk
+1115022018, blang puuk nigan
+1115022019, krueng ceh
+1115022020, bantan
+1115022021, cot lhe-lhe
+1115022022, rambong rayeuk
+1115022023, paya udeung
+1115022024, alue buloh
+1115022025, kuta paya
+1115022026, krueng ceuko
+1115022027, lhok padang
+1115022028, kuta aceh
+1115022029, krueng mangkom
+1115022030, latong
+1115022031, paya undan
+1115022032, blang puuk kulu
+1115022033, blang murong
+1115022034, kulu
+1115022035, rambong cut

@@ -1,0 +1,16 @@
+1401112001, koto garo
+1401112002, sekijang
+1401112003, beringin lestari
+1401112004, kota bangun
+1401112005, cinta damai
+1401112006, suka maju
+1401112007, kota baru
+1401112008, tebing lestari
+1401112009, tanah tinggi
+1401112010, koto aman
+1401112011, tapung lestari
+1401112012, tapung makmur
+1401112013, tandan sari
+1401112014, gerbang sari
+1401112015, kijang jaya
+1401112016, kijang makmur

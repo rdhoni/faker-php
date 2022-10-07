@@ -1,0 +1,16 @@
+7101112001, tumokang baru
+7101112002, mopugad utara
+7101112003, mopugad selatan
+7101112004, mopuya utara
+7101112005, mopuya selatan
+7101112007, dondomon
+7101112014, mopugad utara satu
+7101112015, mopugad utara dua
+7101112016, mopugad selatan satu
+7101112017, mopuya utara satu
+7101112018, mopuya utara dua
+7101112019, mopuya selatan satu
+7101112020, mopuya selatan dua
+7101112024, dondomon utara
+7101112025, dondomon selatan
+7101112026, tumokang timur

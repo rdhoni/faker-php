@@ -1,0 +1,15 @@
+1703192001, kota lekat
+1703192002, padang bendar
+1703192003, taba padang r
+1703192004, taba padang kol
+1703192005, air banai
+1703192006, batu raja r
+1703192007, batu raja kol
+1703192008, batu layang
+1703192009, batu roto
+1703192010, air ba\us i
+1703192011, air ba\us ii
+1703192012, pematang balam
+1703192013, talang rendah
+1703192014, sumber rejo
+1703192015, kota lekat mudik

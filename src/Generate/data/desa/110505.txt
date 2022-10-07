@@ -1,0 +1,32 @@
+1105052001, alue raya
+1105052002, cot darat
+1105052003, cot pluh
+1105052004, cot seumeurung
+1105052005, cot masjid
+1105052006, cot lampise
+1105052007, cot seulamat
+1105052008, cot amun
+1105052009, deuah
+1105052010, gampong teungoh
+1105052011, gampong ladang
+1105052012, gampong cot
+1105052013, keureuseng
+1105052014, krueng tinggai
+1105052015, kuala bubon
+1105052016, leubok
+1105052017, lhok bubon
+1105052018, leuken
+1105052019, mesjid baro
+1105052020, paya lumpat
+1105052021, pinem
+1105052022, pange
+1105052023, pucok lueng
+1105052024, rangkileh
+1105052025, reusak
+1105052026, suak pandan
+1105052027, suak seuke
+1105052028, suak pante breh
+1105052029, suak geudeubang
+1105052030, suak seumaseh
+1105052031, suak timah
+1105052032, ujong nga

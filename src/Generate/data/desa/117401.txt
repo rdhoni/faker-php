@@ -1,0 +1,16 @@
+1174012007, buket medang ara
+1174012009, matang seutui
+1174012010, buket pulo
+1174012011, matang panyang
+1174012012, simpang wie
+1174012013, buket rata
+1174012014, buket meutuah
+1174012015, alue merbau
+1174012016, matang cengai
+1174012017, seunebok antara
+1174012018, alue pineung
+1174012019, sukarejo
+1174012020, cinta raja
+1174012021, sungai lueng
+1174012025, alue pineung timue
+1174012026, kapa

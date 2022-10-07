@@ -1,0 +1,12 @@
+1209132001, sei alim ulu
+1209132003, pinanggiripan
+1209132006, perkebunan pulahan
+1209132007, hessa perlompongan
+1209132008, perkebunan air batu i/ii
+1209132009, perkebunan air batu iii/ix
+1209132010, danau sijabut
+1209132012, air teluk hessa
+1209132013, air genting
+1209132014, hessa air genting
+1209132018, sijabut teratai
+1209132019, pulau pule

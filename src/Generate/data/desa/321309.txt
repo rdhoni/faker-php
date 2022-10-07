@@ -1,0 +1,9 @@
+3213092001, ciasem girang
+3213092002, ciasem tengah
+3213092003, dukuh
+3213092004, ciasem hilir
+3213092005, sukahaji
+3213092006, sukamandijaya
+3213092007, ciasem baru
+3213092008, pinangsari
+3213092009, jatibaru

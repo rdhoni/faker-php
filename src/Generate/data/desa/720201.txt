@@ -1,0 +1,7 @@
+7202011001, moengko lama
+7202011002, moengko baru
+7202011003, kayamanya
+7202011007, gebangrejo
+7202011016, gebangrejo timur
+7202011017, gebangrejo barat
+7202011018, kayamanya sentral

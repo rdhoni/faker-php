@@ -1,0 +1,25 @@
+912501, ilaga
+912502, wangbe
+912503, beoga
+912504, doufo
+912505, pogoma
+912506, sinak
+912507, agandugume
+912508, gome
+912509, dervos
+912510, beoga barat
+912511, beoga timur
+912512, ogamanim
+912513, kembru
+912514, bina
+912515, sinak barat
+912516, mage\abume
+912517, yugumuak
+912518, ilaga utara
+912519, mabugi
+912520, omukia
+912521, lambewi
+912522, oneri
+912523, amungkalpia
+912524, gome utara
+912525, erelmakawia

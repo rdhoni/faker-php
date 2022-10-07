@@ -1,0 +1,16 @@
+3301022001, menganti
+3301022002, slarang
+3301022003, kesugihan
+3301022004, kalisabuk
+3301022005, karangkandri
+3301022006, kuripan
+3301022007, dondong
+3301022008, planjan
+3301022009, ciwuni
+3301022010, karangjengkol
+3301022011, keleng
+3301022012, pesanggrahan
+3301022013, bulupayung
+3301022014, kuripan kidul
+3301022015, jangrana
+3301022016, kesugihan kidul

@@ -1,0 +1,23 @@
+1301072001, siguntur
+1301072002, sungai pinang
+1301072003, duku
+1301072004, batu hampa
+1301072005, nanggalo
+1301072006, ampang pulai
+1301072007, kapuh
+1301072008, barung-barung balantai
+1301072009, barung-barung balantai selatan
+1301072010, mandeh
+1301072011, kapuah utara
+1301072012, taratak sungai lundang
+1301072013, siguntur tua
+1301072014, kampung baru korong nan ampek
+1301072015, duku utara
+1301072016, pulau karam ampang pulai
+1301072017, jinang kampung pansur ampang pulai
+1301072018, cerocok anau ampang pulai
+1301072019, sungai nyalo mudiak aia
+1301072020, batu hampar selatan
+1301072021, barung-barung balantai timur
+1301072022, barung-barung balantai tengah
+1301072023, setara nanggalo

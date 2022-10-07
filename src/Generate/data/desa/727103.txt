@@ -1,0 +1,5 @@
+7271031001, tatura utara
+7271031002, birobuli utara
+7271031003, petobo
+7271031011, birobuli selatan
+7271031012, tatura selatan

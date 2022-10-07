@@ -1,0 +1,15 @@
+3205062001, banyuresmi
+3205062002, cimareme
+3205062003, sukaratu
+3205062004, sukasenang
+3205062005, sukaraja
+3205062006, cipicung
+3205062007, dangdeur
+3205062008, sukakarya
+3205062009, pamekarsari
+3205062010, binakarya
+3205062011, bagendit
+3205062012, karyamukti
+3205062013, karyasari
+3205062014, sukamukti
+3205062015, sukalaksana

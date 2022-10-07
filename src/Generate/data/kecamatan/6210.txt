@@ -1,0 +1,12 @@
+621001, sepang simin
+621002, kurun
+621003, tewah
+621004, kahayan hulu utara
+621005, rungan
+621006, manuhing
+621007, mihing raya
+621008, damang batu
+621009, miri manasa
+621010, rungan hulu
+621011, manuhing raya
+621012, rungan barat

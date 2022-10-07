@@ -1,0 +1,19 @@
+1708011007, keban agung
+1708012001, kota agung
+1708012002, kembang seri
+1708012003, pagar agung
+1708012004, embong ijuk
+1708012005, gunung agung
+1708012006, talang pito
+1708012008, cinto mandi
+1708012009, lembur lama
+1708012010, taba baru
+1708012011, bukit menyan
+1708012016, batu belarik
+1708012017, embong sido
+1708012022, talang sawah
+1708012023, sosokan cinta mandi
+1708012024, muara langkap
+1708012025, air raman
+1708012028, langgar jaya
+1708012029, cinta mandi baru

@@ -1,0 +1,14 @@
+1116122001, banda mahligai
+1116122002, sekerak kiri
+1116122003, pantai tinjau
+1116122004, pantai perlak
+1116122005, kebon batang ara
+1116122006, sekerak kanan
+1116122007, lubuk sidup
+1116122008, sekumur
+1116122009, tanjung gelumpang
+1116122010, pematang durian
+1116122011, juar
+1116122012, sulum
+1116122013, suka makmur
+1116122014, baling karang

@@ -1,0 +1,31 @@
+1202011001, partoli toruan
+1202011002, hutatoruan v
+1202011003, hutatoruan vi
+1202011004, hutatoruan vii
+1202011005, hutatoruan ix
+1202011006, hutatoruan x
+1202011007, hutatoruan xi
+1202012008, parbubu i
+1202012009, parbubu ii
+1202012010, hutapea banuarea
+1202012011, siandor-andor
+1202012012, hutauruk
+1202012013, hapoltahan
+1202012014, parbubu dolok
+1202012015, aek siansimun
+1202012016, htgalung siwaluompo
+1202012017, parbubu pea
+1202012018, hutatoruan iv
+1202012019, sosunggulon
+1202012020, hutatoruan viii
+1202012021, simamora
+1202012022, parbaju toruan
+1202012023, parbaju julu
+1202012024, parbaju tonga
+1202012025, sitampurung
+1202012026, siraja oloan
+1202012027, jambur nauli
+1202012028, sihujur
+1202012029, partali julu
+1202012030, hutatoruan i
+1202012031, hutatoruan iii

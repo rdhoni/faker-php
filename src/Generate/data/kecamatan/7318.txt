@@ -1,0 +1,19 @@
+731801, saluputi);
+731802, bittuang
+731803, bonggakaradeng
+731805, makale
+731809, simbuang
+731811, rantetayo
+731812, mengkendek
+731813, sangalla
+731819, gandangbatu sillanan
+731820, rembon
+731827, makale utara
+731828, mappak
+731829, makale selatan
+731831, masanda
+731833, sangalla selatan
+731834, sangalla utara
+731835, malimbong balepe
+731837, rano
+731838, kurra

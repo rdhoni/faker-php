@@ -1,0 +1,46 @@
+911401, karubaga
+911402, bokondini
+911403, kanggime
+911404, kembu
+911405, goyage
+911406, wunim
+911407, wina
+911408, umagi
+911409, panaga
+911410, woniki
+911411, kubu
+911412, konda/ kondaga
+911413, nelawi
+911414, kuari
+911415, bokoneri
+911416, bewani
+911418, nabunage
+911419, gilubandu
+911420, nunggawi
+911421, gundagi
+911422, numba
+911423, timori
+911424, dundu
+911425, geya
+911426, egiam
+911427, poganeri
+911428, kamboneri
+911429, airgaram
+911430, wari/taiyeve ii
+911431, dow
+911432, tagineri
+911433, yuneri
+911434, wakuwo
+911435, gika
+911436, telenggeme
+911437, anawi
+911438, wenam
+911439, wugi
+911440, danime
+911441, tagime
+911442, kai
+911443, aweku
+911444, bogonuk
+911445, li anogomma
+911446, biuk
+911447, yuko

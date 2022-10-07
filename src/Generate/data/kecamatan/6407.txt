@@ -1,0 +1,16 @@
+640705, long iram
+640706, melak
+640707, barong tongkok
+640708, damai
+640709, muara lawa
+640710, muara pahu
+640711, jempang
+640712, bongan
+640713, penyinggahan
+640714, bentian besar
+640715, linggang bigung
+640716, nyuatan
+640717, siluq ngurai
+640718, mook manaar bulatn
+640719, tering
+640720, sekolaq darat

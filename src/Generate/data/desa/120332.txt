@@ -1,0 +1,15 @@
+1203321001, bintuju
+1203321002, huta tonga
+1203322009, janji mauli mt
+1203322008, muara tais iii
+1203322006, muara tais i
+1203322007, muara tais ii
+1203322005, huta holbung
+1203322004, sipangko
+1203322003, basilam baru
+1203322015, tatengger
+1203322012, pasir matogu
+1203322014, muara purba nauli
+1203322013, sori manoan
+1203322011, pangaribuan
+1203322010, pargumbangan

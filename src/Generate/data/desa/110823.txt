@@ -1,0 +1,11 @@
+1108232001, keureutou
+1108232002, lueng baro
+1108232003, merbo jurong
+1108232004, merbo lama
+1108232005, tanjong dama
+1108232006, geulanggang baro
+1108232007, matang tunong
+1108232008, keude lapang
+1108232009, matang baroh
+1108232010, kuala kereuto
+1108232011, kuala cangkoy

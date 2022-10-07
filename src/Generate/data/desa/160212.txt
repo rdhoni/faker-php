@@ -1,0 +1,22 @@
+1602122001, ulak kemang
+1602122002, sepang
+1602122003, keman
+1602122004, kandis
+1602122005, ulak depati
+1602122006, pulau layang
+1602122007, tapus
+1602122008, pulau betung
+1602122009, bangsal
+1602122010, kuro
+1602122011, menggeris
+1602122012, pampangan
+1602122013, serimenang
+1602122014, secondong
+1602122015, jermun
+1602122016, serdang
+1602122017, jungkal
+1602122035, tanjung kemang
+1602122036, ulak pianggu
+1602122037, ulak kemang baru
+1602122038, keman baru
+1602122039, sri mulya

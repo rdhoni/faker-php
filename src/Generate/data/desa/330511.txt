@@ -1,0 +1,16 @@
+3305112001, bojongsari
+3305112002, surotrunan
+3305112003, kambangsari
+3305112004, jatimulyo
+3305112005, tanuharjo
+3305112006, karangtanjung
+3305112007, kemangguan
+3305112008, kalijaya
+3305112009, karangkembang
+3305112010, seliling
+3305112011, tlogowulung
+3305112012, kaliputih
+3305112013, wonokromo
+3305112014, sawangan
+3305112015, kalirancang
+3305112016, krakal

@@ -1,0 +1,12 @@
+1703162001, pasar bembah
+1703162002, tepi laut
+1703162003, pasar kerkap
+1703162005, air napal
+1703162006, talang kering
+1703162007, selubuk
+1703162008, pasar tebat
+1703162009, lubuk tanjung
+1703162011, pukur
+1703162014, pasar palik
+1703162015, tebing kandang
+1703162016, talang jarang

@@ -1,0 +1,14 @@
+1409132001, pulaubaru
+1409132002, pulauberalo
+1409132003, pulaukulur
+1409132004, pelukahan
+1409132005, pengalihan
+1409132006, lumbok
+1409132007, teratak jering
+1409132008, tanjungpisang
+1409132009, danau
+1409132010, kasang limau sundai
+1409132011, koto rajo
+1409132012, tanjung
+1409132013, sungaisorik
+1409132014, rawang oguang

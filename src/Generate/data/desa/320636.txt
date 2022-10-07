@@ -1,0 +1,11 @@
+3206362001, gombong
+3206362002, bugel
+3206362003, margasari
+3206362004, pakemitan
+3206362005, ciawi
+3206362006, sukamantri
+3206362007, pasirhuni
+3206362008, citamba
+3206362009, kertamukti
+3206362010, kurniabakti
+3206362011, pakamitankidul

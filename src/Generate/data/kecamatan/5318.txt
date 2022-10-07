@@ -1,0 +1,11 @@
+531801, loura
+531802, wewewa utara
+531803, wewewa timur
+531804, wewewa barat
+531805, wewewa selatan
+531806, kodi bangedo
+531807, kodi
+531808, kodi utara
+531809, kota tambolaka
+531810, wewewa tengah
+531811, kodi balaghar

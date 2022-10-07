@@ -1,0 +1,21 @@
+1601212001, tanjung kurung
+1601212002, sukarami
+1601212003, batanghari
+1601212004, nyiur sayak
+1601212005, suka merindu
+1601212006, padang bindu
+1601212007, panggal panggang
+1601212008, bedegung
+1601212009, ulak pandan
+1601212010, keban agung
+1601212011, tubohan
+1601212012, raksa jiwa
+1601212013, seleman
+1601212014, kebun jati
+1601212015, singapura
+1601212016, pengaringan
+1601212017, banjarsari
+1601212018, pandan dulang
+1601212020, panai makmur
+1601212021, guna makmur
+1601212022, tebing kampung

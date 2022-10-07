@@ -1,0 +1,12 @@
+3202062001, cikidang
+3202062002, cikiray
+3202062003, gunungmalang
+3202062004, pangkalan
+3202062005, cicareuh
+3202062006, taman sari
+3202062007, bumi sari
+3202062008, sampora
+3202062009, nangkakoneng
+3202062010, mekarnangka
+3202062011, cijambe
+3202062012, cikarae thoyyibah

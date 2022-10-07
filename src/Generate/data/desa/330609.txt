@@ -1,0 +1,27 @@
+3306091009, bayem
+3306091010, semawung kembaran
+3306091014, semawung daleman
+3306091015, bandung
+3306091016, kutoarjo
+3306091017, katerban
+3306092001, kebondalem
+3306092002, tuntungpait
+3306092003, kiyangkongrejo
+3306092004, suren
+3306092005, karangwuluh
+3306092006, purwosari
+3306092007, kepuh
+3306092008, majir
+3306092011, kuwurejo
+3306092012, pringgowijayan
+3306092013, sidarum
+3306092018, pacor
+3306092019, tunggorono
+3306092020, tepus kulon
+3306092021, sokoharjo
+3306092022, kemadu lor
+3306092023, kaligesing
+3306092024, tepus wetan
+3306092025, wirun
+3306092026, karangrejo
+3306092027, tursino

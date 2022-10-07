@@ -1,0 +1,44 @@
+1107042001, tunong
+1107042002, raya
+1107042003, daboh
+1107042004, cut
+1107042005, mesjid reubee
+1107042006, tanjong
+1107042007, geudong
+1107042008, reuntoh
+1107042009, reuba
+1107042010, mns krueng
+1107042011, neulop
+1107042012, glee
+1107042013, kumbang
+1107042014, buloh
+1107042015, bungo
+1107042016, dayah reubee
+1107042017, jambee
+1107042018, dayah baro
+1107042019, puuk
+1107042020, lhee meunasah
+1107042021, ulee tutue raya
+1107042022, mesjid aree
+1107042023, keutapang  aree
+1107042024, pante
+1107042025, pulo tunong
+1107042026, pulo baroh
+1107042027, krumbok
+1107042028, ceurih blang mee
+1107042029, ceurih keupula
+1107042030, ceurih alue
+1107042031, ceurih cot
+1107042032, seupeung
+1107042033, sukon lhong
+1107042034, dayah beuah
+1107042035, krueng cot
+1107042036, mesjid beuah
+1107042037, lueng dama
+1107042038, mesjid bambong
+1107042039, reuseb
+1107042040, sagoe
+1107042041, seukeum
+1107042042, pengoe
+1107042043, keutapang bambong
+1107042044, metareum

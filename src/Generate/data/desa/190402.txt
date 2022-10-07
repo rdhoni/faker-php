@@ -1,0 +1,12 @@
+1904021001, dul
+1904022004, air mesu
+1904022006, mangkol
+1904022007, tanjung gunung
+1904022010, benteng
+1904022012, padang baru
+1904022013, jeruk
+1904022014, beluluk
+1904022016, pedindang
+1904022018, batu belubang
+1904022020, air mesu timur
+1904022021, kebintik

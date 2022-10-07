@@ -1,0 +1,20 @@
+3513122001, jabungsisir
+3513122002, jabungcandi
+3513122003, jabung wetan
+3513122004, kalikajar kulon
+3513122005, kalikajar wetan
+3513122006, pandean
+3513122007, alastengah
+3513122008, sidodadi
+3513122009, randumerak
+3513122010, randutatah
+3513122011, karanganyar
+3513122012, plampang
+3513122013, petunjungan
+3513122014, taman
+3513122015, paiton
+3513122016, sukodadi
+3513122017, podokkelor
+3513122018, sumberanyar
+3513122019, sumberejo
+3513122020, bhinor

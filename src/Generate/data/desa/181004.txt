@@ -1,0 +1,13 @@
+1810042001, kedaung
+1810042002, pardasuka
+1810042003, suka negeri
+1810042004, tanjung rusia
+1810042005, warga mulyo
+1810042006, pujodadi
+1810042007, sukorejo
+1810042008, selapan
+1810042009, rantau tijang
+1810042010, sidodadi
+1810042011, pardasuka timur
+1810042012, tanjung rusia timur
+1810042013, pardasuka selatan

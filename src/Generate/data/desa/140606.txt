@@ -1,0 +1,10 @@
+1406061001, kota lama
+1406062003, kota intan
+1406062004, muara dilam
+1406062008, kota raya
+1406062009, kota baru
+1406062010, sungai kuti
+1406062011, pasir indah
+1406062012, pasir luhur
+1406062017, bukit intan makmur
+1406062018, bagan tujuh

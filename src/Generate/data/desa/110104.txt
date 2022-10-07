@@ -1,0 +1,16 @@
+1101042001, bakau hulu
+1101042002, padang bakau
+1101042003, manggis harapan
+1101042004, pasar lama
+1101042005, apha
+1101042006, ujung batu
+1101042007, pawoh
+1101042008, dalam
+1101042009, kota palak
+1101042010, cacang
+1101042011, tengah pisang
+1101042012, pisang
+1101042013, hulu pisang
+1101042014, tengah baru
+1101042015, lembah baru
+1101042016, padang baru

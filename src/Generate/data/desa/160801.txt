@@ -1,0 +1,16 @@
+1608011007, dusun martapura
+1608011008, pasar martapura
+1608011014, paku sengkunyit
+1608011016, bukit sari
+1608011017, sunagituha jaya
+1608011018, terukis rahayu
+1608011019, veteran jaya
+1608012006, tanjung kemala
+1608012009, kota baru
+1608012010, keromongan
+1608012011, perjaya
+1608012015, sukomulyo
+1608012020, kotabaru barat
+1608012021, kotabaru selatan
+1608012022, perjaya barat
+1608012023, tanjung kemala barat

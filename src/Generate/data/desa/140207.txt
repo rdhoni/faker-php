@@ -1,0 +1,20 @@
+1402072002, anak talang
+1402072004, bukit lingkar
+1402072005, bukit lipai
+1402072006, kuala gading
+1402072007, kuala kilan
+1402072008, kerubung jaya
+1402072009, pejangki
+1402072010, pematang manggis
+1402072011, sipang
+1402072012, talang bersemi
+1402072013, talang mulya
+1402072014, punti anai
+1402072015, petaling jaya
+1402072017, cenaku kecil
+1402072018, alim
+1402072019, aur cina
+1402072020, lahai kemuning
+1402072021, kepayang sari
+1402072022, batu papan
+1402072023, sanglap

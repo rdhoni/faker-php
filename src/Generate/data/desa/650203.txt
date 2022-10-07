@@ -1,0 +1,9 @@
+6502032001, long pujungan
+6502032002, long ketaman
+6502032003, long pua
+6502032004, long lame
+6502032005, long jelet
+6502032006, long aran
+6502032007, long paliran
+6502032008, long bena
+6502032009, long belaka pitau

@@ -1,0 +1,6 @@
+1471051001, padang bulan
+1471051002, sago
+1471051003, kampung baru
+1471051004, kampung dalam
+1471051005, kampung bandar
+1471051006, padang terubuk

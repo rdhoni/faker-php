@@ -1,0 +1,10 @@
+1503102001, kampung tujuh
+1503102002, lubuk resam
+1503102003, telukrendah
+1503102004, teluktigo
+1503102005, lubuk resam hilir
+1503102006, pemuncak
+1503102007, tambang tinggi
+1503102008, tendah
+1503102009, sungaikeramat
+1503102010, sekamis

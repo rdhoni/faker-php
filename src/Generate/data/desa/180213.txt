@@ -1,0 +1,7 @@
+1802132001, gunung batin udik
+1802132002, gunung batin ilir
+1802132003, gunung batin baru
+1802132004, gunung agung
+1802132005, bandar agung
+1802132006, bandar sakti
+1802132007, tanjung anom

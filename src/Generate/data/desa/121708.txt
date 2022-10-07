@@ -1,0 +1,28 @@
+1217081026, pasar pangururan
+1217081027, pintu sona
+1217081028, siogung-ogung
+1217082001, lumban ss dolok
+1217082002, lumban ss torua
+1217082003, parbaba dolok
+1217082004, huta tinggi
+1217082005, parhorasan
+1217082006, pardomuan nauli
+1217082007, parsaoran i
+1217082008, rianiate
+1217082009, huta bolon
+1217082010, panampangan
+1217082011, pardugul
+1217082012, huta namora
+1217082013, parlondut
+1217082014, tanjung bunga
+1217082015, parmonangan
+1217082016, sait nihuta
+1217082017, situngkir
+1217082018, sianting-anting
+1217082019, sialanguan
+1217082020, lumban pinggol
+1217082021, pardomuan i
+1217082022, sitolu huta
+1217082023, sinabulan
+1217082024, aek nauli
+1217082025, siopat sosor

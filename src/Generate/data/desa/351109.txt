@@ -1,0 +1,12 @@
+3511092001, lombok kulon
+3511092002, lombok wetan
+3511092003, tumpeng
+3511092004, jumpong
+3511092005, tangsil wetan
+3511092006, pasarejo
+3511092007, bendoarum
+3511092008, kapuran
+3511092009, sumberkalong
+3511092010, traktakan
+3511092011, wonosari
+3511092012, pelalangan

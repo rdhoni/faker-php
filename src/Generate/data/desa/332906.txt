@@ -1,0 +1,14 @@
+3329062001, galuhtimur
+3329062002, kalijurang
+3329062003, karangjongkeng
+3329062004, kutamendala
+3329062005, kutayu
+3329062006, linggapura
+3329062007, negarayu
+3329062008, pepedan
+3329062009, purbayasa
+3329062010, rajawetan
+3329062011, purwodadi
+3329062012, tanggeran
+3329062013, tonjong
+3329062014, watujaya

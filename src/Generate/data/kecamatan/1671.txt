@@ -1,0 +1,18 @@
+167101, ilir barat ii
+167102, seberang ulu i
+167103, seberang ulu ii
+167104, ilir barat i
+167105, ilir timur i
+167106, ilir timur ii
+167107, sukarami
+167108, sako
+167109, kemuning
+167110, kalidoni
+167111, bukit kecil
+167112, gandus
+167113, kertapati
+167114, plaju
+167115, alang-alang lebar
+167116, sematang borang
+167117, jakabaring
+167118, ilir timur tiga

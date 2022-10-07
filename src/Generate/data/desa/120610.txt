@@ -1,0 +1,12 @@
+1206102001, lau pengulu
+1206102002, lau mulgap
+1206102003, lau kesumpat
+1206102004, rimo bunga
+1206102005, tanjung pamah
+1206102006, kuta pengkih
+1206102007, bandar purba
+1206102008, mardingding
+1206102009, lau pakam
+1206102010, lau solu
+1206102011, lau garut
+1206102012, bukit makmur

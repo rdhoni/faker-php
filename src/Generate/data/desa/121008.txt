@@ -1,0 +1,13 @@
+1210081001, negeri lama
+1210081002, negeri baru
+1210082003, perkebunan sennah
+1210082004, perkebunan negeri lama
+1210082005, perkebunan bilah
+1210082006, kampung bilah
+1210082007, negeri lama seberang
+1210082008, sei tampang
+1210082009, selat besar
+1210082010, tanjung haloban
+1210082011, sidomulyo
+1210082012, sei tarolat
+1210082013, sei kasih

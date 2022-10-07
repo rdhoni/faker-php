@@ -1,0 +1,16 @@
+1810082001, sinar baru
+1810082002, sukoharjo i
+1810082003, sukoharjo ii
+1810082004, sukoharjo iii
+1810082005, sukoharjo iv
+1810082006, panggungrejo
+1810082007, pandan sari
+1810082008, pandan surat
+1810082009, keputran
+1810082010, sukoyoso
+1810082011, siliwangi
+1810082012, waringinsari barat
+1810082013, pandan sari selatan
+1810082014, sinar baru timur
+1810082015, panggung rejo utara
+1810082016, sukoharjo iii barat

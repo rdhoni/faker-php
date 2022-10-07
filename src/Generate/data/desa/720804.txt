@@ -1,0 +1,20 @@
+7208042001, moutong timur
+7208042002, moutong barat
+7208042003, moutong tengah
+7208042004, tuladenggi pantai
+7208042006, gio
+7208042024, lobu
+7208042025, pendelalap
+7208042026, sejoli
+7208042028, aedan raya
+7208042029, salumpengut
+7208042030, boloung olonggata
+7208042031, labuan
+7208042032, mbelang mbelang
+7208042033, pande
+7208042034, moutong utara
+7208042035, salepae
+7208042036, olonggata
+7208042037, gio timur
+7208042038, gio barat
+7208042039, sialopa

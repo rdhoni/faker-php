@@ -1,0 +1,23 @@
+6401081001, long kali
+6401082002, muara telake
+6401082003, sebakung
+6401082004, bente tualan
+6401082005, mendik
+6401082006, munggu
+6401082007, muara pias
+6401082008, muara toyu
+6401082009, perkuwen
+6401082010, pinang jatus
+6401082011, muara lambakan
+6401082012, kepala telake
+6401082013, mendik makmur
+6401082014, mendik karya
+6401082015, mendik bhakti
+6401082016, sebakung taka
+6401082017, maruat
+6401082018, sebakung makmur
+6401082019, petiku
+6401082020, muara adang ii
+6401082021, makmur jaya
+6401082022, gunung putar
+6401082023, putang

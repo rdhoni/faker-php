@@ -1,0 +1,9 @@
+3601322001, koranji
+3601322002, banjarwangi
+3601322003, sukasari
+3601322004, karyawangi
+3601322005, sukaraja
+3601322006, kaduhejo
+3601322007, banjarnegara
+3601322008, sanghiangdengdek
+3601322009, cilentung

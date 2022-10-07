@@ -1,0 +1,30 @@
+321501, karawang barat
+321502, pangkalan
+321503, telukjambe timur
+321504, ciampel
+321505, klari
+321506, rengasdengklok
+321507, kutawaluya
+321508, batujaya
+321509, tirtajaya
+321510, pedes
+321511, cibuaya
+321512, pakisjaya
+321513, cikampek
+321514, jatisari
+321515, cilamaya wetan
+321516, tirtamulya
+321517, telagasari
+321518, rawamerta
+321519, lemahabang
+321520, tempuran);
+321521, majalaya
+321522, jayakerta
+321523, cilamaya kulon
+321524, banyusari
+321525, kota baru
+321526, karawang timur
+321527, telukjambe barat
+321528, tegalwaru
+321529, purwasari
+321530, cilebar

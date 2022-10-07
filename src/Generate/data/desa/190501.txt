@@ -1,0 +1,7 @@
+1905011001, tanjung
+1905011002, sungai daeng
+1905011003, sungai baru
+1905012004, air putih
+1905012005, air belo
+1905012006, belo laut
+1905012007, air limau

@@ -1,0 +1,20 @@
+187101, kedaton
+187102, sukarame
+187103, tanjungkarang barat
+187104, panjang
+187105, tanjungkarang timur
+187106, tanjungkarang pusat
+187107, telukbetung selatan
+187108, telukbetung barat
+187109, telukbetung utara
+187110, rajabasa
+187111, tanjung senang
+187112, sukabumi
+187113, kemiling
+187114, labuhan ratu
+187115, way halim
+187116, langkapura
+187117, enggal
+187118, kedamaian
+187119, telukbetung timur
+187120, bumi waras

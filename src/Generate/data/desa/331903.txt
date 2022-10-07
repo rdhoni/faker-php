@@ -1,0 +1,14 @@
+3319032001, jetiskapuan
+3319032002, tanjungkarang
+3319032003, jati wetan
+3319032004, pasuruhan kidul
+3319032005, pasuruhan lor
+3319032006, ploso
+3319032007, jati kulon
+3319032008, getaspejaten
+3319032009, loram kulon
+3319032010, loram wetan
+3319032011, jepangpakis
+3319032012, megawon
+3319032013, ngembal kulon
+3319032014, tumpangkrasak

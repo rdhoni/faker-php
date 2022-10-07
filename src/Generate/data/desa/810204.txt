@@ -1,0 +1,10 @@
+8102042001, weduar
+8102042003, nerong
+8102042004, larat
+8102042005, tamangil nuhuten
+8102042006, tamangil nuhuyanat
+8102042012, kilwat
+8102042013, sather
+8102042014, tutrean
+8102042015, ohoirenan
+8102042016, soindat

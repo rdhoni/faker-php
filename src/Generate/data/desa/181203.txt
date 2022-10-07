@@ -1,0 +1,9 @@
+1812032001, karta
+1812032002, karta sari
+1812032003, karta raharja
+1812032004, gunung katun tanjungan
+1812032005, gunung katun malai
+1812032006, gedung ratu
+1812032007, kagungan ratu
+1812032008, marga kencana
+1812032009, way sido

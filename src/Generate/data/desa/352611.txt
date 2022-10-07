@@ -1,0 +1,16 @@
+3526112001, pesanggrahan
+3526112002, kwanyar barat
+3526112003, ketetang
+3526112004, dlemer
+3526112005, morombuh
+3526112006, tebul
+3526112007, karang anyar
+3526112008, janteh
+3526112009, somor koneng
+3526112010, paoran
+3526112011, karang entang
+3526112012, batah barat
+3526112013, batah timur
+3526112014, pandanan
+3526112015, gunung sereng
+3526112016, duwek buter

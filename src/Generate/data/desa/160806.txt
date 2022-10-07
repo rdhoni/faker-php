@@ -1,0 +1,19 @@
+1608062001, karang negara
+1608062002, riang bandung
+1608062005, kota negara
+1608062006, karta negara
+1608062007, pandan agung
+1608062009, sri mulyo
+1608062010, margo tani
+1608062011, jati mulya ii
+1608062012, pandan jaya
+1608062014, rasuan baru
+1608062020, banbanrejo
+1608062021, suka negara
+1608062022, srikencana
+1608062023, dadimulyo
+1608062024, riang bandung ilir
+1608062025, margotani ii
+1608062026, kota negara timur
+1608062027, talang giring
+1608062028, kalirejo

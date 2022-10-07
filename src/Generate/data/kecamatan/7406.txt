@@ -1,0 +1,22 @@
+740601, poleang
+740602, poleang timur
+740603, rarowatu
+740604, rumbia
+740605, kabaena
+740606, kabaena timur
+740607, poleang barat
+740608, mata oleo
+740609, rarowatu utara
+740610, poleang utara
+740611, poleang selatan
+740612, poleang tenggara
+740613, kabaena selatan
+740614, kabaena barat
+740615, kabaena utara
+740616, kabaena tengah
+740617, kep masaloka raya
+740618, rumbia tengah
+740619, poleang tengah
+740620, tontonunu
+740621, lantari jaya
+740622, mata usu

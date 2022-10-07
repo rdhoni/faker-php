@@ -1,0 +1,13 @@
+3212302001, bodas
+3212302002, gadel
+3212302003, rancajawat
+3212302004, kerticala
+3212302005, cangko
+3212302006, karangkerta
+3212302007, sukamulya
+3212302008, mekarsari
+3212302009, lajer
+3212302010, tukdana
+3212302011, sukadana
+3212302012, pagedangan
+3212302013, sukaperna

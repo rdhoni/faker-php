@@ -1,0 +1,13 @@
+1807112001, tanjung harapan
+1807112002, negeri tua
+1807112003, negeri katon
+1807112004, negeri agung
+1807112005, negeri jemanten
+1807112006, sukaraja tiga
+1807112007, gedung wani
+1807112008, jaya guna
+1807112009, sukadana baru
+1807112010, nabang baru
+1807112011, surya mataram
+1807112012, gedungwani timur
+1807112013, trisinar

@@ -1,0 +1,4 @@
+717401, kotamobagu utara
+717402, kotamobagu timur
+717403, kotamobagu selatan
+717404, kotamobagu barat

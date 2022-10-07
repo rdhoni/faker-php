@@ -1,0 +1,26 @@
+1117062001, blang paku
+1117062004, pante raya
+1117062005, simpang balek
+1117062006, simpang teritit
+1117062007, suka jadi
+1117062008, suka makmur
+1117062009, suka ramai atas
+1117062010, suka ramai bawah
+1117062011, syura jadi
+1117062012, jamur uluh
+1117062013, gegerung
+1117062014, merie satu
+1117062015, blang benara
+1117062016, bukit pepanyi
+1117062017, wih pesam
+1117062018, cinta damai
+1117062019, bener ayu
+1117062020, bener mulie
+1117062021, blang kucak
+1117062022, wonosobo
+1117062023, lut kucak
+1117062024, kebun baru
+1117062025, simpang antara
+1117062026, jamur ujung
+1117062027, suka makmur timur
+1117062028, burni telong

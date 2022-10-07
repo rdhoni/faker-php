@@ -1,0 +1,16 @@
+1110042001, pasar
+1110042002, ujung
+1110042003, pulo sarok
+1110042004, kilangan
+1110042005, kuta simboling
+1110042007, teluk ambun
+1110042008, rantau gedang
+1110042009, teluk rumbia
+1110042010, pea bumbung
+1110042011, pemuka
+1110042012, takal pasir
+1110042014, selok aceh
+1110042016, suka makmur
+1110042017, ujung bawang
+1110042019, siti ambia
+1110042020, suka damai

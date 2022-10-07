@@ -1,0 +1,12 @@
+3374061001, penggaron kidul
+3374061002, tlogomulyo
+3374061003, tlogosari wetan
+3374061004, tlogosari kulon
+3374061005, muktiharjo kidul
+3374061006, plamongansari
+3374061007, gemah
+3374061008, pedurungan kidul
+3374061009, pedurungan lor
+3374061010, pedurungan tengah
+3374061011, palebon
+3374061012, kalicari

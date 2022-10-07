@@ -1,0 +1,27 @@
+1102042001, kota kutacane
+1102042002, perapat hilir
+1102042003, perapat hulu
+1102042004, muara lawe bulan
+1102042005, mbarung
+1102042006, batu mbulan asli
+1102042007, batu mbulan i
+1102042008, batu mbulan ii
+1102042009, kampung raja
+1102042010, pulonas
+1102042011, kampung melayu gabungan
+1102042012, terutung pedi
+1102042013, kute rih
+1102042014, gumpang jaya
+1102042015, pulo latong
+1102042016, kutacane lama
+1102042017, batu mbulan mbaru
+1102042018, pulo peding
+1102042019, mendabe
+1102042020, ujung barat
+1102042021, pekhapat titi panjang
+1102042022, pekhapat sepakat
+1102042023, alas marantcar
+1102042024, batu mbulan sepakat
+1102042025, pulo sanggakh
+1102042026, melayu i
+1102042027, mbarung datuk saudane

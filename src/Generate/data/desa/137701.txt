@@ -1,0 +1,22 @@
+1377011001, karan aur
+1377011002, kampung perak
+1377011003, lohong
+1377011004, pasir
+1377011005, kampung pondok
+1377011006, pondok ii
+1377011007, kampung jawa i
+1377011008, kampung jawa ii
+1377011009, alai gelombang
+1377011010, jawi jawi i
+1377011011, jawi jawi ii
+1377011012, jalan baru
+1377011013, taratak
+1377011014, jalan kereta api
+1377011015, ujung batung
+1377011016, jati hilir
+1377012017, pauh barat
+1377012018, pauh timur
+1377012019, rawang
+1377012020, kampung baru
+1377012021, cimparuh
+1377012025, jati mudik

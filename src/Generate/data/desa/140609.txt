@@ -1,0 +1,11 @@
+1406092001, tambusai utara
+1406092002, mahato
+1406092003, bangun jaya
+1406092004, simpang harapan
+1406092005, pagar mayang
+1406092006, payung sekaki
+1406092007, mekar jaya
+1406092008, tanjung medan
+1406092009, suka damai
+1406092010, rantau sakti
+1406092011, mahato sakti

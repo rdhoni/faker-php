@@ -1,0 +1,12 @@
+6502072001, kaliamok
+6502072002, luso
+6502072003, malinau seberang
+6502072004, putat
+6502072005, salap
+6502072006, seruyung
+6502072007, respen tubu
+6502072008, belayan
+6502072009, sembuak warod
+6502072010, lubak manis
+6502072011, kelapis
+6502072012, semengaris

@@ -1,0 +1,27 @@
+7313101001, bulete
+7313101002, siwa
+7313101003, tobarakka
+7313101004, benteng
+7313102005, batu
+7313102006, lauwa
+7313102007, tanrongi
+7313102008, lompoloang
+7313102009, tellesang
+7313102010, tangkoro
+7313102011, marannu
+7313102012, abbanderangnge
+7313102013, simpellu
+7313102014, alesilurengnge
+7313102015, jauh pandang
+7313102016, lacinde
+7313102017, buriko
+7313102018, bau-bau
+7313102019, ale lebbae
+7313102020, bulu siwa
+7313102021, botto tengnga
+7313102022, kaluku
+7313102023, mattiro walie
+7313102024, maccolli loloe
+7313102025, lompo bulo
+7313102026, padang loang
+7313102027, kompong

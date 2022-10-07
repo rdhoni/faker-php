@@ -1,0 +1,7 @@
+741201, wawonii barat
+741202, wawonii utara
+741203, wawonii timur laut
+741204, wawonii timur
+741205, wawonii tenggara
+741206, wawonii selatan
+741207, wawonii tengah

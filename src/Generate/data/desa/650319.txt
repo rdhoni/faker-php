@@ -1,0 +1,25 @@
+6503192001, pa\ mulak
+6503192002, long puak
+6503192003, long mangan
+6503192004, buduk kubul);
+6503192005, long kabid
+6503192006, pa\ inan
+6503192007, lembudud
+6503192008, long tugul
+6503192009, pa\ butal
+6503192010, pa\ delung
+6503192011, pa\ urud
+6503192012, pa\ kemut
+6503192013, pa\ kidang
+6503192014, lembada
+6503192015, pa\ payak
+6503192016, pa\ pirit
+6503192017, liang aliq
+6503192018, sembudud
+6503192019, liang turan
+6503192020, liang bua
+6503192021, lepatar
+6503192022, pa\ mering
+6503192023, pa\ pani
+6503192024, pa\ lutut
+6503192025, ma\ libu

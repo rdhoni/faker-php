@@ -1,0 +1,30 @@
+1604101031, lahat tengah
+1604101032, gunung gajah
+1604101033, pagar agung
+1604101037, talang jawa
+1604101038, pasar baru
+1604101040, kota baru
+1604101041, pasar lama
+1604101042, pasar bawah
+1604101043, rd pjka
+1604101046, bandar agung
+1604101051, kota negara
+1604101052, kota jaya
+1604101054, rd pjka bandar agung
+1604101058, sari bunga mas
+1604101059, bandar jaya
+1604101060, talang jawa selatan
+1604101061, talang jawa utara
+1604102012, padang lengkuas
+1604102027, selawi
+1604102030, sukanegara
+1604102034, kota raya
+1604102035, keban
+1604102036, pagar sari
+1604102039, pagar negara
+1604102049, senabing
+1604102050, manggul
+1604102053, ulak lebar
+1604102055, giri mulya
+1604102056, makarti tama
+1604102057, ulak mas

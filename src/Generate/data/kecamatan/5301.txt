@@ -1,0 +1,24 @@
+530104, semau
+530105, kupang barat
+530106, kupang timur
+530107, sulamu
+530108, kupang tengah
+530109, amarasi
+530110, fatuleu
+530111, takari
+530112, amfoang selatan
+530113, amfoang utara
+530116, nekamese
+530117, amarasi barat
+530118, amarasi selatan
+530119, amarasi timur
+530120, amabi oefeto timur
+530121, amfoang barat daya
+530122, amfoang barat laut
+530123, semau selatan
+530124, taebenu
+530125, amabi oefeto
+530126, amfoang timur
+530127, fatuleu barat
+530128, fatuleu tengah
+530130, amfoang tengah

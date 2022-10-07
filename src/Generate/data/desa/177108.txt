@@ -1,0 +1,7 @@
+1771081001, kampung kelawi
+1771081002, sukamerindu
+1771081003, semarang
+1771081004, tanjung agung
+1771081005, tanjung jaya
+1771081006, surabaya
+1771081007, pasar bengkulu

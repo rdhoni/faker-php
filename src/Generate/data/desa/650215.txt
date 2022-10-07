@@ -1,0 +1,5 @@
+6502152001, long nyau
+6502152002, long titi
+6502152003, long ranau
+6502152004, rian tubu
+6502152005, long pada

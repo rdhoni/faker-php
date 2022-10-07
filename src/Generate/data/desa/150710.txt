@@ -1,0 +1,9 @@
+1507101010, pandan jaya
+1507102001, lagan ulu
+1507102002, lagan tengah
+1507102004, pandan makmur
+1507102005, pandan lagan
+1507102006, suka maju
+1507102007, kota baru
+1507102008, rantau karya
+1507102009, pandan sejahtera

@@ -1,0 +1,14 @@
+1201061006, po hurlang
+1201061007, kolang nauli
+1201062001, unte mungkur iv
+1201062002, unte mungkur iii
+1201062003, unte mungkur ii
+1201062004, unte mungkur i
+1201062005, satahi nauli
+1201062008, hurlang muara nauli
+1201062009, sipakpahi aek lobu
+1201062010, hodopa nauli
+1201062011, makarti nauli
+1201062012, rawa makmur
+1201062013, simarpinggang
+1201062014, pargaringan

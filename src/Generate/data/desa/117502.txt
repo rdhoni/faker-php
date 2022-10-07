@@ -1,0 +1,13 @@
+1175022001, penanggalan
+1175022002, cepu
+1175022003, kuta tengah
+1175022004, kampung baru
+1175022005, sikelang
+1175022006, penuntungan
+1175022007, jontor
+1175022008, lae motong
+1175022009, lae ikan
+1175022010, lae bersih
+1175022011, dasan raja
+1175022012, penanggalan  timur
+1175022013, penanggalan barat

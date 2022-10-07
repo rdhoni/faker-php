@@ -1,0 +1,10 @@
+1506111001, bram itam kiri
+1506112002, bram itam kanan
+1506112003, tanjungsenjulang
+1506112004, pembengis
+1506112005, bram itam raya
+1506112006, pantaigading
+1506112007, jati emas
+1506112008, kemuning
+1506112009, mekar tanjung
+1506112010, semau

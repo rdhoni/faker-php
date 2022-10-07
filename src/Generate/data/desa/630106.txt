@@ -1,0 +1,10 @@
+6301062001, batu tungku
+6301062002, panyipatan
+6301062003, kandangan baru
+6301062004, kandangan lama
+6301062005, batakan
+6301062006, kuringkit
+6301062007, tanjung dewa
+6301062008, suka ramah
+6301062009, batu mulya
+6301062010, bumi asih

@@ -1,0 +1,5 @@
+187201, metro pusat
+187202, metro utara
+187203, metro barat
+187204, metro timur
+187205, metro selatan

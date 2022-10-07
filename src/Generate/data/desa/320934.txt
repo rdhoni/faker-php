@@ -1,0 +1,9 @@
+3209342001, seuseupan
+3209342002, blender
+3209342003, sumurkondang
+3209342004, kubangdeleg
+3209342005, jatipiring
+3209342006, karanganyar
+3209342007, karangwangi
+3209342008, karangwareng
+3209342009, karangasem

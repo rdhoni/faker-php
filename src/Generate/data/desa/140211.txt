@@ -1,0 +1,12 @@
+1402112001, morong
+1402112002, pasir bongkal
+1402112003, pasir selabu
+1402112004, pasir batu mandi
+1402112005, pasir kelampaian
+1402112006, kuala lala
+1402112007, sungai lala
+1402112008, kelawat
+1402112009, perkebunan sungai parit
+1402112010, perkebunan sungai lala
+1402112011, tanjung danau
+1402112012, sungai air putih

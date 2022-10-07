@@ -1,0 +1,27 @@
+3201, kab bogor
+3202, kab sukabumi
+3203, kab cianjur
+3204, kab bandung
+3205, kab garut
+3206, kab tasikmalaya
+3207, kab ciamis
+3208, kab kuningan
+3209, kab cirebon
+3210, kab majalengka
+3211, kab sumedang
+3212, kab indramayu
+3213, kab subang
+3214, kab purwakarta
+3215, kab karawang
+3216, kab bekasi
+3217, kab bandung barat
+3218, kab pangandaran
+3271, kota bogor
+3272, kota sukabumi
+3273, kota bandung
+3274, kota cirebon
+3275, kota bekasi
+3276, kota depok
+3277, kota cimahi
+3278, kota tasikmalaya
+3279, kota banjar

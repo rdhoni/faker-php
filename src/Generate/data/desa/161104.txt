@@ -1,0 +1,26 @@
+1611041010, kupang
+1611041013, tanjungkupang
+1611041014, tanjung makmur
+1611041017, ps tebing tinggi
+1611041033, jaya loka
+1611041036, kelumpang jaya
+1611042001, ujung alih
+1611042002, lb gelanggang
+1611042003, ulak mengkudu
+1611042004, batu pance
+1611042005, aur gading
+1611042006, terusan lama
+1611042007, terusan baru
+1611042008, rantau tenang
+1611042009, seguring kecil
+1611042011, kemang manis
+1611042012, lampar baru
+1611042021, kota gading
+1611042022, batu raja baru
+1611042023, batu raja lama
+1611042024, sugi waras
+1611042027, mekar jaya
+1611042030, fajar bakti
+1611042032, pancur mas
+1611042034, makarti jaya
+1611042035, tanjung kupang baru

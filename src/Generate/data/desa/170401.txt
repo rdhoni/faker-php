@@ -1,0 +1,14 @@
+1704012001, gedung wani
+1704012002, penandingan
+1704012003, geramat
+1704012004, tanjung alam
+1704012005, tanjung baru
+1704012006, pengurung
+1704012007, pinang jawa
+1704012008, gunung terang
+1704012009, talang padang
+1704012010, gunung megang
+1704012020, talang berangin
+1704012021, jawi
+1704012022, papahan
+1704012023, pinang jawa ii

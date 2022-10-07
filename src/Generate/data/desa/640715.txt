@@ -1,0 +1,11 @@
+6407152001, linggang melapeh baru
+6407152002, linggang bigung baru
+6407152003, linggang tutung
+6407152004, linggang melapeh
+6407152005, linggang mapan
+6407152006, linggang bigung
+6407152007, linggang amer
+6407152008, linggang bangunsari
+6407152009, linggang purwodadi
+6407152010, linggang mencelew
+6407152011, linggang kebut

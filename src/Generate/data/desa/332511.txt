@@ -1,0 +1,21 @@
+3325111013, watesalit
+3325111014, proyonanggan tengah
+3325111015, kauman
+3325111016, karangasem utara
+3325111017, kasepuhan
+3325111018, sambong
+3325111019, proyonanggan utara
+3325111020, proyonanggan selatan
+3325111021, karangasem selatan
+3325112001, rowobelang
+3325112002, cepokokuning
+3325112003, pasekaran
+3325112004, kalisalak
+3325112005, kecepak
+3325112006, klidang wetan
+3325112007, klidang lor
+3325112008, kalipucang wetan
+3325112009, kalipucang kulon
+3325112010, karanganyar
+3325112011, denasri kulon
+3325112012, denasri wetan

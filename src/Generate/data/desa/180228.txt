@@ -1,0 +1,10 @@
+1802282001, bina karya jaya
+1802282002, bina karya utama
+1802282003, bina karya sakti
+1802282004, joharan
+1802282005, rantau jaya baru
+1802282006, rantau jaya ilir
+1802282007, bina karya baru
+1802282008, mranggi jaya
+1802282009, mekar jaya
+1802282010, rantau jaya makmur

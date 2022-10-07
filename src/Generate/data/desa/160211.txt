@@ -1,0 +1,23 @@
+1602111016, tulung selapan ulu
+1602112001, simpang tiga
+1602112002, pulau beruang
+1602112003, penyandingan
+1602112004, tanjung batu
+1602112005, toman
+1602112006, cambai
+1602112007, kayuara
+1602112008, petaling
+1602112009, tulung selapan ilir
+1602112010, ujung tanjung
+1602112011, lebung gajah
+1602112012, lebung itam
+1602112013, penanggoan duren
+1602112014, jerambah rengas
+1602112015, simpang tiga makmur
+1602112017, simpang tiga jaya
+1602112018, simpang tiga sakti
+1602112019, tulung seluang
+1602112020, rantau lurus
+1602112021, kuala dua belas
+1602112022, simpang tiga abadi
+1602112023, tulung selapan timur

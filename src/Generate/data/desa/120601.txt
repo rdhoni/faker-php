@@ -1,0 +1,13 @@
+1206011009, padang mas
+1206011010, lau cimba
+1206011011, gung leto
+1206011012, gung negeri
+1206011013, kampung dalam
+1206012001, rumah kabanjahe
+1206012002, kaban
+1206012003, ketaren
+1206012004, samura
+1206012005, lau simomo
+1206012006, sumber mufakat
+1206012007, kandibata
+1206012008, kacaribu

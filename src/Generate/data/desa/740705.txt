@@ -1,0 +1,21 @@
+7407051016, mandati ii
+7407051017, mandati i
+7407051025, mandati iii
+7407052011, kapota
+7407052012, komala
+7407052013, wungka
+7407052014, matahora
+7407052015, kabita
+7407052018, mola utara
+7407052019, mola selatan
+7407052020, numana
+7407052021, liya mawi
+7407052022, liya togo
+7407052023, kapota utara
+7407052024, kabita togo
+7407052026, liya onemaelangka
+7407052027, wisata kolo
+7407052028, mola samaturu
+7407052029, mola bahari
+7407052030, mola nelayan bhakti
+7407052031, liya bahari indah

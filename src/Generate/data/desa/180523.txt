@@ -1,0 +1,9 @@
+1805232001, gedung harapan
+1805232002, gedung asri
+1805232003, gedung rejo sakti
+1805232004, pasar batang
+1805232005, suka makmur
+1805232006, karya makmur
+1805232007, wono rejo
+1805232008, panca tunggal jaya
+1805232009, sumber sari

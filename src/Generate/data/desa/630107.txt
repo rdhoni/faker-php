@@ -1,0 +1,14 @@
+6301072001, pandan sari
+6301072002, kintap
+6301072003, kintapura
+6301072004, sungai cuka
+6301072005, riam adungan
+6301072006, muara kintap
+6301072007, salaman
+6301072008, kintap kecil
+6301072009, pasir putih
+6301072010, sumber jaya
+6301072011, bukit mulia
+6301072012, kebun raya
+6301072013, mekar raya
+6301072014, sebamban baru

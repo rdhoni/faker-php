@@ -1,0 +1,9 @@
+121001, rantau utara
+121002, rantau selatan
+121007, bilah barat
+121008, bilah hilir
+121009, bilah hulu
+121014, pangkatan
+121018, panai tengah
+121019, panai hilir
+121020, panai hulu

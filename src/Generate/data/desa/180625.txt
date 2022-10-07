@@ -1,0 +1,11 @@
+1806252001, negeri agung
+1806252002, bandar sukabumi
+1806252003, sanggi
+1806252004, rajabasa
+1806252005, banding
+1806252006, gunung doh
+1806252007, simpang bayur
+1806252008, atar lebar
+1806252009, sinar bangun
+1806252010, sanggi unggak
+1806252011, tulung sari

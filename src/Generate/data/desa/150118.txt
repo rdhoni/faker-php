@@ -1,0 +1,14 @@
+1501182001, mukai hilir
+1501182002, mukai tengah
+1501182003, mukai mudik
+1501182004, senimpik
+1501182005, tebing tinggi
+1501182006, mukai tinggi
+1501182007, mukai pintu
+1501182008, sungailangkap
+1501182009, pasir jaya
+1501182010, sungaikuning
+1501182011, mukai seberang
+1501182012, talang tinggi
+1501182013, lubuk tabun
+1501182014, koto lua

@@ -1,0 +1,8 @@
+2103082001, kelarik utara
+2103082002, kelarik
+2103082003, kelarik barat
+2103082004, kelarik air mali
+2103082005, teluk buton
+2103082006, belakang gunung
+2103082007, seluan barat
+2103082008, gunung durian

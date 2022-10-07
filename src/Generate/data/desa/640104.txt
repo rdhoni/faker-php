@@ -1,0 +1,16 @@
+6401041001, tanah grogot
+6401042002, janju
+6401042003, tepian batang
+6401042004, tanah periuk
+6401042005, pepara
+6401042006, sungai tuak
+6401042007, sempulang
+6401042008, jone
+6401042009, rantau panjang
+6401042010, muara pasir
+6401042011, padang pengrapat
+6401042012, perepat
+6401042013, pulau rantau
+6401042014, sungai langir
+6401042015, tapis
+6401042016, senaken

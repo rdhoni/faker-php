@@ -1,0 +1,19 @@
+1809012001, padang ratu
+1809012002, pampangan
+1809012003, cipadang
+1809012004, way layap
+1809012005, sukadadi
+1809012006, gedung tataan
+1809012007, bagelen
+1809012008, sukaraja
+1809012009, kebagusan
+1809012010, sungai langka
+1809012011, kurungan nyawa
+1809012012, negeri sakti
+1809012013, bernung
+1809012014, suka banjar
+1809012015, wiyono
+1809012016, taman sari
+1809012017, bogorejo
+1809012018, karang anyar
+1809012019, kutoarjo

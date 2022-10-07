@@ -1,0 +1,22 @@
+1216052001, sibuntuon partur
+1216052002, siharjulu
+1216052003, sitolu bahal
+1216052004, tapian nauli
+1216052005, pargaulan
+1216052006, lobutua
+1216052007, dolok margu
+1216052008, hutasoit i
+1216052009, nagasaribu i
+1216052010, nagasaribu ii
+1216052011, sibuntoan parpea
+1216052012, siponjot
+1216052013, habeahan
+1216052014, sigompul
+1216052015, bonan dolok
+1216052016, sigumpar
+1216052017, parulohan
+1216052018, sitio ii
+1216052019, hutasoit ii
+1216052020, nagasaribu iii
+1216052021, nagasaribu iv
+1216052022, nagasaribu v

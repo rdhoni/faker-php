@@ -1,0 +1,12 @@
+3324102001, margomulyo
+3324102002, tegorejo
+3324102003, pesawahan
+3324102004, pekuncen
+3324102005, puguh
+3324102006, dawungsari
+3324102007, pucangrejo
+3324102008, gubugsari
+3324102009, pegandon
+3324102010, penanggulan
+3324102011, wonosari
+3324102012, karangmulyo

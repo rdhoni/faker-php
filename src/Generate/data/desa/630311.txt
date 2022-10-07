@@ -1,0 +1,12 @@
+6303112001, tiwingan lama
+6303112002, kalaan
+6303112003, benua riam
+6303112004, bunglai
+6303112005, apuai
+6303112006, rantau bujur
+6303112007, artain
+6303112008, rantau balai
+6303112009, tiwingan baru);
+6303112010, belangian
+6303112011, aranio
+6303112012, pa\au

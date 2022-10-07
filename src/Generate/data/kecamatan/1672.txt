@@ -1,0 +1,5 @@
+167201, pagar alam utara
+167202, pagar alam selatan
+167203, dempo utara
+167204, dempo selatan
+167205, dempo tengah

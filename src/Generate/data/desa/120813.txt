@@ -1,0 +1,15 @@
+1208132001, negeri dolok
+1208132002, dolok parmonangan
+1208132003, dolok tomuan
+1208132004, marihat dolok
+1208132005, tiga dolok
+1208132006, ujung bondar
+1208132007, marihat raja
+1208132008, bandar dolok
+1208132009, gunung mariah
+1208132010, siatasan
+1208132011, marihat marsada
+1208132012, pondok buluh
+1208132013, marihat pondok
+1208132014, lumban gorat
+1208132015, palianopat

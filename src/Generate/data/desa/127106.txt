@@ -1,0 +1,6 @@
+1271061001, titipapan
+1271061002, tanjung mulia hilir
+1271061003, tanjung mulya
+1271061004, kota bangun
+1271061005, mabar
+1271061006, mabar hilir

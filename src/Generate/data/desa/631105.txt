@@ -1,0 +1,27 @@
+6311052001, tanah habang kiri
+6311052002, panaitan
+6311052003, tanah habang kanan
+6311052004, batu merah
+6311052005, lampihong kanan
+6311052006, lampihong selatan
+6311052007, lampihong kiri
+6311052008, lajar
+6311052009, kusambi hulu
+6311052010, kusambi hilir
+6311052011, simpang tiga
+6311052012, matang lurus
+6311052013, lok hamawang
+6311052014, kupang
+6311052015, tampang
+6311052016, matang hanau
+6311052017, lok panginangan
+6311052018, jungkal
+6311052019, sungai tabuk
+6311052020, jimamun
+6311052021, pimping
+6311052022, hilir pasar
+6311052023, teluk karya
+6311052024, pupuyuan
+6311052025, sungai awang
+6311052026, kandang jaya
+6311052027, mundar

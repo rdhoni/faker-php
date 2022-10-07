@@ -1,0 +1,9 @@
+1301032001, kambang
+1301032002, lakitan
+1301032003, kambang utara
+1301032004, kambang timur
+1301032005, kambang barat
+1301032006, lakitan utara
+1301032007, lakitan selatan
+1301032008, lakitan timur
+1301032009, lakitan tengah

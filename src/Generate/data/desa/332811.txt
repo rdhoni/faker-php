@@ -1,0 +1,21 @@
+3328112001, pedeslohor
+3328112002, lumingser
+3328112003, kedungsukun
+3328112004, pagiyanten
+3328112005, penarukan
+3328112006, harjosari lor
+3328112007, tembok lor
+3328112008, tembok kidul
+3328112009, tembok banjaran
+3328112010, tembok luwung
+3328112011, adiwerna
+3328112012, kalimati
+3328112013, lemahduwur
+3328112014, pesarean
+3328112015, ujungrusi
+3328112016, pagedangan
+3328112017, kaliwadas
+3328112018, pecangakan
+3328112019, gumalar
+3328112020, bersole
+3328112021, harjosari kidul

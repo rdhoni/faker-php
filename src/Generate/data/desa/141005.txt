@@ -1,0 +1,10 @@
+1410051001, teluk belitung
+1410052002, meranti bunting
+1410052003, lukit
+1410052004, bagan melibur
+1410052018, pelantai
+1410052019, tanjung kulim
+1410052021, mekar sari
+1410052023, mayang sari
+1410052026, sungai anak kamal
+1410052027, sungai tengah

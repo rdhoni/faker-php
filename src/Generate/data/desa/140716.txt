@@ -1,0 +1,12 @@
+1407162001, tanjung medan
+1407162002, tanjung medan utara
+1407162003, tanjung medan barat
+1407162004, sei meranti
+1407162005, sei meranti darussalam
+1407162006, akar belingkar
+1407162007, tangga batu
+1407162008, perkebunan tanjung medan
+1407162009, sri kayangan
+1407162010, pondok kresek
+1407162011, sungai tapah
+1407162012, tanjung sari

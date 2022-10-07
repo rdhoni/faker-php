@@ -1,0 +1,10 @@
+3529202001, pancor
+3529202002, prambanan
+3529202003, gendang timur
+3529202004, karang tengah
+3529202005, jambuir
+3529202006, gayam
+3529202007, kalowang
+3529202008, nyamplong
+3529202009, gendang barat
+3529202010, tarebung

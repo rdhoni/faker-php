@@ -1,0 +1,11 @@
+611001, belimbing
+611002, nanga pinoh
+611003, ella hilir
+611004, menukung
+611005, sayan
+611006, tanah pinoh
+611007, sokan
+611008, pinoh utara
+611009, pinoh selatan
+611010, belimbing hulu
+611011, tanah pinoh barat

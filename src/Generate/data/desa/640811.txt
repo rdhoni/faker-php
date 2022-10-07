@@ -1,0 +1,9 @@
+6408112001, sandaran
+6408112002, manubar
+6408112003, tadoan
+6408112004, marukangan
+6408112005, susuk luar
+6408112006, susuk dalam
+6408112007, tanjung mangkaliat
+6408112008, manubar dalam
+6408112009, susuk tengah

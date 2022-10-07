@@ -1,0 +1,25 @@
+3323031001, temanggung i
+3323031002, temanggung ii
+3323031003, butuh
+3323031004, jampiroso
+3323031005, jampirejo
+3323031006, kertosari
+3323031007, banyuurip
+3323031008, kowangan
+3323031009, jurang
+3323031010, tlogorejo
+3323031012, kebonsari
+3323031013, manding
+3323031014, mungseng
+3323031015, purworejo
+3323031016, giyanti
+3323031018, madureso
+3323031022, sidorejo
+3323031025, walitelon utara
+3323031026, walitelon selatan
+3323032011, joho
+3323032017, guntur
+3323032019, lungge
+3323032020, mudal
+3323032021, gilingsari
+3323032024, nampirejo

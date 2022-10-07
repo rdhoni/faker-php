@@ -1,0 +1,12 @@
+6303132001, pindahan baru
+6303132002, handil purai
+6303132003, kampung baru
+6303132004, lawahan
+6303132005, babirik
+6303132006, jambu burung
+6303132007, tambak padi
+6303132008, haur kuning
+6303132009, jambu raya
+6303132010, rumpiang
+6303132011, salat makmur
+6303132012, muara halayung

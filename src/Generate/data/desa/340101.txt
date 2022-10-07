@@ -1,0 +1,15 @@
+3401012001, jangkaran
+3401012002, sindutan
+3401012003, palihan
+3401012004, glagah
+3401012005, kalidengen
+3401012006, plumbon
+3401012007, kedundang
+3401012008, demen
+3401012009, kulur
+3401012010, kaligintung
+3401012011, temon wetan
+3401012012, temon kulon
+3401012013, kebonrejo
+3401012014, janten
+3401012015, karangwuluh

@@ -1,0 +1,9 @@
+6501011001, tanjung palas hulu
+6501011002, tanjung palas tengah
+6501011003, tanjung palas hilir
+6501011004, karang anyar
+6501012005, gunung putih
+6501012006, pejalin
+6501012007, antutan
+6501012008, teras baru
+6501012009, teras nawang

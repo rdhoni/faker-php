@@ -1,0 +1,10 @@
+1507021001, nipah panjang i
+1507021002, nipah panjang ii
+1507022003, simpang jelita
+1507022004, simpang datuk
+1507022005, teluk kijing
+1507022006, sungai raya
+1507022007, pemusiran
+1507022008, sungai tering
+1507022009, sungai jeruk
+1507022010, bunga tanjung

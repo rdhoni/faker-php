@@ -1,0 +1,26 @@
+3525012001, sawo
+3525012002, karangcangkring
+3525012003, gedongkedo\an
+3525012004, bulangan
+3525012005, wonokerto
+3525012006, bangeran
+3525012007, lowayu
+3525012008, petiyin tunggal
+3525012009, tirem enggal
+3525012010, tebuwung
+3525012011, dukuh kembar
+3525012012, madumulyorejo
+3525012013, mentaras
+3525012014, baron
+3525012015, jrebeng
+3525012016, mojopetung
+3525012017, sekargadung
+3525012018, imaan
+3525012019, babakbawo
+3525012020, babaksari
+3525012021, sambogunung
+3525012022, sembungan kidul
+3525012023, sembunganyar
+3525012024, kalirejo
+3525012025, padang bandung
+3525012026, dukunanyar

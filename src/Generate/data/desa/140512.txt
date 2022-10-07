@@ -1,0 +1,11 @@
+1405121002, rawang empat
+1405122001, kuala semundam
+1405122003, tambun
+1405122004, terbangiang
+1405122005, lubuk terap
+1405122006, angkasa
+1405122007, sialang godang
+1405122008, lubuk raja
+1405122009, lubuk keranji timur
+1405122010, airterjun
+1405122011, sialang bungkuk

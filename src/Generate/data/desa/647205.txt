@@ -1,0 +1,8 @@
+6472051002, sempaja selatan
+6472051003, lempake
+6472051004, sungai siring
+6472051010, sempaja utara
+6472051011, tanah merah
+6472051012, sempaja barat
+6472051013, sempaja timur
+6472051014, budaya pampang

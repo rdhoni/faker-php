@@ -1,0 +1,10 @@
+3301172001, karangtengah
+3301172002, brani
+3301172003, sampang
+3301172004, sidasari
+3301172005, paketingan
+3301172006, ketanggung
+3301172007, nusajati
+3301172008, karangjati
+3301172009, paberasan
+3301172010, karangasem

@@ -1,0 +1,11 @@
+1803032002, bumi ratu
+1803032003, labuhan ratu pasar
+1803032004, sinar galih
+1803032005, labuhan ratu kampung
+1803032006, gedung ketapang
+1803032007, kota agung
+1803032008, ketapang
+1803032009, karang rejo i
+1803032010, banjar ketapang
+1803032017, sidodadi
+1803032023, gunung labuhan

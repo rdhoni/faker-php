@@ -1,0 +1,10 @@
+810701, pulau-pulau aru
+810702, aru selatan
+810703, aru tengah
+810704, aru utara
+810705, aru utara timur batuley
+810706, sir-sir
+810707, aru tengah timur
+810708, aru tengah selatan
+810709, aru selatan timur
+810710, aru selatan utara

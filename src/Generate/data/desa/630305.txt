@@ -1,0 +1,26 @@
+6303051001, keraton
+6303051002, jawa
+6303051003, pasayangan
+6303051004, murung keraton
+6303051005, sungai paring
+6303051055, tanjung rema darat
+6303051059, sekumpul
+6303052009, sungai sipai
+6303052010, pasayangan selatan
+6303052011, tanjung rema
+6303052012, bincau
+6303052013, murung kenanga
+6303052015, tunggul irang
+6303052016, tambak baru
+6303052034, cindai alus
+6303052036, tungkaran
+6303052037, tambak baru ulu
+6303052040, bincau muara
+6303052042, tunggul irang ilir
+6303052043, tunggul irang ulu
+6303052051, labuan tabu
+6303052052, indra sari
+6303052054, jawa laut
+6303052056, pasayangan utara
+6303052057, pasayangan barat
+6303052058, tambak baru ilir

@@ -1,0 +1,24 @@
+1102082001, pasir gala
+1102082002, pasir penjengakan
+1102082003, kutambaru
+1102082004, lawe sagu hulu
+1102082005, lawe sagu hilir
+1102082006, kute bantil
+1102082011, lawe kolok
+1102082012, lawe rutung
+1102082013, kampung nangka
+1102082014, tenembak  juhar
+1102082015, simpang empat
+1102082016, kuta buluh botong
+1102082017, katambaru  becawan
+1102082018, lawe kinge
+1102082019, kandang mbelang mandiri
+1102082020, mbacang racun
+1102082021, telaga mekar
+1102082023, pulonas baru
+1102082025, kuta genting
+1102082026, lawe sagu baru
+1102082027, lawe sagu
+1102082028, pekhapet timur
+1102082029, bahagia
+1102082030, kute galuh asli

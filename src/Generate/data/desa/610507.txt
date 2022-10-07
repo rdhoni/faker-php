@@ -1,0 +1,31 @@
+6105072001, nanga jetak
+6105072002, nanga dedai
+6105072003, gandis
+6105072004, sungai mali
+6105072005, riguk
+6105072006, pengkadan baru
+6105072007, taok
+6105072008, empaci
+6105072009, baras
+6105072010, pangkadan sungai rupa
+6105072011, kumpang
+6105072012, mangat baru
+6105072013, manaong baru
+6105072014, emparu baru
+6105072015, lundang baru
+6105072016, penyak lalang
+6105072017, umin jaya
+6105072018, merempit baru
+6105072019, dedai kanan
+6105072020, sungai tapang
+6105072021, gandis hulu
+6105072022, hulu dedai
+6105072023, apin baru
+6105072024, jangkang
+6105072025, belinyuk sibau
+6105072026, mengkirai jaya
+6105072027, terusan
+6105072028, tanjung
+6105072029, batu landung
+6105072030, samak
+6105072031, manyam

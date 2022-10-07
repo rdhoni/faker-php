@@ -1,0 +1,10 @@
+1706122001, lalang luas
+1706122002, resno
+1706122003, pondok panjang
+1706122004, talang petai
+1706122005, sungai lintang
+1706122006, pondok tengah
+1706122007, talang sakti
+1706122008, talang sepakat
+1706122009, lubuk cabau
+1706122010, sungai rengas

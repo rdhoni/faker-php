@@ -1,0 +1,6 @@
+1305122001, koto baru
+1305122002, koto dalam
+1305122003, batu kalang
+1305122004, koto dalam barat
+1305122005, koto dalam selatan
+1305122006, batu kalang utara

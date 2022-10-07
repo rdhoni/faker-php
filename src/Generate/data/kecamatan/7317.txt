@@ -1,0 +1,22 @@
+731701, basse sangtempe
+731702, larompong
+731703, suli
+731704, bajo
+731705, bua ponrang
+731706, walenrang
+731707, belopa
+731708, bua
+731709, lamasi
+731710, larompong selatan
+731711, ponrang
+731712, latimojong
+731713, kamanre
+731714, belopa utara
+731715, walenrang barat
+731716, walenrang utara
+731717, walenrang timur
+731718, lamasi timur
+731719, suli barat
+731720, bajo barat
+731721, ponrang selatan
+731722, basse sangtempe utara

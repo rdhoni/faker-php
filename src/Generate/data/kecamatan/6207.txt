@@ -1,0 +1,10 @@
+620701, seruyan hilir
+620702, seruyan tengah
+620703, danau sembuluh
+620704, hanau
+620705, seruyan hulu
+620706, seruyan hilir timur
+620707, seruyan raya
+620708, danau seluluk
+620709, batu ampar
+620710, suling tambun

@@ -1,0 +1,12 @@
+1802212001, srikaton
+1802212002, jaya sakti
+1802212003, haji pemanggilan
+1802212004, negara bumi ilir
+1802212005, bumi aji
+1802212006, negara aji tua
+1802212007, negara bumi udik
+1802212008, negara aji baru
+1802212009, gunung agung
+1802212010, tanjung harapan
+1802212011, bumi jaya
+1802212012, mulyo haji

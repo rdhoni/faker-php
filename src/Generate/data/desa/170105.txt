@@ -1,0 +1,11 @@
+1701051009, gunung ayu
+1701051010, kota medan
+1701051016, kampung baru
+1701051017, pasar baru
+1701051019, ibul
+1701051020, padang kapuk
+1701052001, pagar dewa
+1701052004, padang niur
+1701052005, tebat kubu
+1701052006, gelumbang
+1701052018, padang berangin

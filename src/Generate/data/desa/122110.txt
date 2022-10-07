@@ -1,0 +1,11 @@
+1221102001, batang bulu lama
+1221102002, pagur satio
+1221102003, batang bulu baru
+1221102004, gunung intan
+1221102005, tanjung purba tua
+1221102006, banua tonga
+1221102007, gunung barani
+1221102008, tanjung baringin simarulak
+1221102009, sayur mahincat
+1221102010, sidomulio
+1221102011, panarian

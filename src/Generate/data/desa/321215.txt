@@ -1,0 +1,18 @@
+3212151001, bojongsari
+3212151002, kepandean
+3212151003, karangmalang
+3212151004, karanganyar
+3212151005, lemahmekar
+3212151006, lemahabang
+3212151007, margadadi
+3212151008, paoman
+3212152009, telukagung
+3212152010, plumbon
+3212152011, dukuh
+3212152012, pekandangan jaya
+3212152013, singaraja
+3212152014, singajaya
+3212152015, pekandangan
+3212152016, karangsong
+3212152017, pabean udik
+3212152020, tambak

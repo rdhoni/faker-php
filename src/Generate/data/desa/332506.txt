@@ -1,0 +1,20 @@
+3325062002, sendang
+3325062003, banteng
+3325062004, sumurbanger
+3325062005, margosono
+3325062006, sidalang
+3325062007, plosowangi
+3325062008, wanar
+3325062009, gondo
+3325062010, rejosari barat
+3325062011, boja
+3325062012, pujut
+3325062013, tersono
+3325062014, tanjungsari
+3325062015, kebumen
+3325062016, harjowinangun barat
+3325062017, tegalombo
+3325062020, kranggan
+3325062021, satriyan
+3325062022, harjowinangun timur
+3325062023, rejosari timur

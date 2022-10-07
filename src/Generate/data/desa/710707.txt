@@ -1,0 +1,10 @@
+7107072001, kalait
+7107072002, kalait satu
+7107072003, kalait dua
+7107072004, kalait tiga
+7107072005, lowatag
+7107072006, bunag
+7107072007, banga
+7107072008, tambelang
+7107072009, ranoako
+7107072010, suhuyon

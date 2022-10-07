@@ -1,0 +1,10 @@
+710901, siau timur
+710902, siau barat
+710903, tagulandang
+710904, siau timur selatan
+710905, siau barat selatan
+710906, tagulandang utara
+710907, biaro
+710908, siau barat utara
+710909, siau tengah
+710910, tagulandang selatan

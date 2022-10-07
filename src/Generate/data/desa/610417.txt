@@ -1,0 +1,8 @@
+6104172001, sungai awan kanan
+6104172002, sungai awan kiri
+6104172003, tempurukan
+6104172004, ulak medang
+6104172005, tanjung pura
+6104172006, mayak
+6104172007, tanjung pasar
+6104172008, suka maju

@@ -1,0 +1,10 @@
+6106122001, setulang
+6106122002, sepandan
+6106122003, sungai ajung
+6106122004, sungai abau
+6106122005, labian
+6106122006, mensiau
+6106122007, melemba
+6106122008, lanjak deras
+6106122009, sungai senunuk
+6106122010, labian ira\ang

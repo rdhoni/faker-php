@@ -1,0 +1,14 @@
+3301162001, panulisan
+3301162002, matenggeng
+3301162003, ciwalen
+3301162004, dayeuhluhur
+3301162005, hanum
+3301162006, datar
+3301162007, bingkeng
+3301162008, bolang
+3301162009, kutaagung
+3301162010, cijeruk
+3301162011, cilumping
+3301162012, sumpinghayu
+3301162013, panulisan barat
+3301162014, panulisan timur

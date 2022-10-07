@@ -1,0 +1,23 @@
+1101, kab aceh selatan
+1102, kab aceh tenggara
+1103, kab aceh timur
+1104, kab aceh tengah
+1105, kab aceh barat
+1106, kab aceh besar
+1107, kab pidie
+1108, kab aceh utara
+1109, kab simeulue
+1110, kab aceh singkil
+1111, kab bireuen
+1112, kab aceh barat daya
+1113, kab gayo lues
+1114, kab aceh jaya
+1115, kab nagan raya
+1116, kab aceh tamiang
+1117, kab bener meriah
+1118, kab pidie jaya
+1171, kota banda aceh
+1172, kota sabang
+1173, kota lhokseumawe
+1174, kota langsa
+1175, kota subulussalam

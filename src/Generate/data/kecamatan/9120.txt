@@ -1,0 +1,8 @@
+912001, mamberamo tengah
+912002, mamberamo hulu
+912003, rufaer
+912004, mamberamo tengah timur
+912005, mamberamo hilir
+912006, waropen atas
+912007, benuki
+912008, sawai

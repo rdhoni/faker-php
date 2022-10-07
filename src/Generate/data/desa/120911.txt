@@ -1,0 +1,6 @@
+1209112008, sei kepayang tengah
+1209112010, sei kepayang kanan
+1209112011, sei paham
+1209112014, pertahanan
+1209112015, perbangunan
+1209112016, bangun baru

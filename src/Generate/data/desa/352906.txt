@@ -1,0 +1,14 @@
+3529062001, pagar batu
+3529062002, tanjung
+3529062003, kebundadap timur
+3529062004, langsar
+3529062005, kebundadap barat
+3529062006, saroka
+3529062007, tanamerah
+3529062008, nambakor
+3529062009, saronggi
+3529062010, moangan
+3529062011, juluk
+3529062012, aengtongtong
+3529062013, talang
+3529062014, kambingan timur

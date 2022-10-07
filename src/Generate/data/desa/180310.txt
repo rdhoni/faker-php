@@ -1,0 +1,14 @@
+1803101001, kelapa tujuh
+1803101002, tanjungaman
+1803101003, kota alam
+1803101011, tanjungharapan
+1803101012, tanjungsenang
+1803102004, mulang maya
+1803102005, bandar putih
+1803102006, karang agung
+1803102007, curup guruh
+1803102008, jerangkang
+1803102009, way melan
+1803102010, taman jaya
+1803102013, alam jaya
+1803102014, sinar mas alam

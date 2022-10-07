@@ -1,0 +1,11 @@
+7107092001, molompar
+7107092002, molompar satu
+7107092003, molompar atas
+7107092004, molompar dua
+7107092005, molompar dua utara
+7107092006, molompar dua selatan
+7107092007, mundung
+7107092008, mundung satu
+7107092009, esandom
+7107092010, esandom satu
+7107092011, esandom dua

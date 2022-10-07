@@ -1,0 +1,17 @@
+3318022001, jimbaran
+3318022002, durensawit
+3318022003, slungkep
+3318022004, beketel
+3318022005, purwokerto
+3318022006, sumbersari
+3318022007, brati
+3318022008, jatiroto
+3318022009, kayen
+3318022010, rogomulyo
+3318022011, srikaton
+3318022012, pasuruhan
+3318022013, pesagi
+3318022014, trimulyo
+3318022015, talun
+3318022016, boloagung
+3318022017, sundoluhur

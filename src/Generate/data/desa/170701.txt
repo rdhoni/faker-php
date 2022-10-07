@@ -1,0 +1,12 @@
+1707011004, kampung jawa
+1707011006, pasar muara aman
+1707012002, gandung
+1707012005, tunggang
+1707012007, talang ulu
+1707012014, nangai amen
+1707012016, lebong tambang
+1707012022, ladang palembang
+1707012023, kampung dalam
+1707012024, kampung muara aman
+1707012028, lokasari
+1707012033, gandung baru

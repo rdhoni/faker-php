@@ -1,0 +1,29 @@
+360301, balaraja
+360302, jayanti
+360303, tigaraksa
+360304, jambe
+360305, cisoka
+360306, kresek
+360307, kronjo
+360308, mauk
+360309, kemiri
+360310, sukadiri
+360311, rajeg
+360312, pasar kemis
+360313, teluknaga
+360314, kosambi
+360315, pakuhaji
+360316, sepatan
+360317, curug
+360318, cikupa
+360319, panongan
+360320, legok
+360322, pagedangan
+360323, cisauk
+360327, sukamulya
+360328, kelapa dua
+360329, sindang jaya
+360330, sepatan timur
+360331, solear
+360332, gunung kaler
+360333, mekar baru

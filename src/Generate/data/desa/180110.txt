@@ -1,0 +1,21 @@
+1801102001, sukaraja
+1801102002, sukabakti
+1801102003, sukamulya
+1801102004, tanjung sari
+1801102005, bangunan
+1801102006, rejo mulyo
+1801102007, palas aji
+1801102008, palas pasemah
+1801102009, palas jaya
+1801102010, bandan hurip
+1801102011, pulau tengah
+1801102012, bali agung
+1801102013, bumi daya
+1801102014, tanjung jaya
+1801102015, bumi restu
+1801102016, pematang baru
+1801102017, mekar mulya
+1801102018, bumi asih
+1801102019, kalirejo
+1801102020, bumi asri
+1801102021, pulau jaya

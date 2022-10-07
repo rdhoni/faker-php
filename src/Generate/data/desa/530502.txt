@@ -1,0 +1,19 @@
+5305021002, adang
+5305022003, alor kecil
+5305022004, alor besar
+5305022005, ampera
+5305022006, dulolong
+5305022007, aimoli
+5305022008, alila
+5305022009, otvai
+5305022012, ternate
+5305022013, ternate selatan
+5305022014, alila selatan
+5305022019, pulau buaya
+5305022020, hulnani
+5305022022, o\a mate
+5305022023, alaang
+5305022024, lefokisu
+5305022025, bampalola
+5305022026, lewalu
+5305022027, dulolong barat

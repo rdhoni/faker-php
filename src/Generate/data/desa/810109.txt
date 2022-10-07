@@ -1,0 +1,18 @@
+8101092001, nusantara
+8101092002, dwiwarna
+8101092003, merdeka
+8101092004, rajawali
+8101092005, kampung baru
+8101092006, pulau hatta
+8101092007, selamon
+8101092008, lonthoir
+8101092009, pulau ay
+8101092010, pulau rhun
+8101092011, tanah rata
+8101092012, waer
+8101092013, boiyauw
+8101092014, dender
+8101092015, lautang
+8101092016, uring tutra
+8101092017, walling spanciby
+8101092018, combir kasestoren

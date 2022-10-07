@@ -1,0 +1,19 @@
+6110082001, tekelak
+6110082002, manding
+6110082003, nanga belimbing
+6110082004, tengkajau
+6110082005, tanjung paoh
+6110082006, nanga man
+6110082007, sungai pinang
+6110082008, engkurai
+6110082009, merpak
+6110082010, senibung
+6110082011, melamut bersatu
+6110082012, natai panjang
+6110082013, sungai raya
+6110082014, merah arai
+6110082015, suka damai
+6110082016, tanjung arak
+6110082017, melawi kiri hilir
+6110082018, kompas raya
+6110082019, kayan semapau

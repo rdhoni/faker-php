@@ -1,0 +1,21 @@
+1101102001, ladang teungoh
+1101102002, pucok krueng
+1101102003, silolo
+1101102004, kampung baru
+1101102005, panton bili
+1101102006, paya ateuk
+1101102007, ladang tuha
+1101102008, mata ie
+1101102009, ujong batee
+1101102010, lhok sialang cut
+1101102011, seuneubok
+1101102012, ie mirah
+1101102013, pasie rasian
+1101102014, ujung padang rasian
+1101102015, krueng kalee
+1101102016, lhok sialang rayeuk
+1101102017, gampong baro
+1101102018, teupin gajah
+1101102019, ujung padang asahan
+1101102020, pulo ie ii
+1101102021, pante raja

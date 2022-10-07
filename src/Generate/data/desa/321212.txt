@@ -1,0 +1,14 @@
+3212122001, sleman
+3212122002, tambi
+3212122003, sudikampiran
+3212122004, tambi lor
+3212122005, sleman lor
+3212122006, majasari
+3212122007, majasih
+3212122008, sliyeg
+3212122009, gadingan
+3212122010, mekargading
+3212122011, sliyeg lor
+3212122012, tugukidul
+3212122013, tugu
+3212122016, longok

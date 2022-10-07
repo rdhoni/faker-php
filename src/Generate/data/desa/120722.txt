@@ -1,0 +1,6 @@
+1207221004, deli tua
+1207221005, deli tua timur
+1207221006, deli tua barat
+1207222001, kedai durian
+1207222002, suka makmur
+1207222003, mekar sari

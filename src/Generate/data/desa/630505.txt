@@ -1,0 +1,12 @@
+6305052001, margasari hulu
+6305052002, candi laras
+6305052003, baringin a
+6305052004, marampiau
+6305052005, pabaungan hilir
+6305052006, pabaungan hulu
+6305052007, sungai rutas
+6305052008, baringin b
+6305052009, marampiau hilir
+6305052010, sungai rutas hulu
+6305052011, baulin
+6305052012, pabaungan pantai

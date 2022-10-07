@@ -1,0 +1,24 @@
+330101, kedungreja
+330102, kesugihan
+330103, adipala
+330104, binangun
+330105, nusawungu
+330106, kroya
+330107, maos
+330108, jeruklegi
+330109, kawunganten
+330110, gandrungmangu
+330111, sidareja
+330112, karangpucung
+330113, cimanggu
+330114, majenang
+330115, wanareja
+330116, dayeuhluhur
+330117, sampang
+330118, cipari
+330119, patimuan
+330120, bantarsari
+330121, cilacap selatan
+330122, cilacap tengah
+330123, cilacap utara
+330124, kampung laut

@@ -1,0 +1,10 @@
+7171081001, paniki bawah
+7171081002, lapangan
+7171081003, mapanget barat
+7171081004, kima atas
+7171081005, buha
+7171081006, bengkol
+7171081008, kairagi satu
+7171081009, kairagi dua
+7171081010, paniki satu
+7171081011, paniki dua

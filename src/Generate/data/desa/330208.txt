@@ -1,0 +1,12 @@
+3302082001, plangkapan
+3302082002, gumelar lor
+3302082003, gumelar kidul
+3302082004, karangpetir
+3302082005, gebangsari
+3302082006, prembun
+3302082007, buniayu
+3302082008, pesantren
+3302082009, karangpucung
+3302082010, kamulyan
+3302082011, purwodadi
+3302082012, watuagung

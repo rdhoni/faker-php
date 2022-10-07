@@ -1,0 +1,16 @@
+6206101001, pagatan hilir
+6206101002, pagatan hulu
+6206102003, kampung keramat
+6206102004, kampung tengah
+6206102005, jaya makmur
+6206102006, subur indah
+6206102007, kampung baru
+6206102008, bangun jaya
+6206102009, setia mulia
+6206102010, singam raya
+6206102011, sebangau jaya
+6206102012, sungai kaki
+6206102013, selat baning
+6206102014, makmur utama
+6206102015, bumi subur
+6206102016, bakung raya

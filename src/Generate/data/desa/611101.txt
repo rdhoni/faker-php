@@ -1,0 +1,10 @@
+6111012001, sutera
+6111012002, pangkalan buton
+6111012003, sejahtera
+6111012004, simpang tiga
+6111012005, benawai agung
+6111012006, harapan mulia
+6111012007, pampang harapan
+6111012008, sedahan jaya
+6111012009, gunungsembilan
+6111012010, riam berasap jaya

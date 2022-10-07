@@ -1,0 +1,5 @@
+7104152001, pulutan
+7104152002, pulutan utara
+7104152003, pulutan selatan
+7104152004, daran
+7104152005, daran utara

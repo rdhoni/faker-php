@@ -1,0 +1,17 @@
+6109012001, sungai ringin
+6109012002, mungguk
+6109012003, tanjung
+6109012004, merapi
+6109012005, seraras
+6109012006, semabi
+6109012007, seberang kapuas
+6109012008, landau kodah
+6109012009, timpuk
+6109012010, sungai kunyit
+6109012011, peniti
+6109012012, gonis tekam
+6109012013, tapang semadak
+6109012014, engkersik
+6109012015, ensalang
+6109012016, bokak sebumbun
+6109012017, selalong

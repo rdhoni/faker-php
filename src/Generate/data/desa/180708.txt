@@ -1,0 +1,12 @@
+1807082001, taman fajar
+1807082002, taman asri
+1807082003, taman bogo
+1807082004, tambah dadi
+1807082005, taman cari
+1807082006, taman endah
+1807082007, tegal gondo
+1807082008, toto harjo
+1807082009, tanjung inten
+1807082010, tegal yoso
+1807082011, tambah luhur
+1807082012, tanjung kesuma

@@ -1,0 +1,24 @@
+1108172001, cot girek
+1108172002, lhok meurbo
+1108172003, kp bantan
+1108172004, alue seumambu
+1108172005, ulee gampong
+1108172006, batu xii
+1108172007, kp tempel
+1108172008, alue leuhob
+1108172009, seuneubok  baro
+1108172010, alue drien
+1108172011, cempeudak
+1108172012, matang teungoh
+1108172013, pucok alue
+1108172014, u baro
+1108172015, trieng
+1108172016, lhok reuhat
+1108172017, lueng baro
+1108172018, jeulikat
+1108172019, gampong ara
+1108172020, beurandang dayah
+1108172021, beurandang krueng
+1108172022, seupeng
+1108172023, beurandang asan
+1108172024, drien ii

@@ -1,0 +1,10 @@
+110901, simeulue tengah
+110902, salang
+110903, teupah barat
+110904, simeulue timur
+110905, teluk dalam
+110906, simeulue barat
+110907, teupah selatan
+110908, alapan
+110909, teupah tengah
+110910, simeulue cut

@@ -1,0 +1,13 @@
+1503091001, sungaibenteng
+1503092002, bukittigo
+1503092003, sungaigedang
+1503092004, payo lebar
+1503092005, bukitmurau
+1503092006, perdamaian
+1503092007, pasar singkut
+1503092008, siliwangi
+1503092009, simpang nibung
+1503092010, bukit talang mas
+1503092011, bukit bumi raya
+1503092012, argo sari
+1503092013, sendang sari

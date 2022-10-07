@@ -1,0 +1,10 @@
+3218012001, parigi
+3218012002, karangbenda
+3218012003, ciliang
+3218012004, bojong
+3218012005, cintaratu
+3218012006, selasari
+3218012007, karangjaladri
+3218012008, cibenda
+3218012009, cintakarya
+3218012010, parakanmanggu

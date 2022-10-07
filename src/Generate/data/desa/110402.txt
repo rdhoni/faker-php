@@ -1,0 +1,33 @@
+1104022001, arul gele
+1104022002, arul kumer
+1104022003, burni bius
+1104022004, genting gerbang
+1104022005, gunung singit
+1104022007, pepayungan angkup
+1104022008, remesen
+1104022009, rutih
+1104022010, semelit mutiara
+1104022012, wih porak
+1104022013, wih bakong
+1104022014, wihni durin
+1104022016, arul putih
+1104022017, arul relem
+1104022018, burni bius baru
+1104022019, jerata
+1104022022, paya beke
+1104022023, paya pelu
+1104022026, rebe gedung
+1104022027, reremal
+1104022029, senehen
+1104022030, simpang kemili
+1104022031, tenebuk kampung baru
+1104022032, terang engon
+1104022033, wih pesam
+1104022034, bius utama
+1104022035, meker indah
+1104022036, mulie jadi
+1104022037, wih bersih
+1104022038, wih sagi indah
+1104022039, arul kumer barat
+1104022040, arul kumer timur
+1104022041, arul kumer selatan

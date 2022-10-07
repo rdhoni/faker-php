@@ -1,0 +1,21 @@
+1105012001, suak indrapuri
+1105012002, kampung belakang
+1105012003, ujung kalak
+1105012004, kuta padang
+1105012005, ujong baroh
+1105012006, rundeng
+1105012007, drien rampak);
+1105012008, pasir
+1105012009, pasar aceh
+1105012010, padang seurahet
+1105012011, panggong
+1105012012, seuneugok
+1105012013, gampong darat
+1105012014, gampa
+1105012015, lapang
+1105012016, blang beurandang
+1105012017, suak ribee
+1105012018, suak raya
+1105012019, suak nie
+1105012020, leuhan
+1105012021, suak sigadeng

@@ -1,0 +1,11 @@
+1803162001, negara tulang bawang
+1803162002, kota napal
+1803162003, tanah abang
+1803162004, sukadana udik
+1803162005, sukadana ilir
+1803162006, haduyang ratu
+1803162007, iso rejo
+1803162008, mulyo rejo ii
+1803162009, tulang bawang baru
+1803162010, mulyo rejo i
+1803162011, suka maju

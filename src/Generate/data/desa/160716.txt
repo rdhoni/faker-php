@@ -1,0 +1,11 @@
+1607162001, talang ipuh
+1607162002, durian daun
+1607162003, lubuk lancang
+1607162004, biyuku
+1607162005, bengkuang
+1607162006, rimba terap
+1607162007, sedang
+1607162008, tanjunglaut
+1607162009, air senggeris
+1607162010, meranti
+1607162011, sukaraja

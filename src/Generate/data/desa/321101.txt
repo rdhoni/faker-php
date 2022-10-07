@@ -1,0 +1,10 @@
+3211012001, cimungkal
+3211012002, ganjaresik
+3211012003, cilengkrang
+3211012004, cikareo selatan
+3211012005, cikareo utara
+3211012006, wado
+3211012007, mulyajaya
+3211012009, sukajadi
+3211012010, cisurat
+3211012011, sukapura

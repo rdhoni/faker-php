@@ -1,0 +1,32 @@
+1106162001, lampakuk
+1106162002, lampoh raja
+1106162003, lam aling
+1106162004, lamleupung
+1106162005, lamkleng
+1106162006, ie alang lamkreumeuh
+1106162007, ie alang lamghui
+1106162008, ie alang mesjid
+1106162009, ie alang dayah
+1106162010, lamtui
+1106162011, barih lhok
+1106162012, bueng simek
+1106162013, banda safa
+1106162014, bithak
+1106162015, lambeugak
+1106162016, pakuk
+1106162017, lamsie
+1106162018, sigapang
+1106162019, tutui
+1106162020, pasar lampaku
+1106162021, maheng
+1106162022, leupung bruek
+1106162023, keumireu
+1106162024, lamleuot
+1106162025, leupung balue
+1106162026, bak sukon
+1106162027, cot bayu
+1106162028, glee jai
+1106162029, keuruweung  blang
+1106162030, keuruweung krueng
+1106162031, siron blang
+1106162032, siron krueng

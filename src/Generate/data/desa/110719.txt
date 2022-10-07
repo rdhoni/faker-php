@@ -1,0 +1,28 @@
+1107192001, keudee tangse
+1107192002, pulo mesjid i
+1107192003, pulo mesjid ii
+1107192004, pulo sejahtera
+1107192005, pulo kawa
+1107192006, pulo seunong
+1107192007, nubok badeuk
+1107192008, blang jeurat
+1107192009, pulo baro
+1107192010, layan
+1107192011, blang dalam
+1107192012, peunalon i
+1107192013, peunalon ii
+1107192014, krueng meuriam
+1107192015, tuha blang beungoh
+1107192016, blang dhot
+1107192017, blang bungong
+1107192018, ulee gunong
+1107192019, keubon nilam
+1107192020, paya guci
+1107192021, rantau panyang
+1107192022, blang malo
+1107192023, krueng seukeuek
+1107192024, beungga
+1107192025, alue calong
+1107192026, pulo ie
+1107192027, lhok keutapang
+1107192028, blang pandak

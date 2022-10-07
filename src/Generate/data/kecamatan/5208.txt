@@ -1,0 +1,5 @@
+520801, tanjung
+520802, gangga
+520803, kayangan
+520804, bayan
+520805, pemenang

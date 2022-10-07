@@ -1,0 +1,14 @@
+5305041001, kelaisi timur
+5305042002, kelaisi barat
+5305042003, sidabui
+5305042004, padang alang
+5305042005, kuneman
+5305042006, silaipui
+5305042007, kelaisi tengah
+5305042008, kiraman
+5305042009, maikang
+5305042010, malaipea
+5305042011, tamanapui
+5305042012, lella
+5305042013, manmas
+5305042014, subo

@@ -1,0 +1,5 @@
+510101, negara
+510102, mendoyo
+510103, pekutatan
+510104, melaya
+510105, jembrana

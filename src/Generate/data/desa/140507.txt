@@ -1,0 +1,10 @@
+1405071001, kerumutan
+1405072002, pangkalan panduk
+1405072003, pangkalan tampui
+1405072004, bukit lembah subur
+1405072005, banjar panjang
+1405072006, beringin makmur
+1405072007, pematang tinggi
+1405072008, tanjung air hitam
+1405072009, mak teduh
+1405072010, lipai bulan

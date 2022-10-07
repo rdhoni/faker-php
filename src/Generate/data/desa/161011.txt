@@ -1,0 +1,12 @@
+1610112001, kotadaro i
+1610112002, ketapang i
+1610112003, rantau panjang ilir
+1610112004, jagaraja
+1610112005, jagalano
+1610112006, sejangko i
+1610112007, kota daro ii
+1610112008, sungai rotan
+1610112009, rantau panjang ulu
+1610112010, ketapang ii
+1610112011, sejangko ii
+1610112012, arisan deras

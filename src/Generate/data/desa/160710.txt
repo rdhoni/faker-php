@@ -1,0 +1,12 @@
+1607101002, air batu
+1607101003, sukomoro
+1607101004, sukajadi
+1607101006, kenten
+1607101022, tanah mas
+1607101023, talang keramat
+1607102001, sungairengit
+1607102005, pangkalan benteng
+1607102007, gasing
+1607102019, talang buluh
+1607102020, sungairengit murni
+1607102021, kenten laut

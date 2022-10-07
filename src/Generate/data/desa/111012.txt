@@ -1,0 +1,11 @@
+1110122001, suro
+1110122002, pangkalan sulampi
+1110122003, bulu sema
+1110122004, lae bangun
+1110122005, alur linci
+1110122006, siompin
+1110122007, ketangkuhan
+1110122008, keras
+1110122009, mandumpang
+1110122010, sirimo mungkur
+1110122011, bulu ara

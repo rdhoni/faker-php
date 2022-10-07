@@ -1,0 +1,10 @@
+7102121005, sendangan
+7102121011, kinali
+7102121019, sendangan selatan
+7102121020, sendangan tengah
+7102121028, uner satu
+7102121029, kinali satu
+7102122012, tondegesan
+7102122016, kanonang tiga
+7102122030, tondegesan i
+7102122031, tondegesan ii

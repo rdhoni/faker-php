@@ -1,0 +1,5 @@
+127601, padang hulu
+127602, rambutan
+127603, padang hilir
+127604, bajenis
+127605, tebing tinggi kota

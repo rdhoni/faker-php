@@ -1,0 +1,10 @@
+1405041001, pangkalan lesung
+1405042002, dusun tua
+1405042003, genduang
+1405042004, mayang sari
+1405042005, rawang sari
+1405042006, mulya subur
+1405042007, sari mulya
+1405042008, sari makmur
+1405042009, tanjung kuyo
+1405042010, pesaguan

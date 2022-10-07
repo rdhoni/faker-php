@@ -1,0 +1,18 @@
+6201011011, candi
+6201011012, kumai hulu
+6201011013, kumai hilir
+6201012001, sungai cabang
+6201012002, teluk pulai
+6201012003, sabuai
+6201012004, keraya
+6201012005, teluk bogam
+6201012006, sungai bakau
+6201012007, kubu
+6201012008, sungai kapitan
+6201012009, batu belaman
+6201012010, sungai tendang
+6201012014, sungai sekonyer
+6201012015, sungai bedaun
+6201012017, bumi harjo
+6201012032, pangkalan satu
+6201012034, sabuai timur

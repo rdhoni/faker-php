@@ -1,0 +1,5 @@
+2101071001, tanjung uban kota
+2101071002, tanjung uban utara
+2101071003, tanjung uban selatan
+2101071011, tanjung uban timur
+2101072005, lancang kuning

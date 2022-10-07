@@ -1,0 +1,10 @@
+5203052001, kesik
+5203052002, paokmotong
+5203052003, masbagik selatan
+5203052004, masbagik timur
+5203052005, masbagik utara
+5203052006, danger
+5203052007, lendang nangka
+5203052008, masbagik utara baru
+5203052009, lendang nangka utara
+5203052010, kumbang

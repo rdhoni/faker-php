@@ -1,0 +1,14 @@
+7201031006, kintom
+7201031010, mendono
+7201031017, mondonun
+7201032001, kalolos
+7201032002, tangkiang
+7201032003, padang
+7201032004, manyula
+7201032005, uling
+7201032007, samadoya
+7201032008, dimpalon
+7201032009, solan
+7201032013, babang buyangge
+7201032015, solan baru
+7201032019, dimpalon baru

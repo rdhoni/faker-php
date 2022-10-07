@@ -1,0 +1,11 @@
+1703122001, urai
+1703122002, pasar ketahun
+1703122003, giri kencana
+1703122004, kualalangi
+1703122005, dusun raja
+1703122012, lubuk mindai
+1703122013, fajar baru
+1703122014, talang baru
+1703122019, melati harjo
+1703122020, bukit indah
+1703122021, bukit tinggi

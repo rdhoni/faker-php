@@ -1,0 +1,16 @@
+6211012001, dandang
+6211012002, talio
+6211012003, pangkoh hilir
+6211012004, pangkoh hulu
+6211012005, kantan muara
+6211012006, talio muara
+6211012007, talio hulu
+6211012008, pangkoh sari
+6211012009, sanggang
+6211012010, pantik
+6211012011, belanti siam
+6211012012, gadabung
+6211012013, mulyasari
+6211012014, kantan dalam
+6211012015, kantan atas
+6211012016, karya bersama

@@ -1,0 +1,8 @@
+5301242001, oeltuah
+5301242002, baumata
+5301242003, kuaklalo
+5301242004, oeletsala
+5301242005, bokong
+5301242006, baumata utara
+5301242007, baumata timur
+5301242008, baumata barat

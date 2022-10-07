@@ -1,0 +1,16 @@
+7402201003, besulutu
+7402202001, lawonua
+7402202002, amosilu
+7402202004, laloumera
+7402202005, asunda
+7402202006, ulupohara
+7402202007, labela
+7402202008, ranomolua
+7402202009, silea
+7402202010, onembute
+7402202011, andomesinggo
+7402202012, puulowaru
+7402202013, puundoho
+7402202014, punggaluku
+7402202015, waworaha
+7402202016, lalowulo

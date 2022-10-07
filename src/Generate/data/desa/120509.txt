@@ -1,0 +1,17 @@
+1205091004, hinai kiri
+1205092001, kepala sungai
+1205092002, teluk
+1205092003, cinta raja
+1205092005, kebun kelapa
+1205092006, sungai ular
+1205092007, tanjung ibus
+1205092008, secanggang
+1205092009, selotong
+1205092010, karang gading
+1205092011, jaring halus
+1205092012, telaga jernih
+1205092013, perkotaan
+1205092014, kwala besar
+1205092015, karang anyar
+1205092016, pantai gading
+1205092017, suka mulia

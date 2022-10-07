@@ -1,0 +1,24 @@
+3208102001, geresik
+3208102002, kadurama
+3208102003, ciawigebang
+3208102004, lebaksiuh
+3208102005, ciputat
+3208102006, pajawan lor
+3208102007, sidaraja
+3208102008, kapandayan
+3208102009, pangkalan
+3208102010, ciomas
+3208102011, sukaraja
+3208102012, cihaur
+3208102013, ciawi lor
+3208102014, cigarukgak
+3208102015, sukadana
+3208102016, cihirup
+3208102017, karamatmulya
+3208102018, pamijahan
+3208102019, karangkamulyan
+3208102020, padarama
+3208102021, cikubangmulya
+3208102022, dukuhdalem
+3208102023, mekarjaya
+3208102024, cijagamulya

@@ -1,0 +1,12 @@
+3215242001, gembongan
+3215242002, gempol
+3215242003, gempol kolot
+3215242004, banyuasih
+3215242005, kertaraharja
+3215242006, tanjung
+3215242007, jayamukti
+3215242008, cicinde utara
+3215242009, cicinde selatan
+3215242010, mekarasih
+3215242011, talunjaya
+3215242012, pamekaran

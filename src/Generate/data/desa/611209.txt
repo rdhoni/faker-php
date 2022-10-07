@@ -1,0 +1,13 @@
+6112092001, sungai kakap
+6112092002, sungai itik
+6112092003, jeruju besar
+6112092004, sungai kupah
+6112092005, sungai rengas
+6112092006, pal sembilan
+6112092007, sungai belidak
+6112092008, kalimas
+6112092009, pungur kecil
+6112092010, pungur besar
+6112092011, tanjung saleh
+6112092012, sepuk laut
+6112092013, punggur kapuas

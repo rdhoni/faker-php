@@ -1,0 +1,20 @@
+1808031006, pasar banjit
+1808032001, bunglai
+1808032002, campang lapan
+1808032003, sumber baru
+1808032004, rantau temiang
+1808032005, juku batu
+1808032007, bali sadar
+1808032008, dono mulyo
+1808032009, bali sadar utara
+1808032010, bali sadar selatan
+1808032011, menanga jaya
+1808032012, argo mulyo
+1808032013, rantau jaya
+1808032014, rebang tinggi
+1808032015, simpang asam
+1808032016, bandar agung
+1808032017, kemu
+1808032018, menanga siamang
+1808032019, neki
+1808032020, sumber sari

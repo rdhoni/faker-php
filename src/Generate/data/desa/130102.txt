@@ -1,0 +1,10 @@
+1301022001, pelangai
+1301022002, sungai tunu
+1301022003, sungai tunu utara
+1301022004, sungai tunu barat
+1301022005, nyiur melambai pelangai
+1301022006, sungai liku pelangai
+1301022007, koto viii pelangai
+1301022008, pelangai gadang
+1301022009, pelangai kaciak
+1301022010, pasia pelangai

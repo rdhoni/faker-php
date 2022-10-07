@@ -1,0 +1,23 @@
+6203071001, palingkau baru
+6203071002, palingkau lama
+6203072003, tajepan
+6203072004, mampai
+6203072005, muara dadahup
+6203072006, belawang
+6203072008, palangkau lama
+6203072010, palangkau baru
+6203072014, talekung punei
+6203072015, karya bersama
+6203072016, palingkau jaya
+6203072017, palingkau asri
+6203072018, palingkau sejahtera
+6203072019, saka binjai
+6203072020, bina sejahtera
+6203072021, suka reja
+6203072022, suka mukti
+6203072023, bina karya
+6203072024, bina mekar
+6203072025, rawa subur
+6203072026, sumber mulya
+6203072027, bumi rahayu
+6203072028, manggala permai

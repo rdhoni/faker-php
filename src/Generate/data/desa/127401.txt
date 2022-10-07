@@ -1,0 +1,6 @@
+1274011001, tanjung balai kota i
+1274011002, tanjung balai kota ii
+1274011003, perwira
+1274011004, karya
+1274011005, pantai burung
+1274011006, indra sakti

@@ -1,0 +1,18 @@
+3329132001, karangreja
+3329132002, kedawung
+3329132003, kemurang kulon
+3329132004, kemurang wetan
+3329132005, krakahan
+3329132006, kupangputat
+3329132007, luwunggede
+3329132008, lemahabang
+3329132009, luwungbata
+3329132010, mundu
+3329132011, pejagan
+3329132012, pengaradan
+3329132013, sarireja
+3329132014, sengon
+3329132015, sidakaton
+3329132016, tanjung
+3329132017, tegongan
+3329132018, tengguli

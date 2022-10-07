@@ -1,0 +1,25 @@
+6101022001, sungai kumpai
+6101022002, sekura
+6101022003, tri mandayan
+6101022004, pedada
+6101022005, lela
+6101022006, puringan
+6101022007, berlimang
+6101022008, sungai baru
+6101022009, sengawang
+6101022010, teluk kaseh
+6101022011, sepadu
+6101022012, tambatan
+6101022013, kubangga
+6101022020, sungai serabek
+6101022021, sayang sedayu
+6101022022, pipit teja
+6101022024, matang segantar
+6101022025, mulia
+6101022026, teluk kumbang
+6101022027, samustida
+6101022028, tanjung kerucut
+6101022029, sebagu
+6101022030, mekar sekuntum
+6101022031, kuala pangkalan keramat
+6101022032, sabing

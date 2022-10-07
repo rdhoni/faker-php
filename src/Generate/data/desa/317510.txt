@@ -1,0 +1,8 @@
+3175101001, cipayung
+3175101002, cilangkap
+3175101003, pondok ranggon
+3175101004, munjul
+3175101005, setu
+3175101006, bambu apus
+3175101007, lubang buaya
+3175101008, ceger

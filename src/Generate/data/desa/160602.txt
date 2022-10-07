@@ -1,0 +1,15 @@
+1606022001, danau cala
+1606022002, rantau keroya
+1606022003, tanjung agung timur
+1606022004, petaling
+1606022005, lais
+1606022006, teluk
+1606022007, epil
+1606022008, purwosari
+1606022009, teluk kijing i
+1606022010, teluk kijing ii
+1606022011, teluk kijing iii
+1606022012, tanjung agung utara
+1606022013, tanjung agung barat
+1606022014, tanjung agung selatan
+1606022015, lais utara

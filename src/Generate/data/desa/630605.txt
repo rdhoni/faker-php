@@ -1,0 +1,18 @@
+6306051001, kandangan kota
+6306051002, kandangan utara
+6306051003, kandangan barat
+6306051004, jambu hilir
+6306052005, gambah luar
+6306052006, gambah luar muka
+6306052007, gambah dalam
+6306052008, gambah dalam barat
+6306052009, sungai kupang
+6306052010, bangkau
+6306052011, lungau
+6306052012, sungai paring
+6306052013, bariang
+6306052014, amawang kiri
+6306052015, amawang kiri muka
+6306052016, amawang kanan
+6306052017, tibung raya
+6306052018, baluti

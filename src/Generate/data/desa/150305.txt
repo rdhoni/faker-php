@@ -1,0 +1,14 @@
+1503052001, penegah
+1503052002, pelawan
+1503052003, pulauaro
+1503052004, bukit
+1503052005, lubuk sepuh
+1503052006, rantanu tenang
+1503052007, muara danau
+1503052013, sungai merah
+1503052016, pematang kulim
+1503052017, batu putih
+1503052019, mekarsari
+1503052021, pasar pelawan
+1503052022, pelawan jaya
+1503052023, lubuk sayak

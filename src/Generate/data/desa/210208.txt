@@ -1,0 +1,5 @@
+2102081001, sawang
+2102082002, sawang selatan
+2102082003, sawang laut
+2102082004, kundur
+2102082005, gemuruh

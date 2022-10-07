@@ -1,0 +1,22 @@
+1701021024, pasar baru
+1701022001, padang lebar
+1701022002, sukaraja
+1701022004, tanjung menang
+1701022005, darat sawah
+1701022006, kota agung
+1701022007, babatan ilir
+1701022008, babatan ulu
+1701022009, muara danau
+1701022011, gunung ayu
+1701022014, muara pulutan
+1701022015, kota bumi baru
+1701022016, sindang bulan
+1701022017, muara payang
+1701022018, durian seginim
+1701022020, banding agung
+1701022021, pajar bulan
+1701022022, dusun tengah
+1701022023, padang siring
+1701022029, darat sawah ulu
+1701022030, tanjung agung
+1701022031, dusun baru

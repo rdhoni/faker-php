@@ -1,0 +1,13 @@
+3209302001, dompyong kulon
+3209302002, dompyong wetan
+3209302003, kalimekar
+3209302004, kalimoro
+3209302005, gagasari
+3209302006, kalipasung
+3209302007, gebang kulon
+3209302008, gebang
+3209302009, gebang ilir
+3209302010, gebang udik
+3209302011, gebang mekar
+3209302012, pelayangan
+3209302013, melakasari

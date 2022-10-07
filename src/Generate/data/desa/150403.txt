@@ -1,0 +1,21 @@
+1504031001, muara bulian
+1504031002, teratai
+1504031003, sridadi
+1504031004, pasar baru
+1504031005, rengas condong
+1504032006, pasar terusan
+1504032007, simpang terusan
+1504032008, malapari
+1504032009, napal sisik
+1504032010, rambahan
+1504032011, olak
+1504032012, muaro singoan
+1504032013, aro
+1504032014, rantau puri
+1504032015, sungai baung
+1504032016, bajubang laut
+1504032017, singkawang
+1504032018, tenam
+1504032019, sungai buluh
+1504032020, kilangan
+1504032021, pelayangan

@@ -1,0 +1,12 @@
+210201, moro
+210202, kundur
+210203, karimun
+210204, meral
+210205, tebing
+210206, buru
+210207, kundur utara
+210208, kundur barat
+210209, durai
+210210, meral barat
+210211, ungar
+210212, belat

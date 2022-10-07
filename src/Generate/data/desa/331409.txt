@@ -1,0 +1,10 @@
+3314091009, plumbungan
+3314091010, kroyo
+3314092001, kedungwaduk
+3314092002, jurangjero
+3314092003, saradan
+3314092004, plosokerep
+3314092005, guworejo
+3314092006, puro
+3314092007, mojorejo
+3314092008, pelemgadung

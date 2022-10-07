@@ -1,0 +1,15 @@
+7501102001, dulamayo utara
+7501102002, ulapato a
+7501102003, ulapato b
+7501102004, talumelito
+7501102005, tuladenggi
+7501102006, pantungo
+7501102007, lupoyo
+7501102008, pentadio timur
+7501102009, pentadio barat
+7501102010, dumati
+7501102011, modelidu
+7501102012, tinelo
+7501102013, timuato
+7501102014, tapaluluo
+7501102015, tonala

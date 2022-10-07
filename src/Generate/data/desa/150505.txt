@@ -1,0 +1,15 @@
+1505051009, tempino
+1505052001, tanjung pauh km 32
+1505052002, pelempang
+1505052003, sungai landai
+1505052004, ibru
+1505052005, nagasari
+1505052006, sebapo
+1505052010, baru
+1505052011, tanjung pauh km 39
+1505052012, nyogan
+1505052015, suka damai
+1505052016, pondok meja
+1505052017, suka maju
+1505052018, tanjung pauh talang pelita
+1505052019, muaro sebapo

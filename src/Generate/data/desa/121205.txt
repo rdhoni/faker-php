@@ -1,0 +1,7 @@
+1212052001, meranti utara
+1212052002, meranti timur
+1212052003, meranti tengah
+1212052007, pintu pohan
+1212052008, ambar halim
+1212052009, pintu pohan dolok
+1212052010, halado

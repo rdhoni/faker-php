@@ -1,0 +1,7 @@
+1601302001, batu marta i
+1601302002, batu marta ii);
+1601302003, lekis rejo
+1601302004, lubuk banjar
+1601302005, marta jaya
+1601302006, batu raden
+1601302007, battu winangun

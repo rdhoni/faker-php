@@ -1,0 +1,22 @@
+160301, tanjung agung
+160302, muara enim
+160303, rambang niru
+160304, gunung megang
+160306, gelumbang
+160307, lawang kidul
+160308, semende darat laut
+160309, semende darat tengah
+160310, semende darat ulu
+160311, ujan mas
+160314, lubai
+160315, rambang
+160316, sungai rotan
+160317, lembak
+160319, benakat
+160321, kelekar
+160322, muara belida
+160323, belimbing
+160324, belida darat
+160325, lubai ulu
+160326, empat petulai dangku
+160327, panang enim

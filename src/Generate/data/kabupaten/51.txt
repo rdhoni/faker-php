@@ -1,0 +1,9 @@
+5101, kab jembrana
+5102, kab tabanan
+5103, kab badung
+5104, kab gianyar
+5105, kab klungkung
+5106, kab bangli
+5107, kab karangasem
+5108, kab buleleng
+5171, kota denpasar

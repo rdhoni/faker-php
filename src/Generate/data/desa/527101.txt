@@ -1,0 +1,10 @@
+5271011004, ampenan selatan
+5271011005, ampenan tengah
+5271011006, pejeruk
+5271011007, ampenan utara
+5271011008, taman sari
+5271011009, banjar
+5271011010, kebun sari
+5271011011, pajarakan karya
+5271011012, dayan peken
+5271011013, bintaro

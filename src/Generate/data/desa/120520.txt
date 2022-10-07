@@ -1,0 +1,7 @@
+1205201001, sawit seberang
+1205202002, alur gadung
+1205202003, simpang tiga
+1205202004, sei litur tasik
+1205202005, sawit hulu
+1205202006, mekar sawit
+1205202007, alur melati

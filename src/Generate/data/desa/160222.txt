@@ -1,0 +1,16 @@
+1602222001, tanjung sari i
+1602222002, lubuk seberuk
+1602222003, rantau durian i
+1602222004, sungai belida
+1602222005, lempuing indah
+1602222006, muktisari
+1602222007, tania makmur
+1602222008, sukamaju
+1602222009, muara burnai ii
+1602222010, suka jaya
+1602222011, rantau durian ii
+1602222012, tanjung sari ii
+1602222013, purwo asri
+1602222014, muara burnai i
+1602222015, lubuk makmur
+1602222016, rantau durian asli

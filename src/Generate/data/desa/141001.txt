@@ -1,0 +1,9 @@
+1410011001, selatpanjang kota
+1410011002, selatpanjang barat
+1410011003, selatpanjang selatan
+1410011004, selatpanjang timur
+1410012005, banglas
+1410012006, alah air
+1410012007, alah air timur
+1410012008, sesap
+1410012016, banglas barat

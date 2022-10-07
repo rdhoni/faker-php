@@ -1,0 +1,14 @@
+3311092001, pandeyan
+3311092002, telukan
+3311092003, parangjoro
+3311092004, pondok
+3311092005, langenharjo
+3311092006, gedangan
+3311092007, madegondo
+3311092008, grogol
+3311092009, kadokan
+3311092010, kwarasan
+3311092011, sanggrahan
+3311092012, manang
+3311092013, banaran
+3311092014, cemani

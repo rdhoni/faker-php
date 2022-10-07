@@ -1,0 +1,10 @@
+1703242001, air sebayur
+1703242002, air sekamanak
+1703242003, air simpang
+1703242004, bukit makmur
+1703242005, marga bhakti
+1703242006, bumi harjo
+1703242007, sumber mulya
+1703242008, gunung payung
+1703242009, bukit harapan
+1703242010, tanjung muara

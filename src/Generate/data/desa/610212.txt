@@ -1,0 +1,12 @@
+6102122001, sungai duri i
+6102122002, sungai duri ii
+6102122003, bukit batu
+6102122004, sungai bundung laut
+6102122005, sungai kunyit laut
+6102122006, sungai kunyit dalam
+6102122007, sungai kunyit hulu
+6102122008, sungai limau
+6102122009, sungai dungun
+6102122010, mendalok
+6102122011, semparong parit raden
+6102122012, semudun

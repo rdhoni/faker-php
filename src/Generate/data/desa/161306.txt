@@ -1,0 +1,15 @@
+1613061009, karang jaya
+1613062001, bukit ulu
+1613062002, sukaraja
+1613062003, lubuk kumbung
+1613062004, muara batang empu
+1613062005, tanjung agung
+1613062006, rantau telang
+1613062007, suka menang
+1613062008, terusan
+1613062010, muara tiku
+1613062011, embacang baru
+1613062012, embacang lama
+1613062013, rantau jaya
+1613062014, bukit langkap
+1613062015, embacang baru ilir

@@ -1,0 +1,10 @@
+7102172001, palamba
+7102172002, atep
+7102172003, manembo
+7102172004, temboan
+7102172005, rumbia
+7102172006, winebetan
+7102172007, kaayuran atas
+7102172008, kaayuran bawah
+7102172009, kawatak
+7102172010, atep satu

@@ -1,0 +1,6 @@
+5305111001, pura
+5305112002, maru
+5305112003, pura utara
+5305112004, pura selatan
+5305112005, pura timur
+5305112006, pura barat

@@ -1,0 +1,14 @@
+3315101006, wirosari
+3315101007, kunden
+3315102001, tambahrejo
+3315102002, kropak
+3315102003, kalirejo
+3315102004, dapurno
+3315102005, mojorebo
+3315102008, tanjungrejo
+3315102009, sambirejo
+3315102010, gedangan
+3315102011, tambakselo
+3315102012, karangasem
+3315102013, dokoro
+3315102014, tegalrejo

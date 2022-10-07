@@ -1,0 +1,10 @@
+7102211001, talikuran
+7102211002, talikuran utara
+7102211003, talikuran barat
+7102211004, uner
+7102212005, kiawa satu
+7102212006, kiawa satu utara
+7102212007, kiawa satu barat
+7102212008, kiawa dua
+7102212009, kiawa dua timur
+7102212010, kiawa dua barat

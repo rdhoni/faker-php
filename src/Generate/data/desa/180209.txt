@@ -1,0 +1,9 @@
+1802092001, teluk dalem ilir
+1802092002, rekso binangun
+1802092003, rukti basuki
+1802092004, restu baru
+1802092005, restu buana
+1802092006, reno basuki
+1802092013, bina karya putra
+1802092014, bina karya buana
+1802092015, bina karya mandiri

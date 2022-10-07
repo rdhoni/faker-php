@@ -1,0 +1,30 @@
+1207032001, bandar baru
+1207032002, batu layang
+1207032003, batu mbelin
+1207032004, betimus mbaru
+1207032005, bengkurung
+1207032006, bingkawan
+1207032007, buah nabar
+1207032008, bukum
+1207032009, buluh awar
+1207032010, cinta rakyat
+1207032011, durin serugun
+1207032012, ketangkuhen
+1207032013, kuala
+1207032014, martelu
+1207032015, negeri gugung
+1207032016, puangaja
+1207032017, rumah kinangkung sp
+1207032018, rambung baru
+1207032019, rumah pil pil
+1207032020, rumah sumbul
+1207032021, sala bulan
+1207032022, sayum sabah
+1207032023, sembahe
+1207032024, sibolangit
+1207032025, sikeben
+1207032026, suka maju
+1207032027, suka makmur
+1207032028, tambunen
+1207032029, tanjung beringin
+1207032030, ujung deleng

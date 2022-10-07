@@ -1,0 +1,10 @@
+1301112001, tapan
+1301112002, pasar tapan
+1301112007, batang arah tapan
+1301112008, ampang tulak tapan
+1301112009, tanjung pondok tapan
+1301112010, batang betung tapan
+1301112016, bukit buai tapan
+1301112017, riak danau tapan
+1301112018, koto anau tapan
+1301112019, dusun baru tapan

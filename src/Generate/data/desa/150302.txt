@@ -1,0 +1,16 @@
+1503022005, pulau pandan
+1503022006, temenggung
+1503022007, ranggo
+1503022008, panca karya
+1503022009, lubuk bedorong
+1503022010, maribung
+1503022011, napal melintang
+1503022012, berkun
+1503022013, mersip
+1503022014, tanjung raden
+1503022016, moenti
+1503022017, muara mensao
+1503022018, demang
+1503022021, temalang
+1503022022, muara limun
+1503022023, suka damai

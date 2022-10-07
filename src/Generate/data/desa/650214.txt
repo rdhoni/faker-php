@@ -1,0 +1,8 @@
+6502142001, long lake
+6502142002, punan mirau
+6502142003, long rat
+6502142004, halanga
+6502142005, metut
+6502142006, long jalan
+6502142007, nahakramo
+6502142008, tanjung nanga

@@ -1,0 +1,17 @@
+6308102001, sungai tabukan
+6308102002, nelayan
+6308102003, galagah hulu
+6308102004, galagah
+6308102005, teluk cati
+6308102006, pematang benteng
+6308102007, pematang benteng hilir
+6308102008, pasar sabtu
+6308102009, sungai haji
+6308102010, hilir mesjid
+6308102011, gampa raya
+6308102012, banua hanyar
+6308102013, rantau bujur hulu
+6308102014, rantau bujur tengah
+6308102015, rantau bujur hilir
+6308102016, rantau bujur darat
+6308102017, tambalang raya

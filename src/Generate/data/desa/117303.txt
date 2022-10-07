@@ -1,0 +1,22 @@
+1173032001, kuala
+1173032002, blang cut
+1173032003, jambo mesjid
+1173032004, jambo timu
+1173032005, tunong
+1173032006, blang teue
+1173032007, teungoh
+1173032008, baloi
+1173032009, mane kareung
+1173032010, asan kareung
+1173032011, rayeuk kareung
+1173032012, blang punteuet
+1173032013, kumbang punteuet
+1173032014, mesjid punteuet
+1173032015, ulee blang mane
+1173032016, keude punteuet
+1173032017, alue lim
+1173032018, blang buloh
+1173032019, blang weu panjoe
+1173032020, jeulikat
+1173032021, blang weu baroh
+1173032022, seuneubok

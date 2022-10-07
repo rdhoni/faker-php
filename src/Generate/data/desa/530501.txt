@@ -1,0 +1,16 @@
+5305011001, kalabahi barat
+5305011002, kalabahi kota
+5305011003, kalabahi tengah
+5305011004, kalabahi timur
+5305011005, binongko
+5305011006, nusa kenari
+5305011008, welai barat
+5305011009, welai timur
+5305011010, mutiara
+5305011011, wetabua
+5305012012, lendola
+5305012013, fanating
+5305012014, motongbang
+5305012015, air kenari
+5305012018, teluk kenari
+5305012019, adang buom

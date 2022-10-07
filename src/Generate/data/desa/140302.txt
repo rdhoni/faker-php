@@ -1,0 +1,23 @@
+1403022001, bantan tengah
+1403022002, bantan air
+1403022003, bantan tua
+1403022004, telukpambang
+1403022005, selat baru
+1403022006, teluklancar
+1403022007, kembung luar
+1403022008, jangkang
+1403022009, muntai
+1403022010, resam lapis
+1403022011, berancah
+1403022012, ulu pulau
+1403022013, mentayan
+1403022014, pampang pesisir
+1403022015, sukamaju
+1403022016, pampang baru
+1403022017, kembung baru
+1403022018, pasiran
+1403022019, bantan sari
+1403022020, bantan timur
+1403022021, telukpapal
+1403022022, muntai barat
+1403022023, deluk

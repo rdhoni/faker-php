@@ -1,0 +1,23 @@
+6402131001, salok api barat
+6402131002, salok api laut
+6402131003, ambarawang laut
+6402131004, ambarawang darat
+6402131005, margomulyo
+6402131006, sungai merdeka
+6402131007, sungai seluang
+6402131008, wonotirto
+6402131009, tanjung harapan
+6402131010, samboja kuala
+6402131011, sanipah
+6402131012, handil baru
+6402131013, muara sembilang
+6402131015, bukit merdeka
+6402131017, argo sari
+6402131020, karya merdeka
+6402131021, teluk pemedas
+6402131022, kampung lama
+6402131023, handil baru darat
+6402132014, karya jaya
+6402132016, bukit raya
+6402132018, tani bhakti
+6402132019, beringin agung

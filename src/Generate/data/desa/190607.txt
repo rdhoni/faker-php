@@ -1,0 +1,4 @@
+1906072001, simpang pesak
+1906072002, tanjung batu itam
+1906072003, tanjung kelumpang
+1906072004, dukong

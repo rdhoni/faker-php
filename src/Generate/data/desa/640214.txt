@@ -1,0 +1,8 @@
+6402141001, muara jawa ilir
+6402141002, muara jawa tengah
+6402141003, muara jawa ulu
+6402141004, teluk dalam
+6402141005, dondang
+6402141006, tama pole
+6402141007, muara kembang
+6402141008, muara jawa

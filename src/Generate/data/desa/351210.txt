@@ -1,0 +1,10 @@
+3512102001, kandang
+3512102002, curah cotok
+3512102003, peleyan
+3512102004, wonokoyo
+3512102005, seletreng
+3512102006, landangan
+3512102007, kapongan
+3512102008, kesambirampak
+3512102009, gebangan
+3512102010, pokaan

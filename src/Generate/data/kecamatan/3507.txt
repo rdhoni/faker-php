@@ -1,0 +1,33 @@
+350701, donomulyo
+350702, pagak
+350703, bantur
+350704, sumbermanjing wetan
+350705, dampit
+350706, ampelgading
+350707, poncokusumo
+350708, wajak
+350709, turen
+350710, gondanglegi
+350711, kalipare
+350712, sumberpucung
+350713, kepanjen
+350714, bululawang
+350715, tajinan
+350716, tumpang
+350717, jabung
+350718, pakis
+350719, pakisaji
+350720, ngajum
+350721, wagir
+350722, dau
+350723, karang ploso
+350724, singosari
+350725, lawang
+350726, pujon
+350727, ngantang
+350728, kasembon
+350729, gedangan
+350730, tirtoyudo
+350731, kromengan
+350732, wonosari
+350733, pagelaran

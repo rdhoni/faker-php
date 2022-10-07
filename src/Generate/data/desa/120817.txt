@@ -1,0 +1,16 @@
+1208171015, serbelawan
+1208171016, aman sari
+1208172001, silenduk
+1208172002, bah tobu
+1208172003, bandar selamat
+1208172004, dolok ilir i
+1208172005, dolok ilir ii
+1208172006, bahung kahean
+1208172007, dolok mainu
+1208172008, dolok merangir i
+1208172009, dolok merangir ii
+1208172010, kahean
+1208172011, dolok tenera
+1208172012, dolok kataran
+1208172013, padang mainu
+1208172014, bahung huluan

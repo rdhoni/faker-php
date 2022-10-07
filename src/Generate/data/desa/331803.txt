@@ -1,0 +1,18 @@
+3318032001, pakis
+3318032002, maitan
+3318032003, wukirsari
+3318032004, sinomwidodo
+3318032005, keben
+3318032006, larangan
+3318032007, tambakromo
+3318032008, mojomulyo
+3318032009, karangawen
+3318032010, mangunrekso
+3318032011, tambaharjo
+3318032012, tambahagung
+3318032013, sitirejo
+3318032014, kedalingan
+3318032015, karangmulyo
+3318032016, karangwono
+3318032017, angkatan lor
+3318032018, angkatan kidul

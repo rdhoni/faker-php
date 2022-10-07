@@ -1,0 +1,5 @@
+3522032001, nglamping
+3522032002, karangmangu
+3522032003, ngambon
+3522032004, sengon
+3522032005, bondol

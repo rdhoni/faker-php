@@ -1,0 +1,13 @@
+1218141012, melati kebun
+1218142001, bengabing
+1218142002, bingkat
+1218142003, jati mulyo
+1218142004, karang anyar
+1218142005, lestari dadi
+1218142006, pegajahan
+1218142007, petuaran hulu
+1218142008, petuaran hilir
+1218142009, pondok tengah
+1218142010, sukasari
+1218142011, tanjung putus
+1218142013, sennah

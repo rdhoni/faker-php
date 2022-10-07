@@ -1,0 +1,10 @@
+5101041001, gilimanuk
+5101042002, melaya
+5101042003, belimbingsari
+5101042004, ekasari
+5101042005, nusasari
+5101042006, warnasari
+5101042007, candikusuma
+5101042008, tuwed
+5101042009, tukadaya
+5101042010, manistutu

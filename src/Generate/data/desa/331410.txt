@@ -1,0 +1,8 @@
+3314101001, sine
+3314101002, sragen kulon
+3314101003, sragen tengah
+3314101004, sragen wetan
+3314101005, nglorog
+3314101006, karang tengah
+3314102007, tangkil
+3314102008, kedungupit

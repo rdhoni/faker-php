@@ -1,0 +1,5 @@
+617201, singkawang tengah
+617202, singkawang barat
+617203, singkawang timur
+617204, singkawang utara
+617205, singkawang selatan

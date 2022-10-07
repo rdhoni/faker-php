@@ -1,0 +1,12 @@
+3508072001, darungan
+3508072002, kraton
+3508072003, wotgalih
+3508072004, tunjungrejo
+3508072005, yosowilangun kidul
+3508072006, yosowilangun lor
+3508072007, krai
+3508072008, karanganyar
+3508072009, karangrejo
+3508072010, munder
+3508072011, kebonsari
+3508072012, kalipepe

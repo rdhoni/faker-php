@@ -1,0 +1,22 @@
+1810052001, candi retno
+1810052002, tanjung dalom
+1810052003, way ngison
+1810052004, suka wangi
+1810052005, suka ratu
+1810052006, pagelaran
+1810052007, patoman
+1810052008, karangsari
+1810052009, gumuk mas
+1810052010, bumi ratu
+1810052011, panutan
+1810052012, lugusari
+1810052019, pamenang
+1810052020, gemah ripah
+1810052023, pasir ukir
+1810052024, gumukrejo
+1810052027, puji harjo
+1810052028, padang rejo
+1810052029, sidodadi
+1810052030, sumber rejo
+1810052031, ganjaran
+1810052032, bumi rejo

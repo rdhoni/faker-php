@@ -1,0 +1,17 @@
+3301042001, jati
+3301042002, kepudang
+3301042003, jepara kulon
+3301042004, widarapayung kulon
+3301042005, jepara wetan
+3301042006, bangkal
+3301042007, binangun
+3301042008, widarapayung wetan
+3301042009, alangamba
+3301042010, pasuruhan
+3301042011, sidaurip
+3301042012, pagubugan
+3301042013, pesawahan
+3301042014, kemojing
+3301042015, karangnangka
+3301042016, sidayu
+3301042017, pagubugan kulon

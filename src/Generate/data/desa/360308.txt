@@ -1,0 +1,12 @@
+3603081002, mauk timur
+3603082001, mauk barat
+3603082003, tegal kunir kidul
+3603082004, tegal kunir lor
+3603082005, sasak
+3603082006, gunung sari
+3603082007, kedung dalem
+3603082008, marga mulya
+3603082009, tanjung anom
+3603082010, jatiwaringin
+3603082011, banyu asih
+3603082012, ketapang

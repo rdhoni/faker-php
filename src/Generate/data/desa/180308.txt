@@ -1,0 +1,15 @@
+1803082005, ogan jaya
+1803082009, ciamis
+1803082010, padang ratu
+1803082011, negeri sakti
+1803082012, negeri ratu
+1803082019, negara ratu
+1803082020, batu raja
+1803082021, gedung batin
+1803082022, negara batin
+1803082023, kota negara
+1803082024, bangun jaya
+1803082028, baru raharja
+1803082029, hanakau jaya
+1803082032, negara batin ii
+1803082033, kota negara ilir

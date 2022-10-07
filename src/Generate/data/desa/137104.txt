@@ -1,0 +1,7 @@
+1371041001, air tawar timur
+1371041002, air tawar barat
+1371041003, ulak karang utara
+1371041004, ulak karang selatan
+1371041005, lolong belanti
+1371041006, alai parak kopi
+1371041007, gunung pangilun

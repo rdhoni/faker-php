@@ -1,0 +1,47 @@
+1106112001, krueng anoi
+1106112002, lam puuk
+1106112003, cot beut
+1106112004, bueng bakjok
+1106112005, lam neuheun
+1106112006, seupeu
+1106112007, cot mancang
+1106112008, lam baed
+1106112009, cot masam
+1106112016, gue
+1106112018, lam sabang
+1106112019, lam alue raya
+1106112020, lam alue cut
+1106112021, leupung mesjid
+1106112022, cot lamee
+1106112023, leupung ule alue
+1106112024, lampoh tarom
+1106112025, lamteube geupula
+1106112026, lamteube mon ara
+1106112027, aron
+1106112028, bak buloh
+1106112029, lam seunong
+1106112030, lam raya
+1106112031, lam roh
+1106112032, lambunot  tanoh
+1106112033, tumpok lampoh
+1106112034, puuk
+1106112035, lambunot paya
+1106112036, lampoh keude
+1106112037, lam asan
+1106112038, lambro deyah
+1106112039, lambro bileu
+1106112040, cot peutano
+1106112041, cot cut
+1106112042, meunasah  baktrieng
+1106112043, babah jurong
+1106112044, lam glumpang
+1106112045, rabeu
+1106112046, cucum
+1106112047, deyah
+1106112048, lam trieng
+1106112049, beurangong
+1106112050, cot preh
+1106112051, cot raya
+1106112052, cot yang
+1106112053, ujong blang
+1106112054, lamceu

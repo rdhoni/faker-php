@@ -1,0 +1,12 @@
+1209201001, teladan
+1209201002, siumbut umbut
+1209201003, siumbut baru
+1209201004, sentang
+1209201005, selawan
+1209201006, mutiara
+1209201007, lestari
+1209201008, kisaran timur
+1209201009, kisaran naga
+1209201010, kedai ledang
+1209201011, karang anyer
+1209201012, gambir baru

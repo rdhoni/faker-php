@@ -1,0 +1,14 @@
+1409072001, pulaumungkur
+1409072002, telukberingin
+1409072003, pulaurumput
+1409072004, seberang gunung
+1409072005, teberau panjang
+1409072006, koto gunung
+1409072007, gunung
+1409072008, toar
+1409072009, petapahan
+1409072010, kampung baru
+1409072011, pisang berebus
+1409072012, lubuk terentang
+1409072013, siberobah
+1409072014, seberang sungai

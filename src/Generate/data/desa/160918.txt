@@ -1,0 +1,8 @@
+1609182001, peninggiran
+1609182002, kuripan
+1609182003, surabaya
+1609182004, sukarena
+1609182005, karang pendeta
+1609182006, kota agung
+1609182007, sukabumi
+1609182008, kuripan ii

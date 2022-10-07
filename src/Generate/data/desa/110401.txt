@@ -1,0 +1,26 @@
+1104012003, delung sekinel
+1104012005, gelampang gading
+1104012006, gewat
+1104012008, jamat
+1104012009, kemerleng
+1104012010, kute baru
+1104012011, kute keramil
+1104012012, kute rayang
+1104012013, kute riyem
+1104012014, kute robel
+1104012015, linge
+1104012016, lumut
+1104012018, mungkur
+1104012019, owaq
+1104012020, pantan nangka
+1104012021, penarun
+1104012022, simpang tige uning
+1104012023, umang
+1104012024, despot linge
+1104012025, gemboyah
+1104012031, arul item
+1104012032, ise-ise
+1104012033, kute reje
+1104012034, reje payung
+1104012035, pantan reduk
+1104012036, antara

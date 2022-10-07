@@ -1,0 +1,11 @@
+137101, padang selatan
+137102, padang timur
+137103, padang barat
+137104, padang utara
+137105, bungus teluk kabung
+137106, lubuk begalung
+137107, lubuk kilangan
+137108, pauh
+137109, kuranji
+137110, nanggalo
+137111, koto tangah

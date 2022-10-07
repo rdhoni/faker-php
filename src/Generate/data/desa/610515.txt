@@ -1,0 +1,33 @@
+6105152001, nanga kemangai
+6105152002, nanga ambalau
+6105152003, nanga kesange
+6105152004, nanga menakon
+6105152005, nanga sake
+6105152006, buntut pimpin
+6105152007, kepala jungai
+6105152008, tanjung andan
+6105152009, buntut sabon
+6105152010, nanga keremoi
+6105152011, nanga menantak
+6105152012, buntut purun
+6105152013, nanga sakai
+6105152014, nanga mentomoi
+6105152015, sungai tambun
+6105152016, riam sabon
+6105152017, nanga ukai
+6105152018, mensuang
+6105152019, dahtah bungai
+6105152020, lunjan tingang
+6105152021, bukit tinggi
+6105152022, bukai tukun
+6105152023, nusa koring
+6105152024, purut beribit
+6105152025, pulou sabhang
+6105152026, patih jepara
+6105152027, korong daso
+6105152028, luting mingan
+6105152029, kolangan juoi
+6105152030, nanga rade
+6105152031, jengkarang
+6105152032, deme
+6105152033, nanga pahangan

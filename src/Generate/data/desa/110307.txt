@@ -1,0 +1,38 @@
+1103072001, pasir putih
+1103072002, tualang
+1103072003, keude peureulak
+1103072004, leuge
+1103072005, uteun dama
+1103072006, punti
+1103072007, alue dua paya gajah
+1103072008, blang bitra
+1103072009, kuala bugak
+1103072010, paya lipah
+1103072011, seumatang  muda itam
+1103072012, lhok dalam
+1103072013, beusa meuranoe
+1103072014, bangka rimung
+1103072015, tanoh rata
+1103072016, bandrong
+1103072017, blang balok
+1103072018, cot muda itam
+1103072019, keumuneng
+1103072020, kuala leuge
+1103072021, balee buya
+1103072022, alue nibong
+1103072023, seuneubok peusangan
+1103072024, seuneubok aceh
+1103072025, seuneubok pidie
+1103072026, dama tutong
+1103072027, matang gleum
+1103072028, lubok pempeng
+1103072029, buket pala
+1103072030, paya kalui
+1103072031, cek mbon
+1103072032, paya meuligou
+1103072033, blang simpo
+1103072034, blang batee
+1103072035, matang peulawi
+1103072036, cot geulumpang
+1103072037, alue rambong
+1103072038, cot keh

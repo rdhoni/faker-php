@@ -1,0 +1,18 @@
+7208122001, kayu agung
+7208122002, sumber agung
+7208122003, kotaraya
+7208122004, mepanga
+7208122005, ogotion
+7208122006, mensung
+7208122007, bugis
+7208122008, moubang
+7208122009, ogobayas
+7208122010, kota raya timur
+7208122011, malalan
+7208122012, kota raya selatan
+7208122013, maranti
+7208122014, ogomolos
+7208122015, kotaraya barat
+7208122016, bugis utara
+7208122017, gurinda
+7208122018, kotaraya tenggara

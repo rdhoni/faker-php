@@ -1,0 +1,17 @@
+3304122001, sambong
+3304122002, danakerta
+3304122003, klapa
+3304122004, kecepit
+3304122005, karangsari
+3304122006, tribuana
+3304122007, sawangan
+3304122008, sidarata
+3304122009, badakarya
+3304122010, punggelan
+3304122011, jembangan
+3304122012, purwasana
+3304122013, petuguran
+3304122014, bondolharjo
+3304122015, tanjungtirta
+3304122016, tlaga
+3304122017, mlaya

@@ -1,0 +1,33 @@
+1220032001, hutaimbaru
+1220032002, hambulo
+1220032003, paolan
+1220032004, pangirkiran
+1220032005, balimbing
+1220032006, rondaman siburegar
+1220032007, sipaho
+1220032008, silantoyung
+1220032009, hiteurat
+1220032010, siboru angin
+1220032011, sandean jae
+1220032012, sandean tonga
+1220032013, sandean julu
+1220032014, hasahatan
+1220032015, pagar gunung
+1220032016, pangarambangan
+1220032017, napa lancat
+1220032018, halongonan
+1220032019, bargot topong julu
+1220032020, bargot topong jae
+1220032021, siringki jae
+1220032022, ujung padang
+1220032023, sigala gala
+1220032032, hutanopan
+1220032036, sipenggeng
+1220032037, saba
+1220032038, sitabola
+1220032039, sitonun
+1220032040, tapus jae
+1220032041, japinulik
+1220032042, paran honas
+1220032043, siringki julu
+1220032044, batu tunggal

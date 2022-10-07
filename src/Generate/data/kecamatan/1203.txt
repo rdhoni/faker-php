@@ -1,0 +1,15 @@
+120301, angkola barat
+120302, batang toru
+120303, angkola timur
+120304, sipirok
+120305, saipar dolok hole
+120306, angkola selatan
+120307, batang angkola
+120314, arse
+120320, marancar
+120321, sayur matinggi
+120322, aek bilah
+120329, muara batang toru
+120330, tano tombangan angkola
+120331, angkola sangkunur
+120332, angkola muara tais

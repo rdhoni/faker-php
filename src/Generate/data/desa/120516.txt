@@ -1,0 +1,9 @@
+1205161009, pekan besitang
+1205161010, bukit kubu
+1205161011, kampung lama
+1205162001, halaban
+1205162002, bukit mas
+1205162005, pir abd besitang
+1205162006, sekoci
+1205162007, suka jaya
+1205162008, bukit selamat

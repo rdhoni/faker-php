@@ -1,0 +1,17 @@
+1602182001, sungai somor
+1602182002, sungai lumpur
+1602182003, sungai jeruju
+1602182004, sungai ketupak
+1602182005, ulak kedondong
+1602182006, pelimbangan
+1602182007, cengal
+1602182008, talang rimba
+1602182009, sungai pasir
+1602182010, kuala sungai jeruju
+1602182011, kuala sungai pasir
+1602182012, pantai harapan
+1602182013, adil makmur
+1602182014, balam jeruju
+1602182015, kebun cabe
+1602182016, lebak beriang
+1602182017, parit raya

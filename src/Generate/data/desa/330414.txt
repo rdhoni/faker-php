@@ -1,0 +1,16 @@
+3304142001, larangan
+3304142002, karangnangka
+3304142003, aribaya
+3304142004, nagasari
+3304142005, gumingsir
+3304142006, sokaraja
+3304142007, kayuares
+3304142008, metawana
+3304142009, kalitlaga
+3304142010, karekan
+3304142011, plumbungan
+3304142012, pagentan
+3304142013, kasmaran
+3304142014, majasari
+3304142015, babadan
+3304142016, tegaljeruk

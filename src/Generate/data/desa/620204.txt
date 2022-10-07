@@ -1,0 +1,15 @@
+6202041004, parenggean
+6202042001, tehang
+6202042002, kabuau
+6202042007, barunang miri
+6202042009, sumber makmur
+6202042010, mekar jaya
+6202042011, karang tunggal
+6202042012, bandar agung
+6202042013, beringin tunggal jaya
+6202042015, sari harapan
+6202042016, karang sari
+6202042019, bajarau
+6202042023, bukit harapan
+6202042024, manjalin
+6202042025, karya bersama

@@ -1,0 +1,10 @@
+1403031010, sungaipakning-api
+1403032001, sejangat
+1403032002, dompas
+1403032003, pangkalan jambi
+1403032004, sungaiselari
+1403032005, buruk bakul
+1403032006, bukit batu
+1403032007, sukajadi
+1403032016, batang duku
+1403032017, pakning asal

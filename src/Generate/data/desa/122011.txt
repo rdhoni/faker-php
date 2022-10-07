@@ -1,0 +1,14 @@
+1220112001, siancimun
+1220112002, bolatan
+1220112003, pasir bara
+1220112004, gunung intan
+1220112005, mompang i
+1220112006, gunung manaon iii
+1220112007, sihopuk baru
+1220112008, sihopuk lama
+1220112009, rondaman
+1220112010, hutabaru nangka
+1220112011, situmbaga
+1220112012, batang pane i
+1220112013, batang pane ii
+1220112014, batang pane iii

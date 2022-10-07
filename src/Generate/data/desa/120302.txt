@@ -1,0 +1,23 @@
+1203021001, wek i
+1203021002, wek ii
+1203021011, perkebunan batang toru
+1203021030, padang lancat
+1203021032, aek pining
+1203022003, garoga
+1203022004, huta godang
+1203022005, batu horing
+1203022008, batu hula
+1203022009, sumuran
+1203022015, napa
+1203022016, wek iv
+1203022017, hapesong baru
+1203022018, telo
+1203022019, wek iii
+1203022020, perkebunan sigala-gala
+1203022021, perkebunan hapesong
+1203022022, hapesong lama
+1203022023, sipenggeng
+1203022025, sianggunan
+1203022026, huta baru
+1203022036, aek ngadol sitinjak
+1203022037, sisipa

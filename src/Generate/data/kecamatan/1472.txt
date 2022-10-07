@@ -1,0 +1,7 @@
+147201, dumai barat
+147202, dumai timur
+147203, bukit kapur
+147204, sungai sembilan
+147205, medang kampai
+147206, dumai kota
+147207, dumai selatan

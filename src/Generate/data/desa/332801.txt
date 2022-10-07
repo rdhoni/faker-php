@@ -1,0 +1,13 @@
+3328012001, prupuk selatan
+3328012002, kaligayam
+3328012003, dukuh tengah
+3328012004, wanasari
+3328012005, danaraja
+3328012006, jembayat
+3328012007, margasari
+3328012008, pakulaut
+3328012009, karangdawa
+3328012010, kalisalak
+3328012011, jatilaba
+3328012012, prupuk utara
+3328012013, marga ayu

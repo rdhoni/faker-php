@@ -1,0 +1,12 @@
+1806192001, batu kramat
+1806192002, kampung baru
+1806192003, umbul buah
+1806192004, menggala
+1806192005, mulang maya
+1806192006, sukabanjar
+1806192007, tanjung anom
+1806192008, kagungan
+1806192009, kerta
+1806192010, teba
+1806192011, talang rejo
+1806192012, tanjung jati

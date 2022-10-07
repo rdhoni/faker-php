@@ -1,0 +1,8 @@
+3671131001, larangan utara
+3671131002, larangan selatan
+3671131003, cipadu
+3671131004, kreo
+3671131005, larangan indah
+3671131006, gaga
+3671131007, cipadu jaya
+3671131008, kreo selatan

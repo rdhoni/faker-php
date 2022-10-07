@@ -1,0 +1,21 @@
+1610021017, tanjung batu
+1610021037, tanjung batu timur
+1610022010, seri bandung
+1610022011, seri tanjung
+1610022012, tanjung tambak
+1610022013, senuro timur
+1610022014, tanjung baru petai
+1610022015, tanjung batu seberang
+1610022016, pajar bulan
+1610022018, tanjung atap
+1610022019, tanjung pinang i
+1610022020, limbang jaya i
+1610022021, tanjung laut
+1610022026, burai
+1610022027, sentul
+1610022031, bangun jaya
+1610022032, tanjung tambak baru
+1610022033, limbang jaya ii
+1610022034, senuro barat
+1610022035, tanjung pinang ii
+1610022036, tanjung atap barat

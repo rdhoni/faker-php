@@ -1,0 +1,24 @@
+530301, miomafo timur
+530302, miomafo barat
+530303, biboki selatan
+530304, noemuti
+530305, kota kefamenanu
+530306, biboki utara
+530307, biboki anleu
+530308, insana
+530309, insana utara
+530310, noemuti timur
+530311, miomaffo tengah
+530312, musi
+530313, mutis
+530314, bikomi selatan
+530315, bikomi tengah
+530316, bikomi nilulat
+530317, bikomi utara
+530318, naibenu
+530319, insana fafinesu
+530320, insana barat
+530321, insana tengah
+530322, biboki tan pah
+530323, biboki moenleu
+530324, biboki feotleu

@@ -1,0 +1,17 @@
+1402092001, japura
+1402092002, sidomulyo
+1402092003, pasir ringgit
+1402092004, gudang batu
+1402092005, sungai sagu
+1402092006, lirik area
+1402092007, rejosari
+1402092008, lambang sari v
+1402092009, lambang sari iv
+1402092010, lambang sari i, ii, iii
+1402092011, wonosari
+1402092012, seko lubuk tigo
+1402092013, banjar balam
+1402092014, redang seko
+1402092015, sukajadi
+1402092016, mekar sari
+1402092017, pasir sialang jaya

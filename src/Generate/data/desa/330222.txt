@@ -1,0 +1,12 @@
+3302222001, purwosari
+3302222002, kutasari
+3302222003, pandak
+3302222004, pamijen
+3302222005, rempoah
+3302222006, kebumen
+3302222007, karang tengah
+3302222008, kemutug kidul
+3302222009, karangsalam lor
+3302222010, kemutug lor
+3302222011, karangmangu
+3302222012, ketenger

@@ -1,0 +1,20 @@
+1207261019, kenangan
+1207261020, kenangan baru
+1207262001, pematang lalang
+1207262002, sambirejo timur
+1207262003, kolam
+1207262004, percut
+1207262005, laut dendang
+1207262006, tembung
+1207262007, cinta rakyat
+1207262008, amplas
+1207262009, saentis
+1207262010, sampali
+1207262011, bandar khalipah
+1207262012, bandar klippa
+1207262013, tanjung selamat
+1207262014, tanjung rejo
+1207262015, medan estate
+1207262016, cinta damai
+1207262017, bandar setia
+1207262018, sei rotan

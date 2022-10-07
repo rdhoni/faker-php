@@ -1,0 +1,22 @@
+5301, kab kupang
+5302, kab timor tengah selatan
+5303, kab timor tengah utara
+5304, kab belu
+5305, kab alor
+5306, kab flores timur
+5307, kab sikka
+5308, kab ende
+5309, kab ngada
+5310, kab manggarai
+5311, kab sumba timur
+5312, kab sumba barat
+5313, kab lembata
+5314, kab rote ndao
+5315, kab manggarai barat
+5316, kab nagekeo
+5317, kab sumba tengah
+5318, kab sumba barat daya
+5319, kab manggarai timur
+5320, kab sabu raijua
+5321, kab malaka
+5371, kota kupang

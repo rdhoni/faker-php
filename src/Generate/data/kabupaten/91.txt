@@ -1,0 +1,29 @@
+9101, kab merauke
+9102, kab jayawijaya
+9103, kab jayapura
+9104, kab nabire
+9105, kab kepulauan yapen
+9106, kab biak numfor
+9107, kab puncak jaya
+9108, kab paniai
+9109, kab mimika
+9110, kab sarmi
+9111, kab keerom
+9112, kab pegunungan bintang
+9113, kab yahukimo
+9114, kab tolikara
+9115, kab waropen
+9116, kab boven digoel
+9117, kab mappi
+9118, kab asmat
+9119, kab supiori
+9120, kab mamberamo raya
+9121, kab mamberamo tengah
+9122, kab yalimo
+9123, kab lanny jaya
+9124, kab nduga
+9125, kab puncak
+9126, kab dogiyai
+9127, kab intan jaya
+9128, kab deiyai
+9171, kota jayapura

@@ -1,0 +1,16 @@
+161001, muara kuang
+161002, tanjung batu
+161003, tanjung raja
+161004, indralaya
+161005, pemulutan
+161006, rantau alai
+161007, indralaya utara
+161008, indralaya selatan
+161009, pemulutan selatan
+161010, pemulutan barat
+161011, rantau panjang
+161012, sungai pinang
+161013, kandis
+161014, rambang kuang
+161015, lubuk keliat
+161016, payaraman

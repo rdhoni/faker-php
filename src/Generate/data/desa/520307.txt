@@ -1,0 +1,12 @@
+5203071001, pancor
+5203071002, selong
+5203071003, kelayu selatan
+5203071004, denggen
+5203071005, sekarteja
+5203071006, majidi
+5203071007, rakam
+5203071008, sandu baya
+5203071009, kembang sari
+5203071010, kelayu utara
+5203071011, kelaju jorong
+5203072012, danggen timur

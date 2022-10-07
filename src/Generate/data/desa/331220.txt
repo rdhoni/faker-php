@@ -1,0 +1,17 @@
+3312201009, pelem
+3312201012, tanjungsari
+3312202001, tasikhargo
+3312202002, sumberejo
+3312202003, rejosari
+3312202004, gondangsari
+3312202005, sidorejo
+3312202006, ngrompak
+3312202007, semen
+3312202008, pule
+3312202010, sambirejo
+3312202011, tanggulangin
+3312202013, gunungsari
+3312202014, jatisari
+3312202015, jatisrono
+3312202016, watangsono
+3312202017, pandeyan

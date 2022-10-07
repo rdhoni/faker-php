@@ -1,0 +1,26 @@
+6308062003, pakapuran
+6308062004, pakacangan
+6308062005, panangkalaan
+6308062006, padang basar
+6308062007, murung karangan
+6308062008, kamayahan
+6308062009, guntung
+6308062010, muara baruh
+6308062011, teluk daun
+6308062012, sungai turak
+6308062013, tabalong mati
+6308062020, pimping
+6308062021, padang luar
+6308062023, tayur
+6308062026, panangkalaan hulu
+6308062027, cakeru
+6308062028, sungai turak dalam
+6308062029, panyaungan
+6308062030, kuangan
+6308062032, tabing liring
+6308062033, padang basar hilir
+6308062034, telaga bamban
+6308062035, air tawar
+6308062037, panangian
+6308062041, pamintangan
+6308062044, pandawanan

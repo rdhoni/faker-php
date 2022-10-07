@@ -1,0 +1,64 @@
+1107142001, mesjid kunyet
+1107142002, piala kunyet
+1107142003, hagu kunyet
+1107142004, baro kunyet
+1107142005, dayah tanoh kunyet
+1107142006, kambuk nicah kunyet
+1107142007, kambuk payapi kunyet
+1107142008, seunadeu kunyet
+1107142009, blang guci kunyet
+1107142010, dayah baroh kunyet
+1107142011, blang geuleudieng
+1107142012, geulumpang geuleudieng
+1107142013, mesjid geuleudieng
+1107142014, sukon peudaya
+1107142015, mesjid peudaya
+1107142016, cut peudaya
+1107142017, buloh peudaya
+1107142018, perlak peudaya
+1107142019, dayah baroh peudaya
+1107142020, teungoh peudaya
+1107142021, tuha peudaya
+1107142022, tunong peudaya
+1107142023, buni reulieng peudaya
+1107142024, trieng paloh
+1107142025, leuhob paloh
+1107142026, cut paloh
+1107142027, suyo paloh
+1107142028, kreb paloh
+1107142029, capa paloh
+1107142030, jurong anoe paloh
+1107142031, balee paloh
+1107142032, siron paloh
+1107142033, jurong gampong cut paloh
+1107142034, pante cermen paloh
+1107142035, pasar paloh
+1107142036, mesjid paloh
+1107142037, mukee beurabo
+1107142038, mesjid beurabo
+1107142039, seukembrok beurabo
+1107142040, baro beurabo
+1107142041, adang beurabo
+1107142042, paloh jeurat beurabo
+1107142043, seuleunggieng beurabo
+1107142044, teungoh drien gogo
+1107142045, kumbang gogo
+1107142046, mesjid gogo
+1107142047, tuha gogo
+1107142048, gle gogo
+1107142049, mukee gogo
+1107142050, raya gogo
+1107142051, grong-grong gogo
+1107142052, aron bunot gogo
+1107142053, buloh gogo
+1107142054, tonoeng tanjong
+1107142055, kupula tanjong
+1107142056, jok tanjong
+1107142057, leun tanjong
+1107142058, pante crung tanjong
+1107142059, cot keutapang tanjong
+1107142060, siron tanjong
+1107142061, mesjid tanjong
+1107142062, khang tanjong
+1107142063, meuriya tanjong
+1107142064, pulo hagu tanjong

@@ -1,0 +1,14 @@
+3305191008, gombong
+3305191009, wonokriyo
+3305192001, kalitengah
+3305192002, kemukus
+3305192003, banjarsari
+3305192004, panjangsari
+3305192005, patemon
+3305192006, kedungpuji
+3305192007, wero
+3305192010, semondo
+3305192011, semanding
+3305192012, sidayu
+3305192013, wonosigro
+3305192014, klopogodo

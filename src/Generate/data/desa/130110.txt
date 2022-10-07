@@ -1,0 +1,10 @@
+1301102001, lunang
+1301102003, lunang utara
+1301102004, lunang selatan
+1301102005, lunang barat
+1301102015, sindang lunang
+1301102016, pondok parian lunang
+1301102017, lunang tengah
+1301102018, lunang satu
+1301102019, lunang dua
+1301102020, lunang tiga

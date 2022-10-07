@@ -1,0 +1,11 @@
+1603252001, karang agung
+1603252002, karang sari
+1603252003, karang mulya
+1603252004, sumber mulya
+1603252005, sumber asri
+1603252006, pagar dewa
+1603252007, prabumenang
+1603252008, lecah
+1603252009, mekar jaya
+1603252010, lubai persada
+1603252011, lubai makmur

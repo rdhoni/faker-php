@@ -1,0 +1,16 @@
+1610071016, timbangan
+1610072001, tanjung pering
+1610072002, bakung
+1610072003, lorok
+1610072004, parit
+1610072005, payakabung
+1610072006, sungai rambutan
+1610072007, purna jaya
+1610072008, soak batok
+1610072009, tanjung baru
+1610072010, tanjung pule
+1610072011, permata baru
+1610072012, suka mulia
+1610072013, pulau kabai
+1610072014, pulau semambu
+1610072015, palem raya

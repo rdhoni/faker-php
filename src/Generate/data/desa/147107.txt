@@ -1,0 +1,5 @@
+1471071005, simpang tiga
+1471071006, tangkerang selatan
+1471071008, tangkerang utara
+1471071011, tangkerang labuai
+1471071012, airdingin

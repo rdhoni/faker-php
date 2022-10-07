@@ -1,0 +1,9 @@
+1904062001, perlang
+1904062002, batu beriga
+1904062003, lubuk besar
+1904062004, kulur
+1904062005, lubuk lingkuk
+1904062006, lubuk pabrik
+1904062007, trubus
+1904062008, kulur ilir
+1904062009, belimbing

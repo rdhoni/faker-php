@@ -1,0 +1,13 @@
+1904031001, sungai selan
+1904032002, kerantai
+1904032003, keretak
+1904032004, lampur
+1904032005, sarang mandi
+1904032006, munggu
+1904032007, kemingking
+1904032008, sungai selan atas
+1904032009, tanjung pura
+1904032010, romadhon
+1904032011, kerakas
+1904032012, melabun
+1904032013, keretak atas

@@ -1,0 +1,8 @@
+1407061007, panipahan
+1407062001, panipahan
+1407062002, telukpulai
+1407062003, pasir limau kapas
+1407062004, sungai daun
+1407062005, panipahan darat
+1407062006, panipahan laut
+1407062008, pulaujemur

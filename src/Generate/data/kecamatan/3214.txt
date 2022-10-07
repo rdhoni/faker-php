@@ -1,0 +1,17 @@
+321401, purwakarta
+321402, campaka
+321403, jatiluhur
+321404, plered
+321405, sukatani
+321406, darangdan
+321407, maniis
+321408, tegalwaru
+321409, wanayasa
+321410, pasawahan
+321411, bojong
+321412, babakancikao
+321413, bungursari
+321414, cibatu
+321415, sukasari
+321416, pondoksalam
+321417, kiarapedes

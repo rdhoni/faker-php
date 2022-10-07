@@ -1,0 +1,21 @@
+3329162001, baros
+3329162002, buara
+3329162003, bulakelor
+3329162004, ciduwet
+3329162005, cikeusal kidul
+3329162006, cikeusal lor
+3329162007, ciseureuh
+3329162008, dukuhbadag
+3329162009, dukuhtengah
+3329162010, jemasih
+3329162011, karangbandung
+3329162012, ketanggungan
+3329162013, kubangjati
+3329162014, kubangwungu
+3329162015, kubangsari
+3329162016, pamedaran
+3329162017, sindangjaya
+3329162018, tanggungsari
+3329162019, karangmalang
+3329162020, dukuhturi
+3329162021, padakaton

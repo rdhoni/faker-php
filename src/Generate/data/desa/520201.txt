@@ -1,0 +1,15 @@
+5202011001, praya
+5202011002, leneng
+5202011003, gerunung
+5202011004, semayan
+5202011005, perapen
+5202011006, tiwugalih
+5202011007, gonjak
+5202011008, panji sari
+5202011009, renteng
+5202012010, mertak tombok
+5202012011, aik mual
+5202012012, montong terep
+5202012013, jago
+5202012014, bunut baok
+5202012015, mekar damai

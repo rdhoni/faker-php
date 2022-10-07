@@ -1,0 +1,11 @@
+7110062001, motongkad utara
+7110062002, motongkad
+7110062003, motongkad selatan
+7110062004, atoga
+7110062005, atoga timur
+7110062006, motongkad tengah
+7110062007, molobog
+7110062008, molobog barat
+7110062009, jiko
+7110062010, jiko utara
+7110062011, molobog timur

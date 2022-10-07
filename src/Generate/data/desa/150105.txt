@@ -1,0 +1,16 @@
+1501052002, baru semurup
+1501052004, koto dua lama
+1501052012, koto di air
+1501052013, pasar semurup
+1501052014, balai
+1501052015, koto majidin hilir
+1501052016, pendung hilir
+1501052018, pendung mudik
+1501052022, air tenang
+1501052024, muara semerah
+1501052029, koto majidin mudik
+1501052035, muara semerah mudik
+1501052036, sawahan koto majidin
+1501052037, sawahan jaya
+1501052038, koto majidin di air
+1501052039, pendung tengah

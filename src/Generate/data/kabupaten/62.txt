@@ -1,0 +1,14 @@
+6201, kab kotawaringin barat
+6202, kab kotawaringin timur
+6203, kab kapuas
+6204, kab barito selatan
+6205, kab barito utara
+6206, kab katingan
+6207, kab seruyan
+6208, kab sukamara
+6209, kab lamandau
+6210, kab gunung mas
+6211, kab pulang pisau
+6212, kab murung raya
+6213, kab barito timur
+6271, kota palangkaraya

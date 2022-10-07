@@ -1,0 +1,13 @@
+3302182001, kediri
+3302182002, pangebatan
+3302182003, tamansari
+3302182004, karanglewas kidul
+3302182005, karangkemiri
+3302182006, pasir wetan
+3302182007, pasir lor
+3302182008, pasir kulon
+3302182009, jipang
+3302182010, karanggude
+3302182011, singasari
+3302182012, babakan
+3302182013, sunyalangu

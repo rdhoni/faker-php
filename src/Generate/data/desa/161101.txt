@@ -1,0 +1,22 @@
+1611012001, batu jungul
+1611012002, suka dana
+1611012003, padang bumai
+1611012004, belimbing
+1611012005, tanjung kurung
+1611012006, muara pinang baru
+1611012007, lubuk tanjung
+1611012008, talang baru
+1611012009, sapa panjang
+1611012010, muara pinang lama
+1611012011, tanjung tawang
+1611012012, gedung agung
+1611012013, pajar menang
+1611012014, niur
+1611012015, muara semah
+1611012016, talang benteng
+1611012017, lubuk ulak
+1611012018, batu galang
+1611012019, muara timbuk
+1611012020, seleman ilir
+1611012021, seleman ulu
+1611012022, sawah

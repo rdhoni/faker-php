@@ -1,0 +1,15 @@
+5203082001, bagik papan
+5203082002, apit aik
+5203082003, kerumut
+5203082004, pohgading
+5203082005, batuyang
+5203082006, pringgabaya
+5203082007, labuhan lombok
+5203082008, pringgabaya utara
+5203082009, pohgading timur
+5203082010, teko
+5203082011, anggaraksa
+5203082012, tanak gadang
+5203082013, gunung malang
+5203082014, seruni mumbul
+5203082015, telaga waru

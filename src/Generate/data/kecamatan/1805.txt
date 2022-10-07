@@ -1,0 +1,15 @@
+180502, menggala
+180506, gedung aji
+180508, banjar agung
+180511, gedung meneng
+180512, rawa jitu selatan
+180513, penawar tama
+180518, rawa jitu timur
+180520, banjar margo
+180522, rawa pitu
+180523, penawar aji
+180525, dente teladas
+180526, meraksa aji
+180527, gedung aji baru
+180529, banjar baru
+180530, menggala timur

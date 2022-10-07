@@ -1,0 +1,18 @@
+6311042001, tariwin
+6311042002, lok batu
+6311042003, munjung
+6311042004, pelajau
+6311042005, batumandi
+6311042006, riwa
+6311042007, mantimin
+6311042008, mampari
+6311042009, bungur
+6311042010, teluk mesjid
+6311042011, timbun tulang
+6311042012, banua hanyar
+6311042013, bakung
+6311042014, karuh
+6311042015, guha
+6311042016, gunung manau
+6311042017, hampa raya
+6311042018, kasai

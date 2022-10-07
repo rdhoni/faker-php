@@ -1,0 +1,18 @@
+6308082001, palimbangan
+6308082002, palimbangan gusti
+6308082003, palimbang sari
+6308082004, bayur
+6308082005, lok suga
+6308082006, sungai limas
+6308082007, pihaung
+6308082008, sungai binuang
+6308082009, jingah bujur
+6308082010, haur gading
+6308082011, keramat
+6308082012, tambak sari panji
+6308082013, pulantani
+6308082014, waringin
+6308082015, tangkawang
+6308082016, tuhuran
+6308082017, teluk haur
+6308082018, panawakan

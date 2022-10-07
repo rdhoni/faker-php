@@ -1,0 +1,15 @@
+3324172001, truko
+3324172002, lebosari
+3324172003, kadilangu
+3324172004, gembonganomwetan);
+3324172005, kaliyoso
+3324172006, sukodadi
+3324172007, sendangkulon
+3324172008, sendangdawung
+3324172009, laban
+3324172010, karangmalangwetan
+3324172011, jungsemi
+3324172012, kangkung
+3324172013, tanjungmojo
+3324172014, rejosari
+3324172015, kalirejo

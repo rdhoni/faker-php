@@ -1,0 +1,5 @@
+5371031001, kelapa lima
+5371031010, oesapa
+5371031011, lasiana
+5371031014, oesapa barat
+5371031015, oesapa selatan

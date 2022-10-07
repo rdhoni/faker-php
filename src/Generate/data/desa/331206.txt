@@ -1,0 +1,11 @@
+3312061004, kedungrejo
+3312061008, beji
+3312062001, wonoharjo
+3312062002, bulurejo
+3312062003, kulurejo
+3312062005, semin
+3312062006, bumiharjo
+3312062007, gebang
+3312062009, pondoksari);
+3312062010, ngadiroyo
+3312062011, ngadipiro

@@ -1,0 +1,23 @@
+3329091002, brebes
+3329091003, gandasuli
+3329091011, limbangan kulon
+3329091012, limbangan wetan
+3329091015, pasarbatang
+3329092001, banjaranyar
+3329092004, kaligangsa kulon
+3329092005, kaligangsa wetan
+3329092006, kalimati
+3329092007, kaliwlingi
+3329092008, kedunguter
+3329092009, krasak
+3329092010, lembarawa
+3329092013, padasugih
+3329092014, pagejugan
+3329092016, pemaron
+3329092017, pulosari
+3329092018, randusanga kulon
+3329092019, randusanga wetan
+3329092020, sigambir
+3329092021, tengki
+3329092022, terlangu
+3329092023, wangandalem

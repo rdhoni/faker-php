@@ -1,0 +1,5 @@
+1508121001, sungai pinang
+1508121002, sungai kerjan
+1508122003, talang pantai
+1508122004, sungai arang
+1508122005, pulau pekan

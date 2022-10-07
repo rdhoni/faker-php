@@ -1,0 +1,12 @@
+6301012001, banua lawas
+6301012002, tabanio
+6301012003, kuala tambangan
+6301012004, takisung
+6301012005, gunung makmur
+6301012006, banua tengah
+6301012007, ranggang
+6301012008, pagatan besar
+6301012009, batilai
+6301012010, ranggang dalam
+6301012011, telaga langsat
+6301012012, sumber makmur

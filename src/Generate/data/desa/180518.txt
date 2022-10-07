@@ -1,0 +1,8 @@
+1805182001, bumi dipasena utama
+1805182002, bumi dipasena agung
+1805182003, bumi dipasena jaya
+1805182004, bumi dipasena abadi
+1805182005, bumi dipasena makmur
+1805182006, bumi sentosa
+1805182007, bumi dipasena mulya
+1805182008, bumi dipasena sjahtera

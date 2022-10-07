@@ -1,0 +1,9 @@
+1306032001, tanjung sani
+1306032002, sungai batang
+1306032003, maninjau
+1306032004, bayua
+1306032006, koto kaciak
+1306032007, duo koto
+1306032008, koto gadang
+1306032009, koto malintang
+1306032010, paninjauan

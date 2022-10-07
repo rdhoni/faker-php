@@ -1,0 +1,10 @@
+1508052001, teluk pandak
+1508052003, empelu
+1508052006, pasar lubuk landai
+1508052007, sungai gambir
+1508052009, candi
+1508052010, tanjung
+1508052012, tanah bekali
+1508052015, telentam
+1508052017, pasar rantau embacang
+1508052019, tenam

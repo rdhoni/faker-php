@@ -1,0 +1,17 @@
+3524102001, duriwetan
+3524102002, taji
+3524102003, brumbun
+3524102004, siwuran
+3524102005, klagensrampat
+3524102006, pangean
+3524102007, maduran
+3524102008, jangkungsomo
+3524102009, parengan
+3524102010, pangkatrejo
+3524102011, kanugrahan
+3524102012, gumantuk
+3524102013, ngayung
+3524102014, pringgoboyo
+3524102015, gedangan
+3524102016, turi
+3524102017, blumbang

@@ -1,0 +1,10 @@
+8201, kab halmahera barat
+8202, kab halmahera tengah
+8203, kab halmahera utara
+8204, kab halmahera selatan
+8205, kab kepulauan sula
+8206, kab halmahera timur
+8207, kab pulau morotai
+8208, kab pulau taliabu
+8271, kota ternate
+8272, kota tidore kepulauan

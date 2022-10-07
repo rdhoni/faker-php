@@ -1,0 +1,8 @@
+1603222001, gedung buruk
+1603222002, arisan musi
+1603222003, harapan mulia
+1603222004, mulia abadi
+1603222005, arisan musi timur
+1603222006, patra tani
+1603222007, tanjung baru
+1603222008, kayu ara batu

@@ -1,0 +1,20 @@
+1704022002, tinggi ari
+1704022003, tanjung aur
+1704022004, aur ringit
+1704022008, pelajaran
+1704022009, tanjung kemuning
+1704022010, selika
+1704022011, tanjung iman
+1704022012, padang leban
+1704022013, beriang tinggi
+1704022014, tanjung bulan
+1704022015, pelajaran ii
+1704022016, selika ii
+1704022017, sulauwangi
+1704022018, padang kedondong
+1704022020, padang tinggi
+1704022021, tanjung kemuning ii
+1704022022, tanjung kemuning iii
+1704022023, tanjung aur ii
+1704022024, tanjung iman ii
+1704022025, selika iii

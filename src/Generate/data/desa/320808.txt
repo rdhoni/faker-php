@@ -1,0 +1,17 @@
+3208082001, gewok
+3208082002, cirukem
+3208082003, pakembangan
+3208082004, sukaimut
+3208082005, cikananga
+3208082006, tambakbaya
+3208082007, garawangi
+3208082008, sukamulya
+3208082009, mancagar
+3208082010, purwasari
+3208082011, lengkong
+3208082023, karamatwangi
+3208082024, citiusari
+3208082026, mekarmulya
+3208082027, tembong
+3208082028, kutakembaran
+3208082029, kadatuan

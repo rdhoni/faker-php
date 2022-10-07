@@ -1,0 +1,13 @@
+3205332001, neglasari
+3205332002, tanjungjaya
+3205332003, tanjungmulya
+3205332004, wangunjaya
+3205332005, sukamulya
+3205332006, pasirlangu
+3205332007, talagawangi
+3205332008, jatiwangi
+3205332009, panyindangan
+3205332010, tegalgede
+3205332011, depok
+3205332012, karangsari
+3205332013, jayamekar

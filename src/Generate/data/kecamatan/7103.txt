@@ -1,0 +1,15 @@
+710308, tabukan utara
+710309, nusa tabukan
+710310, manganitu selatan
+710311, tatoareng
+710312, tamako
+710313, manganitu
+710314, tabukan tengah
+710315, tabukan selatan
+710316, kendahe
+710317, tahuna
+710319, tabukan selatan tengah
+710320, tabukan selatan tenggara
+710323, tahuna barat
+710324, tahuna timur
+710325, kepulauan marore

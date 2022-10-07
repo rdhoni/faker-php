@@ -1,0 +1,14 @@
+1604231014, lebuay bandung
+1604232001, sirah pulau
+1604232002, gunung kembang
+1604232003, prabu menang
+1604232004, banjar sari
+1604232005, arahan
+1604232006, nanjungan
+1604232007, sengkuang
+1604232008, tanjung lontar
+1604232009, gedung agung
+1604232010, muara lawai
+1604232011, tanjung jambu
+1604232012, cempaka wangi
+1604232013, lematang jaya

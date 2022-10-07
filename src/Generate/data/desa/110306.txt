@@ -1,0 +1,31 @@
+1103062001, keude bagok sa
+1103062002, keude bagok dua
+1103062003, asan tanjong
+1103062004, bantayan
+1103062005, matang seuleumak
+1103062006, teupin pukat
+1103062007, matang neuheun
+1103062008, kuala bagok
+1103062009, meunasah  teungoh
+1103062010, medang ara
+1103062011, peulawi
+1103062012, baroh bugeng
+1103062013, seumatang  aron
+1103062014, blang panjou
+1103062025, pulo u
+1103062026, cot asan
+1103062027, paya enjee
+1103062028, seuleumak muda
+1103062029, matang panyang
+1103062030, meunasah hagu
+1103062031, matang kunyet
+1103062032, buket panjou
+1103062033, buket meurak
+1103062034, buket panyang
+1103062035, seuneubok dalam
+1103062036, gampong mesjid
+1103062037, alue siwah serdang
+1103062038, gampong lhee
+1103062039, beurandang
+1103062040, gampong jalan
+1103062041, seuneubok rambong

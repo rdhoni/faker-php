@@ -1,0 +1,9 @@
+5303051001, kefamenanu utara
+5303051002, aplasi
+5303051003, kefamenanu tengah
+5303051004, bansone
+5303051005, benpasi
+5303051006, kefamenanu selatan
+5303051007, tubuhue
+5303051008, maubeli
+5303051009, sasi

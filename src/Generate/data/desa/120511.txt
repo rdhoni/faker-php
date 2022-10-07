@@ -1,0 +1,19 @@
+1205111005, pekan tanjung pura
+1205112001, serapuh asli
+1205112002, pematang tengah
+1205112003, paya perupuk
+1205112004, lalang
+1205112006, pekubuan
+1205112007, teluk bakung
+1205112008, pantai cermin
+1205112009, pematang serai
+1205112010, baja kuning
+1205112011, pulau banyak
+1205112012, pematang cengal
+1205112013, kwala serapuh
+1205112014, kwala langkat
+1205112015, bubun
+1205112016, tapak kuda
+1205112017, suka maju
+1205112018, karya maju
+1205112019, pematang cengal barat

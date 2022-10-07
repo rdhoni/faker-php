@@ -1,0 +1,11 @@
+1506071001, dusun kebun
+1506072002, sri agung
+1506072003, suban
+1506072004, tanjungbojo
+1506072005, kampung baru
+1506072006, lubuk bernai
+1506072007, rawamedang
+1506072008, sungaipenoban
+1506072009, rawangkempas
+1506072010, lubuk lawas
+1506072011, sungaibadar

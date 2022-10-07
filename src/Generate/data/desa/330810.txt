@@ -1,0 +1,13 @@
+3308101009, sumberrejo
+3308102001, deyangan
+3308102002, pasuruhan
+3308102003, donorojo
+3308102004, kalinegoro
+3308102005, jogonegoro
+3308102006, sukorejo
+3308102007, bondowoso
+3308102008, danurejo
+3308102010, banyurojo
+3308102011, banjarnegoro
+3308102012, bulurejo
+3308102013, mertoyudan

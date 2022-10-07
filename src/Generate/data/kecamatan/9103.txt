@@ -1,0 +1,19 @@
+910301, sentani
+910302, sentani timur
+910303, depapre
+910304, sentani barat
+910305, kemtuk
+910306, kemtuk gresi
+910307, nimboran
+910308, nimbokrang
+910309, unurum guay
+910310, demta
+910311, kaureh
+910312, ebungfao
+910313, waibu
+910314, nambluong
+910315, yapsi
+910316, airu
+910317, raveni rara
+910318, gresi selatan
+910319, yokari

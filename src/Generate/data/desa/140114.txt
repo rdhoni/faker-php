@@ -1,0 +1,7 @@
+1401142001, pulau payung
+1401142002, teratak
+1401142003, alam panjang
+1401142004, bukit keratai
+1401142005, batang batindih
+1401142006, tambusai
+1401142007, simpang petai

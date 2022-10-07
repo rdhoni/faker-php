@@ -1,0 +1,12 @@
+1407152001, rantau panjang kiri
+1407152002, teluknilap
+1407152003, sungaimajo
+1407152004, sungaipinang
+1407152005, sungaipanji-panji
+1407152006, jojol
+1407152007, pulauhalang muka
+1407152008, pulauhalang belakang
+1407152009, rantau panjang kiri hilir
+1407152010, teluknilap jaya
+1407152011, sungaimajo pusako
+1407152012, pulauhalang hulu

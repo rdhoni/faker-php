@@ -1,0 +1,17 @@
+1212102001, dolok saribu janji matogu
+1212102002, dolok nagodang
+1212102003, lumban binanga
+1212102004, partor janji matogu
+1212102005, parhabinsaran janji matogu
+1212102006, parik
+1212102007, sibuntuon
+1212102008, sigaol barat
+1212102009, marom
+1212102010, sigaol timur
+1212102012, siregar aek nalas
+1212102014, lumban holbung
+1212102015, parbagasan janji matogu
+1212102016, partoruan janji matogu
+1212102017, lumban nabolon
+1212102018, sampuara
+1212102019, dolok saribu lumban nabolon

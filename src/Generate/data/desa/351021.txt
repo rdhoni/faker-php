@@ -1,0 +1,9 @@
+3510211001, kalipuro
+3510211002, klatak
+3510211006, gombengsari
+3510211007, bulusan
+3510212003, ketapang
+3510212004, pesucen
+3510212005, kelir
+3510212008, telemung
+3510212009, bulusari

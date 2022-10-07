@@ -1,0 +1,15 @@
+3211062001, situraja utara
+3211062002, situraja
+3211062003, mekarmulya
+3211062004, cikadu
+3211062005, bangbayang
+3211062006, kaduwulung
+3211062007, karangheuleut
+3211062008, cijeler
+3211062009, ambit
+3211062010, jatimekar
+3211062011, cijati
+3211062012, pamulihan
+3211062013, malaka
+3211062014, sukatali
+3211062015, cicarimanah

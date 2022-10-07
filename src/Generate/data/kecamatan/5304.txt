@@ -1,0 +1,12 @@
+530401, lamaknen
+530402, tasifetotimur
+530403, raihat
+530404, tasifeto barat
+530405, kakuluk mesak
+530412, kota atambua
+530413, raimanuk
+530417, lasiolat
+530418, lamaknen selatan
+530421, atambua barat
+530422, atambua selatan
+530423, nanaet duabesi

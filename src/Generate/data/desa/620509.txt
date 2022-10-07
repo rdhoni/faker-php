@@ -1,0 +1,11 @@
+6205092001, nihan hilir
+6205092002, nihan hulu
+6205092003, luwe hilir
+6205092004, luwe hulu
+6205092005, jangkang baru
+6205092006, jangkang lama
+6205092007, papar pujung
+6205092008, teluk malewai
+6205092009, benao hilir
+6205092010, benao hulu
+6205092011, karamuan

@@ -1,0 +1,32 @@
+1501082001, jujun
+1501082002, talang lindung
+1501082003, keluru
+1501082004, pidung
+1501082005, tanjungbatu
+1501082006, benik
+1501082007, kt tuo p tengah
+1501082008, kt dian p tengah
+1501082009, tanjungpauh mudik
+1501082010, tanjungpauh hilir
+1501082011, semerap
+1501082012, lempur danau
+1501082013, dsn baru p tengah
+1501082014, koto baru semerap
+1501082015, koto patah
+1501082016, punai merindu
+1501082017, pondok saguang
+1501082018, telago
+1501082019, koto agung
+1501082020, pancuran tiga
+1501082021, permai baru
+1501082022, pulautengah
+1501082023, koto baru
+1501082024, pasar semerap
+1501082025, jembatan merah pulau tengah
+1501082026, limok manaih pulau tengah
+1501082027, pasar jujun
+1501082028, pancuran bangko
+1501082029, sumur jauh
+1501082030, koto tengah
+1501082031, bukitpulai
+1501082032, serumpun pauh

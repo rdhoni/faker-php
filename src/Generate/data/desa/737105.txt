@@ -1,0 +1,8 @@
+7371051001, pattunuang
+7371051002, melayu
+7371051003, butung
+7371051004, malimongan tua
+7371051005, ende
+7371051006, mampu
+7371051007, malimongan
+7371051008, melayu baru

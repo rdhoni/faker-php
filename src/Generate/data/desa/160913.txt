@@ -1,0 +1,16 @@
+1609132001, sukajaya
+1609132002, kota batu
+1609132003, pagar dewa
+1609132004, tanjung jati
+1609132005, gunung aji
+1609132006, pilla
+1609132007, gunung raya
+1609132008, remanam jaya
+1609132009, kiwis raya
+1609132010, segigok raya
+1609132011, bumi agung
+1609132012, mekar sari
+1609132013, bedeng tiga
+1609132014, gedung ranau
+1609132015, tanjung baru
+1609132016, way wangi seminung

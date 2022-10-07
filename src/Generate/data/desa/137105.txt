@@ -1,0 +1,6 @@
+1371051001, bungus timur
+1371051002, bungus barat
+1371051003, bungus selatan
+1371051004, teluk kabung utara
+1371051005, teluk kabung tengah
+1371051006, teluk kabung selatan

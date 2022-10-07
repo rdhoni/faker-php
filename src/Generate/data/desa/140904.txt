@@ -1,0 +1,16 @@
+1409041001, pasar usang
+1409041002, pasar baru
+1409042003, simpang tanah lapang
+1409042004, rawang bonto
+1409042005, koto tuo
+1409042006, banuaran
+1409042007, kampung madura
+1409042009, pulau kijang
+1409042015, pulaumadinah
+1409042016, kampung tengah
+1409042017, kampung medan
+1409042018, kepala pulau
+1409042019, teratak baru
+1409042020, dusun tuo
+1409042028, gunungmelintang
+1409042030, simpang pulauberalo

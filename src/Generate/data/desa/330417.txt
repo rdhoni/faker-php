@@ -1,0 +1,17 @@
+3304172001, karangtengah
+3304172002, suwidak
+3304172003, bantar
+3304172004, pandansari
+3304172005, pagergunung
+3304172006, dawuhan
+3304172007, kubang
+3304172008, susukan
+3304172009, wanayasa
+3304172010, pesantren
+3304172011, balun
+3304172012, tempuran
+3304172013, wanaraja
+3304172014, jatilawang
+3304172015, legoksayem
+3304172016, kasimpar
+3304172017, penanggungan

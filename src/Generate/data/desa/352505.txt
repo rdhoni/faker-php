@@ -1,0 +1,23 @@
+3525052001, panjunan
+3525052002, kandangan
+3525052003, pandanan
+3525052004, tumapel
+3525052005, tambakrejo
+3525052006, glanggang
+3525052007, palebon
+3525052008, setrohadi
+3525052009, bendungan
+3525052010, sumengko
+3525052011, wadak lor
+3525052012, wadak kidul
+3525052013, petisbenem
+3525052014, duduksampeyan
+3525052015, gredek
+3525052016, kramat
+3525052017, sumari
+3525052018, samirplapan
+3525052019, kawistowindu
+3525052020, kemudi
+3525052021, tebaloan
+3525052022, tirem
+3525052023, ambeng - ambeng watangrejo

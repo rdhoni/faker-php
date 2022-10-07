@@ -1,0 +1,15 @@
+1107092001, blang paseh
+1107092002, benteng
+1107092003, blok bengkel
+1107092004, pante teungoh
+1107092005, kuala pidie
+1107092006, keramat luar
+1107092007, keramat dalam
+1107092008, blok sawah
+1107092009, blang asan
+1107092010, lampoh krueng
+1107092011, kampong asan
+1107092012, meunasah peukan
+1107092013, pasi rawa
+1107092014, pasi peukan baro
+1107092015, tanjong krueng

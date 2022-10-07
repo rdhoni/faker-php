@@ -1,0 +1,10 @@
+5305051001, kolana utara
+5305052004, tanglapui
+5305052005, kolana selatan
+5305052007, padang panjang
+5305052008, maritaing
+5305052010, elok
+5305052011, tanglapui timur
+5305052012, mausamang
+5305052013, belemana
+5305052014, maukuru

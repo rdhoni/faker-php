@@ -1,0 +1,20 @@
+3321132001, wedung
+3321132002, ngawen
+3321132003, ruwit
+3321132004, kenduren
+3321132005, buko
+3321132006, mandung
+3321132007, berahan kulon
+3321132008, berahan wetan
+3321132009, bungo
+3321132010, tempel
+3321132011, jetak
+3321132012, jungsemi
+3321132013, jungpasir
+3321132014, mutihwetan
+3321132015, babalan
+3321132016, mutihkulon
+3321132017, tedunan
+3321132018, kendalasem
+3321132019, kedungmutih
+3321132020, kedungkarang

@@ -1,0 +1,11 @@
+6205032001, tanjung harapan
+6205032002, linon besi i
+6205032003, linon besi ii
+6205032004, muara mea
+6205032005, lawarang
+6205032006, lampeong i
+6205032007, lampeong ii
+6205032008, payang
+6205032009, berong
+6205032010, baok
+6205032011, tambaba

@@ -1,0 +1,13 @@
+7104071001, melonguane
+7104071009, melonguane timur
+7104071010, melonguane barat
+7104072002, mala
+7104072003, kiama
+7104072006, tarun
+7104072007, sawang
+7104072008, ambela
+7104072011, tarun selatan
+7104072012, kiama barat
+7104072015, maredaren utara
+7104072016, sawang utara
+7104072017, mala timur

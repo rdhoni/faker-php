@@ -1,0 +1,20 @@
+1602082001, tanjung alai
+1602082002, batu ampar
+1602082003, awal terusan
+1602082004, ulak jermun
+1602082005, mangun jaya
+1602082006, terusan menang
+1602082007, belanti
+1602082008, terate
+1602082009, rengas pitu
+1602082010, pantai
+1602082011, sirah pulau padang
+1602082012, serdang menang
+1602082013, bungin tinggi
+1602082014, penyandingan
+1602082015, berkat
+1602082016, sukaraja
+1602082017, pematang buluran
+1602082018, rawang besar
+1602082019, batu ampar baru
+1602082020, terusan laut

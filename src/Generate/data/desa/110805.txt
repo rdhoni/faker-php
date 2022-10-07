@@ -1,0 +1,49 @@
+1108052001, keude matangkuli
+1108052002, ude
+1108052003, blang matangkuli
+1108052004, rayeuk matangkuli
+1108052005, tumpok perlak
+1108052006, ujong  kulam
+1108052007, tanjong teungku ali
+1108052008, rayeuk glang glong
+1108052009, punti geulumpang  vii
+1108052010, geulumpang vii
+1108052011, teungoh glumpang vii
+1108052012, aron geulumpang vii
+1108052013, matang munye
+1108052014, parang sikureung
+1108052015, baro
+1108052016, mee
+1108052017, tanjong babah krueng
+1108052018, punti matangkuli
+1108052019, teupin keubue
+1108052020, trieng teupin keubue
+1108052021, matang mee
+1108052022, jeumpa geulumpang vii
+1108052034, tumpok barat
+1108052035, meuria matangkuli
+1108052036, hagu
+1108052037, alue tho
+1108052039, ceubrek pirak
+1108052040, rayeuk pirak
+1108052041, aron pirak
+1108052042, lawang
+1108052043, tanjong haji muda
+1108052044, siren
+1108052045, meunye pirak
+1108052046, beuringen pirak
+1108052047, teungoh pirak
+1108052048, mesjid pirak
+1108052049, matang peusangan
+1108052050, pante pirak
+1108052052, leubok pirak
+1108052053, blang kuta
+1108052054, blang supeng
+1108052055, beurancan  pirak
+1108052066, alue entok
+1108052067, tanjong teungku kari
+1108052068, teungoh seuleumak
+1108052069, seuriweuk
+1108052070, dayah baro
+1108052071, kunyet mulee
+1108052072, tutong

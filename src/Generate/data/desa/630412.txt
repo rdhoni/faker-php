@@ -1,0 +1,11 @@
+6304122001, pantang raya
+6304122002, tabukan raya
+6304122003, teluk tamba
+6304122004, rantau bamban
+6304122005, tamba jaya
+6304122006, muara pulau
+6304122007, karya indah
+6304122008, bandar karya
+6304122009, karya makmur
+6304122010, karya jadi
+6304122011, pantang baru

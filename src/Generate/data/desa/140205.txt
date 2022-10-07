@@ -1,0 +1,12 @@
+1402051005, peranap
+1402051008, batu rijal hilir
+1402052003, semelinang tebing
+1402052004, gumanti
+1402052007, batu rijal hulu
+1402052009, semelinang darat
+1402052010, pauh ranap
+1402052012, serai wangi
+1402052013, pandan wangi
+1402052017, katipo pura
+1402052019, batu rijal barat
+1402052020, setako raya

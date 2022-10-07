@@ -1,0 +1,5 @@
+7318372001, rano
+7318372002, rano utara
+7318372003, rumandan
+7318372004, rano tengah
+7318372005, rano timur

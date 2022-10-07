@@ -1,0 +1,13 @@
+3508052001, pandanwangi
+3508052002, sumberjati
+3508052003, tempeh kidul
+3508052004, lempeni
+3508052005, tempeh tengah
+3508052006, kaliwungu
+3508052007, tempeh lor
+3508052008, besuk
+3508052009, jatisari
+3508052010, pulo
+3508052011, gesang
+3508052012, jokarto
+3508052013, pandanarum

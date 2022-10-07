@@ -1,0 +1,15 @@
+5108051009, sukasada
+5108052001, pancasari
+5108052002, wanagiri
+5108052003, ambengan
+5108052004, gitgit
+5108052005, pegayaman
+5108052006, silangjana
+5108052007, pegadungan
+5108052008, padangbulia
+5108052010, sambangan
+5108052011, panji
+5108052012, panji anom
+5108052013, tegallinggah
+5108052014, selat
+5108052015, kayu putih

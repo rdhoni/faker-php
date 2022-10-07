@@ -1,0 +1,14 @@
+3602012002, cilangkahan
+3602012003, pagelaran
+3602012004, sukaraja
+3602012005, malingping utara
+3602012006, bolang
+3602012009, cipeundeuy
+3602012013, rahong
+3602012014, kadujajar
+3602012016, kersaratu
+3602012018, malingping selatan
+3602012019, sumberwaras
+3602012023, sukamanah
+3602012024, senanghati
+3602012026, sangiang);

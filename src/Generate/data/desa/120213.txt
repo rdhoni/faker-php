@@ -1,0 +1,26 @@
+1202132001, pakpahan
+1202132002, sampagul
+1202132003, godung borotan
+1202132004, parratusan
+1202132005, lumban siregar
+1202132006, sigotom julu
+1202132007, rahut bosi
+1202132008, batu nadua
+1202132009, silantom tonga
+1202132010, silantom julu
+1202132011, pansurnatolu
+1202132012, parlombuan
+1202132013, purbatua
+1202132014, lumban sinagasimatupang
+1202132015, batumanumpak
+1202132016, sibingke
+1202132017, najumambe
+1202132018, parsibarungan
+1202132019, harianja
+1202132020, silantom jae
+1202132021, padang parsadaan
+1202132022, parsorminan i
+1202132023, hutaraja
+1202132024, rahut bosi onan
+1202132025, sigotom timur
+1202132026, sigotom dolok nauli

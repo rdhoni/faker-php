@@ -1,0 +1,13 @@
+1401041018, batu bersurat
+1401042004, gunung bungsu
+1401042005, koto tuo
+1401042006, balung
+1401042007, muara takus
+1401042010, pulau gadang
+1401042011, tanjung alai
+1401042012, ranah sungkai
+1401042013, lubuk agung
+1401042014, koto mesjid
+1401042016, pongkai istiqomah
+1401042017, binamang
+1401042019, koto tuo barat

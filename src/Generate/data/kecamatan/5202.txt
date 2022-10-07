@@ -1,0 +1,12 @@
+520201, praya
+520202, jonggat
+520203, batukliang
+520204, pujut
+520205, praya barat
+520206, praya timur
+520207, janapria
+520208, pringgarata
+520209, kopang
+520210, praya tengah
+520211, praya barat daya
+520212, batukliang utara

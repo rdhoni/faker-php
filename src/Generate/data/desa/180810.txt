@@ -1,0 +1,21 @@
+1808102001, gunung labuhan
+1808102002, gunung baru
+1808102003, banjar sakti
+1808102004, suka negeri
+1808102005, negeri mulyo
+1808102006, negeri sungkai
+1808102007, gunung sari
+1808102008, way tuba
+1808102009, bengkulu
+1808102010, bengkulu rejo
+1808102011, kayu batu
+1808102012, bengkulu raman
+1808102013, bengkulu jaya
+1808102014, tiuh balak ii
+1808102015, curup patah
+1808102016, sukarame
+1808102017, banjar ratu
+1808102018, negeri ujan mas
+1808102019, bengkulu tengah
+1808102020, gunungpekuwon
+1808102021, labuhan jaya

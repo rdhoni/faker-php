@@ -1,0 +1,12 @@
+7105162001, tumani
+7105162002, lowian
+7105162003, kinaweruan
+7105162004, liningaan
+7105162005, bojonegoro
+7105162006, tambelang
+7105162007, kinamang
+7105162008, temboan
+7105162009, kinamang satu
+7105162010, lowian satu
+7105162011, tumani utara
+7105162012, tumani selatan

@@ -1,0 +1,10 @@
+6371041001, alalak tengah
+6371041002, alalak utara
+6371041003, alalak selatan
+6371041004, sungai jingah
+6371041005, sungai miai
+6371041006, surgi mufti
+6371041007, pangeran
+6371041008, antasan kecil timur
+6371041009, kuin utara
+6371041010, sungai andai

@@ -1,0 +1,17 @@
+820304, galela
+820305, tobelo
+820306, tobelo selatan
+820307, kao
+820308, malifut
+820309, loloda utara
+820310, tobelo utara
+820311, tobelo tengah
+820312, tobelo timur
+820313, tobelo barat
+820314, galela barat
+820315, galela utara
+820316, galela selatan
+820319, loloda kepulauan
+820320, kao utara
+820321, kao barat
+820322, kao teluk

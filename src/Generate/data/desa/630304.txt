@@ -1,0 +1,21 @@
+6303041001, sungai lulut
+6303042002, sungai bakung
+6303042003, sungai tandipah
+6303042004, lok baintan
+6303042005, gudang hirang
+6303042006, sungai pinang
+6303042007, pembantanan
+6303042008, pemakuan
+6303042009, sungai tabuk kota
+6303042010, sungai tabuk keramat
+6303042011, lok buntar
+6303042012, gudang tengah
+6303042013, pejambuan
+6303042014, keliling benteng ilir
+6303042015, sungai pinang baru
+6303042016, paku alam
+6303042017, lok baintan dalam
+6303042018, pematang panjang
+6303042019, sungai bangkal
+6303042020, tajau landung
+6303042021, abumbun jaya

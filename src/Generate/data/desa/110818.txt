@@ -1,0 +1,23 @@
+1108182001, cot bada
+1108182002, alue dua
+1108182003, bantayan
+1108182004, kampong blang
+1108182005, paya tukai
+1108182006, matang keutapang
+1108182007, krueng lingka
+1108182008, simpang tiga
+1108182009, matang rubek
+1108182010, leubok mane
+1108182011, matang teungoh selatan
+1108182012, padang meuria
+1108182013, alue krak kayee
+1108182014, tanjong jawa
+1108182015, meunasah  blang
+1108182016, tanjong dalam selatan
+1108182017, geudumbak
+1108182018, langkahan
+1108182019, rumoh rayeuk
+1108182020, buket linteung
+1108182021, lubok pusaka
+1108182022, seureuke
+1108182023, pante gaki bale

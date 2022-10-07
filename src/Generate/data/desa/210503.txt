@@ -1,0 +1,6 @@
+2105032001, nyamuk
+2105032002, batu belah
+2105032003, munjan
+2105032004, serat
+2105032005, air putih
+2105032006, temburun

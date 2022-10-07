@@ -1,0 +1,15 @@
+3302142001, darmakradenan
+3302142002, tipar kidul
+3302142003, sawangan
+3302142004, jingkang
+3302142005, banjarsari
+3302142006, kalibenda
+3302142007, pancurendang
+3302142008, pancasan
+3302142009, karangbawang
+3302142010, kracak
+3302142011, ajibarang kulon
+3302142012, ajibarang wetan
+3302142013, lesmana
+3302142014, pandansari
+3302142015, ciberung

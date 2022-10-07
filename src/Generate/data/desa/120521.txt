@@ -1,0 +1,10 @@
+1205212001, serapit
+1205212002, gunung tinggi
+1205212003, sidorejo
+1205212004, suka pulung
+1205212005, aman damai
+1205212006, tanjung kariahan
+1205212007, sebertung
+1205212008, pulau semikat
+1205212009, sumber jaya
+1205212010, perkebunan amal tani

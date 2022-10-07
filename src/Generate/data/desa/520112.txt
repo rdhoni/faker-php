@@ -1,0 +1,15 @@
+5201122001, lingsar
+5201122002, batu kumbang
+5201122003, sigerongan
+5201122004, duman
+5201122005, karang bayan
+5201122006, langko
+5201122007, dasan geria
+5201122008, peteluan indah
+5201122009, gegerung
+5201122010, batu mekar
+5201122011, giri madia
+5201122012, bug-bug
+5201122013, gegelang
+5201122014, saribaye
+5201122015, gontoran

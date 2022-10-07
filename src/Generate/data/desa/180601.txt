@@ -1,0 +1,16 @@
+1806011001, baros
+1806011002, pasar madang
+1806011003, kuripan
+1806012016, negeri ratu
+1806012019, pananggungan
+1806012020, terdana
+1806012021, kelungu
+1806012022, pardasuka
+1806012023, teratas
+1806012024, kusa
+1806012025, terbaya
+1806012026, kedamaian
+1806012027, kota agung
+1806012039, kota batu
+1806012040, campang tiga
+1806012041, benteng jaya

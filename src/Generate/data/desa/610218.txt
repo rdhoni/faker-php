@@ -1,0 +1,8 @@
+6102181001, pulau pedalaman
+6102181002, pasir wan salim
+6102182003, antibar
+6102182004, sejegi
+6102182005, pasir palembang
+6102182006, pasir panjang
+6102182007, sungai bakau kecil
+6102182008, parit banjar

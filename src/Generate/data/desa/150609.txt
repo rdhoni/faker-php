@@ -1,0 +1,10 @@
+1506091001, rantau badak
+1506092002, dusun mudo
+1506092003, intan jaya
+1506092004, bukit indah
+1506092005, kemang manis
+1506092006, rantau badak lamo
+1506092007, lubuk sebontan
+1506092008, sungaipapauh
+1506092009, sungaimuluk
+1506092010, pematang balam

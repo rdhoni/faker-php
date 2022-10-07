@@ -1,0 +1,8 @@
+127201, siantar timur
+127202, siantar barat
+127203, siantar utara
+127204, siantar selatan
+127205, siantar marihat
+127206, siantar martoba
+127207, siantar sitalasari
+127208, siantar marimbun

@@ -1,0 +1,16 @@
+1501061009, siulak deras
+1501062010, sungaibetung hilir
+1501062011, sungaibatu gantih
+1501062012, tanjunggenting
+1501062013, simpang tutup
+1501062014, suko pangkat
+1501062015, sungaibetung mudik
+1501062016, danautinggi
+1501062017, sungaigelampeh
+1501062018, siulak deras mudik
+1501062019, siulak tenang
+1501062039, sungai batu gantih hilir
+1501062040, baru sungai betung mudik
+1501062041, tanjunggenting mudik
+1501062042, air betung
+1501062043, ujung ladang

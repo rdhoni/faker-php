@@ -1,0 +1,6 @@
+1871091001, kupang kota
+1871091003, kupang raya
+1871091004, kupang teba
+1871091006, pengajaran
+1871091007, gulak galik
+1871091008, sumur batu

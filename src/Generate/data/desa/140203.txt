@@ -1,0 +1,17 @@
+1402031019, simpang kelayang
+1402032007, pulau sengkilo
+1402032008, kota medan
+1402032009, simpang kota medan
+1402032010, polak pisang
+1402032018, pelangko
+1402032020, teluk sejuah
+1402032021, bongkal malang
+1402032022, dusun tua
+1402032024, sungai banyak ikan
+1402032025, tanjung beludu
+1402032026, sungai pasir putih
+1402032027, sungai golang
+1402032028, pasir beringin
+1402032029, sungai kuning binio
+1402032030, bukit selanjut
+1402032031, dusun tua pelang

@@ -1,0 +1,6 @@
+1802272001, gedung sari
+1802272002, srimulyo
+1802272003, gedung ratu
+1802272004, bandar putih tua
+1802272005, karang jawa
+1802272006, sukajaya

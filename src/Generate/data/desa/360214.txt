@@ -1,0 +1,16 @@
+3602141002, rangkasbitung barat
+3602141006, cijoro lebak
+3602141007, muara ciujung barat
+3602141008, cijoro pasir
+3602141012, muara ciujung timur
+3602142001, pasirtanjung
+3602142009, citeras
+3602142010, nameng
+3602142011, kolelet wetan
+3602142013, jatimulya
+3602142014, mekarsari
+3602142016, pabuaran
+3602142017, rangkasbitung timur
+3602142019, sukamanah
+3602142021, cimangeunteung
+3602142023, narimbang mulia

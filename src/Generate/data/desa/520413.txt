@@ -1,0 +1,11 @@
+5204132003, muer
+5204132004, plampang
+5204132005, teluk santong
+5204132006, sepayung
+5204132007, sepakat
+5204132008, upt perode sp i
+5204132009, upt perode sp ii
+5204132010, upt perode sp iii
+5204132012, selanteh
+5204132013, brang kolong
+5204132014, usar

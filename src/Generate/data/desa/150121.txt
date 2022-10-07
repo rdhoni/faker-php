@@ -1,0 +1,12 @@
+1501212001, koto mebai
+1501212002, baru);
+1501212003, air panas
+1501212004, hamparan pugu
+1501212005, pugu
+1501212006, koto mudik
+1501212007, koto tengah
+1501212008, koto datuk
+1501212009, koto dua baru
+1501212010, koto cayo
+1501212011, kecil
+1501212012, air bersih

@@ -1,0 +1,6 @@
+620101, kumai
+620102, arut selatan
+620103, kotawaringin lama
+620104, arut utara
+620105, pangkalan lada
+620106, pangkalan banteng

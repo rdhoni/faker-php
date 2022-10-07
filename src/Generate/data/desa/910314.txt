@@ -1,0 +1,9 @@
+9103142001, sarmai atas
+9103142002, sarmai bawah
+9103142003, sanggai
+9103142004, yakasib
+9103142005, besum
+9103142007, imestum
+9103142008, karya bumi
+9103142009, hanggaiy hamong
+9103142010, sumbe

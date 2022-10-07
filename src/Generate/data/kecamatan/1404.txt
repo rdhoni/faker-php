@@ -1,0 +1,20 @@
+140401, reteh
+140402, enok
+140403, kuala indragiri
+140404, tembilahan
+140405, tempuling
+140406, gaung anak serka
+140407, mandah
+140408, kateman
+140409, keritang
+140410, tanah merah
+140411, batang tuaka
+140412, gaung);
+140413, tembilahan hulu
+140414, kemuning
+140415, pelangiran
+140416, teluk belengkong
+140417, pulau burung
+140418, concong
+140419, kempas
+140420, sungai batang

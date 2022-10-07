@@ -1,0 +1,18 @@
+1223051001, marbau
+1223052002, perkebunan pernantian
+1223052003, perk marbau selatan
+1223052004, perkebunan milano
+1223052005, perkebunan brussel
+1223052006, pulo bargot
+1223052007, sipare pare tengah
+1223052008, sipare pare hilir
+1223052009, tubiran
+1223052010, belongkut
+1223052011, simpang empat
+1223052012, babussalam
+1223052013, marbau selatan
+1223052014, aek tapa
+1223052015, lobu rampah
+1223052016, bulungihit
+1223052017, aek hitetoras
+1223052018, sumber mulyo

@@ -1,0 +1,14 @@
+1205171001, sei bilah
+1205171002, alur dua
+1205171008, alur dua baru
+1205171009, harapan jaya
+1205171010, sei bilah timur
+1205172003, puraka i
+1205172004, puraka ii
+1205172005, lama
+1205172006, telaga said
+1205172007, lama baru
+1205172011, mekar makmur
+1205172012, harapan baru
+1205172013, harapan maju
+1205172014, harapan makmur

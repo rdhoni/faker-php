@@ -1,0 +1,7 @@
+3205372001, sukamaju
+3205372002, sukamulya
+3205372003, mekarmukti
+3205372004, mekarmulya
+3205372005, sukalaksana);
+3205372006, selaawi
+3205372007, mekarwangi

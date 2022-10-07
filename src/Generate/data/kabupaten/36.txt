@@ -1,0 +1,8 @@
+3601, kab pandeglang
+3602, kab lebak
+3603, kab tangerang
+3604, kab serang
+3671, kota tangerang
+3672, kota cilegon
+3673, kota serang
+3674, kota tangerang selatan

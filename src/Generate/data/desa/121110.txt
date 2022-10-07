@@ -1,0 +1,11 @@
+1211102001, bangun
+1211102002, lae hole
+1211102003, parbuluan iv
+1211102004, parbuluan iii
+1211102005, parbuluan ii
+1211102006, parbuluan i
+1211102007, parbuluan v
+1211102008, parbuluan vi
+1211102009, lae hole i
+1211102010, lae hole ii
+1211102011, bangun i

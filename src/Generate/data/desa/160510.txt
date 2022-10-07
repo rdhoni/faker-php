@@ -1,0 +1,13 @@
+1605101017, terawas
+1605102001, sumber karya
+1605102002, suko rejo
+1605102003, suka karya
+1605102011, sri mulyo
+1605102014, sukamerindu
+1605102015, paduraksa
+1605102016, babat
+1605102018, pasenan
+1605102019, sukaraya
+1605102020, sukamana
+1605102021, kosgoro
+1605102022, sukaraya baru

@@ -1,0 +1,24 @@
+1104122001, atu gogop
+1104122002, balik
+1104122003, buter balik
+1104122004, dedingin
+1104122005, kute panang
+1104122006, lukub sabun
+1104122007, pantan sile
+1104122008, ratawali
+1104122009, segene balik
+1104122010, tapak moge
+1104122011, tawar miko
+1104122012, tawardi
+1104122013, timang rasa
+1104122014, wih nongkal
+1104122015, bukit rata
+1104122016, lukub sabun barat
+1104122017, lukub sabun tengah
+1104122018, lukub sabun timur
+1104122019, wih nongkal toa
+1104122020, tapak moge timur
+1104122021, empu balik
+1104122022, blang balik
+1104122023, kala nongkal
+1104122024, pantan jerik

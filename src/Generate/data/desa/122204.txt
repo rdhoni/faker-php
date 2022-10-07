@@ -1,0 +1,9 @@
+1222041001, langga payung
+1222042002, batang nadenggan
+1222042003, sabungan
+1222042004, hajoran
+1222042005, ujung gading
+1222042006, huta godang
+1222042007, parimburan
+1222042008, sampean
+1222042009, marsonja

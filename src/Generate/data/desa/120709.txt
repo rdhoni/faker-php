@@ -1,0 +1,24 @@
+1207092001, bah perak
+1207092002, bandar kuala
+1207092003, bah balua
+1207092005, bandar gugung
+1207092006, bandar meriah
+1207092007, batu gingging
+1207092008, bangun purba
+1207092009, bangun purba tengah
+1207092010, begerpang
+1207092011, batu rata
+1207092012, cimahi
+1207092014, damak maliho
+1207092015, greahan
+1207092017, marombun ujung jawi
+1207092018, marombun barat
+1207092019, mabar
+1207092020, perguroan
+1207092023, rumah deleng
+1207092024, sibaganding
+1207092025, sialang
+1207092027, sukaluwei
+1207092030, tanjung purba
+1207092032, urung ganjang
+1207092033, ujung rambe

@@ -1,0 +1,10 @@
+7102222001, kayuuwi
+7102222002, kayuuwi satu
+7102222003, kanonang satu
+7102222004, kanonang dua
+7102222005, kanonang empat
+7102222006, kanonang lima
+7102222007, tombasian atas
+7102222008, tombasian atas satu
+7102222009, tombasian bawah
+7102222010, ranolambot

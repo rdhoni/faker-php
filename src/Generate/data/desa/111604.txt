@@ -1,0 +1,24 @@
+1116042002, pekan seruway
+1116042003, binjai
+1116042004, pantai balai
+1116042005, padang langgis
+1116042006, suka ramai satu
+1116042007, suka ramai dua
+1116042008, perkebunan seruway
+1116042009, gedung biara
+1116042010, alur alim
+1116042011, tualang
+1116042012, matang sentang
+1116042013, air masin
+1116042014, sidodadi
+1116042015, perk gedung biara
+1116042016, muka sungai kuruk
+1116042017, paya udang
+1116042018, gelung
+1116042019, kampung baru
+1116042020, kuala pusung kapal
+1116042021, sungai kuruk i
+1116042022, sungai kuruk ii
+1116042023, sungai kuruk iii
+1116042024, tangsi lama
+1116042025, lubuk damar

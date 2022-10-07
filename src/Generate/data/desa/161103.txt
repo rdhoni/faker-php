@@ -1,0 +1,14 @@
+1611032001, air kelincar
+1611032002, talang bengkulu
+1611032003, kunduran
+1611032004, simpang perigi
+1611032005, muara kalangan
+1611032006, batu lintang
+1611032007, padang tepong
+1611032008, muara betung
+1611032009, lb puding baru
+1611032010, pulau kemang
+1611032011, lb puding lama
+1611032012, batu bidung
+1611032024, tanjung agung
+1611032025, galang

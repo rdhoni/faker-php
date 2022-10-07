@@ -1,0 +1,13 @@
+3517202001, turipinggir
+3517202002, gongseng
+3517202003, megaluh
+3517202004, sudimoro
+3517202005, balongsari
+3517202006, sumbersari
+3517202007, ngogri
+3517202008, sidomulyo
+3517202009, balonggemek
+3517202010, dukuharum
+3517202011, sumberagung
+3517202012, pacarpeluk
+3517202013, kedungrejo

@@ -1,0 +1,8 @@
+6502132001, setulang
+6502132002, setarap
+6502132003, punan setarap
+6502132004, batu kajang
+6502132005, gong solok
+6502132006, punan gong solok
+6502132007, long adiu
+6502132008, punan long adiu

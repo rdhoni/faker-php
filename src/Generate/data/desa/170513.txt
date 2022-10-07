@@ -1,0 +1,13 @@
+1705132001, pagar
+1705132002, muara simpur
+1705132003, pagar agung
+1705132004, pagar banyu
+1705132005, simpur ijang
+1705132006, air keruh
+1705132007, hargo binangun
+1705132008, mekar jaya
+1705132009, giri nanto
+1705132010, banyu kencana
+1705132011, muara nibung
+1705132012, tanjung agung
+1705132013, giri mulya

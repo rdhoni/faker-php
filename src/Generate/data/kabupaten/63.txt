@@ -1,0 +1,13 @@
+6301, kab tanah laut
+6302, kab kotabaru
+6303, kab banjar
+6304, kab barito kuala
+6305, kab tapin
+6306, kab hulu sungai selatan
+6307, kab hulu sungai tengah
+6308, kab hulu sungai utara
+6309, kab tabalong
+6310, kab tanah bumbu
+6311, kab balangan
+6371, kota banjarmasin
+6372, kota banjarbaru

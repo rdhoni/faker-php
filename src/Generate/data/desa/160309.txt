@@ -1,0 +1,12 @@
+1603092001, tenam bungkuk
+1603092002, kota padang
+1603092003, gunung agung
+1603092004, sri tanjung
+1603092005, tebing abang
+1603092006, batu surau
+1603092007, tanjung raya
+1603092008, muara tenang
+1603092009, rekimai jaya
+1603092010, palak tanah
+1603092011, kota agung
+1603092012, swarna dwipa

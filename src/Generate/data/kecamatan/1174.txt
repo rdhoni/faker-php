@@ -1,0 +1,5 @@
+117401, langsa timur
+117402, langsa barat
+117403, langsa kota
+117404, langsa lama
+117405, langsa baro

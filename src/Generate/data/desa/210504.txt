@@ -1,0 +1,7 @@
+2105042001, kiabu
+2105042002, telaga
+2105042003, mengkait
+2105042004, tiangau
+2105042005, telaga kecil
+2105042006, lingai
+2105042007, air bini

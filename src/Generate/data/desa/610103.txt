@@ -1,0 +1,13 @@
+6101032001, sarang burung danau
+6101032002, sungai nilam
+6101032003, sarang burung kolam
+6101032004, sarang burung usrat
+6101032005, sarang burung kuala
+6101032006, pelimpaan
+6101032007, parit setia
+6101032008, bakau
+6101032009, sungai nyirih
+6101032010, sentebang
+6101032011, dungun laut
+6101032021, lambau
+6101032022, mutus darussalam

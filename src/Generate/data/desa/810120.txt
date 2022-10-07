@@ -1,0 +1,13 @@
+8101202001, saleman
+8101202002, horale
+8101202003, wailulu
+8101202004, paa
+8101202005, karlutu kara
+8101202006, pasanea);
+8101202007, labuan
+8101202008, gale-gale
+8101202009, latea
+8101202010, lisabata timur
+8101202011, rumahwey
+8101202012, warasiwa
+8101202013, herlau pauni

@@ -1,0 +1,39 @@
+1108152001, lagang
+1108152002, abeuk reuling
+1108152003, lhok krek
+1108152004, lhok merbo
+1108152005, gle dagang
+1108152006, kuta meuligoe
+1108152007, gampong teungoh
+1108152008, babah buloh
+1108152009, meunasah  pulo
+1108152010, punteuet
+1108152011, pante jaloh
+1108152012, lhok kuyun
+1108152013, blang reuling
+1108152014, lhok gajah
+1108152015, teupin rusep
+1108152016, ulee geudong
+1108152017, tanjong keumala
+1108152018, cot kumuneng
+1108152019, cot lambideng
+1108152020, paya gaboh
+1108152021, paya rabo lhok
+1108152022, paya rabo timu
+1108152023, lancok
+1108152024, rambong payong
+1108152025, lhok bayu
+1108152026, krueng baro
+1108152027, babah krueng
+1108152028, jurong
+1108152029, blang manyak
+1108152030, lhok jok
+1108152031, blang teurakan
+1108152032, sawang
+1108152033, riseh baroh
+1108152034, riseh teungoh
+1108152035, riseh tunong
+1108152036, gunci
+1108152037, kubu
+1108152038, blang cut
+1108152039, lhok cut

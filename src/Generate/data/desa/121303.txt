@@ -1,0 +1,15 @@
+1213031002, gunung baringin
+1213032001, aek nabara
+1213032003, hutaimbaru
+1213032004, huta bangun
+1213032005, huta tinggi
+1213032006, pagur
+1213032007, pardomuan
+1213032008, parmompang
+1213032009, ranto natas
+1213032010, sirangkap
+1213032011, tanjung
+1213032012, tebing tinggi
+1213032013, tanjung julu
+1213032014, banjar lancat
+1213032015, padang laru

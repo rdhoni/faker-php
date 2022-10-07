@@ -1,0 +1,19 @@
+1501022001, sanggaran agung
+1501022002, kota baru sanggaran agung
+1501022003, pendung talang genting
+1501022004, seleman
+1501022005, tebing tinggi
+1501022006, cupak
+1501022007, tanjungtanah
+1501022008, koto tengah
+1501022009, koto iman
+1501022010, ujung pasir
+1501022011, koto petai
+1501022012, koto salak
+1501022013, simpang empat
+1501022014, talang kemulun
+1501022015, dusun baru tanjung tanah
+1501022016, pasar sore seleman
+1501022017, koto tuo ujung pasir
+1501022018, tanjungharapan
+1501022019, agung koto iman

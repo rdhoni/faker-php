@@ -1,0 +1,8 @@
+1205232001, pematang tengah
+1205232002, damar condong
+1205232003, perkebunan damar condong
+1205232004, perkebunan perapen
+1205232005, limau mungkur
+1205232006, serang jaya hilir
+1205232007, serang jaya
+1205232008, sala haji

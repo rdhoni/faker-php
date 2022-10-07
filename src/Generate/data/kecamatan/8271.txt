@@ -1,0 +1,8 @@
+827101, pulau ternate
+827102, kota ternate selatan
+827103, kota ternate utara
+827104, moti
+827105, pulau batang dua
+827106, kota ternate tengah
+827107, pulau hiri
+827108, ternate barat

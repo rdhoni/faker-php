@@ -1,0 +1,8 @@
+1305022001, katapiang
+1305022002, kasang
+1305022003, sungai buluah
+1305022004, buayan lubuk alung
+1305022005, sungai buluah timur
+1305022006, sungai buluah barat
+1305022007, sungai buluah utara
+1305022008, sungai buluah selatan

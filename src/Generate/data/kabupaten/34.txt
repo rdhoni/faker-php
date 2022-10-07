@@ -1,0 +1,5 @@
+3401, kab kulon progo
+3402, kab bantul
+3403, kab gunungkidul
+3404, kab sleman
+3471, kota yogyakarta

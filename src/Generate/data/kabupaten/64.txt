@@ -1,0 +1,10 @@
+6401, kab paser
+6402, kab kutai kartanegara
+6403, kab berau
+6407, kab kutai barat
+6408, kab kutai timur
+6409, kab penajam paser utara
+6411, kab mahakam ulu
+6471, kota balikpapan
+6472, kota samarinda
+6474, kota bontang

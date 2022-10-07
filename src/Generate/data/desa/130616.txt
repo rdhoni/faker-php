@@ -1,0 +1,4 @@
+1306162001, malalak utara
+1306162002, malalak timur
+1306162003, malalak selatan
+1306162004, malalak barat

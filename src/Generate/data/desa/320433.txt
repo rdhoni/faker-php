@@ -1,0 +1,11 @@
+3204332001, majalaya
+3204332002, wangisagara
+3204332003, biru
+3204332004, padamulya
+3204332005, bojong
+3204332006, majasetra
+3204332007, majakerta
+3204332008, sukamaju
+3204332009, padaulun
+3204332010, neglasari
+3204332011, sukamukti

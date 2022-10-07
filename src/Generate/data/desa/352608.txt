@@ -1,0 +1,15 @@
+3526082001, sepulu
+3526082002, maneron
+3526082003, gangseyan
+3526082004, klapayan
+3526082005, bangsereh
+3526082006, kelbung
+3526082007, saplasah
+3526082008, genelap
+3526082009, klabetan
+3526082010, banyior
+3526082011, prancak
+3526082012, labuhan
+3526082013, tanagura barat
+3526082014, lembung paseser
+3526082015, tanagura timur

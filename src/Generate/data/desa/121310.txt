@@ -1,0 +1,20 @@
+1213101010, laru lombang
+1213102001, angin barat
+1213102006, huta tonga ab
+1213102007, laru baringin
+1213102008, laru bolak
+1213102009, laru dolok
+1213102011, lumban pasir
+1213102012, muara mais
+1213102013, muara mais jambur
+1213102014, padang sanggar
+1213102015, panjaringan
+1213102016, pasar laru
+1213102017, pastap
+1213102018, pastap julu
+1213102020, rao rao dolok
+1213102021, rao rao lombang
+1213102025, simangambat tb
+1213102026, tambangan jae
+1213102027, tambangan pasoman
+1213102028, tambangan tonga

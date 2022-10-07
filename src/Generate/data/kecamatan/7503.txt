@@ -1,0 +1,18 @@
+750301, tapa
+750302, kabila
+750303, suwawa
+750304, bonepantai
+750305, bulango utara
+750306, tilongkabila
+750307, botupingge
+750308, kabila bone
+750309, bone
+750310, bone raya
+750311, suwawa timur
+750312, suwawa selatan
+750313, suwawa tengah
+750314, bulango ulu
+750315, bulango selatan
+750316, bulango timur
+750317, bulawa
+750318, pinogu

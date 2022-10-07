@@ -1,0 +1,23 @@
+6311032004, bihara
+6311032005, pematang
+6311032006, merah
+6311032007, awayan
+6311032008, pudak
+6311032009, badalungga
+6311032010, tundakan
+6311032011, sikontan
+6311032012, pulantan
+6311032013, tundi
+6311032014, muara jaya
+6311032016, bihara hilir
+6311032018, baru
+6311032020, awayan hilir
+6311032021, putat basiun
+6311032022, sei pumpung
+6311032024, badalungga hilir
+6311032025, nungka
+6311032026, tangalin
+6311032027, kedondong
+6311032029, baramban
+6311032031, ambakiang
+6311032032, piyait

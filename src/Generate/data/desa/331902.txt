@@ -1,0 +1,25 @@
+3319021001, purwosari
+3319021004, sunggingan
+3319021005, panjunan
+3319021006, wergu wetan
+3319021007, wergu kulon
+3319021008, mlati kidul
+3319021009, mlati norowito
+3319021017, kerjasan
+3319021018, kajeksan
+3319022002, janggalan
+3319022003, demangan
+3319022010, mlati lor
+3319022011, nganguk
+3319022012, kramat
+3319022013, demaan
+3319022014, langgardalem
+3319022015, kauman
+3319022016, damaran
+3319022019, krandon
+3319022020, singocandi
+3319022021, glantengan
+3319022022, kaliputu
+3319022023, barongan
+3319022024, burikan
+3319022025, rendeng

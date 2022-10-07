@@ -1,0 +1,5 @@
+6171011002, benuamelayu laut
+6171011003, benuamelayu darat
+6171011004, parittokaya
+6171011005, kotabaru
+6171011006, akcaya

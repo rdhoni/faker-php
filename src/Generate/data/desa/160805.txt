@@ -1,0 +1,13 @@
+1608052001, negeri pakuan
+1608052002, negeri agung
+1608052003, banu mas
+1608052004, banu ayu
+1608052005, pulau negara
+1608052006, saung dadi
+1608052007, trantang sakti
+1608052008, pemetung besuki
+1608052009, pahang asri
+1608052010, bantan
+1608052011, bandar jaya
+1608052012, negeri agung jaya
+1608052013, bantan pelita

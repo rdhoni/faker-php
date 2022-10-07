@@ -1,0 +1,12 @@
+2104041006, raya
+2104042001, bakong
+2104042002, kuala raya
+2104042003, marok tua
+2104042005, sungai buluh
+2104042007, sungai raya
+2104042008, sungai harapan
+2104042009, jagoh
+2104042012, tinjul
+2104042013, langkap
+2104042014, tanjung irat
+2104042015, bukit belah

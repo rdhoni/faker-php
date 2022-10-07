@@ -1,0 +1,14 @@
+7201102001, tangeban
+7201102002, taugi
+7201102003, eteng
+7201102004, minang andala
+7201102005, kospa duatakarya
+7201102006, purwo agung
+7201102007, kembang merta
+7201102008, simpangan
+7201102009, tompotika makmur
+7201102010, duata karya
+7201102011, serese
+7201102012, cemerlang
+7201102013, padangon
+7201102014, rangga-rangga

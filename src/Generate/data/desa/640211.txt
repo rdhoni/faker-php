@@ -1,0 +1,20 @@
+6402112001, muara kaman ilir
+6402112002, rantau hempang
+6402112003, teratak
+6402112004, benua puhun
+6402112005, muara kaman ulu
+6402112006, sabintulung
+6402112007, muara siran
+6402112008, tunjungan
+6402112009, sedulang
+6402112010, menamang kiri
+6402112011, menamang kanan
+6402112012, sidomukti
+6402112013, panca jaya
+6402112014, bunga jadi
+6402112015, kupang baru
+6402112016, lebaho ulaq
+6402112017, bukit jering
+6402112018, liang buaya
+6402112019, puan cepak
+6402112020, cipari makmur

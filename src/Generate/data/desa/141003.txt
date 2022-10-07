@@ -1,0 +1,14 @@
+1410032001, tanjung samak
+1410032002, tanjung medang
+1410032004, gemala sari
+1410032007, topang
+1410032008, penyagun
+1410032010, repan
+1410032011, tanjung bakau
+1410032012, teluk samak
+1410032013, sungai gayung kiri
+1410032014, citra damai
+1410032016, dwi tunggal
+1410032017, wonosari
+1410032018, tebun
+1410032020, tanjung gemuk

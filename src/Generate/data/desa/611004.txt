@@ -1,0 +1,19 @@
+6110042001, menukung kota
+6110042002, nanga ella hulu
+6110042003, sungai sampuk
+6110042004, landau leban
+6110042005, tanjung beringin
+6110042006, nanga melona satu
+6110042007, nanga siyai
+6110042008, nanga mawang mentatai
+6110042009, laman mumbung
+6110042010, belaban ella
+6110042011, pelaik keruap
+6110042012, nanga keruap
+6110042013, batas nangka
+6110042014, nusa poring
+6110042015, batu onap
+6110042016, batu badak
+6110042017, oyah
+6110042018, lihai
+6110042019, sampak

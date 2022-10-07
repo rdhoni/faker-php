@@ -1,0 +1,14 @@
+1502232001, muara kibul
+1502232002, tanjung putus
+1502232003, pulau tebakar
+1502232004, batang kibul
+1502232005, sungai tabir
+1502232006, telentam
+1502232007, ngaol
+1502232008, air liki
+1502232009, pulau lebar
+1502232010, muara langeh
+1502232011, tanjung beringin
+1502232012, baru kibul
+1502232013, ngaol ilir
+1502232014, air liki baru

@@ -1,0 +1,17 @@
+3307142001, kupangan
+3307142002, mergosari
+3307142003, sukoharjo
+3307142004, rogojati
+3307142005, karanganyar
+3307142006, sempol
+3307142007, plodongan
+3307142008, suroyudan
+3307142009, gumiwang
+3307142010, gunungtugel
+3307142011, pulus
+3307142012, pucungwetan
+3307142013, kajeksan
+3307142014, tlogo
+3307142015, kalibening
+3307142016, garunglor
+3307142017, jebengplampitan

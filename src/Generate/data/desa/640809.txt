@@ -1,0 +1,11 @@
+6408092001, sepaso
+6408092002, sekerat
+6408092003, keraitan
+6408092004, tepian langsat
+6408092005, tebangan lembak
+6408092006, sepaso timur
+6408092007, sepaso selatan
+6408092008, muara bengalon
+6408092009, tepian baru
+6408092010, tepian indah
+6408092011, sepaso barat

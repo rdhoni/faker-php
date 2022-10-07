@@ -1,0 +1,20 @@
+1216012002, pusuk ii simaninggir
+1216012003, sionom hudon vii
+1216012004, baringin
+1216012005, sionom hudon julu
+1216012006, sionom hudon tonga
+1216012007, sionom hudon utara
+1216012008, sionom hudon selatan
+1216012009, sionom hudon timur
+1216012010, sihotang hasugian tonga
+1216012011, pusuk i
+1216012012, sionom hudon toruan
+1216012013, simataniari
+1216012014, sionom hudon timur ii
+1216012015, sihotang hasugian dolok ii
+1216012016, sihotang hasugian habinsaran
+1216012017, sionom hudon sibulbulon
+1216012018, sionom hudon runggu
+1216012019, janji hutanapa
+1216012020, baringin natam
+1216012021, sihotang hasugian dolok i

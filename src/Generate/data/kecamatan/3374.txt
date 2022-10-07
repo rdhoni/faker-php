@@ -1,0 +1,16 @@
+337401, semarang tengah
+337402, semarang utara
+337403, semarang timur
+337404, gayamsari
+337405, genuk
+337406, pedurungan
+337407, semarang selatan
+337408, candisari
+337409, gajahmungkur
+337410, tembalang
+337411, banyumanik
+337412, gunungpati
+337413, semarang barat
+337414, mijen
+337415, ngaliyan
+337416, tugu

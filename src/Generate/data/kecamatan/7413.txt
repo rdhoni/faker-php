@@ -1,0 +1,11 @@
+741301, sawerigadi
+741302, barangka
+741303, lawa
+741304, wadaga
+741305, tiworo selatan
+741306, maginti
+741307, tiworo tengah
+741308, tiworo utara
+741309, tiworo kepulauan
+741310, kusambi
+741311, napano kusambi

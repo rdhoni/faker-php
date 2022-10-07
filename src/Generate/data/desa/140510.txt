@@ -1,0 +1,10 @@
+1405101001, teluk dalam
+1405102002, tanjung sum
+1405102003, sungai solok
+1405102004, sungai upih
+1405102005, teluk
+1405102006, serapung
+1405102007, teluk beringin
+1405102008, sokoi
+1405102009, sungai mas
+1405102010, teluk bakau

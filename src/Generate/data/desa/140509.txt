@@ -1,0 +1,9 @@
+1405091001, teluk meranti
+1405092002, kuala panduk
+1405092003, petodaan
+1405092004, teluk binjai
+1405092005, pulau muda
+1405092006, gambut mutiara
+1405092007, labuhan bilik
+1405092008, pangkalan terap
+1405092009, segamai

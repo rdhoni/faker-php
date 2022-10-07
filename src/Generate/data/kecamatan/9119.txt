@@ -1,0 +1,5 @@
+911901, supiori selatan
+911902, supiori utara
+911903, supiori timur
+911904, kepulauan aruri
+911905, supiori barat

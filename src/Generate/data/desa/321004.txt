@@ -1,0 +1,17 @@
+3210042001, lampuyang
+3210042002, cibeureum
+3210042003, cikeusal
+3210042004, jatipamor
+3210042005, argasari
+3210042006, cicanir
+3210042007, campaga
+3210042008, sukaperna
+3210042009, talaga kulon
+3210042010, talaga wetan
+3210042011, ganeas
+3210042012, salado);
+3210042013, gunungmanik
+3210042014, kertahayu
+3210042015, mekarraharja
+3210042016, margamukti
+3210042017, mekarhurip

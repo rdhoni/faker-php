@@ -1,0 +1,15 @@
+3529182001, candi
+3529182002, jadung
+3529182003, romben barat
+3529182004, romben rana
+3529182005, romben guna
+3529182006, taman sare
+3529182007, bicabbi
+3529182008, dungkek
+3529182009, bunpenang
+3529182010, bungin-bungin
+3529182011, lapa taman
+3529182012, lapa laok
+3529182013, lapa daya
+3529182014, bancamara
+3529182015, banraas

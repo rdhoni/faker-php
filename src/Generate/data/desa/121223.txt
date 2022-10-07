@@ -1,0 +1,12 @@
+1212232001, sihiong
+1212232002, sinar sabungan
+1212232003, lumban lobu
+1212232004, harungguan
+1212232005, naga timbul
+1212232006, sibadihon
+1212232007, silamosik ii
+1212232011, partoruan lumban lobu
+1212232012, pardolok lumban lobu
+1212232013, silombu
+1212232014, lumban sangkalan
+1212232015, nagatimbul timur

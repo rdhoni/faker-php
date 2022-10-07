@@ -1,0 +1,25 @@
+1202122001, sabungannihuta iv
+1202122002, sabungannihuta i
+1202122003, sipahutar i
+1202122004, sipahutar ii
+1202122005, sipahutar iii
+1202122006, onan runggu i
+1202122007, tapian nauli iii
+1202122008, onan runggu iii
+1202122009, siabal-abal iii
+1202122010, siabal-abal i
+1202122011, aek nauli ii
+1202122012, tapian nauli ii
+1202122013, sabungannihuta iii
+1202122014, onan runggu iv
+1202122015, siabal-abal ii
+1202122016, aek nauli i
+1202122017, aek nauli iii
+1202122018, onan runggu ii
+1202122019, tapian nauli i
+1202122020, sabungannihuta ii
+1202122021, sabungannihuta v
+1202122022, siabal-abal iv
+1202122023, aek nauli iv
+1202122024, siabal-abal v
+1202122025, siabal-abal vi

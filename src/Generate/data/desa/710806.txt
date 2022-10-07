@@ -1,0 +1,22 @@
+7108062001, komus i
+7108062002, tuntung
+7108062003, batu tajam
+7108062004, dalapuli
+7108062005, buko
+7108062006, dengi
+7108062007, tombulang
+7108062008, tuntulow
+7108062009, kayu ogu
+7108062010, tanjung sidupa
+7108062011, buko selatan
+7108062012, busato
+7108062013, batu bantayo
+7108062014, padango
+7108062015, tuntulow utara
+7108062016, dalapuli timur
+7108062017, dalapuli barat
+7108062018, buko utara
+7108062019, tambulang timur
+7108062020, tambulang pantai
+7108062021, tuntung timur
+7108062022, duini

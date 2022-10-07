@@ -1,0 +1,23 @@
+6409011001, tanjung tengah
+6409011002, salo loang
+6409011003, petung
+6409011004, lawe-lawe
+6409011005, pejala
+6409011006, kampung baru
+6409011007, sesumpu
+6409011008, sungai parit
+6409011009, nipah-nipah
+6409011010, nenang
+6409011011, penajam
+6409011012, gunung seteleng
+6409011013, buluminung
+6409011014, sotek
+6409011015, sepan
+6409011016, riko
+6409011017, gersik
+6409011018, jenebora
+6409011019, pantai lango
+6409012020, giri mukti
+6409012021, bukit subur
+6409012022, sidorejo
+6409012023, giri purwa

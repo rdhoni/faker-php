@@ -1,0 +1,15 @@
+3209182001, cempaka
+3209182002, pamijahan
+3209182003, lurah
+3209182004, marikangen
+3209182005, bode lor
+3209182006, bodesari
+3209182007, gombang
+3209182008, karangmulya
+3209182009, karangasem
+3209182010, plumbon
+3209182011, purbawinangun
+3209182012, kebarepan
+3209182013, pasanggrahan
+3209182014, kedungsana
+3209182015, danamulya

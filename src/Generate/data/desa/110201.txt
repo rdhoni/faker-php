@@ -1,0 +1,28 @@
+1102012001, engkeran
+1102012002, rumah kampung
+1102012004, pasir bangun
+1102012006, kubu
+1102012007, lawe kongker
+1102012008, kuta cingkam ii
+1102012009, muara baru
+1102012011, kuta batu i
+1102012012, kuta cingkam i
+1102012013, kuta batu ii
+1102012014, lawe sempilang
+1102012015, prapat batu nunggul
+1102012016, pulo sepang
+1102012017, rih mbelang
+1102012018, kute batu baru
+1102012019, darul amin
+1102012020, lawe lubang indah
+1102012021, batu hamparan
+1102012022, paye munje
+1102012023, pulo ndapdap
+1102012024, pasir nunggul
+1102012025, cingkham mekhanggun
+1102012026, pintu khimbe
+1102012027, lawe kongker hilir
+1102012028, pulo gadung
+1102012029, pasikh pehkmate
+1102012030, pasikh nunang
+1102012031, deleng kukusen

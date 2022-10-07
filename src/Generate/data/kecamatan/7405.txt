@@ -1,0 +1,25 @@
+740501, tinanggea
+740502, angata
+740503, andoolo
+740504, palangga
+740505, landono
+740506, lainea
+740507, konda
+740508, ranomeeto
+740509, kolono
+740510, moramo
+740511, laonti
+740512, lalembuu
+740513, benua
+740514, palangga selatan
+740515, mowila
+740516, moramo utara
+740517, buke
+740518, wolasi
+740519, laeya
+740520, baito
+740521, basala
+740522, ranomeeto barat
+740523, kolono timur
+740524, sabulakoa
+740525, andoolo barat

@@ -1,0 +1,12 @@
+1501011004, lempur tengah
+1501012001, selam paung
+1501012002, air mumu
+1501012003, lempur mudik
+1501012005, masgo
+1501012006, lempur hilir
+1501012011, kebun baru
+1501012012, perikan tengah
+1501012013, dusun baru lempur
+1501012016, sungaihangat
+1501012018, manjunto lempur
+1501012019, kebun lima

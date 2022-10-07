@@ -1,0 +1,16 @@
+1108222001, keude simpang empat
+1108222002, seuneubok punti
+1108222003, paya leupah
+1108222004, paya teungoh
+1108222005, keubon baro
+1108222006, meunasah teungoh
+1108222007, meunasah baroh
+1108222008, mancang
+1108222009, alue bade
+1108222010, meunasah dayah spk
+1108222011, kilometer vi
+1108222012, kilometer viii
+1108222013, ie tarek i
+1108222014, ie tarek ii
+1108222015, pase sentosa
+1108222016, blang raleue

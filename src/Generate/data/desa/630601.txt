@@ -1,0 +1,18 @@
+6306012001, hamalau
+6306012002, telaga bidadari
+6306012003, karasikan
+6306012004, sungai raya utara
+6306012005, sungai raya selatan
+6306012006, hariti
+6306012007, ida manggala
+6306012008, bumi berkat
+6306012009, batang kulur kiri
+6306012010, batang kulur tengah
+6306012011, batang kulur kanan
+6306012012, baru
+6306012013, tamiyang
+6306012014, asam
+6306012015, sungai kali
+6306012016, sarang halang
+6306012017, paring agung
+6306012018, tanah bangkang

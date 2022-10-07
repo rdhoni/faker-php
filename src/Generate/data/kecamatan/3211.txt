@@ -1,0 +1,26 @@
+321101, wado
+321102, jatinunggal
+321103, darmaraja
+321104, cibugel
+321105, cisitu
+321106, situraja
+321107, conggeang
+321108, paseh
+321109, surian
+321110, buahdua
+321111, tanjungsari
+321112, sukasari
+321113, pamulihan
+321114, cimanggung
+321115, jatinangor
+321116, rancakalong
+321117, sumedang selatan
+321118, sumedang utara
+321119, ganeas
+321120, tanjungkerta
+321121, tanjungmedar
+321122, cimalaka
+321123, cisarua
+321124, tomo
+321125, ujungjaya
+321126, jatigede

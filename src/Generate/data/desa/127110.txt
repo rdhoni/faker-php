@@ -1,0 +1,12 @@
+1271101001, sukaramai i
+1271101002, sukaramai ii
+1271101003, sei rengas ii
+1271101004, s rengas permata
+1271101005, pandau hulu ii
+1271101006, kota matsum i
+1271101007, kota matsum ii
+1271101008, kota matsum iv
+1271101009, pasar merah timur
+1271101010, tegal sari i
+1271101011, tegal sari ii
+1271101012, tegal sari iii

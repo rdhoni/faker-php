@@ -1,0 +1,21 @@
+1806042001, talang beringin
+1806042002, gunung megang
+1806042003, tanjung rejo
+1806042004, tanjung begelung
+1806042005, sinar mulyo
+1806042006, kemuning
+1806042007, gedung agung
+1806042008, penantian
+1806042009, muara dua
+1806042010, tekad
+1806042011, pulau panggung
+1806042012, gunung meraksa
+1806042013, way ilahan
+1806042014, batu bedil
+1806042015, air bakoman);
+1806042025, sumber mulya
+1806042026, sindang marga
+1806042027, talang jawa
+1806042028, srimanganten
+1806042029, tanjung gunung
+1806042030, sinar mancak

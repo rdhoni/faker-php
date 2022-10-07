@@ -1,0 +1,14 @@
+3527122001, paopale laok
+3527122002, bunten barat
+3527122003, bunten timur
+3527122004, pancor
+3527122005, karanganyar
+3527122006, pangereman
+3527122007, bira barat
+3527122008, ketapang timur
+3527122009, ketapang daya
+3527122010, ketapang laok
+3527122011, ketapang barat
+3527122012, paopale daya
+3527122013, rabiyan
+3527122014, banyusokah

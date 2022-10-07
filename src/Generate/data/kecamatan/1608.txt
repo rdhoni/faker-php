@@ -1,0 +1,20 @@
+160801, martapura
+160802, buay madang
+160803, belitang
+160804, cempaka
+160805, buay pemuka peliung
+160806, madang suku ii
+160807, madang suku i
+160808, semendawai suku iii
+160809, belitang ii
+160810, belitang iii
+160811, bunga mayang
+160812, buay madang timur
+160813, madang suku iii
+160814, semendawai barat
+160815, semendawai timur
+160816, jayapura
+160817, belitang jaya
+160818, belitang madang raya
+160819, belitang mulya
+160820, buay pemuka bangsa raja

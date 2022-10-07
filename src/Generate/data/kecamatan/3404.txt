@@ -1,0 +1,17 @@
+340401, gamping
+340402, godean
+340403, moyudan
+340404, minggir
+340405, seyegan
+340406, mlati
+340407, depok
+340408, berbah
+340409, prambanan
+340410, kalasan
+340411, ngemplak
+340412, ngaglik
+340413, sleman
+340414, tempel
+340415, turi
+340416, pakem
+340417, cangkringan

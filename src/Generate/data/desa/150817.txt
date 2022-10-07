@@ -1,0 +1,12 @@
+1508172001, sungai mancur
+1508172002, tanah periuk
+1508172003, lubuk landai
+1508172004, rantau embacang
+1508172005, tebing tinggi
+1508172006, embacang gedang
+1508172007, sungai puri
+1508172008, paku aji
+1508172009, pematang panjang
+1508172010, sungai lilin
+1508172011, sungai tembang
+1508172012, rantau makmur

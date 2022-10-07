@@ -1,0 +1,14 @@
+3308142001, bandongan
+3308142002, salamkanci
+3308142003, sukosari
+3308142004, tonoboyo
+3308142005, gandusari
+3308142006, sidorejo
+3308142007, trasan
+3308142008, banyuwangi
+3308142009, kedungsari
+3308142010, sukodadi
+3308142011, kebonagung
+3308142012, kalegen
+3308142013, ngepanrejo
+3308142014, rejosari

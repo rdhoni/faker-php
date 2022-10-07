@@ -1,0 +1,9 @@
+3205242001, singajaya
+3205242002, ciudian
+3205242003, mekartani
+3205242004, sukamulya
+3205242005, sukawangi
+3205242006, pancasura
+3205242007, karangagung
+3205242008, cigintung
+3205242009, girimukti

@@ -1,0 +1,57 @@
+1108012001, keude alue ie puteh
+1108012002, meunasah  alue ie puteh
+1108012003, pucok alue
+1108012004, alue anoe timu
+1108012005, alue anoe barat
+1108012006, pulo seukee
+1108012007, alue serdang
+1108012008, cot mane
+1108012009, cot kumbang
+1108012010, matang kumbang
+1108012011, matang kareung
+1108012012, cot ulaya
+1108012013, alue geudong
+1108012014, tanjong glumpang
+1108012015, matang raya timu
+1108012016, matang raya barat
+1108012017, matang kelayu
+1108012018, alue buya
+1108012019, matang cut
+1108012020, keude panteu breuh
+1108012021, meudang ara
+1108012022, meunasah bujok
+1108012023, alue dama
+1108012024, cot ara
+1108012025, rambong dalam
+1108012026, meunasah  geudong
+1108012027, alue keutapang
+1108012028, krueng lingka barat
+1108012029, krueng lingka timu
+1108012030, alue jamok
+1108012031, alue bili geulumpang
+1108012032, lhok seutuy
+1108012033, alue bili rayeuk
+1108012034, keude menjee iv
+1108012035, glumpang  bungkok
+1108012036, matang rawa
+1108012037, glumpang  samlakoe
+1108012038, arongan lise
+1108012039, matang reudeup
+1108012040, matang manyam
+1108012041, matang ulim
+1108012042, matang beuringen
+1108012043, cot manyang
+1108012044, alue ie tarek
+1108012045, alue rambong
+1108012046, matang linya
+1108012047, matang lawang
+1108012048, glumpang payong
+1108012049, mon sukon
+1108012050, lueng bata
+1108012051, ceumpeudak
+1108012052, buket dara baro
+1108012053, matang pineung
+1108012054, matang baro
+1108012055, ujong dama
+1108012056, babussalam
+1108012057, cinta makmur

@@ -1,0 +1,7 @@
+3310072001, gondang
+3310072002, basin
+3310072003, pluneng
+3310072004, ngrundul
+3310072005, malangjiwan
+3310072006, karangduren
+3310072007, menden

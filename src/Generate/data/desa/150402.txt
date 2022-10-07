@@ -1,0 +1,14 @@
+1504021001, kampung baru
+1504021002, pasar muara tembesi
+1504022003, jebak
+1504022004, ampelu
+1504022005, rambutan masam
+1504022006, rantau kapas mudo
+1504022007, rantau kapas tuo
+1504022008, sungai pulai
+1504022009, pulau
+1504022010, tanjung marwo
+1504022011, suka ramai
+1504022012, ampelu mudo
+1504022013, pelayangan
+1504022015, pematang lima suku

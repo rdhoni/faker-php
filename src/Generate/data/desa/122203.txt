@@ -1,0 +1,14 @@
+1222032001, bangai
+1222032002, rasau
+1222032003, teluk rampah
+1222032004, pangarungan);
+1222032005, bunut
+1222032006, aek batu
+1222032007, pinang damai
+1222032008, aek raso
+1222032009, torgamba
+1222032010, asam jawa
+1222032011, torganda
+1222032012, beringin jaya
+1222032013, bukit tujuh
+1222032014, sei meranti

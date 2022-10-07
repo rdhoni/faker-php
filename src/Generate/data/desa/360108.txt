@@ -1,0 +1,9 @@
+3601082001, pasanggrahan
+3601082002, sukasaba
+3601082005, gunungbatu
+3601082006, panacaran
+3601082007, curuglanglang
+3601082008, munjul
+3601082009, cibitung
+3601082011, kotadukuh
+3601082018, lebak

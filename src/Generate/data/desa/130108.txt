@@ -1,0 +1,12 @@
+1301082001, taratak
+1301082002, surantih
+1301082003, amping parak
+1301082004, amping parak timur
+1301082005, koto taratak
+1301082006, lansano taratak
+1301082007, aur duri surantih
+1301082008, rawang gunung malelo surantih
+1301082009, koto nan tigo selatan surantih
+1301082010, koto nan tigo utara surantih
+1301082011, ganting mudiak selatan surantih
+1301082012, ganting mudiak utara surantih

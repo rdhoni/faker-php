@@ -1,0 +1,16 @@
+1402011004, kampung dagang
+1402011006, pasar kota
+1402011007, kampung besar kota
+1402011008, sekip hulu
+1402011011, kmp besar seberang
+1402011018, sekip hilir jumat
+1402012001, sungai guntung tengah
+1402012002, sungai guntung hilir
+1402012003, kuantan baru
+1402012005, kampung pulau
+1402012009, sungai beringin
+1402012010, pasir kemilu
+1402012012, rantau mapesai
+1402012013, pulau gajah
+1402012014, sungai raya
+1402012023, rawa bangun

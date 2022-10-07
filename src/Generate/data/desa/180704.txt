@@ -1,0 +1,12 @@
+1807042001, pekalongan
+1807042002, adirejo
+1807042003, sidodadi
+1807042004, gondangrejo
+1807042005, siraman
+1807042006, tulusrejo
+1807042007, jojog
+1807042008, ganti warno
+1807042009, kalibening
+1807042010, wonosari
+1807042011, gantimulyo
+1807042012, adijaya

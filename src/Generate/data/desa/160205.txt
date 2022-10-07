@@ -1,0 +1,25 @@
+1602051001, jua-jua
+1602051002, kayuagung
+1602051003, sidakersa
+1602051004, cintaraja
+1602051005, mangun jaya
+1602051006, paku
+1602051007, kedaton
+1602051008, sukadana
+1602051009, perigi
+1602051010, kutaraja
+1602051025, tanjung rancing
+1602052011, kijang ulu
+1602052012, muarabaru
+1602052013, tanjung lubuk
+1602052014, arisan buntal
+1602052015, celikah
+1602052016, banding anyar
+1602052017, buluh cawang
+1602052018, lubuk dalam
+1602052019, anyar
+1602052020, tanjung menang
+1602052021, teloko
+1602052022, tanjung serang
+1602052023, serigeni baru
+1602052024, serigeni

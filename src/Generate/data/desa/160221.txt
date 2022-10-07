@@ -1,0 +1,17 @@
+1602212001, embacang
+1602212002, balian
+1602212003, sumbu sari
+1602212004, suka sari
+1602212005, ciptasari
+1602212006, mataram jaya
+1602212007, bumi makmur
+1602212008, sumber baru
+1602212009, mulya jaya
+1602212010, rotan mulya
+1602212011, embacang permai
+1602212012, gedung rejo
+1602212013, kertamukti
+1602212014, kemang indah
+1602212015, balian makmur
+1602212016, sedyomulyo
+1602212017, dabuk makmur

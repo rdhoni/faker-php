@@ -1,0 +1,17 @@
+1504061014, simpang s rengas
+1504062001, batu sawar
+1504062002, peninjauan
+1504062003, teluk leban
+1504062004, kampung baru
+1504062005, rengas ix
+1504062006, kembang seri
+1504062007, buluh kasab
+1504062008, tebing tinggi
+1504062009, olak kemang
+1504062010, padang kelapo
+1504062011, sungai lingkar
+1504062012, sungai ruan ulu
+1504062013, sungai ruan ilir
+1504062015, rawa mekar
+1504062016, mekar sari
+1504062017, kembang seri baru

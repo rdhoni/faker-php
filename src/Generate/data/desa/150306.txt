@@ -1,0 +1,28 @@
+1503062001, mandiangin
+1503062002, rangkiling simpang
+1503062003, pemusiran
+1503062004, gurun tuo simpang
+1503062005, gurun mudo
+1503062006, gurun tuo
+1503062007, rangkiling
+1503062008, mandainangin tuo
+1503062009, kertopati
+1503062010, muaro ketalo
+1503062011, taman dewa
+1503062012, simpang kertopati
+1503062013, bukitperanginan
+1503062014, meranti baru
+1503062015, petiduran baru
+1503062016, guruh baru
+1503062017, butang baru
+1503062018, jati baru
+1503062019, sungai butang
+1503062020, gurun baru
+1503062021, kute jaye
+1503062022, mandiangin pasar
+1503062023, sungai rotan
+1503062024, suka maju
+1503062025, jernang baru
+1503062026, meranti jaya
+1503062027, jati baru mudo
+1503062028, talang serdang

@@ -1,0 +1,16 @@
+3302202001, ledug
+3302202002, pliken
+3302202003, purwodadi
+3302202004, karang tengah
+3302202005, kramat
+3302202006, sambeng wetan
+3302202007, sambeng kulon
+3302202008, purbadana
+3302202009, kembaran
+3302202010, bojongsari
+3302202011, karangsoka
+3302202012, dukuhwaluh
+3302202013, tambaksari kidul
+3302202014, bantarwuni
+3302202015, karangsari
+3302202016, linggasari

@@ -1,0 +1,14 @@
+3206022001, cidadap
+3206022002, ciawi
+3206022003, cikupa
+3206022004, karangnunggal
+3206022005, karangmekar
+3206022006, cikukulu
+3206022007, cibatuireng
+3206022008, cibatu
+3206022009, sarimanggu
+3206022010, sukawangun
+3206022011, cintawangi
+3206022012, cikapinis
+3206022013, sarimukti
+3206022014, kujang

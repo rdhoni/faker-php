@@ -1,0 +1,20 @@
+1807012001, sukadana
+1807012002, pakuan aji
+1807012003, bumi nabung udik
+1807012004, rajabasa batanghari
+1807012005, negara nabung
+1807012006, terbangi marga
+1807012007, mataram marga
+1807012008, pasar sukadana
+1807012009, surabaya udik
+1807012010, rantau jaya udik
+1807012011, muara jaya
+1807012012, sukadana ilir
+1807012013, bumi ayu
+1807012014, sukadana timur
+1807012015, rantau jaya udik ii
+1807012016, putra aji ii
+1807012017, putra aji i
+1807012018, sukadana selatan
+1807012019, sukadana jaya
+1807012020, sukadana tengah

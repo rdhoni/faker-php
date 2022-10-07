@@ -1,0 +1,12 @@
+3303132001, wlahar
+3303132002, bantarbarang
+3303132003, karangbawang
+3303132004, gunungwuled
+3303132005, losari
+3303132006, bodaskarangjati
+3303132007, wanogara wetan
+3303132008, wanogara kulon
+3303132009, makam
+3303132010, sumampir
+3303132011, tanalum
+3303132012, panusupan

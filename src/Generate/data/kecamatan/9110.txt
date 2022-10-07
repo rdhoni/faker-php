@@ -1,0 +1,10 @@
+911001, sarmi
+911002, tor atas
+911003, pantai barat
+911004, pantai timur
+911005, bonggo
+911009, apawer hulu
+911012, sarmi selatan
+911013, sarmi timur
+911014, pantai timur bagian barat
+911015, bonggo timur

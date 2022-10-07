@@ -1,0 +1,10 @@
+1171012001, kampung baru
+1171012002, neusu jaya
+1171012003, sukaramai
+1171012004, seutui
+1171012005, peuniti
+1171012006, neusu aceh
+1171012007, ateuk pahlawan
+1171012008, ateuk jawo
+1171012009, ateuk deah tanoh
+1171012010, ateuk munjeng

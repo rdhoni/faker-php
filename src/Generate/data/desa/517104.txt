@@ -1,0 +1,11 @@
+5171041004, tonja
+5171041007, ubung
+5171041009, peguyangan
+5171042001, dangin puri kangin
+5171042002, dangin puri kauh
+5171042003, dangin puri kaja
+5171042005, pemecutan kaja
+5171042006, dauh puri kaja
+5171042008, ubung kaja
+5171042010, peguyangan kaja
+5171042011, peguyangan kangin

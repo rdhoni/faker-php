@@ -1,0 +1,21 @@
+1701062001, selali
+1701062002, air kemang
+1701062003, pasar pino
+1701062004, tanggo raso
+1701062005, talang padang
+1701062006, tungkal i
+1701062007, tungkal ii
+1701062008, bandung ayu
+1701062009, napal melintang
+1701062010, serang bulan
+1701062011, suka bandung
+1701062012, pagar gading
+1701062013, cinto mandi
+1701062014, kembang seri
+1701062015, karang cayo
+1701062016, tanjung aur ii
+1701062017, nanjungan
+1701062018, kemang manis
+1701062019, padang beriang
+1701062020, padang serasan
+1701062021, telaga dalam

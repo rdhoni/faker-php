@@ -1,0 +1,8 @@
+9171041004, koya barat
+9171041005, koya timur
+9171042001, skouw mabo
+9171042002, skouw yambe
+9171042003, skouw sae
+9171042006, holtekamp
+9171042007, koya tengah
+9171042008, mosso

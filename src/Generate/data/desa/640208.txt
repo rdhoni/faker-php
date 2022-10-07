@@ -1,0 +1,21 @@
+6402082001, kedang ipil
+6402082002, benua baru
+6402082003, sedulang
+6402082004, loleng
+6402082005, kota bangun ulu
+6402082006, kota bangun ilir
+6402082007, liang
+6402082008, muhuran
+6402082009, pela
+6402082010, kota bangun i
+6402082011, kota bangun ii
+6402082012, kota bangun iii
+6402082013, sumber sari
+6402082014, sari nadi
+6402082015, suka bumi
+6402082016, wonosari
+6402082017, kedang murung
+6402082018, kota bangun seberang
+6402082019, liang ulu
+6402082020, sebelimbingan
+6402082021, sangkuliman

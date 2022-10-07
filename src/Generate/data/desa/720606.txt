@@ -1,0 +1,26 @@
+7206062001, sainoa
+7206062002, polewali
+7206062003, umbele
+7206062004, pulau dua
+7206062005, bakala
+7206062006, paku
+7206062007, koburu
+7206062008, buton
+7206062009, jawi-jawi
+7206062010, kaleroang
+7206062011, bungingkela
+7206062012, lokombulo
+7206062013, buajangka
+7206062014, waru-waru
+7206062015, padabale
+7206062016, pado-pado
+7206062017, pulaubapa
+7206062018, lalemo
+7206062019, lamontoli
+7206062041, bungintende
+7206062043, panimbawang
+7206062044, po\o
+7206062045, boelimau
+7206062046, poaro
+7206062047, umbele lama
+7206062048, pulau dua darat

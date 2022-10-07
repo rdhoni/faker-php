@@ -1,0 +1,11 @@
+6306042001, bamban utara
+6306042002, bamban
+6306042003, bamban selatan
+6306042004, kayu abang
+6306042005, angkinang
+6306042006, telaga sili-sili
+6306042007, angkinang selatan
+6306042008, tawia
+6306042009, taniran kubah
+6306042010, taniran selatan
+6306042011, bakarung

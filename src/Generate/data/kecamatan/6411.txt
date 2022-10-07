@@ -1,0 +1,5 @@
+641101, long bagun
+641102, long hubung
+641103, laham
+641104, long apari
+641105, long pahangai

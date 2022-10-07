@@ -1,0 +1,48 @@
+1107152001, dua paya
+1107152002, cot meulu
+1107152003, dayah bubue
+1107152004, tanjong hagu
+1107152005, sumboe buga
+1107152006, rambayan  kupula
+1107152007, rambayan  lueng
+1107152008, cempala kuneng
+1107152009, peunayong
+1107152010, leuhop
+1107152011, kumbang waido
+1107152012, gampong waido
+1107152013, mee krukon
+1107152014, mee lampoh saka
+1107152015, lueng guci rumpong
+1107152016, dayah seumideun
+1107152017, mesjid guci rumpong
+1107152018, reuba waido
+1107152019, dayah tungku
+1107152020, jurong raya
+1107152021, balee restong
+1107152022, lueng mesjid
+1107152023, teungoh baroh
+1107152024, mee hagu
+1107152025, dayah sukon
+1107152026, blang raya
+1107152027, balee pineung
+1107152028, menje mesjid
+1107152029, me tanoh
+1107152030, sialet-alet
+1107152031, bluek arab
+1107152032, puuk
+1107152033, dayah muara
+1107152034, sawiet
+1107152035, ulee tutue
+1107152036, jim
+1107152037, keutapang
+1107152038, meuleuweuk
+1107152039, jurong
+1107152040, raya krueng seumideun
+1107152041, sukon krueng seumideun
+1107152042, mee krueng seumideun
+1107152043, blang krueng seumideun
+1107152044, keurumbok
+1107152045, ulee cot seupeng
+1107152046, kabat
+1107152049, blang seupeng
+1107152050, gampong

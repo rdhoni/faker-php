@@ -1,0 +1,15 @@
+3307121005, garung
+3307122001, lengkong
+3307122002, gemblengan
+3307122003, sendangsari
+3307122004, kayugiyang
+3307122006, siwuran
+3307122007, kuripan
+3307122008, jengkol
+3307122009, tlogo
+3307122010, maron
+3307122011, menjer
+3307122012, mlandi
+3307122013, laranganlor
+3307122014, sitiharjo
+3307122015, tegalsari

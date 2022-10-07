@@ -1,0 +1,14 @@
+3518062001, gondanglegi
+3518062002, singkalanyar
+3518062003, mojoagung
+3518062004, bandung
+3518062005, nglawak
+3518062006, baleturi
+3518062007, tegaron
+3518062008, tanjungtani
+3518062009, sanggrahan
+3518062010, rowoharjo
+3518062011, sugihwaras
+3518062012, watudandang
+3518062013, sono ageng
+3518062014, kurungrejo

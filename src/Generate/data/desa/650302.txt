@@ -1,0 +1,5 @@
+6503021001, nunukan timur
+6503021002, nunukan barat
+6503021003, nunukan utara
+6503021005, nunukan tengah
+6503022004, binusan

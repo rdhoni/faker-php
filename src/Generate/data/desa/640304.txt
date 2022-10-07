@@ -1,0 +1,13 @@
+6403042001, long la\ai
+6403042002, punan segah
+6403042003, long ayap
+6403042004, long ayan
+6403042005, punan malinau
+6403042006, punan mahkam
+6403042007, gunung sari
+6403042008, pandan sari
+6403042009, bukit makmur
+6403042010, harapan jaya
+6403042011, tepian buah
+6403042012, batu rajang
+6403042013, siduung indah

@@ -1,0 +1,19 @@
+1701012001, batu ampar
+1701012002, rantau sialang
+1701012003, bumi agung
+1701012004, palak siring
+1701012005, keban agung i
+1701012006, keban agung ii
+1701012007, tanjung alam
+1701012008, tanjung negara
+1701012009, keban agung iii
+1701012010, suka nanti
+1701012011, muara tiga
+1701012012, tanjung besar
+1701012013, pajar bulan
+1701012014, durian sebatang
+1701012015, lawang agung
+1701012027, nanti agung
+1701012028, karang agung
+1701012029, lubuk resam
+1701012030, muara tiga ilir

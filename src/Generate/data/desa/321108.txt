@@ -1,0 +1,10 @@
+3211082001, pasehkidul
+3211082002, paseh kaler
+3211082003, legok kidul
+3211082004, legok kaler
+3211082005, bongkok
+3211082006, padanan
+3211082007, pasirreungit
+3211082008, cijambe
+3211082009, haurkuning
+3211082010, citepok

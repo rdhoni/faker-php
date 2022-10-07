@@ -1,0 +1,52 @@
+1111032001, lawang
+1111032002, matang reuleut
+1111032003, meunasah  krueng
+1111032004, cot keutapang
+1111032005, meunasah  rabo
+1111032006, meunasah  tambo
+1111032007, meunasah  baroh
+1111032008, meunasah  pulo
+1111032009, matang pasi
+1111032010, blang kubu
+1111032011, garot
+1111032012, ara bungong
+1111032013, jabet
+1111032014, sawang
+1111032015, blang beururu
+1111032016, hagu
+1111032017, blang rangkuluh
+1111032018, meunasah bungo
+1111032019, paya beunot
+1111032020, meunasah tunong
+1111032021, meunasah alue
+1111032022, meunasah cut
+1111032023, gampong mesjid
+1111032024, meunasah teungoh
+1111032025, meunasah  blang
+1111032026, kukue
+1111032027, blang matang
+1111032028, blang glumpang
+1111032029, gampong baro
+1111032030, gampong paya
+1111032031, seuneubok  paya
+1111032032, pulo lawang
+1111032033, keude alue rheng
+1111032034, karieng
+1111032035, pulo ara
+1111032036, cot laot
+1111032037, aleu sijuk
+1111032038, blang bati
+1111032039, buket paya
+1111032040, dayah mon ara
+1111032041, calok
+1111032042, cot kruet
+1111032043, tanjong selamat
+1111032044, jaba
+1111032045, alue gandai
+1111032046, neubok naleung
+1111032047, paya timu
+1111032048, gampong mulia
+1111032049, pinto rimba
+1111032050, alue keutapang
+1111032051, tgk dibathon
+1111032052, paya barat

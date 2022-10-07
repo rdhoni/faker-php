@@ -1,0 +1,10 @@
+6203011006, murung keramat
+6203011007, selat hilir
+6203011008, selat tengah
+6203011009, selat hulu
+6203011010, selat dalam
+6203011021, selat utara
+6203011022, selat barat
+6203011023, panamas
+6203012011, pulau telo
+6203012020, pulau telo baru

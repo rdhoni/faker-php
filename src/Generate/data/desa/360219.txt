@@ -1,0 +1,22 @@
+3602192001, cibeber
+3602192002, citorek tengah
+3602192003, cisungsang
+3602192004, kujangjaya
+3602192005, kujangsari
+3602192006, neglasari
+3602192007, mekarsari
+3602192008, cikotok
+3602192009, sukamulya
+3602192010, citorek timur
+3602192011, warungbanten
+3602192013, hegarmanah
+3602192014, situmulya
+3602192015, citorek kidul
+3602192016, cikadu
+3602192017, sirnagalih
+3602192018, cihambali
+3602192019, citorek barat
+3602192020, gunungwangun
+3602192021, wanasari
+3602192022, citorek sabrang
+3602192023, ciherang

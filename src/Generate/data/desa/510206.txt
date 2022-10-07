@@ -1,0 +1,15 @@
+5102062001, bengkel
+5102062002, pangkung tibah
+5102062003, belalang
+5102062004, beraban
+5102062005, buwit
+5102062006, cepaka
+5102062007, kaba-kaba
+5102062008, nyambu
+5102062009, pandak bandung
+5102062010, pandak gede
+5102062011, nyitdah
+5102062012, pejaten
+5102062013, kediri
+5102062014, abian tuwung
+5102062015, banjar anyar

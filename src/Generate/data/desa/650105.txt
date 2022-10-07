@@ -1,0 +1,9 @@
+6501051001, tanjung selor hulu
+6501051002, tanjung selor hilir
+6501051008, tanjung selor timur
+6501052003, jelarai selor
+6501052004, gunung seriang
+6501052005, bumi rahayu
+6501052006, gunung sari
+6501052007, apung
+6501052009, tengkapak

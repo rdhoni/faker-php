@@ -1,0 +1,8 @@
+7174011005, biga
+7174011006, upai
+7174011007, genggulang
+7174012001, bilalang satu
+7174012002, bilalang dua
+7174012003, pontodon
+7174012004, sia
+7174012008, pontodon timur

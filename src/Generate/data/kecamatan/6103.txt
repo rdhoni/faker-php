@@ -1,0 +1,15 @@
+610301, kapuas
+610302, mukok
+610303, noyan
+610304, jangkang
+610305, bonti
+610306, beduai
+610307, sekayam
+610308, kembayan
+610309, parindu
+610310, tayan hulu
+610311, tayan hilir
+610312, balai
+610313, toba
+610320, meliau
+610321, entikong

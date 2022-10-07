@@ -1,0 +1,16 @@
+6308012003, sungai namang
+6308012004, danau panggang
+6308012008, pandamaan
+6308012009, baru
+6308012010, bitin
+6308012011, manarap
+6308012012, pararain
+6308012013, telaga mas
+6308012015, darussalam
+6308012016, sarang burung
+6308012017, longkong
+6308012019, rintisan
+6308012020, palukahan
+6308012021, teluk mesjid
+6308012022, sungai panangah
+6308012023, manarap hulu

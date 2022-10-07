@@ -1,0 +1,9 @@
+6101162001, jawai laut
+6101162002, jelu air
+6101162003, matang terap
+6101162004, suah api
+6101162005, sari laba a
+6101162006, sari laba b
+6101162007, semperiuk a
+6101162008, semperiuk b
+6101162009, sabaran

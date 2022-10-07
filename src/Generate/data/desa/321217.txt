@@ -1,0 +1,7 @@
+3212172001, cangkring
+3212172002, cantigi kulon
+3212172003, cantigi wetan
+3212172004, panyingkiran kidul
+3212172005, panyingkiran lor
+3212172006, lamarantarung
+3212172007, cemara

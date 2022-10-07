@@ -1,0 +1,20 @@
+6201021002, mendawai seberang
+6201021003, mendawai
+6201021005, madurejo
+6201021006, sidorejo
+6201021007, raja
+6201021008, raja seberang
+6201021009, baru
+6201022001, tanjung putri
+6201022004, pasir panjang
+6201022010, rangda
+6201022011, kenambui
+6201022012, runtu
+6201022013, umpang
+6201022014, kumpai batu bawah
+6201022015, kumpai batu atas
+6201022016, natai raya
+6201022017, medang sari
+6201022018, natai baru
+6201022019, tanjung terantang
+6201022020, sulung

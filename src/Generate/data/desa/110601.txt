@@ -1,0 +1,28 @@
+1106012001, meunasah  krueng kala
+1106012002, jantang
+1106012003, baroh krueng kala
+1106012004, tunong krueng kala
+1106012005, sungko mulat
+1106012006, birek
+1106012007, kareung
+1106012008, paroy
+1106012009, teungoh blang mee
+1106012010, lamkuta blang mee
+1106012011, baroh blang mee
+1106012012, umong seuribee
+1106012013, teungoh geunteut
+1106012014, baroh geunteut
+1106012015, lam juhang
+1106012016, utamong
+1106012017, gapuy
+1106012018, lamsujen
+1106012019, mon mata
+1106012020, lamgeuriheu
+1106012021, keutapang
+1106012022, saney
+1106012023, cundien
+1106012024, glee bruek
+1106012025, pasi
+1106012026, pudeng
+1106012027, meunasah cot
+1106012028, meunasah  lhok

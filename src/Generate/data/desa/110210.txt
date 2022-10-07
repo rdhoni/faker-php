@@ -1,0 +1,19 @@
+1102102001, simpang semadam
+1102102002, semadam awal
+1102102003, semadam asal
+1102102004, lawe kinga gabungan
+1102102005, lawe kinga tebing tinggi
+1102102006, kebun sere
+1102102007, lawe beringin horas
+1102102008, lawe berigin gayo
+1102102009, suka makmur
+1102102010, pasar puntung
+1102102011, titi pasir
+1102102012, lawe petanduk i
+1102102013, ngkeran alur buluh
+1102102014, kampung baru
+1102102015, sepakat segenap
+1102102016, selamat indah
+1102102017, lawe kinge lapter
+1102102018, lawe mejile
+1102102019, lawe petanduk-ii

@@ -1,0 +1,9 @@
+141001, tebing tinggi
+141002, rangsang barat
+141003, rangsang
+141004, tebing tinggi barat
+141005, merbau
+141006, pulaumerbau
+141007, tebing tinggi timur
+141008, tasik putri puyu
+141009, rangsang pesisir

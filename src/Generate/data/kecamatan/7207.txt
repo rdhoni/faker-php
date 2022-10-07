@@ -1,0 +1,12 @@
+720703, totikum
+720704, tinangkung
+720705, liang
+720706, bulagi
+720707, buko
+720709, bulagi selatan
+720711, tinangkung selatan
+720715, totikum selatan
+720716, peling tengah
+720717, bulagi utara
+720718, buko selatan
+720719, tinangkung utara

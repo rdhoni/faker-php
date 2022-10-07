@@ -1,0 +1,10 @@
+7102252001, penaesaan
+7102252002, tompaso dua
+7102252003, tompaso dua utara
+7102252004, pinabetengan utara
+7102252005, pinabetengan
+7102252006, pinabetengan selatan
+7102252007, tonsewer
+7102252008, tonsewer selatan
+7102252009, touure
+7102252010, touure dua

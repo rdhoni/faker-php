@@ -1,0 +1,18 @@
+3320012001, kedungmalang
+3320012002, kalianyar
+3320012003, karangaji
+3320012004, tedunan
+3320012005, sowan lor
+3320012006, sowan kidul
+3320012007, wanusobo
+3320012008, surodadi
+3320012009, panggung
+3320012010, bulak baru
+3320012011, jondang
+3320012012, bugel
+3320012013, dongos
+3320012014, menganti
+3320012015, kerso
+3320012016, tanggul tlare
+3320012017, rau
+3320012018, sukosono

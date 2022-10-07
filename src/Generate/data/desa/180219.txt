@@ -1,0 +1,20 @@
+1802192001, kota batu
+1802192002, sangun ratu
+1802192003, gunung raya
+1802192004, gunung haji
+1802192005, negri ratu
+1802192006, tanjung kemala
+1802192007, payung rejo
+1802192008, payung batu
+1802192009, negeri kepayungan
+1802192010, segala mider
+1802192011, tias bangun
+1802192012, riau priangan
+1802192013, payung dadi
+1802192014, payung makmur
+1802192015, tanjung rejo
+1802192016, tawang negeri
+1802192017, sinar negeri
+1802192018, pekandangan
+1802192019, payung mulya
+1802192020, padang rejo

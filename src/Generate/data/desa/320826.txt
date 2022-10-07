@@ -1,0 +1,8 @@
+3208262001, citapen
+3208262002, pasiragung
+3208262003, tundagan
+3208262004, bunigeulis
+3208262005, hantara
+3208262006, pakapasan girang
+3208262007, cikondang
+3208262008, pakapasan hilir

@@ -1,0 +1,17 @@
+620201, kota besi
+620202, cempaga
+620203, mentaya hulu
+620204, parenggean
+620205, baamang
+620206, mentawa baru ketapang
+620207, mentaya hilir utara
+620208, mentaya hilir selatan
+620209, pulau hanaut
+620210, antang kalang
+620211, teluk sampit
+620212, seranau
+620213, cempaga hulu
+620214, telawang
+620215, bukit santuai
+620216, tualan hulu
+620217, telaga antang

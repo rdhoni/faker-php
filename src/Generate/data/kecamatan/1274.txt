@@ -1,0 +1,6 @@
+127401, tanjung balai selatan
+127402, tanjung balai utara
+127403, sei tualang raso
+127404, teluk nibung
+127405, datuk bandar
+127406, datuk bandar timur

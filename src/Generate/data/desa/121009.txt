@@ -1,0 +1,24 @@
+1210092001, lingga tiga
+1210092002, tanjung siram
+1210092003, pematang seleng
+1210092004, perbaungan
+1210092005, gunung selamat
+1210092006, emplasemen aek nabara
+1210092007, bandar tinggi
+1210092008, kampung dalam
+1210092009, pondok batu
+1210092010, meranti
+1210092011, n-1 aek nabara
+1210092012, n-2 aek nabara
+1210092013, n-3 aek nabara
+1210092014, n-4 aek nabara
+1210092015, n-5 aek nabara
+1210092016, n-6 aek nabara
+1210092017, n-7 aek nabara
+1210092018, n-8 aek nabara
+1210092019, s-1 aek nabara
+1210092020, s-2 aek nabara
+1210092021, s-3 aek nabara
+1210092022, s-4 aek nabara
+1210092023, s-5 aek nabara
+1210092024, s-6 aek nabara

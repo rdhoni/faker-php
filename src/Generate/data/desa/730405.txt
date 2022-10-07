@@ -1,0 +1,10 @@
+7304051001, tolo
+7304051002, tolo utara
+7304051003, tolo selatan
+7304051004, tolo timur
+7304051005, tolo barat
+7304052006, gantarang
+7304052009, bontolebang
+7304052010, bontonompo
+7304052014, samataring
+7304052021, tombolo

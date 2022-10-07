@@ -1,0 +1,16 @@
+332001, kedung
+332002, pecangaan
+332003, welahan
+332004, mayong
+332005, batealit
+332006, jepara
+332007, mlonggo
+332008, bangsri
+332009, keling
+332010, karimun jawa
+332011, tahunan
+332012, nalumsari
+332013, kalinyamatan
+332014, kembang
+332015, pakis aji
+332016, donorojo

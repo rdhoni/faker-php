@@ -1,0 +1,15 @@
+1705142001, pasar talo
+1705142002, dusun baru
+1705142003, talang kabu
+1705142004, tanah abang
+1705142005, penago baru
+1705142006, nanti agung
+1705142007, talang panjang
+1705142008, penago i
+1705142009, penago ii
+1705142010, rawah indah
+1705142011, padang cekur
+1705142012, padang batu
+1705142013, paluah terap
+1705142014, margo sari
+1705142015, mekar sari

@@ -1,0 +1,5 @@
+3205402001, cipareuan
+3205402002, cibiuk kaler
+3205402003, cibiuk kidul
+3205402004, majasari
+3205402005, lingkungpasir

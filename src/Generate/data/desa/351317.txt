@@ -1,0 +1,18 @@
+3513172001, brabe
+3513172002, gerongan
+3513172003, maron kidul
+3513172004, sumberdawe
+3513172005, sumberpoh
+3513172006, kedungsari
+3513172007, maron kulon
+3513172008, maron wetan
+3513172009, brani kulon
+3513172010, satreyan
+3513172011, brani wetan
+3513172012, puspan
+3513172013, wonorejo
+3513172014, brumbungan kidul
+3513172015, pegalangan kidul
+3513172016, suko
+3513172017, ganting kulon
+3513172018, ganting wetan

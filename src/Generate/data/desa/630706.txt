@@ -1,0 +1,18 @@
+6307061001, barabai darat
+6307061002, barabai timur
+6307061003, barabai selatan
+6307061004, barabai utara
+6307061005, barabai barat
+6307061006, bukat
+6307062007, gambah
+6307062008, kayu bawang
+6307062009, benawa tengah
+6307062010, mandingin
+6307062011, pajukungan
+6307062012, banua budi
+6307062013, banua binjai
+6307062014, banua jingah
+6307062015, ayuang
+6307062016, babai
+6307062017, awang besar
+6307062018, bakapas

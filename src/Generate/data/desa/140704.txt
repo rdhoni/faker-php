@@ -1,0 +1,12 @@
+1407041001, rimba melintang
+1407042002, jumrah
+1407042003, telukpulau hilir
+1407042004, telukpulau hulu
+1407042005, langgadai hulu
+1407042006, lenggadai hilir
+1407042007, mukti jaya
+1407042008, karya mukti
+1407042009, harapan jaya
+1407042010, seremban jaya
+1407042011, pematang botam
+1407042012, pematang sikek

@@ -1,0 +1,10 @@
+8203102001, gorua
+8203102002, popilo
+8203102003, luari
+8203102004, popilo utara
+8203102005, tolonuo
+8203102006, gorua selatan
+8203102007, gorua utara
+8203102008, kokota jaya
+8203102009, ruko
+8203102010, tolonua selatan

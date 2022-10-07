@@ -1,0 +1,14 @@
+3529112001, kaduara timur
+3529112002, sendang
+3529112003, rombasan
+3529112004, sentol laok
+3529112005, larangan perreng
+3529112006, sentol daya
+3529112007, pakamban daya
+3529112008, pakamban laok
+3529112009, jaddung
+3529112010, pragaan laok
+3529112011, pragaan daya
+3529112012, prenduan
+3529112013, aeng panas
+3529112014, karduluk

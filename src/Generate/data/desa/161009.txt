@@ -1,0 +1,15 @@
+1610092001, pematang bangsal
+1610092002, maya pati
+1610092003, sungai lebung
+1610092005, kapuk
+1610092006, ulak aurstanding
+1610092007, maju jaya
+1610092008, naikan tembakang
+1610092009, segayam
+1610092010, cahaya marga
+1610092011, s lebung ulu
+1610092012, sungai keli
+1610092013, lebak pering
+1610092014, sungai ondok
+1610092015, harimau tandang
+1610092016, pematang bungur

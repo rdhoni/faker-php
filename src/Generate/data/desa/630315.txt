@@ -1,0 +1,20 @@
+6303152001, pekauman
+6303152002, keramat
+6303152003, antasan senor
+6303152004, tambak anyar
+6303152005, melayu
+6303152006, melayu ilir
+6303152007, akar begantung ulu
+6303152008, dalam pagar
+6303152009, tambak anyar ulu
+6303152010, pematang baru
+6303152011, melayu tengah
+6303152012, akar baru
+6303152013, dalam pagar ulu
+6303152014, pekauman ulu
+6303152015, mekar
+6303152016, tambak anyar ilir
+6303152017, sungai kitano
+6303152018, keramat baru
+6303152019, pekauman dalam
+6303152020, antasan senor ilir

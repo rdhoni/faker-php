@@ -1,0 +1,12 @@
+6371051001, kertak baru ilir
+6371051002, kertak baru ulu
+6371051003, mawar
+6371051004, teluk dalam
+6371051005, antasan besar
+6371051006, pasar lama
+6371051007, seberang mesjid
+6371051008, gadang
+6371051009, melayu
+6371051010, sungai baru
+6371051011, pekapuran laut
+6371051012, kelayan luar

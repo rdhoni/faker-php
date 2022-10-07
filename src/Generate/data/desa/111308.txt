@@ -1,0 +1,9 @@
+1113082001, pangur
+1113082002, badak
+1113082003, kendawi
+1113082004, sangir
+1113082005, panglima linting
+1113082006, blangtemung
+1113082007, rerebe
+1113082008, uning gelung
+1113082009, uning sepakat

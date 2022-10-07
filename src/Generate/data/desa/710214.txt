@@ -1,0 +1,11 @@
+7102142001, kembes ii
+7102142002, kembes i
+7102142003, toumbuluan
+7102142004, koka
+7102142005, suluan
+7102142006, kamangta
+7102142007, sawangan
+7102142008, rumengkor
+7102142009, tikela
+7102142010, rumengkor satu
+7102142011, rumengkor dua

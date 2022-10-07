@@ -1,0 +1,11 @@
+111001, pulau banyak
+111002, simpang kanan
+111004, singkil
+111006, gunung meriah
+111009, kota baharu
+111010, singkil utara
+111011, danau paris
+111012, suro makmur
+111013, singkohor
+111014, kuala baru
+111016, pulau banyak barat

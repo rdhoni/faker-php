@@ -1,0 +1,14 @@
+3528082001, peltong
+3528082002, blumbungan
+3528082003, trasak
+3528082004, tentenan barat
+3528082005, tentenan timur
+3528082006, grujugan
+3528082007, larangan luar
+3528082008, larangan dalam
+3528082009, panaguan
+3528082010, montok
+3528082011, taraban
+3528082012, duko timur
+3528082013, lancar
+3528082014, kaduara barat

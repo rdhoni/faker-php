@@ -1,0 +1,13 @@
+3202052001, cisolok
+3202052002, pasir baru
+3202052003, cikahuripan
+3202052004, cikelat
+3202052005, caringin
+3202052006, gunungkaramat
+3202052007, gunungtanjung
+3202052008, karangpapak
+3202052009, sirnaresmi
+3202052010, cicadas
+3202052011, wanajaya
+3202052012, wangunsari
+3202052013, sukarame

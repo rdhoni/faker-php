@@ -1,0 +1,9 @@
+6109052001, sungai ayak satu
+6109052002, sungai ayak dua
+6109052003, entabuk
+6109052004, tapang pulau
+6109052005, kumpang bis
+6109052006, menawai tekam
+6109052007, semadu
+6109052008, merbang
+6109052009, empajak

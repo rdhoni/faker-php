@@ -1,0 +1,12 @@
+6409032001, babulu darat
+6409032002, labangka
+6409032003, babulu laut
+6409032004, gunung intan
+6409032005, gunung makmur
+6409032006, sebakung jaya
+6409032007, rawa mulia
+6409032008, sri raharja
+6409032009, sumber sari
+6409032010, rintik
+6409032011, gunung mulia
+6409032012, labangka barat

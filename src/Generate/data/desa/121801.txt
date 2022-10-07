@@ -1,0 +1,12 @@
+1218012001, pantai cermin kanan
+1218012002, pantai cermin kiri
+1218012003, kota pari
+1218012004, celawan
+1218012005, ujung rambung
+1218012006, kuala lama
+1218012007, besar ii terjun
+1218012008, sementara
+1218012009, ara payung
+1218012010, pematang kasih
+1218012011, lubuk saban
+1218012012, naga kisar

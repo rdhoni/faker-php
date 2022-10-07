@@ -1,0 +1,32 @@
+530201, kota soe
+530202, mollo selatan
+530203, mollo utara
+530204, amanuban timur
+530205, amanuban tengah
+530206, amanuban selatan
+530207, amanuban barat
+530208, amanatun selatan
+530209, amanatun utara
+530210, ki\e
+530211, kuanfatu
+530212, fatumnasi
+530213, polen
+530214, batu putih
+530215, boking
+530216, toianas
+530217, nunkolo
+530218, oenino
+530219, kolbano
+530220, kot olin
+530221, kualin
+530222, mollo barat
+530223, kok baun
+530224, noebana
+530225, santian
+530226, noebeba
+530227, kuatnana
+530228, fautmolo
+530229, fatukopa
+530230, mollo tengah
+530231, tobu
+530232, nunbena

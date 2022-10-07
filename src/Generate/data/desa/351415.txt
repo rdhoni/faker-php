@@ -1,0 +1,17 @@
+3514152001, kalisat
+3514152002, tampung
+3514152003, pajaran
+3514152004, siyar
+3514152005, genengwaru
+3514152006, kanigoro
+3514152007, sumberglagah
+3514152008, krengih
+3514152009, rembang
+3514152010, oro-orobulu
+3514152011, kedung banteng
+3514152012, oro-oro ombowetan
+3514152013, oro-oro ombokulon
+3514152014, pekoren
+3514152015, pejangkungan
+3514152016, pandean
+3514152017, mojoparon

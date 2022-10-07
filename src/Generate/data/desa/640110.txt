@@ -1,0 +1,9 @@
+6401102001, tanjung pinang
+6401102002, rantau atas
+6401102003, libur dinding
+6401102004, luan
+6401102005, suweto
+6401102006, muser
+6401102007, biu
+6401102008, rantau bintungan
+6401102009, muara andeh

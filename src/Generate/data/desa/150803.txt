@@ -1,0 +1,5 @@
+1508031006, tanjung gedang
+1508031007, bungo timur
+1508031008, bungo barat
+1508031022, jaya setia
+1508031023, batang bungo

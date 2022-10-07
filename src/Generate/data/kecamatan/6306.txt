@@ -1,0 +1,11 @@
+630601, sungai raya
+630602, padang batung
+630603, telaga langsat
+630604, angkinang
+630605, kandangan
+630606, simpur
+630607, daha selatan
+630608, daha utara
+630609, kalumpang
+630610, loksado
+630611, daha barat

@@ -1,0 +1,26 @@
+1705051005, kembang mumpo
+1705052001, sendawar
+1705052002, gelombang
+1705052003, lubuk betung
+1705052004, padang peri
+1705052006, karang anyar
+1705052007, ujung padang
+1705052008, ketapang baru
+1705052009, tedunan
+1705052010, talang alai
+1705052011, padang bakung
+1705052012, jambat akar
+1705052013, gunung kembang
+1705052014, gunung bantan
+1705052015, maras tengah
+1705052016, padang kelapa
+1705052017, pematang riding
+1705052018, talang beringin
+1705052019, genting juar
+1705052020, muara maras
+1705052021, rimbo besak
+1705052022, muara timput
+1705052023, serian bandung
+1705052024, talang kemang
+1705052025, maras bantan
+1705052026, karang dapo

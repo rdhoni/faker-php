@@ -1,0 +1,29 @@
+1107132001, mesjid yaman
+1107132002, baro yaman
+1107132003, mee teungoh yaman
+1107132004, sentosa
+1107132005, baroh barat yaman
+1107132006, tuha gampong gajah
+1107132007, jadan
+1107132008, balee keumangan
+1107132009, blang tidiek
+1107132010, blang lilue
+1107132011, keumangan  cut
+1107132012, mesjid keumangan
+1107132013, dayah tidiek
+1107132014, lueng sagoe
+1107132015, blang beureueh
+1107132016, dayah beureueh
+1107132017, pante beureueh
+1107132018, rapana
+1107132019, paya tiba
+1107132020, paloh kambuek
+1107132021, lampoh sirong
+1107132022, mee panyang
+1107132023, reului
+1107132024, dayah syarief
+1107132025, peureulak
+1107132026, ribeun
+1107132027, balee busu
+1107132028, lingkok busu
+1107132029, kumbang

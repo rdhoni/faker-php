@@ -1,0 +1,13 @@
+640301, kelay
+640302, talisayan
+640303, sambaliung
+640304, segah
+640305, tanjung redeb
+640306, gunung tabur
+640307, pulau derawan
+640308, biduk-biduk
+640309, teluk bayur
+640310, tabalar
+640311, maratua
+640312, batu putih
+640313, biatan

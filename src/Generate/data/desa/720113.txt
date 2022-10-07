@@ -1,0 +1,20 @@
+7201132001, bangketa
+7201132002, tobelombang
+7201132003, balaan
+7201132004, mantan b
+7201132005, tomeang
+7201132006, pakowa bunta
+7201132007, pibombo
+7201132008, bolobungkang
+7201132009, petak
+7201132010, bella
+7201132011, binohu
+7201132012, damai makmur
+7201132013, jaya makmur
+7201132014, saiti
+7201132015, sumber agung
+7201132016, batu hitam
+7201132017, kabua bua
+7201132018, pulo dalagan
+7201132019, obo balingara
+7201132020, tetesulu

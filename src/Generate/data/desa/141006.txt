@@ -1,0 +1,11 @@
+1410062001, kuala merbau
+1410062002, renak dungun
+1410062003, baran melintang
+1410062004, teluk ketapang
+1410062005, semukut
+1410062006, centai
+1410062007, tanjungbunga
+1410062008, batang meranti
+1410062009, pangkalan balai
+1410062010, padang kamal
+1410062011, ketapang permai

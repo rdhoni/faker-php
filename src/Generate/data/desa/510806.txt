@@ -1,0 +1,29 @@
+5108061006, banyuasri
+5108061007, banjar tegal
+5108061008, kendran
+5108061009, paket agung
+5108061010, kampung singaraja
+5108061011, liligundi
+5108061012, beratan
+5108061019, banyuning
+5108061020, penarukan
+5108061021, kampung kajanan
+5108061022, astina
+5108061023, banjar jawa
+5108061024, kaliuntu
+5108061025, kampung anyar
+5108061026, kampung bugis
+5108061027, banjar bali
+5108061029, kampung baru
+5108062001, kalibukbuk
+5108062002, anturan
+5108062003, tukadmungga
+5108062004, pemaron
+5108062005, baktiseraga
+5108062013, sarimekar
+5108062014, nagasepaha
+5108062015, petandakan
+5108062016, alasangker
+5108062017, poh bergong
+5108062018, jinangdalem
+5108062028, penglatan

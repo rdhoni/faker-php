@@ -1,0 +1,3 @@
+1306012001, tiku selatan
+1306012002, tiku utara
+1306012003, tiku limo jorong

@@ -1,0 +1,14 @@
+3529172001, aengmerah
+3529172002, tengedan
+3529172003, juruan laok
+3529172004, juruan daya
+3529172005, badur
+3529172006, gedang-gedang
+3529172007, batuputih kenek
+3529172008, batuputih laok
+3529172009, batuputih daya
+3529172010, bantelan
+3529172011, larangan barma
+3529172012, larangan kerta
+3529172013, bulla\an
+3529172014, sergang

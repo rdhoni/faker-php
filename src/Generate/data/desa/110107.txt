@@ -1,0 +1,15 @@
+1101072001, sikulat
+1101072002, sawang i
+1101072003, meuligo
+1101072004, lhok pawoh
+1101072005, sawang ii
+1101072006, ujung karang
+1101072007, trieng meuduro baroh
+1101072008, trieng meuduro tunong
+1101072009, panton luas
+1101072010, simpang tiga
+1101072011, kuta baro
+1101072012, blang geulinggang
+1101072013, mutiara
+1101072014, ujung padang
+1101072015, sawang ba\u

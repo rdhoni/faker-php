@@ -1,0 +1,17 @@
+3321092001, jatirejo
+3321092002, ngaluran
+3321092003, wonoketingal
+3321092004, cangkringrembang
+3321092005, cangkring
+3321092006, tuwang
+3321092007, undaan kidul
+3321092008, undaan lor
+3321092009, ketanjung
+3321092010, ngemplikwetan
+3321092011, wonorejo
+3321092012, karanganyar
+3321092013, kedungwaru kidul
+3321092014, kedungwaru lor
+3321092015, bandungrejo
+3321092016, tugu lor
+3321092017, kotaan

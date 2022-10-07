@@ -1,0 +1,20 @@
+7107032001, mangkit
+7107032002, borgo
+7107032003, belang
+7107032004, buku
+7107032005, beringin
+7107032006, tababo
+7107032007, watuliney
+7107032008, molompar
+7107032009, buku utara
+7107032010, buku selatan
+7107032011, watuliney tengah
+7107032012, watuliney indah
+7107032013, molompar utara
+7107032014, molompar timur
+7107032015, tababo selatan
+7107032016, buku tengah
+7107032017, ponosakan indah
+7107032018, buku tenggara
+7107032019, ponosakan belang
+7107032020, borgo satu

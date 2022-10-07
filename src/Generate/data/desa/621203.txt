@@ -1,0 +1,26 @@
+6212031003, muara laung i
+6212031006, muara tuhup
+6212031031, batu bua i
+6212032001, batu tuhup
+6212032002, tumbang bahan
+6212032004, muara laung ii
+6212032005, beras balange
+6212032010, pelaci
+6212032011, biha
+6212032012, dirung pundu
+6212032013, dirung pinang
+6212032014, muara tupuh
+6212032015, narui
+6212032016, tumbang bana
+6212032017, lakutan
+6212032018, tawai haui
+6212032026, penda siron
+6212032027, muara maruwei i
+6212032028, muara maruwei ii
+6212032029, beralang
+6212032030, kalang dohong
+6212032032, batu bua ii
+6212032033, tahujan laung
+6212032034, tumbang bondang
+6212032035, tumbang tonduk
+6212032037, batu karang

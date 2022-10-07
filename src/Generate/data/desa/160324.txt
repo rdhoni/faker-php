@@ -1,0 +1,10 @@
+1603242001, tanjung bunut
+1603242002, babat
+1603242003, lubuk semantung
+1603242004, lubuk getam
+1603242005, talang balai
+1603242006, talang beliung
+1603242007, sialingan
+1603242008, tanjung tiga
+1603242009, ibul
+1603242010, gaung asam

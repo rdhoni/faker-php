@@ -1,0 +1,18 @@
+3325032001, gerlang
+3325032002, kalitengah
+3325032003, kembanglangit
+3325032004, gondang
+3325032005, bismo
+3325032006, keteleng
+3325032007, kalisari
+3325032009, besani
+3325032010, wonobodro
+3325032011, bawang
+3325032012, pesantren
+3325032013, kambangan
+3325032014, keputon
+3325032015, blado
+3325032016, cokro
+3325032017, selopajang barat
+3325032020, kalipancur
+3325032021, selopajang timur

@@ -1,0 +1,10 @@
+1101182001, ladang rimba
+1101182002, gunong kapho
+1101182003, kampong teungoh
+1101182004, krueng batee
+1101182005, pulo paya
+1101182006, jambo papeun
+1101182007, cot bayu
+1101182008, naca
+1101182009, ie jeureuneh
+1101182010, lhok raya

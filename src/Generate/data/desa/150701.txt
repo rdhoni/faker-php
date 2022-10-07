@@ -1,0 +1,12 @@
+1507011010, muara sabak ilir
+1507011013, muara sabak ulu
+1507012001, alang-alang
+1507012002, lambur
+1507012004, simbur naik
+1507012011, lambur i
+1507012012, lambur ii
+1507012014, kota raja
+1507012015, siau dalam
+1507012016, sungai ular
+1507012017, kota harapan
+1507012018, kuala simbur

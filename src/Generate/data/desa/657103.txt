@@ -1,0 +1,7 @@
+6571031001, lingkas ujung
+6571031002, gunung lingkas
+6571031003, kampung empat
+6571031004, kampung enam
+6571031005, mamburungan
+6571031006, pantai amal
+6571031007, mamburungan timur

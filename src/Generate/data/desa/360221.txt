@@ -1,0 +1,13 @@
+3602212001, wanasalam
+3602212002, bejod
+3602212003, cilangkap
+3602212004, cipeucang
+3602212005, muara
+3602212006, parungpanjang
+3602212007, cikeusik
+3602212008, katapang
+3602212009, cisarap
+3602212010, sukatani
+3602212011, cipedang
+3602212012, parungsari
+3602212013, karangpamindangan

@@ -1,0 +1,11 @@
+7408031001, batu putih
+7408032002, latowu
+7408032003, mosiku
+7408032004, lelewawo
+7408032011, batu api
+7408032012, bukit tinggi
+7408032015, bukit baru
+7408032016, parung lampe
+7408032017, puncak harapan
+7408032020, tetebawo
+7408032021, makkuaseng

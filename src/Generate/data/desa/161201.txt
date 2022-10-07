@@ -1,0 +1,20 @@
+1612011003, talang ubi timur
+1612011010, talang ubi barat
+1612011011, talang ubi utara
+1612011012, talang ubi selatan
+1612011017, pasar bhayangkara
+1612011018, handayani mulya
+1612012001, talang bulang
+1612012002, benuang
+1612012004, talang akar
+1612012005, sungai ibul
+1612012006, karta dewa
+1612012007, panta dewa
+1612012008, sungai baung
+1612012009, semangus
+1612012013, sinar dewa
+1612012014, benakat minyak
+1612012015, suka maju
+1612012016, suka damai
+1612012019, beruge darat
+1612012020, simpang tais

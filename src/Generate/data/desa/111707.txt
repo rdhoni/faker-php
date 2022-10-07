@@ -1,0 +1,30 @@
+1117072001, bandar lampahan
+1117072002, blang rongka
+1117072003, cekal baru
+1117072004, gegur sepakat
+1117072005, karang jadi
+1117072006, lampahan
+1117072010, setie
+1117072011, simpang layang
+1117072012, suka damai
+1117072014, tunyang
+1117072016, datu beru tunyang
+1117072017, kenine
+1117072018, rembune
+1117072019, damaran baru
+1117072020, fajar harapan
+1117072021, mude benara
+1117072022, kampung baru 76
+1117072023, pantan pediangan
+1117072024, simpang bumi ayu
+1117072025, kulem para kanis
+1117072026, mekar ayu
+1117072027, lampahan  barat
+1117072028, lampahan  timur
+1117072029, timang rasa
+1117072030, gunung tunyang
+1117072031, bukit tunyang
+1117072032, linung bale
+1117072033, pantan kemuning
+1117072034, sumber jaya
+1117072035, bukit mulie

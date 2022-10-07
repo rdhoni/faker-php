@@ -1,0 +1,5 @@
+7571081001, leato utara
+7571081002, leato selatan
+7571081003, talumolo
+7571081004, botu
+7571081005, bugis

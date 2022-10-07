@@ -1,0 +1,11 @@
+3302032001, gunung wetan
+3302032002, pekuncen
+3302032003, karanglewas
+3302032004, karanganyar
+3302032005, margasana
+3302032006, adisara
+3302032007, kedungwringin
+3302032008, bantar
+3302032009, tinggarjaya
+3302032010, tunjung
+3302032011, gentawangi

@@ -1,0 +1,19 @@
+1175042001, pasir belo
+1175042002, bawan
+1175042003, sigrun
+1175042004, jabi-jabi
+1175042005, lae simolap
+1175042006, lae langge
+1175042007, suka maju
+1175042008, gunung bakti
+1175042009, jambi baru
+1175042010, pulo kedep
+1175042011, pulo belen
+1175042012, singgersing
+1175042013, namo buaya
+1175042014, cipare pare
+1175042015, bunga tanjung
+1175042016, cipar-pari  timur
+1175042018, darul makmur
+1175042019, jabi-jabi barat
+1175042020, batu napal

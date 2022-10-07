@@ -1,0 +1,11 @@
+5107041002, subagan
+5107041003, padang kerta
+5107041004, karang asem
+5107042001, bugbug
+5107042005, tumbu
+5107042006, seraya
+5107042007, seraya barat
+5107042008, seraya timur
+5107042009, pertima
+5107042010, tegalinggah
+5107042011, bukit

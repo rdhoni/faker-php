@@ -1,0 +1,15 @@
+7110022001, kotabunan
+7110022002, buyat
+7110022003, bulawan
+7110022004, paret
+7110022005, bukaka
+7110022006, buyat i
+7110022007, buyat ii
+7110022008, buyat selatan
+7110022009, buyat tengah
+7110022010, buyat barat
+7110022011, bulawan satu
+7110022012, bulawan dua
+7110022013, kotabunan selatan
+7110022014, kotabunan barat
+7110022015, paret timur

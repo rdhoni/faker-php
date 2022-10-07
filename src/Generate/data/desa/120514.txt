@@ -1,0 +1,8 @@
+1205141001, pelawi utara
+1205141006, berandan barat
+1205141007, berandan timur baru
+1205141008, berandan timur
+1205142002, securai utara
+1205142003, teluk meku
+1205142004, pelawi selatan
+1205142005, securai selatan

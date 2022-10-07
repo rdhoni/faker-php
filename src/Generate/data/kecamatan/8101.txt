@@ -1,0 +1,18 @@
+810101, amahai
+810102, teon nila serua
+810106, seram utara
+810109, banda
+810111, tehoru
+810112, saparua
+810113, pulau haruku
+810114, salahutu
+810115, leihitu
+810116, nusa laut
+810117, kota masohi
+810120, seram utara barat
+810121, teluk elpaputih
+810122, leihitu barat
+810123, telutih
+810124, seram utara timur seti
+810125, seram utara timur kobi
+810126, saparua timur

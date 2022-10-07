@@ -1,0 +1,10 @@
+631001, batu licin
+631002, kusan hilir
+631003, sungai loban
+631004, satui
+631005, kusan hulu
+631006, simpang empat
+631007, karang bintang
+631008, mantewe
+631009, angsana
+631010, kuranji

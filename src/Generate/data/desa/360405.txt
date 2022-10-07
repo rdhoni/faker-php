@@ -1,0 +1,15 @@
+3604052001, kramatwatu
+3604052002, margasana
+3604052003, pejaten
+3604052004, toyomerto
+3604052005, harjatani
+3604052006, serdang
+3604052007, terate
+3604052008, tonjong
+3604052009, pamengkang
+3604052010, pegadingan
+3604052011, lebakwana
+3604052012, wanayasa
+3604052013, pelamunan
+3604052014, teluk terate
+3604052015, margatani

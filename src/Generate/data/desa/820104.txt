@@ -1,0 +1,19 @@
+8201042001, susupu
+8201042002, lako akelamo
+8201042003, taruba
+8201042004, todahe
+8201042005, peot
+8201042006, sasur
+8201042007, goro goro
+8201042008, tacim
+8201042009, balisoang
+8201042010, worat-worat
+8201042011, tacici
+8201042012, taraudu
+8201042013, golo
+8201042028, lako akederi
+8201042029, jara kore
+8201042030, ropu tengah balu
+8201042033, dere
+8201042034, balisoan utara
+8201042035, sasur pantai

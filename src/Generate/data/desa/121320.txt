@@ -1,0 +1,11 @@
+1213202001, huta lombang
+1213202002, huta baru
+1213202003, handel
+1213202004, hutatinggi
+1213202005, hutanamale
+1213202006, hutabaringin julu
+1213202007, sibanggor jae
+1213202008, sibanggor tonga
+1213202009, sibanggor julu
+1213202010, purba julu
+1213202011, huta baringin

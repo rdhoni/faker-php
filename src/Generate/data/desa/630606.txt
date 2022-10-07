@@ -1,0 +1,11 @@
+6306062001, tebing tinggi
+6306062002, simpur
+6306062003, garunggang
+6306062004, amparaya
+6306062005, panjampang bahagia
+6306062006, ulin
+6306062007, pantai ulin
+6306062008, wasah hulu
+6306062009, wasah tengah
+6306062010, wasah hilir
+6306062011, kapuh

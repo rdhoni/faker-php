@@ -1,0 +1,23 @@
+1708041003, pensiunan
+1708041004, pasar kepahiangan
+1708041005, pasar ujung
+1708041011, dusun kepahiang
+1708041025, kampung pensiunan
+1708041026, pasar sejantung
+1708041027, padang lekat
+1708042001, kelilik
+1708042002, tebat monok
+1708042006, permu
+1708042007, imigrasi permu
+1708042008, karang endah
+1708042009, westkust
+1708042010, kampung bogor
+1708042012, kuto rejo
+1708042013, karang anyar);
+1708042014, taba tebelet
+1708042015, pelangkian
+1708042016, kelobak
+1708042017, pagar gunung
+1708042023, sukamerindu
+1708042028, bogor baru
+1708042029, permu bawah

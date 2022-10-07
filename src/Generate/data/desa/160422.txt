@@ -1,0 +1,20 @@
+1604222001, kedaton
+1604222002, tanjung agung
+1604222003, karang agung
+1604222004, bandung agung
+1604222005, lesung batu
+1604222006, air lingkar
+1604222007, batu rusa
+1604222008, kupang
+1604222009, sawah darat
+1604222010, danau
+1604222011, siring agung
+1604222012, pagar alam
+1604222013, rimba sujud
+1604222014, germidar ilir
+1604222015, pagar gunung
+1604222016, germidar ulu
+1604222017, padang pagun
+1604222018, muara dua
+1604222019, penantian
+1604222020, merindu

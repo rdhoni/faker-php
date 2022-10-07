@@ -1,0 +1,16 @@
+1809042001, padang manis
+1809042002, banjar negeri
+1809042003, sidodadi
+1809042004, pekondoh gedung
+1809042005, pekondoh
+1809042006, kota dalam
+1809042007, tanjung agung
+1809042008, gedong dalam
+1809042009, sindang garut
+1809042010, baturaja
+1809042011, way harong
+1809042012, gunung rejo
+1809042013, margodadi
+1809042014, cimanuk
+1809042015, sukamandi
+1809042016, paguyuban

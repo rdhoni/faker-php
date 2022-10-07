@@ -1,0 +1,10 @@
+3209092001, karangwuni
+3209092002, sedong kidul
+3209092003, sedong lor
+3209092004, windujaya
+3209092005, winduhaji
+3209092006, kertawangun
+3209092007, penambangan
+3209092008, putat
+3209092009, panongan
+3209092010, panongan lor

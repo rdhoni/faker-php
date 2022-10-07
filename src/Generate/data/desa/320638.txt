@@ -1,0 +1,10 @@
+3206382001, cipacing
+3206382002, pagerageung
+3206382003, sukamaju
+3206382004, tanjungkerta
+3206382005, puteran
+3206382006, guranteng
+3206382007, nanggewer
+3206382008, sukapada
+3206382009, pagersari
+3206382010, sukadana

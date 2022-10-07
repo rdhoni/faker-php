@@ -1,0 +1,16 @@
+3304032001, jalatunda
+3304032002, somawangi
+3304032003, kaliwungu
+3304032004, kebanaran
+3304032005, glempang
+3304032006, salamerta
+3304032007, purwasaba
+3304032008, blimbing
+3304032009, panggisari
+3304032010, candiwulan
+3304032011, simbang
+3304032012, kertayasa
+3304032013, banjengan
+3304032014, mandiraja kulon
+3304032015, kebakalan
+3304032016, mandiraja wetan

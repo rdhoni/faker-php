@@ -1,0 +1,6 @@
+5204072001, batu rotok
+5204072002, tangkam pulit
+5204072003, bao desa
+5204072004, tepal
+5204072005, batu dulang
+5204072006, kelungkung

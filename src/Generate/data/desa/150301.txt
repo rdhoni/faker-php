@@ -1,0 +1,23 @@
+1503012001, tambak ratu
+1503012002, sungai keradak
+1503012003, muaro air dua
+1503012004, simpang narso
+1503012005, batin pengambang
+1503012006, batu empang
+1503012007, rantau panjang
+1503012008, p salak baru
+1503012009, muaro pemuat
+1503012010, lubuk bangkar
+1503012011, pekan gedang
+1503012012, raden anom
+1503012013, datuk nan duo
+1503012014, bukit kalimau ulu
+1503012015, sungai bemban
+1503012016, muara cuban
+1503012017, sungai baung
+1503012018, padang jering
+1503012019, kasiro
+1503012020, kasiro hilir
+1503012021, bukit berantai
+1503012022, bukit sulah
+1503012023, paniban baru

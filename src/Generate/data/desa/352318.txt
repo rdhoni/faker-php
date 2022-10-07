@@ -1,0 +1,19 @@
+3523181001, payuran
+3523182002, tasikmadu
+3523182003, tegalbang
+3523182004, sumurgung
+3523182005, kradenan
+3523182006, dawung
+3523182007, cendoro
+3523182008, ngimbang
+3523182009, pucangan
+3523182010, gesikharjo
+3523182011, palang
+3523182012, glodog
+3523182013, leran kulon
+3523182014, leran wetan
+3523182015, wangun
+3523182016, karangagung
+3523182017, pliwetan
+3523182018, cepokorejo
+3523182019, ketambul

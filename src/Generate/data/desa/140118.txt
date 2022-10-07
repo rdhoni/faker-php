@@ -1,0 +1,8 @@
+1401182001, muara jalai
+1401182002, sawah
+1401182003, kampung panjang
+1401182004, kayu aro
+1401182005, sei tonang
+1401182006, sei jalau
+1401182007, sendayan
+1401182008, naga beralih

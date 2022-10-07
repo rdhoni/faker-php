@@ -1,0 +1,11 @@
+6304142001, barambai
+6304142002, sungai kali
+6304142003, pendalaman
+6304142004, handil barabai
+6304142005, bagagap
+6304142006, barambai karya tani
+6304142007, pendalaman baru
+6304142008, karya baru
+6304142009, barambai kolam kiri
+6304142010, barambai kolam kanan
+6304142011, barambai kolam kiri dalam

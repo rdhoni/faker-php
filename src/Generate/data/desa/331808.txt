@@ -1,0 +1,29 @@
+3318082001, sejomulyo
+3318082002, bringin);
+3318082003, ketip
+3318082004, pekuwon
+3318082005, karang
+3318082006, karangrejo
+3318082007, bumirejo
+3318082008, kedungpancing
+3318082009, jepuro
+3318082010, tluwah
+3318082011, doropayung
+3318082012, mintomulyo
+3318082013, gadingrejo
+3318082014, margomulyo
+3318082015, langgenharjo
+3318082016, genengmulyo
+3318082017, agungmulyo
+3318082018, bakaran kulon
+3318082019, bakaran wetan
+3318082020, dukutalit
+3318082021, growong kidul
+3318082022, growong lor
+3318082023, kauman
+3318082024, pajeksan
+3318082025, kudukeras
+3318082026, kebonsawahan
+3318082027, bajomulyo
+3318082028, bendar
+3318082029, trimulyo

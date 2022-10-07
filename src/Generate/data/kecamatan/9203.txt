@@ -1,0 +1,17 @@
+920301, fak-fak
+920302, fak-fak barat
+920303, fak-fak timur
+920304, kokas
+920305, fak-fak tengah
+920306, karas
+920307, bomberay
+920308, kramongmongga
+920309, teluk patipi
+920310, pariwari
+920311, wartutin
+920312, fakfak timur tengah
+920313, arguni
+920314, mbahamdandara
+920315, kayauni
+920316, furwagi
+920317, tomage

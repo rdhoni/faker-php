@@ -1,0 +1,18 @@
+1703061009, lubuk durian
+1703062001, talang jambu
+1703062002, tebat pacur
+1703062003, talang curup
+1703062004, banyumas
+1703062005, salam harjo
+1703062006, yogja baru
+1703062007, talang pasak
+1703062008, perbo
+1703062010, lubuk jale
+1703062011, simpang ketenong
+1703062012, aur gading
+1703062024, kedu baru
+1703062026, serumbung
+1703062027, magelang
+1703062028, tanjung putus
+1703062029, penyangkak
+1703062031, banyumas baru

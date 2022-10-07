@@ -1,0 +1,16 @@
+3326152001, wuled
+3326152002, ngalian
+3326152003, pandanarum
+3326152004, karanganyar
+3326152005, silirejo
+3326152006, pucung
+3326152007, sidorejo
+3326152008, samborejo
+3326152009, tanjung
+3326152010, pacar
+3326152011, dadirejo
+3326152012, karangjompo
+3326152013, tegaldowo
+3326152014, mulyorejo
+3326152015, jeruksari
+3326152016, curug

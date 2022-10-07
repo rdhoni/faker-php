@@ -1,0 +1,5 @@
+1207252001, helvetia
+1207252002, manunggal
+1207252003, pematang johar
+1207252004, karang gading
+1207252005, telaga tujuh

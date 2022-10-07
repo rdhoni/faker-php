@@ -1,0 +1,15 @@
+3210172001, bongas wetan
+3210172002, bongas kulon
+3210172003, garawangi
+3210172004, rancaputat
+3210172005, banjaran
+3210172006, sepat
+3210172007, paningkiran
+3210172008, parapatan
+3210172009, panjalin kidul
+3210172010, cidenok
+3210172011, lojikobong
+3210172012, panjalin lor
+3210172013, sumberjaya
+3210172014, pancaksuji
+3210172015, gelok mulya

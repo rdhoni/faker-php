@@ -1,0 +1,12 @@
+3203302001, pusakasari
+3203302002, walahir
+3203302003, purabaya
+3203302004, puncakwangi
+3203302005, sukajaya
+3203302006, nagasari
+3203302007, sukasirna
+3203302008, sukamulya
+3203302009, sirnasari
+3203302010, karyamukti
+3203302011, mandalawangi
+3203302012, sindangsari

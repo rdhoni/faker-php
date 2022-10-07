@@ -1,0 +1,18 @@
+6206072001, tumbang mandurei
+6206072002, tumbang paku
+6206072003, buntut leleng
+6206072004, kuluk leleng
+6206072005, sabaung
+6206072006, tumbang malawan
+6206072007, tumbang taei
+6206072008, rangan surai
+6206072009, tumbang hiran
+6206072010, tumbang pahanei
+6206072011, tumbang dakei
+6206072012, rangan burih
+6206072013, tumbang bemban
+6206072014, tumbang lambi
+6206072015, rangan tangko
+6206072016, tumbang tundu
+6206072017, batu panahan
+6206072018, tumbang tabulus

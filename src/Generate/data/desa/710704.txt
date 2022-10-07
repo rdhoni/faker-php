@@ -1,0 +1,15 @@
+7107042001, ratatotok satu
+7107042002, ratatotok dua
+7107042003, ratatotok selatan
+7107042004, ratatotok timur
+7107042005, basaan
+7107042006, basaan satu
+7107042007, morea
+7107042008, morea satu
+7107042009, soyoan
+7107042010, basaan dua
+7107042011, ratatotok utara
+7107042012, ratatotok tenggara
+7107042013, ratatotok tengah
+7107042014, ratatotok
+7107042015, ratatotok muara

@@ -1,0 +1,14 @@
+170501, sukaraja
+170502, seluma
+170503, talo
+170504, semidang alas
+170505, semidang alas maras
+170506, air periukan
+170507, lubuk sandi
+170508, seluma barat
+170509, seluma timur
+170510, seluma utara
+170511, seluma selatan
+170512, talo kecil
+170513, ulu talo
+170514, ilir talo

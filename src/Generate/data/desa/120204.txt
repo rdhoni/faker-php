@@ -1,0 +1,14 @@
+1202041001, situmeang habinsaran
+1202042002, hutauruk
+1202042003, simanungkalit
+1202042004, situmeang hasundutan
+1202042005, sipahutar
+1202042007, tapian nauli
+1202042008, huta raja
+1202042009, lobu singkam
+1202042010, rura julu dolok
+1202042011, rura julu toruan
+1202042012, hutaraja hasundutan
+1202042013, pagarbatu
+1202042014, hutaraja simanungkalit
+1202042015, hutauruk hasundutan

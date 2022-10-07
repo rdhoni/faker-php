@@ -1,0 +1,22 @@
+6303072001, pingaran
+6303072002, jati baru
+6303072003, pasar jati
+6303072004, danau salak
+6303072005, tambak danau
+6303072006, kaliukan
+6303072007, sungai alat
+6303072008, pingaran ulu
+6303072009, astambul kota
+6303072010, astambul seberang
+6303072011, sungai tuan ulu
+6303072012, benua anyar sungai tuan
+6303072013, kelampaian ilir
+6303072014, kelampaian ulu
+6303072015, limamar
+6303072016, lok gabang
+6303072017, pematang hambawang
+6303072018, kelampaian tengah
+6303072019, tambangan
+6303072020, benua anyar danau salak
+6303072021, sungai tuan ilir
+6303072022, munggu raya

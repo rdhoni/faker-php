@@ -1,0 +1,5 @@
+5103011001, tuban
+5103011002, kuta
+5103011003, kedonganan
+5103011004, legian
+5103011005, seminyak

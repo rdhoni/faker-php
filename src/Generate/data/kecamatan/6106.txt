@@ -1,0 +1,23 @@
+610601, putussibau utara
+610602, bika
+610603, embaloh hilir
+610604, embaloh hulu
+610605, bunut hilir
+610606, bunut hulu
+610607, jongkong
+610608, hulu gurung
+610609, selimbau
+610610, semitau
+610611, seberuang
+610612, batang lupar
+610613, empanang
+610614, badau
+610615, silat hilir
+610616, silat hulu
+610617, putussibau selatan
+610618, kalis
+610619, boyan tanjung
+610620, mentebah
+610621, pengkadan
+610622, suhaid
+610623, puring kencana

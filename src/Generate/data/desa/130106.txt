@@ -1,0 +1,17 @@
+1301062005, koto berapak
+1301062006, talaok
+1301062007, pasar baru
+1301062008, gurun panjang
+1301062009, api-api pasar baru
+1301062010, tanjung durian pasar baru
+1301062011, asam kamba pasar baru
+1301062012, sawah laweh pasar baru
+1301062013, kapeh panji jaya talaok
+1301062014, aur begalung talaok
+1301062015, kapelgam koto berapak
+1301062016, koto baru koto berapak
+1301062017, kubang koto berapak
+1301062018, kapujan koto berapak
+1301062019, gurun panjang utara
+1301062020, gurun panjang barat
+1301062021, gurun panjang selatan

@@ -1,0 +1,16 @@
+910501, yapen selatan
+910502, yapen barat
+910503, yapen timur
+910504, angkaisera
+910505, poom
+910506, kosiwo
+910507, yapen utara
+910508, raimbawi
+910509, teluk ampimoi
+910510, kepulauan ambai
+910511, wonawa
+910512, windesi
+910513, pulau kurudu
+910514, pulau yerui
+910515, anotaurei
+910516, yawakukat

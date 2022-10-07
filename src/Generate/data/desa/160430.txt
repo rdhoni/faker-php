@@ -1,0 +1,10 @@
+1604302001, jadian baru
+1604302002, jadian lama
+1604302003, talang berangin
+1604302004, padang bindu
+1604302005, keban agung
+1604302006, danau belidang
+1604302007, talang padang
+1604302008, lubuk dendan
+1604302009, penandingan
+1604302010, durian dangkal

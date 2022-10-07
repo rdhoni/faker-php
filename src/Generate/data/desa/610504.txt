@@ -1,0 +1,24 @@
+6105042001, nanga ketungau
+6105042002, setungkup
+6105042004, sungai mali
+6105042005, air nyuruk
+6105042006, nanga merkak
+6105042007, sungai deras
+6105042008, nanga sejirak
+6105042009, semuntai
+6105042010, senibung
+6105042011, tanjung baung
+6105042012, baung sengatap
+6105042013, semajau mekar
+6105042014, beluh mulyo
+6105042015, batu ampar
+6105042016, bukit sidin permai
+6105042017, betung permai
+6105042018, kenuak
+6105042019, jentawang hilir
+6105042020, batu nyadi
+6105042021, ratu damai
+6105042022, lepung pantak
+6105042023, pampang dua
+6105042024, mungguk kelapa
+6105042025, maung

@@ -1,0 +1,13 @@
+6302092001, tanjung batu
+6302092002, sungai punggawa
+6302092003, tanah rata
+6302092004, sebuli
+6302092005, sembilang
+6302092006, tamiang bakung
+6302092007, sang-sang
+6302092011, sungai pinang
+6302092012, tanjung selayar
+6302092013, senakin seberang
+6302092014, senakin
+6302092016, tebing tinggi
+6302092017, geronggang

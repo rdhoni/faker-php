@@ -1,0 +1,19 @@
+6307071001, birayang
+6307072002, kias
+6307072003, kapar
+6307072004, tembok bahalang
+6307072005, limbar
+6307072006, lok basar
+6307072007, paya
+6307072008, cukan lipai
+6307072009, birayang surapati
+6307072010, mahela
+6307072011, rangas
+6307072012, wawai gardu
+6307072013, labuhan
+6307072014, birayang timur
+6307072015, tanah habang
+6307072016, banua rantau
+6307072017, anduhum
+6307072018, wawai
+6307072019, lunjuk

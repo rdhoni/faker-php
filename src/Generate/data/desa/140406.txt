@@ -1,0 +1,12 @@
+1404061004, sungaiempat
+1404061005, telukpinang
+1404061009, tanjungharapan
+1404062001, kuala gaung
+1404062002, telukpantaian
+1404062003, teluksungka
+1404062006, sungaiiliran
+1404062007, teluktuasan
+1404062008, rambaian
+1404062010, harapan makmur
+1404062011, kelumpang
+1404062012, idaman

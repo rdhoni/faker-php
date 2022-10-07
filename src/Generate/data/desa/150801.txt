@@ -1,0 +1,11 @@
+1508012001, pedukun
+1508012002, lubuk niur
+1508012003, teluk kecimbung
+1508012004, tanah tumbuh
+1508012005, rambah
+1508012006, tebing tinggi uleh
+1508012007, bukit kemang
+1508012008, panjang
+1508012009, perenti luweh
+1508012015, renah jelmu
+1508012016, koto jayo

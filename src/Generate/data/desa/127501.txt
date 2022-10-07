@@ -1,0 +1,9 @@
+1275011001, pahlawan
+1275011002, jati negara
+1275011003, nangka
+1275011004, damai
+1275011005, kebun lada
+1275011006, cengkeh turi
+1275011007, jati utomo
+1275011008, jati makmur
+1275011009, jati karya

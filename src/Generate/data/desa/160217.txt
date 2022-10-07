@@ -1,0 +1,19 @@
+1602172001, tanjung aur
+1602172002, lubuk ketepeng
+1602172003, talang cempedak
+1602172004, bubusan
+1602172005, air itam
+1602172006, jejawi
+1602172007, karang agung
+1602172008, muara batun
+1602172009, lingkis
+1602172010, terusan jawa
+1602172011, tanjung ali
+1602172012, sukadarma
+1602172013, ulak tembaga
+1602172014, pedu
+1602172015, pematang kijang
+1602172016, simpang empat
+1602172017, padang bulan
+1602172018, batun baru
+1602172019, danau ceper

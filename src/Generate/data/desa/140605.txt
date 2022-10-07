@@ -1,0 +1,10 @@
+1406051001, kepenuhantengah
+1406052003, kepenuhan barat
+1406052004, kepenuhan hilir
+1406052005, kepenuhan timur
+1406052006, kepenuhan barat sei rokan jaya
+1406052007, kepenuhan raya
+1406052008, kepenuhan baru
+1406052009, kepenuhan barat mulya
+1406052010, ulak patian
+1406052012, rantau binuang sakti

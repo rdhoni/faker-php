@@ -1,0 +1,9 @@
+3202222001, ciemas
+3202222002, cibenda
+3202222003, ciwaru
+3202222004, mekarjaya
+3202222005, girimukti
+3202222006, tamanjaya
+3202222007, mandrajaya
+3202222008, sidamulya
+3202222009, mekarsakti

@@ -1,0 +1,10 @@
+6302122001, sepapah
+6302122002, sungai betung
+6302122003, basuang
+6302122004, gunung batu besar
+6302122005, sampanahan
+6302122006, rampa manunggul
+6302122007, papaan
+6302122008, sampanahan hilir
+6302122009, banjarsari
+6302122010, sukamaju

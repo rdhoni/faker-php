@@ -1,0 +1,22 @@
+1214051046, pasar pulau tello
+1214052001, hiliotalua
+1214052002, bawodobara
+1214052003, bawo\amahelato
+1214052004, bawo\omasio
+1214052005, loboi
+1214052006, hiliamaodula
+1214052007, baruyu lasara
+1214052008, sifitu ewali
+1214052009, rapa-rapa melayu
+1214052010, sinauru
+1214052011, siofa ewali
+1214052012, simaluaya
+1214052013, silima ewali
+1214052014, sidua ewali
+1214052027, balogia
+1214052029, lasonde
+1214052041, koto
+1214052048, onaya
+1214052049, sisarahili
+1214052051, sebuasi
+1214052054, orahili

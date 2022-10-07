@@ -1,0 +1,13 @@
+3217042001, ciptagumati
+3217042002, cikalong
+3217042003, cipada
+3217042004, cisomangbarat
+3217042005, ganjarsari
+3217042006, kanangasari
+3217042007, mandalasari
+3217042008, mandalamukti
+3217042009, mekarjaya
+3217042010, puteran
+3217042011, rende
+3217042012, tenjolaut
+3217042013, wangunjaya

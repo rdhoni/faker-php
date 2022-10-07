@@ -1,0 +1,10 @@
+1301152001, silaut
+1301152002, sungai sirah
+1301152003, sungai sarik
+1301152004, sungai pulai
+1301152005, pasir binjai
+1301152006, talang binjai
+1301152007, durian seribu
+1301152008, lubuk bunta
+1301152009, air hitam
+1301152010, sambungo

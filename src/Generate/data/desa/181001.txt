@@ -1,0 +1,15 @@
+1810011001, fajaresuk
+1810011002, pringsewu utara
+1810011003, pringsewu selatan
+1810011004, pringsewu barat
+1810011005, pringsewu timur
+1810012006, margakaya
+1810012007, waluyojati
+1810012008, sidoharjo
+1810012009, podomoro
+1810012010, bumi arum
+1810012011, fajar agung
+1810012012, rejo sari
+1810012013, bumi ayu
+1810012014, podosari
+1810012015, fajar agung barat

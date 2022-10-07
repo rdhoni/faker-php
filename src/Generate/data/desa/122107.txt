@@ -1,0 +1,30 @@
+1221071001, pasar sibuhuan
+1221072002, sibuhuan julu
+1221072003, bangun raya
+1221072004, purba tua
+1221072005, handis julu
+1221072006, sialambue
+1221072007, sibuhuan jae
+1221072008, janjilobi
+1221072009, hasahatan jae
+1221072010, siolip
+1221072011, saba rimba
+1221072012, binabo julu
+1221072013, binabo jae
+1221072014, limbong
+1221072015, simaninggir
+1221072016, hasahatan julu
+1221072017, sitarolo julu
+1221072018, mompang
+1221072019, sigorbus jae
+1221072020, sabahotang
+1221072021, tanjung durian
+1221072022, tanjung botung
+1221072023, tanobato
+1221072024, hutarimbaru
+1221072025, sayur matua
+1221072037, bulusonik
+1221072038, arsesimatorkis
+1221072039, pancaukan
+1221072040, pagaran baringin
+1221072041, sigorbus julu

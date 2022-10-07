@@ -1,0 +1,8 @@
+1502021009, pasar atas
+1502021010, pasar bangko
+1502021011, dusun bangko
+1502021013, pematang kandis
+1502022004, kungkai
+1502022008, mudo
+1502022012, langling
+1502022024, sungai kapas

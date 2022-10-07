@@ -1,0 +1,38 @@
+6203092001, manusup
+6203092002, sei kapar
+6203092003, tarantang
+6203092004, lamunti
+6203092005, pulau kaladan
+6203092006, mantangai hilir
+6203092007, mantangai tengah
+6203092008, mantangai hulu
+6203092009, kalumpang
+6203092010, sei ahas
+6203092011, katunjung
+6203092012, lahei mangkutup
+6203092013, tumbang muroi
+6203092014, danau rawah
+6203092015, muroi raya
+6203092016, katimpun
+6203092017, manusup hilir
+6203092018, sei gita
+6203092019, bukit batu
+6203092020, sei gawing
+6203092021, humbang raya
+6203092022, tabore
+6203092023, tumbang mangkutup
+6203092024, lapetan
+6203092025, lamunti permai
+6203092026, manyahi
+6203092027, sekata makmur
+6203092028, kaladan jaya
+6203092029, rantau jaya
+6203092030, warga mulya
+6203092031, lamunti baru
+6203092032, sriwidadi
+6203092033, sumber makmur
+6203092034, sidomulyo
+6203092035, harapan jaya
+6203092036, sekata bangun
+6203092037, sari makmur
+6203092038, suka maju

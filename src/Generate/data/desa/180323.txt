@@ -1,0 +1,7 @@
+1803232001, pagar
+1803232002, blambangan
+1803232003, jagang
+1803232004, tanjung iman
+1803232005, tulung singkip
+1803232006, pagar gading
+1803232007, buring kencana

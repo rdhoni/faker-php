@@ -1,0 +1,8 @@
+3604342001, bandung
+3604342002, mander
+3604342003, penamping
+3604342004, pangawinan
+3604342005, malabar
+3604342006, blokang
+3604342007, babakan
+3604342008, pringwulung

@@ -1,0 +1,6 @@
+1507081001, kampung laut
+1507081002, tanjungsolok
+1507082003, teluk majelis
+1507082004, kuala lagan
+1507082005, majelis hidayah
+1507082006, manunggal makmur

@@ -1,0 +1,19 @@
+720201, poso kota
+720202, poso pesisir
+720203, lage
+720204, pamona puselemba
+720205, pamona timur
+720206, pamona selatan
+720207, lore utara
+720208, lore tengah
+720209, lore selatan
+720218, poso pesisir utara
+720219, poso pesisir selatan
+720220, pamona barat
+720221, poso kota selatan
+720222, poso kota utara
+720223, lore barat
+720224, lore timur
+720225, lore piore
+720226, pamona tenggara
+720227, pamona utara

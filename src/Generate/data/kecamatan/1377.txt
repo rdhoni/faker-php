@@ -1,0 +1,4 @@
+137701, pariaman tengah
+137702, pariaman utara
+137703, pariaman selatan
+137704, pariaman timur

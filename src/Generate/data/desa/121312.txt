@@ -1,0 +1,16 @@
+1213121019, pasar muara sipongi
+1213122001, bandar panjang
+1213122002, bandar panjang tuo
+1213122007, kampung pinang
+1213122008, koto baringin
+1213122009, limau manis
+1213122012, ranjo batu
+1213122013, sibinail
+1213122015, simpang mandepo
+1213122016, tamiang mudo
+1213122017, tanjung alai
+1213122020, tanjung medan
+1213122021, muara kumpulan
+1213122022, aek botung
+1213122023, koto boru
+1213122024, tanjung larangan

@@ -1,0 +1,27 @@
+3306071010, borokulon
+3306071026, kledungkradenan
+3306071027, kledung karangdalem
+3306072001, seborokrapyak
+3306072002, triwarno
+3306072003, bajangrejo
+3306072004, bencorejo
+3306072005, surorejo
+3306072006, wangunrejo
+3306072007, cengkawakrejo
+3306072008, popongan
+3306072009, borowetan
+3306072011, tegalrejo
+3306072012, banyuurip
+3306072013, malangrejo
+3306072014, tegalkuning
+3306072015, kliwonan
+3306072016, kertosono
+3306072017, tanjunganom
+3306072018, sawit
+3306072019, sumbersari
+3306072020, pakisrejo
+3306072021, candingasinan
+3306072022, sokowaten
+3306072023, golok
+3306072024, candisari
+3306072025, condongsari

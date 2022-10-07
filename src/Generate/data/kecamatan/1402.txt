@@ -1,0 +1,14 @@
+140201, rengat
+140202, rengat barat
+140203, kelayang
+140204, pasir penyu
+140205, peranap
+140206, siberida
+140207, batang cenaku
+140208, batang gangsal
+140209, lirik
+140210, kuala cenaku
+140211, sungai lala
+140212, lubuk batu jaya
+140213, rakit kulim
+140214, batang peranap

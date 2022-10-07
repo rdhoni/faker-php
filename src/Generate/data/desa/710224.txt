@@ -1,0 +1,10 @@
+7102242001, lemoh
+7102242002, lemoh barat
+7102242003, lemoh timur
+7102242004, lemoh uner
+7102242005, lolah
+7102242006, lolah satu
+7102242007, lolah dua
+7102242008, lolah tiga
+7102242009, ranotongkor
+7102242010, ranotongkor timur

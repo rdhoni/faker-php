@@ -1,0 +1,36 @@
+1116012001, simpang lhee
+1116012002, buket panyang sa
+1116012003, buket panyang dua
+1116012004, seuneubok  baru
+1116012005, sampaimah
+1116012006, krueng sikajang
+1116012007, seuneubok  punti
+1116012008, mesjid
+1116012009, paya ketenggar
+1116012010, pahlawan
+1116012011, matang ara aceh
+1116012012, ie bintah
+1116012013, geudham
+1116012014, geulanggang merak
+1116012015, bukit paya
+1116012016, dagang setia
+1116012017, meunasah paya
+1116012018, benteng anyer
+1116012019, tanjung neraca
+1116012020, lueng manyo
+1116012021, tualang baro
+1116012022, lhok medang ara
+1116012023, kaseh sayang
+1116012024, seuneubok pidie
+1116012025, matang cincin
+1116012026, matang ara jawa
+1116012027, meurandeh
+1116012028, raja tuha
+1116012029, ujung tanjung
+1116012030, alue ie puteh
+1116012031, alue sentang
+1116012032, seuneubok  cantek
+1116012033, sapta marga
+1116012034, paya baru
+1116012035, bandung jaya
+1116012036, pandan sari

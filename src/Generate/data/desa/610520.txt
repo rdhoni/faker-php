@@ -1,0 +1,26 @@
+6105202001, ransi dakan
+6105202002, sungai ukoi
+6105202003, manter
+6105202004, merarai satu
+6105202005, merarai dua
+6105202006, kajang baru
+6105202007, gurung kempadik
+6105202008, nobal
+6105202009, baya betung
+6105202010, bonet engkabang
+6105202011, bonet lama
+6105202012, bancoh
+6105202013, perembang
+6105202014, solam raya
+6105202015, lebak ubah
+6105202016, melayang sari
+6105202017, sarai
+6105202018, rarai
+6105202019, penjernang
+6105202020, penjernang hulu
+6105202021, riam kijang
+6105202022, baya mulya
+6105202023, laman raya
+6105202024, sabang surai
+6105202025, balai agung
+6105202026, kunyai

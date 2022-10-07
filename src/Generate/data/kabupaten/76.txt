@@ -1,0 +1,6 @@
+7601, kab pasangkayu
+7602, kab mamuju
+7603, kab mamasa
+7604, kab polewali mandar
+7605, kab majene
+7606, kab mamuju tengah

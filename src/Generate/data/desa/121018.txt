@@ -1,0 +1,10 @@
+1210181001, labuhan bilik
+1210182002, sei pelancang
+1210182003, sei siarti
+1210182004, sei nahodaris
+1210182005, sei merdeka
+1210182006, sei rakyat
+1210182007, selat beting
+1210182008, bagan bilah
+1210182009, telaga suka
+1210182010, pasar tiga

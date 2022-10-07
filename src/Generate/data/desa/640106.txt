@@ -1,0 +1,26 @@
+6401061001, long ikis
+6401062002, muara adang
+6401062003, teluk waru
+6401062004, tajur
+6401062005, samuntai
+6401062006, lombok
+6401062007, pait
+6401062008, olung
+6401062009, kayungo
+6401062010, jemparing
+6401062011, tiwei
+6401062012, belimbing
+6401062013, long gelang
+6401062014, krayan jaya
+6401062015, bukit saloka
+6401062016, krayan sentosa
+6401062017, krayan makmur
+6401062018, kayungo sari
+6401062019, krayan bahagia
+6401062020, sawit jaya
+6401062021, sekurou jaya
+6401062022, kerta bhakti
+6401062023, adang jaya
+6401062024, tajer mulya
+6401062025, brewe
+6401062026, atang pait

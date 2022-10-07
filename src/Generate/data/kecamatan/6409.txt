@@ -1,0 +1,4 @@
+640901, penajam
+640902, waru
+640903, babulu
+640904, sepaku

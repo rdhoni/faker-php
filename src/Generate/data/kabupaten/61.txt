@@ -1,0 +1,14 @@
+6101, kab sambas
+6102, kab mempawah
+6103, kab sanggau
+6104, kab ketapang
+6105, kab sintang
+6106, kab kapuas hulu
+6107, kab bengkayang
+6108, kab landak
+6109, kab sekadau
+6110, kab melawi
+6111, kab kayong utara
+6112, kab kubu raya
+6171, kota pontianak
+6172, kota singkawang

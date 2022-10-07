@@ -1,0 +1,17 @@
+1601, kab ogan komering ulu
+1602, kab ogan komering ilir
+1603, kab muara enim
+1604, kab lahat
+1605, kab musi rawas
+1606, kab musi banyuasin
+1607, kab banyuasin
+1608, kab ogan komering ulu timur
+1609, kab ogan komering ulu selatan
+1610, kab ogan ilir
+1611, kab empat lawang
+1612, kab penukal abab lematang ilir
+1613, kab musi rawas utara
+1671, kota palembang
+1672, kota pagar alam
+1673, kota lubuk linggau
+1674, kota prabumulih

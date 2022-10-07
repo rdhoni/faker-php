@@ -1,0 +1,13 @@
+3503111002, tamanan
+3503111003, ngantru
+3503111005, kelutan
+3503111006, surodakan
+3503111007, sumbergedong
+3503112001, ngares
+3503112004, karangsoko
+3503112008, sambirejo
+3503112009, sumberdadi
+3503112010, rejowinangun
+3503112011, sukosari
+3503112012, parakan
+3503112013, dawuhan

@@ -1,0 +1,11 @@
+6103042001, balai sebut
+6103042002, jangkang benua
+6103042003, tanggung
+6103042004, empiyang
+6103042005, pisang
+6103042006, ketori
+6103042007, semombat
+6103042008, terati
+6103042009, sape
+6103042010, selampung
+6103042011, semirau

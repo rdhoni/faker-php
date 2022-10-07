@@ -1,0 +1,15 @@
+6309012001, hapalah
+6309012002, bangkiling
+6309012003, sungai durian
+6309012004, pematang
+6309012005, hariang
+6309012006, banua lawas
+6309012007, habau
+6309012008, banua rantau
+6309012009, purai
+6309012010, batang banyu
+6309012011, habau hulu
+6309012012, bungin
+6309012013, bangkiling raya
+6309012014, talan
+6309012015, sungai anyar

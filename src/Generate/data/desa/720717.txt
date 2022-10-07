@@ -1,0 +1,12 @@
+7207171009, sabang
+7207172001, sambulangan
+7207172002, bangunemo
+7207172003, paisuluno
+7207172004, montop
+7207172005, bolubung
+7207172006, bakalinga);
+7207172007, lukpanenteng
+7207172008, koyobunga
+7207172010, ombuli
+7207172011, minanga
+7207172012, mandok

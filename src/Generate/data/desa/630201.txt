@@ -1,0 +1,5 @@
+6302012001, labuan barat
+6302012002, teluk sungai
+6302012003, maradapan
+6302012004, tengah
+6302012005, tanjung nyiur

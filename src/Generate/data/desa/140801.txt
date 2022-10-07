@@ -1,0 +1,8 @@
+1408011001, kampung dalam
+1408011002, kampung rempak
+1408012003, langkai
+1408012011, tumang
+1408012012, merempan hulu
+1408012013, rawang air putih
+1408012014, suak lanjut
+1408012015, buantan besar

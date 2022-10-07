@@ -1,0 +1,23 @@
+6308022001, babirik hilir
+6308022002, babirik hulu
+6308022003, sungai durait hilir
+6308022004, hambuku hilir
+6308022005, murung panti hulu
+6308022006, murung panti hilir
+6308022007, murung kupang
+6308022008, sungai luang hilir
+6308022009, pajukungan hilir
+6308022010, kalumpang dalam
+6308022011, parupukan
+6308022012, sungai luang hulu
+6308022013, sungai durait hulu
+6308022014, sungai dalam
+6308022015, hambuku baru
+6308022016, hambuku lima
+6308022017, sungai janjam
+6308022018, kalumpang luar
+6308022019, teluk limbung
+6308022020, sungai durait tengah
+6308022021, pajukungan hulu
+6308022022, sungai papuyu
+6308022023, sungai nyiur

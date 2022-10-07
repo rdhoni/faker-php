@@ -1,0 +1,39 @@
+1221022001, gunung baringin
+1221022002, pasar binanga
+1221022003, sihaborgoan dalan
+1221022004, aek tanduk
+1221022005, pp makmur
+1221022006, siboris bahal
+1221022007, bangkudu
+1221022008, siolip
+1221022009, aek tunjang
+1221022010, binanga
+1221022011, manombo
+1221022012, janji raja
+1221022013, pangirkiran dolok
+1221022014, sihaborgoan barumun
+1221022015, siboris dolok
+1221022016, padang matinggi
+1221022017, tandihat
+1221022018, bara batu
+1221022019, bahal batu
+1221022020, ginduang batu
+1221022021, padang garugur
+1221022022, gunung manaon
+1221022023, siboris lombang
+1221022024, janji matogu
+1221022025, gunung malintang
+1221022026, sibatu loting
+1221022027, sisalean
+1221022028, janji manahan
+1221022029, siparau
+1221022030, unterudang
+1221022053, huta ruhom
+1221022056, paran napa dolok
+1221022061, bire
+1221022065, gading
+1221022067, paran napa jae
+1221022068, sibontar
+1221022070, aek siala
+1221022071, batusundung
+1221022072, sidongdong

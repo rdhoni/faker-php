@@ -1,0 +1,11 @@
+8108032001, luang barat
+8108032002, luang timur
+8108032003, elo
+8108032004, rumkisar
+8108032005, lelang
+8108032006, mahaleta
+8108032007, romdara
+8108032008, rotnama
+8108032009, batugajah
+8108032010, pupliora
+8108032011, regoha

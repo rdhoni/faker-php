@@ -1,0 +1,13 @@
+210401, singkep
+210402, lingga
+210403, senayang
+210404, singkep barat
+210405, lingga utara
+210406, singkep pesisir
+210407, lingga timur
+210408, selayar
+210409, singkep selatan
+210410, kepulauan posek
+210411, katang bidare
+210412, temiang pesisir
+210413, bakung serumpun

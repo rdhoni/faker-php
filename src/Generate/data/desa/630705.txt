@@ -1,0 +1,21 @@
+6307052001, jaranih
+6307052002, banua hanyar
+6307052003, palajau
+6307052004, banua batung
+6307052005, jatuh
+6307052006, pandawan
+6307052007, mahang matang landung
+6307052008, kambat selatan
+6307052009, kayu rabah
+6307052010, setiap
+6307052011, kambat utara
+6307052012, banua supanggal
+6307052013, hulu rasau
+6307052014, banua asam
+6307052015, masiraan
+6307052016, mahang putat
+6307052017, mahang sungai hanyar
+6307052018, hilir banua
+6307052019, buluan
+6307052020, matang ginalun
+6307052021, walatung

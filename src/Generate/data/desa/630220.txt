@@ -1,0 +1,9 @@
+6302202001, tanjung lalak utara
+6302202002, tanjung lalak selatan
+6302202003, pulau kerayaan
+6302202004, kerayaan utara
+6302202005, pulau kerasian
+6302202006, pulau kerumputan
+6302202007, teluk aru
+6302202008, teluk kemuning
+6302202009, oka-oka

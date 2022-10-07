@@ -1,0 +1,11 @@
+1505092001, talang bukit
+1505092002, talang datar
+1505092003, sumber mulya
+1505092004, mulya jaya
+1505092005, matra manunggal
+1505092006, bukit mulya
+1505092007, sumber jaya
+1505092008, pinang tinggi
+1505092009, markanding
+1505092010, sungai dayo
+1505092011, bahar mulya

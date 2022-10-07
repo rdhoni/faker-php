@@ -1,0 +1,7 @@
+7326111001, tallunglipu matalo
+7326111002, tallunglipu
+7326111003, tampo tallunglipu
+7326111004, tagari tallunglipu
+7326111005, tantanan tallunglipu
+7326111007, rante pakutallunglipu
+7326112006, buntu tallunglipu

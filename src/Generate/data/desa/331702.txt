@@ -1,0 +1,16 @@
+3317022001, mlatirejo
+3317022002, sendangmulyo
+3317022003, pondokrejo
+3317022004, warugunung
+3317022005, pinggan
+3317022006, cabean kidul
+3317022007, lambangan kulon
+3317022008, lambangan wetan
+3317022009, sumbermulyo
+3317022010, karangasem
+3317022011, pasedan
+3317022012, ngulaan
+3317022013, jukung
+3317022014, bulu
+3317022015, mantingan
+3317022016, kadiwono

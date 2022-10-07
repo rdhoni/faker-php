@@ -1,0 +1,17 @@
+1613021005, pasar surulangun
+1613022001, pangkalan
+1613022002, kerta dewa
+1613022003, teladas
+1613022004, pulau lebar
+1613022006, sungai baung
+1613022007, sungai jauh
+1613022008, sungai kijang
+1613022009, surulangun
+1613022010, lesung batu
+1613022011, lubuk kemang
+1613022012, remban
+1613022013, lesung batu muda
+1613022014, simpang nibung rawas
+1613022015, lubuk mas
+1613022016, sungai lanang
+1613022017, sukomoro

@@ -1,0 +1,9 @@
+1302122001, sulit air
+1302122002, tanjung balik
+1302122003, paninjauan
+1302122004, kuncir
+1302122005, katialo
+1302122006, pasilihan
+1302122007, bukit kanduang
+1302122008, sibarambang
+1302122009, labuh panjang

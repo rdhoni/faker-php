@@ -1,0 +1,16 @@
+3217012001, pagerwangi
+3217012002, kayuambon
+3217012003, lembang
+3217012004, cikidang
+3217012005, cikahuripan
+3217012006, cikole
+3217012007, gudangkahuripan
+3217012008, jayagiri
+3217012009, cibodas
+3217012010, langensari
+3217012011, mekarwangi
+3217012012, cibogo
+3217012013, sukajaya
+3217012014, suntenjaya
+3217012015, wangunharja
+3217012016, wangunsari

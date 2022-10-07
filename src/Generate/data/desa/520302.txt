@@ -1,0 +1,12 @@
+5203022001, suwangi
+5203022002, sakra
+5203022003, kabar
+5203022004, rumbuk
+5203022005, keselet
+5203022006, sakra selatan
+5203022007, rumbuk timur
+5203022008, suwangi timur
+5203022009, moyot
+5203022010, songak
+5203022011, peresak
+5203022012, kuang baru

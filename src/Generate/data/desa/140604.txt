@@ -1,0 +1,12 @@
+1406041001, tambusai tengah
+1406042002, tambusai barat
+1406042003, tambusai timur
+1406042004, batas
+1406042005, talikumain
+1406042006, rantau panjang
+1406042007, sungai kumango
+1406042008, batang kumu
+1406042009, sialang rindang
+1406042010, suka maju
+1406042011, lubuk soting
+1406042012, tingkok

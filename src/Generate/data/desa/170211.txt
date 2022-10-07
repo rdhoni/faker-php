@@ -1,0 +1,16 @@
+1702111004, air duku
+1702111006, cawang baru
+1702111008, simpang nangka
+1702112001, air putih kali bandung
+1702112002, air meles atas
+1702112003, sambirejo
+1702112005, suban ayam
+1702112007, cawang lama
+1702112009, sumber urip
+1702112010, sumber bening
+1702112011, karang jaya
+1702112012, kayu manis
+1702112013, kampung baru
+1702112014, kali padang
+1702112015, mojorejo
+1702112016, talang lahat

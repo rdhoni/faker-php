@@ -1,0 +1,16 @@
+1407101001, bangko kanan
+1407101006, bangko kiri
+1407102002, bangko jaya
+1407102003, bangko sempurna
+1407102004, bangko bakti
+1407102005, bangko pusako
+1407102007, sei manasib
+1407102008, teluk bano i
+1407102009, bangko makmur
+1407102010, pematang damar
+1407102011, pematang ibul
+1407102012, bangko permata
+1407102013, bangko mukti
+1407102014, bangko lestari
+1407102015, bangko balam
+1407102016, bangko mas raya

@@ -1,0 +1,12 @@
+3201272001, pasir muncang
+3201272002, cimande hilir
+3201272003, ciderum
+3201272004, caringin
+3201272005, ciherang pondok
+3201272006, cinagara
+3201272007, cimande
+3201272008, pancawati
+3201272009, muara jaya
+3201272010, basir buncir
+3201272011, lemah duhur
+3201272012, tangkil

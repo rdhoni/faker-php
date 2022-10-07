@@ -1,0 +1,7 @@
+2105011001, terempa
+2105012002, terempa barat
+2105012003, tarempa selatan
+2105012004, tarempa timur
+2105012005, pesisir timur
+2105012006, sri tanjung
+2105012007, tarempa barat daya

@@ -1,0 +1,10 @@
+3526042001, kamal
+3526042002, banyuajuh
+3526042003, gili barat
+3526042004, gili timur
+3526042005, gili anyar
+3526042006, telang
+3526042007, pendabah
+3526042008, tajungan
+3526042009, kebun
+3526042010, tangjungjati

@@ -1,0 +1,14 @@
+3209052001, cangkuang
+3209052002, serang wetan
+3209052003, serang kulon
+3209052004, gembongan mekar
+3209052005, gembongan
+3209052006, babakan gebang
+3209052007, babakan
+3209052008, bojonggebang
+3209052009, sumber kidul
+3209052010, sumber lor
+3209052011, kudumulya
+3209052012, kudukeras
+3209052013, pakusamben
+3209052014, karangwangun

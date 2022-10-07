@@ -1,0 +1,12 @@
+3211202001, sukamantri
+3211202002, cipanas
+3211202003, gunturmekar
+3211202004, mulyamekar
+3211202005, banyuasih
+3211202006, kertamekar
+3211202007, kertaharja
+3211202008, cigentur
+3211202009, tanjungmekar
+3211202010, tanjungmulya
+3211202011, boros
+3211202012, awilega

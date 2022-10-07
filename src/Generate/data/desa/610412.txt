@@ -1,0 +1,11 @@
+6104122006, sungai jawi
+6104122007, pesaguan kiri
+6104122008, sungai pelang
+6104122012, sungai bakau
+6104122013, pematang gadung
+6104122014, pesaguan kanan
+6104122015, sungai besar
+6104122016, sungai nanjung
+6104122017, kemuning biutak
+6104122018, harapan baru
+6104122019, pagar mentimun

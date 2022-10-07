@@ -1,0 +1,14 @@
+1602032002, pedamaran vi
+1602032003, pedamaran v
+1602032004, pedamaran iv
+1602032005, pedamaran iii
+1602032006, pedamaran ii
+1602032007, pedamaran i
+1602032008, cinta jaya
+1602032009, sukadamai
+1602032010, serinanti
+1602032011, sukaraja
+1602032017, burnai timur
+1602032018, suka pulih
+1602032019, menang raya
+1602032021, lebuh rarak

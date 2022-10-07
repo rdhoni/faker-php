@@ -1,0 +1,12 @@
+531001, wae rii
+531003, ruteng
+531005, satar mese
+531006, cibal
+531011, reok
+531012, langke rembong
+531013, satar mese barat
+531014, rahong utara
+531015, lelak
+531016, reok barat
+531017, cibal barat
+531018, satar mese utara

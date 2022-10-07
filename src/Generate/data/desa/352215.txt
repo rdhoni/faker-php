@@ -1,0 +1,18 @@
+3522151001, jetak
+3522151004, mojokampung
+3522151005, kepatihan
+3522151006, sumbang
+3522151007, klangon
+3522151009, ledok kulon
+3522151010, ledok wetan
+3522151011, kadipaten
+3522151012, ngrowo
+3522151013, karang pacar
+3522151014, banjarrejo
+3522152002, pacul
+3522152003, sukorejo
+3522152008, kauman
+3522152015, campurejo
+3522152016, mulyoagung
+3522152017, kalirejo
+3522152018, semanding

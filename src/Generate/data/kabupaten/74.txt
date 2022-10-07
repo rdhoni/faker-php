@@ -1,0 +1,17 @@
+7401, kab kolaka
+7402, kab konawe
+7403, kab muna
+7404, kab buton
+7405, kab konawe selatan
+7406, kab bombana
+7407, kab wakatobi
+7408, kab kolaka utara
+7409, kab konawe utara
+7410, kab buton utara
+7411, kab kolaka timur
+7412, kab konawe kepulauan
+7413, kab muna barat
+7414, kab buton tengah
+7415, kab buton selatan
+7471, kota kendari
+7472, kota bau bau

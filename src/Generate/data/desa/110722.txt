@@ -1,0 +1,18 @@
+1107222001, u gadeng
+1107222002, kumbang
+1107222003, sagoe
+1107222004, dayah keumala
+1107222005, jujiem
+1107222006, rheng
+1107222007, cot nuran);
+1107222008, pulo pantee
+1107222009, pulo teungoh
+1107222010, asan nicah
+1107222011, papeun
+1107222012, pulo seupeng
+1107222013, mesjid nicah
+1107222014, tunong
+1107222015, pako
+1107222016, pulo baro
+1107222017, cot kreh
+1107222031, pulo cahi

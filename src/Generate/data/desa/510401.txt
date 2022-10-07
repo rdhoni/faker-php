@@ -1,0 +1,12 @@
+5104012001, batubulan
+5104012002, ketewel
+5104012003, guwang
+5104012004, sukawati
+5104012005, celuk
+5104012006, singapadu
+5104012007, batuan
+5104012008, kemenuh
+5104012009, batubulan kangin
+5104012010, singapadu tengah
+5104012011, singapadu kaler
+5104012012, batuan kaler

@@ -1,0 +1,22 @@
+1808041009, taman asri
+1808041015, tiuh balak pasar
+1808041016, campur asri
+1808042001, setia negara
+1808042002, gedung pakuon
+1808042003, bumi merapi
+1808042004, banjar sari
+1808042005, gunung katun
+1808042006, bhakti negara
+1808042007, bumi rejo
+1808042008, sukosari
+1808042010, banjar setia
+1808042011, gedung rejo
+1808042012, banjar agung
+1808042013, cugah
+1808042014, tiuh balak i
+1808042017, tiuh balak
+1808042018, mekar asri
+1808042019, banjar negara
+1808042020, banjar masin
+1808042021, banjar mulya
+1808042022, banjar baru

@@ -1,0 +1,6 @@
+5103051004, benoa
+5103051005, tanjung benoa
+5103051006, jimbaran
+5103052001, pecatu
+5103052002, ungasan
+5103052003, kutuh

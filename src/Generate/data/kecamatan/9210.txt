@@ -1,0 +1,24 @@
+921001, aifat
+921002, aifat utara
+921003, aifat timur
+921004, aifat selatan
+921005, aitinyo barat
+921006, aitinyo
+921007, aitinyo utara
+921008, ayamaru
+921009, ayamaru utara
+921010, ayamaru timur
+921011, mare
+921012, aifat timur tengah
+921013, aifat timur jauh
+921014, aifat timur selatan
+921015, ayamaru selatan
+921016, ayamaru jaya
+921017, ayamaru selatan jaya
+921018, ayamaru timur selatan
+921019, ayamaru utara timur
+921020, ayamaru tengah
+921021, ayamaru barat
+921022, aitinyo tengah
+921023, aitinyo raya
+921024, mare selatan

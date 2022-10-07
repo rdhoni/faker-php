@@ -1,0 +1,17 @@
+3322052001, sumberejo
+3322052002, ujung-ujung
+3322052003, sukoharjo
+3322052004, karang gondang
+3322052005, segiri
+3322052006, terban
+3322052007, tukang
+3322052008, semowo
+3322052009, bendungan
+3322052010, jembrak
+3322052011, glawan
+3322052012, pabelan
+3322052013, kauman lor
+3322052014, bejaten
+3322052015, kadirejo
+3322052016, giling
+3322052017, padaan

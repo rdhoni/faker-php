@@ -1,0 +1,15 @@
+3201222001, sukamaju
+3201222002, cigudeg
+3201222003, bunar
+3201222004, banyuresmi
+3201222005, cintamanik
+3201222006, argapura
+3201222007, bangunjaya
+3201222008, rengasjajar
+3201222009, batujajar
+3201222010, wargajaya
+3201222011, sukaraksa
+3201222012, banyuwangi
+3201222013, banyuasih
+3201222014, mekarjaya
+3201222015, tegallega

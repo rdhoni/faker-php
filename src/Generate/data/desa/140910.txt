@@ -1,0 +1,15 @@
+1409102001, perhentian luas
+1409102002, logas
+1409102003, lubuk kebun
+1409102004, sungai rambai
+1409102005, situgal
+1409102006, rambahan
+1409102007, teratak rendah
+1409102008, sikijang
+1409102009, sukaraja
+1409102010, sako margasari
+1409102011, kuantan sako
+1409102012, hulu teso
+1409102013, giri sako
+1409102014, bumi mulya
+1409102015, sidodadi

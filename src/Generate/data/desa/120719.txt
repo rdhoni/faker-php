@@ -1,0 +1,29 @@
+1207191038, galang kota
+1207192001, tanjung gusti
+1207192002, baru titi besi
+1207192003, bandar kuala
+1207192004, batu lokong
+1207192005, galang suka
+1207192006, galang barat
+1207192007, jaharum a
+1207192008, jaharum b
+1207192009, juhar baru
+1207192012, keramat gajah
+1207192013, kotasan
+1207192015, kotangan
+1207192016, kelapa satu
+1207192019, nogorejo
+1207192022, paku
+1207192023, petumbukan
+1207192024, petangguhan
+1207192025, pisang pala
+1207192026, paya itik
+1207192027, pulau tagor batu
+1207192028, paya kuda
+1207192029, paya sampir
+1207192030, sei putih
+1207192031, sei karang
+1207192034, tanah abang
+1207192035, timbang deli
+1207192036, tanah merah
+1207192037, tanjung siporkis

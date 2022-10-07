@@ -1,0 +1,12 @@
+532101, malaka tengah
+532102, malaka barat
+532103, wewiku
+532104, weliman
+532105, rinhat
+532106, io kufeu
+532107, sasitamean
+532108, laenmanen
+532109, malaka timur
+532110, kobalima timur
+532111, kobalima
+532112, botin leobele

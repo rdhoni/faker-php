@@ -1,0 +1,22 @@
+1114012001, keude teunom
+1114012002, alue ambang
+1114012003, padang kleng
+1114012004, panton
+1114012005, pasi tulak bala
+1114012006, gampong baro
+1114012007, rambong payong
+1114012008, pasi pawang
+1114012009, blang baro
+1114012010, tanoh anoe
+1114012011, tanoh manyang
+1114012012, batee roo
+1114012013, seuneubok padang
+1114012014, seumira
+1114012015, kubu
+1114012016, alue meuraksa
+1114012017, paya baro
+1114012018, teupin ara
+1114012019, cot trap
+1114012020, leung gayo
+1114012021, pasi geulima
+1114012022, pasi timon

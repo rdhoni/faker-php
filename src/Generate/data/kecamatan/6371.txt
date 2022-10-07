@@ -1,0 +1,5 @@
+637101, banjarmasin selatan
+637102, banjarmasin timur
+637103, banjarmasin barat
+637104, banjarmasin utara
+637105, banjarmasin tengah

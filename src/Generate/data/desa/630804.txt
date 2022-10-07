@@ -1,0 +1,30 @@
+6308042001, panyiuran
+6308042002, simpang empat
+6308042003, padang darat
+6308042004, teluk baru
+6308042005, ilir mesjid
+6308042006, jarang kuantan
+6308042007, jumba
+6308042008, telaga sari
+6308042009, telaga silaba
+6308042010, banyu hirang
+6308042011, kayakah
+6308042012, bajawit
+6308042013, padang tanggul
+6308042014, teluk paring
+6308042015, rukam hilir
+6308042016, mamar
+6308042017, cempaka
+6308042018, keramat
+6308042019, ujung murung
+6308042020, kota raja
+6308042021, pulau tambak
+6308042022, harusan telaga
+6308042023, simpang tiga
+6308042024, cangkering
+6308042025, kutai kecil
+6308042026, teluk sari
+6308042027, murung panggang
+6308042028, telaga hanyar
+6308042029, rukam hulu
+6308042030, murung sari

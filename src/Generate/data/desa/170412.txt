@@ -1,0 +1,12 @@
+1704122001, suka banjar
+1704122002, tanjung bunga
+1704122003, cucupan
+1704122004, pagar dewa
+1704122005, tanjung agung
+1704122006, babat
+1704122007, kepahyang
+1704122008, tanjung dalam
+1704122009, muara tetap
+1704122010, kasuk baru
+1704122011, padang binjai
+1704122012, suka raja

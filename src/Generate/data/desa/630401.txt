@@ -1,0 +1,14 @@
+6304012001, kuala lupak
+6304012002, sungai telan besar
+6304012003, sungai telan kecil
+6304012004, tabunganen muara
+6304012005, tabunganen tengah
+6304012006, karya baru
+6304012007, tabunganen perumus
+6304012008, sungai teras dalam
+6304012009, sungai jingah besar
+6304012010, tabunganen kecil
+6304012011, sei teras luar
+6304012012, sei telan muara
+6304012013, beringin kencana
+6304012014, tanggul rejo

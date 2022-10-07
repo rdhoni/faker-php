@@ -1,0 +1,19 @@
+1115062001, lueng baro
+1115062002, alue kambuk
+1115062003, kuta padang
+1115062004, suak bilie
+1115062005, macah
+1115062006, seumambek
+1115062007, cot kuta
+1115062008, kabu blang sapek
+1115062009, cot peuradi
+1115062010, blang sapek
+1115062011, lhok beutong
+1115062012, gampong teungoh
+1115062013, lhok rameuan
+1115062014, blang muling
+1115062015, krak tampai
+1115062016, meureubo
+1115062017, kuta baro blang muling
+1115062018, alue peusaja
+1115062019, alue gajah

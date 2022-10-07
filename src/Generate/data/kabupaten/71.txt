@@ -1,0 +1,15 @@
+7101, kab bolaang mongondow
+7102, kab minahasa
+7103, kab kepulauan sangihe
+7104, kab kepulauan talaud
+7105, kab minahasa selatan
+7106, kab minahasa utara
+7107, kab minahasa tenggara
+7108, kab bolaang mongondow utara
+7109, kab kep siau tagulandang biaro
+7110, kab bolaang mongondow timur
+7111, kab bolaang mongondow selatan
+7171, kota manado
+7172, kota bitung
+7173, kota tomohon
+7174, kota kotamobagu

@@ -1,0 +1,12 @@
+1505041002, jambi kecil
+1505042001, setiris
+1505042003, tanjung katung
+1505042004, jambi tulo
+1505042005, baru
+1505042006, danau lamo
+1505042007, muaro jambi
+1505042016, niaso
+1505042017, bakung
+1505042018, danau kedap
+1505042019, mudung darat
+1505042020, lubuk raman

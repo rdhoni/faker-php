@@ -1,0 +1,26 @@
+1103122001, madat
+1103122002, matang keupula sa
+1103122003, matang keupula dua
+1103122004, matang keupula lhee
+1103122005, ulee ateung
+1103122006, blang ubit
+1103122007, matang guru
+1103122008, pantee bayam
+1103122009, meunasah  asan
+1103122010, meunasah  tingkeum
+1103122011, lueng dua
+1103122012, lueng peut
+1103122013, paya demam peut
+1103122014, abeuk geulanteu
+1103122015, rambong lop
+1103122016, tanjong ara
+1103122017, matang jrok
+1103122018, paya naden
+1103122019, tanjong minjei
+1103122020, pante merbo
+1103122021, blang awe
+1103122022, bintah
+1103122023, seuneubok pidie
+1103122024, blang andam
+1103122025, matang nibong
+1103122026, lueng sa

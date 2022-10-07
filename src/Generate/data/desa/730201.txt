@@ -1,0 +1,21 @@
+7302011001, matekko
+7302011002, jalanjang
+7302011003, mario rennu
+7302012004, bialo
+7302012005, bontomacinna
+7302012006, gattareng
+7302012007, dampang
+7302012008, bontosunggu
+7302012009, palambarae
+7302012010, bontonyeleng
+7302012011, benteng malewang
+7302012012, padang
+7302012013, bontoraja
+7302012014, paenre lompoe
+7302012015, benteng gattareng
+7302012016, bukit harapan
+7302012017, polewali
+7302012018, bontomasila
+7302012019, barombong
+7302012020, bukit tinggi
+7302012021, taccorong

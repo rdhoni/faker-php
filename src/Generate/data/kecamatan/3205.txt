@@ -1,0 +1,42 @@
+320501, garut kota
+320502, karangpawitan
+320503, wanaraja
+320504, tarogong kaler
+320505, tarogong kidul
+320506, banyuresmi
+320507, samarang
+320508, pasirwangi
+320509, leles
+320510, kadungora
+320511, leuwigoong
+320512, cibatu
+320513, kersamanah
+320514, malangbong
+320515, sukawening
+320516, karangtengah
+320517, bayongbong
+320518, cigedug
+320519, cilawu
+320520, cisurupan
+320521, sukaresmi
+320522, cikajang
+320523, banjarwangi
+320524, singajaya
+320525, cihurip
+320526, peundeuy
+320527, pameungpeuk
+320528, cisompet
+320529, cibalong
+320530, cikelet
+320531, bungbulang
+320532, mekarmukti
+320533, pakenjeng
+320534, pamulihan
+320535, cisewu
+320536, caringin
+320537, talegong
+320538, bl limbangan
+320539, selaawi
+320540, cibiuk
+320541, pangatikan
+320542, sucinaraja

@@ -1,0 +1,15 @@
+1606132001, ulak paceh
+1606132002, ulak paceh jaya
+1606132003, tanjung durian
+1606132004, napal
+1606132005, rantau kasih
+1606132006, karang ringin i
+1606132007, karang ringin ii
+1606132008, ulak teberau
+1606132009, bumi ayu
+1606132010, karang waru
+1606132011, karang anyar
+1606132012, rantau panjang
+1606132013, simpang sari
+1606132014, talang piase
+1606132015, pandan dulang

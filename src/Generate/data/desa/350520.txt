@@ -1,0 +1,8 @@
+3505202001, purworejo
+3505202002, tulungrejo
+3505202003, sumberarum
+3505202004, ringinrejo
+3505202005, mojorejo
+3505202006, sukorejo
+3505202007, wates
+3505202008, tugurejo

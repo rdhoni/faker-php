@@ -1,0 +1,13 @@
+3323172001, kledung
+3323172002, kalirejo
+3323172003, paponan
+3323172004, jeketro
+3323172005, kwadungan gunung
+3323172006, kwadungan jurang
+3323172007, tlahab
+3323172008, petarangan
+3323172009, canggal
+3323172010, jambu
+3323172011, kruwisan
+3323172012, batursari
+3323172013, tuksari

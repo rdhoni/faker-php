@@ -1,0 +1,24 @@
+7206071007, ulunambo
+7206072001, terebino
+7206072002, torukuno
+7206072003, ngapaea
+7206072004, padalaa
+7206072005, morompaitonga
+7206072006, kofalagadi
+7206072008, padei laut
+7206072009, padei darat
+7206072010, samarengga
+7206072011, masadian
+7206072012, pulau tiga
+7206072013, matano
+7206072014, matarape
+7206072015, ulunipa
+7206072016, wawangkolono
+7206072017, buranga
+7206072018, dongkalan
+7206072019, tafagapi
+7206072020, pulau tengah
+7206072021, mbokitta
+7206072022, tanjung tiram
+7206072023, tanona
+7206072024, tanjung harapan

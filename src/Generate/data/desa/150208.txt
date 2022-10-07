@@ -1,0 +1,8 @@
+1502082001, sungai sahut
+1502082002, bungo antoi
+1502082003, muara delang
+1502082004, sinar gading
+1502082005, bungo tanjung
+1502082006, rawa jaya
+1502082007, gading jaya
+1502082008, mekar jaya

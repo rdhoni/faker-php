@@ -1,0 +1,9 @@
+3310251001, bareng
+3310251002, kabupaten
+3310251003, klaten
+3310251004, tonggalan
+3310251006, buntalan
+3310251008, mojayan
+3310252005, semangkak
+3310252007, jomboran
+3310252009, gumulan

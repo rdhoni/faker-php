@@ -1,0 +1,34 @@
+3317101019, magersari
+3317101020, gegunung kulon
+3317101022, pacar
+3317101023, tanjungsari
+3317101027, leteh
+3317101028, sidowayah
+3317101029, kutoharjo
+3317102001, kedungrejo
+3317102002, turusgede
+3317102003, kumendung
+3317102004, sridadi
+3317102005, pandean
+3317102006, tlogomojo
+3317102007, kasreman
+3317102008, punjulharjo
+3317102009, tritunggal
+3317102010, pasar banggi
+3317102011, gedangan
+3317102012, weton
+3317102013, ngotet
+3317102014, mondoteko
+3317102015, ngadem
+3317102016, ketanggi
+3317102017, pulo
+3317102018, waru
+3317102021, gegunung wetan
+3317102024, sumberjo
+3317102025, tasikagung
+3317102026, sawahan
+3317102030, padaran
+3317102031, sukoharjo
+3317102032, kabonganlor
+3317102033, kabongankidul
+3317102034, tireman

@@ -1,0 +1,11 @@
+1216042001, sihonongan
+1216042002, paranginan selatan
+1216042003, paranginan utara
+1216042004, lumban sialaman
+1216042005, pearung
+1216042006, lobutolong
+1216042007, lumban barat
+1216042008, siboru torop
+1216042009, pearung silali
+1216042010, lumban sianturi
+1216042011, lobutolong habinsaran

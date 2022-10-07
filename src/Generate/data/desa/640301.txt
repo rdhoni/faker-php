@@ -1,0 +1,14 @@
+6403012001, merabu
+6403012002, panaan
+6403012003, merapun
+6403012004, muara lesan
+6403012005, merasa
+6403012006, lesan dayak
+6403012007, long beliu
+6403012008, long duhung
+6403012009, long lamcin
+6403012010, long keluh
+6403012011, long pelay
+6403012012, mapulu
+6403012013, long sului
+6403012014, sido bangen

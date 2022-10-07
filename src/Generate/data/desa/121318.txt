@@ -1,0 +1,17 @@
+1213182001, manisak
+1213182002, simpang talap
+1213182003, sampuran
+1213182004, tandikek
+1213182005, gonting
+1213182006, bangun saroha
+1213182007, huta baringin
+1213182008, muara bangko
+1213182009, ranto nalinjang
+1213182010, banjar maga
+1213182011, huta raja
+1213182012, simaninggir
+1213182013, ranto panjang
+1213182014, huta nauli
+1213182015, lubuk kancah
+1213182016, dua sepakat
+1213182017, gunung godang

@@ -1,0 +1,7 @@
+7605072001, onang
+7605072002, tubo
+7605072003, onang utara
+7605072004, tubo selatan
+7605072005, bonde bonde
+7605072006, tubo tengah
+7605072007, tubo poang

@@ -1,0 +1,12 @@
+327501, bekasi timur
+327502, bekasi barat
+327503, bekasi utara
+327504, bekasi selatan
+327505, rawalumbu
+327506, medansatria
+327507, bantargebang
+327508, pondokgede
+327509, jatiasih
+327510, jatisampurna
+327511, mustikajaya
+327512, pondokmelati

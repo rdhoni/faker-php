@@ -1,0 +1,12 @@
+5202101001, gerantung
+5202101002, jontlak
+5202101003, sasake
+5202102004, jurang jaler
+5202102005, beraim
+5202102006, batunyala
+5202102007, lajut
+5202102008, pengadang
+5202102009, kelebuh
+5202102010, pejanggik
+5202102011, dakung
+5202102012, prai meke

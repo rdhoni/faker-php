@@ -1,0 +1,7 @@
+5305122001, mataru selatan
+5305122002, mataru utara
+5305122003, lakatuli
+5305122004, mataru timur
+5305122005, kamaifui
+5305122006, mataru barat
+5305122007, taman mataru

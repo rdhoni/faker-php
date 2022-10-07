@@ -1,0 +1,23 @@
+1409021016, pasar teluk
+1409021018, simpang tiga
+1409021025, sungaijering
+1409022001, bandar alai
+1409022002, pulaukedundung
+1409022003, pulauaro
+1409022004, seberang taluk
+1409022005, pulau baru
+1409022006, koto tuo
+1409022007, kopah
+1409022008, munsalo
+1409022014, sawah
+1409022015, koto taluk
+1409022017, koto kari
+1409022019, pintu gobang
+1409022020, jake
+1409022021, pulau godang kari
+1409022022, jaya
+1409022023, beringin taluk
+1409022024, sitorajo
+1409022026, seberang taluk hilir
+1409022027, titian modang kopah
+1409022028, pulaubanjar kari

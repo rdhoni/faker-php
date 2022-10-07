@@ -1,0 +1,9 @@
+6502012001, long gafid
+6502012002, long bisai
+6502012003, temalang
+6502012004, long liku
+6502012005, pulau sapi
+6502012006, paking
+6502012007, lidung kemenci
+6502012008, mentarang baru
+6502012009, harapan maju

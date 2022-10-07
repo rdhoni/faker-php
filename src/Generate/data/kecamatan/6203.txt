@@ -1,0 +1,17 @@
+620301, selat
+620302, kapuas hilir
+620303, kapuas timur
+620304, kapuas kuala
+620305, kapuas barat
+620306, pulau petak
+620307, kapuas murung
+620308, basarang
+620309, mantangai
+620310, timpah
+620311, kapuas tengah
+620312, kapuas hulu
+620313, tamban catur
+620314, pasak talawang
+620315, mandau talawang
+620316, dadahup
+620317, bataguh

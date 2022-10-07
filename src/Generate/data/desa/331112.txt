@@ -1,0 +1,12 @@
+3311121002, kartasura
+3311121004, ngadirejo
+3311122001, pucangan
+3311122003, ngemplak
+3311122005, gumpang
+3311122006, makamhaji
+3311122007, pabelan
+3311122008, gonilan
+3311122009, singopuran
+3311122010, ngabeyan
+3311122011, wirogunan
+3311122012, kertonatan

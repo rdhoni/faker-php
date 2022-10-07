@@ -1,0 +1,14 @@
+1208141008, tiga runggu
+1208142001, purba tongah
+1208142002, pematang purba
+1208142003, urung purba
+1208142004, purba sipinggan
+1208142005, hinalang
+1208142006, purba dolok
+1208142007, tano tinggir
+1208142009, seribu jandi
+1208142010, huta raja
+1208142011, bandar sauhur
+1208142012, bunga sampang
+1208142013, nagori tongah
+1208142014, urung pane

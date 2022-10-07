@@ -1,0 +1,21 @@
+1203071001, sigalangan
+1203071060, pintu padang i
+1203071061, pintu padang ii
+1203071068, bangun purba
+1203072005, aek nauli
+1203072016, sidadi i
+1203072018, janji manaon
+1203072020, sitampa simatoras
+1203072021, pasar lama
+1203072027, benteng huraba
+1203072029, padang kahombu
+1203072030, sorik
+1203072045, sibulele muara
+1203072047, bargot topong
+1203072053, sigulang losung
+1203072055, hurase
+1203072057, sorimadingin pp
+1203072058, huta padang
+1203072062, tahalak ujung gading
+1203072063, sidadi ii
+1203072067, aek gunung

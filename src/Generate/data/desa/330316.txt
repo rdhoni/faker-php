@@ -1,0 +1,9 @@
+3303162001, panunggalan
+3303162002, larangan
+3303162003, pasunggingan
+3303162004, pengadegan
+3303162005, karangjoho
+3303162006, bedagas
+3303162007, tumanggal
+3303162008, tegalpingen
+3303162009, tetel

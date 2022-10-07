@@ -1,0 +1,24 @@
+1409011012, pasar lubuk jambi
+1409012004, air buluh
+1409012005, pantai
+1409012007, lubuk ramo
+1409012008, seberang cengar
+1409012009, koto cengar
+1409012010, sangau
+1409012011, banjar padang
+1409012013, kasang
+1409012014, koto lubuk jambi
+1409012015, pulaubinjai
+1409012016, seberang pantai
+1409012017, rantau sialang
+1409012018, luai
+1409012019, banjar guntung
+1409012020, bukitpedusunan
+1409012021, saik
+1409012022, pebaun hulu
+1409012023, pebaun hilir
+1409012024, kinali
+1409012025, bukit kauman
+1409012026, aur duri
+1409012027, sungaimanau
+1409012030, muaro tombang

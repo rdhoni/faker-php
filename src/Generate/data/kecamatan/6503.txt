@@ -1,0 +1,19 @@
+650301, sebatik
+650302, nunukan
+650303, sembakung
+650304, lumbis
+650305, krayan
+650306, sebuku
+650307, krayan selatan
+650308, sebatik barat
+650309, nunukan selatan
+650310, sebatik timur
+650311, sebatik utara
+650312, sebatik tengah
+650313, sei menggaris
+650314, tulin onsoi
+650315, lumbis ogong
+650316, sembakung atulai
+650317, krayan tengah
+650318, krayan timur
+650319, krayan barat

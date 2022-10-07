@@ -1,0 +1,18 @@
+3501112001, sidomulyo
+3501112002, hadiwarno
+3501112003, tanjungpuro
+3501112004, hadiluwih
+3501112005, pagerejo
+3501112006, wiyoro
+3501112007, ngadirojo
+3501112008, bogoharjo
+3501112009, cokrokembang
+3501112010, bodag
+3501112011, tanjunglor
+3501112012, nogosari
+3501112013, cangkring
+3501112014, wonodadi wetan
+3501112015, wonodadi kulon
+3501112016, wonokarto
+3501112017, wonosobo
+3501112018, wonoasri

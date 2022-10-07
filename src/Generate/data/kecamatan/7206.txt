@@ -1,0 +1,9 @@
+720605, bungku tengah
+720606, bungku selatan
+720607, menui kepulauan
+720608, bungku barat
+720609, bumi raya
+720610, bahodopi
+720612, wita ponda
+720615, bungku pesisir
+720618, bungku timur

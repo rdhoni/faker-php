@@ -1,0 +1,17 @@
+6307012001, pengambau hilir luar
+6307012002, panggung
+6307012003, barikin
+6307012004, andang
+6307012005, pengambau hilir dalam
+6307012006, haruyan
+6307012007, haruyan seberang
+6307012008, pengambau hulu
+6307012009, sungai harang
+6307012010, batu panggung
+6307012011, mangunang
+6307012012, hapulang
+6307012013, lok buntar
+6307012014, tabat padang
+6307012015, mangunang seberang
+6307012016, pandanu
+6307012017, teluk mesjid

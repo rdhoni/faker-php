@@ -1,0 +1,40 @@
+1111072001, keude lapang);
+1111072002, lapang barat
+1111072003, lingka kuta
+1111072004, lapang timu
+1111072005, teupin siron
+1111072006, ie rhop
+1111072007, ceubo
+1111072008, paloh me
+1111072009, lhok mambang
+1111072010, samuti krueng
+1111072011, cot mane
+1111072012, samuti makmur
+1111072013, samuti rayeuk
+1111072014, cot puuk
+1111072015, samuti aman
+1111072016, alue mangki
+1111072017, mon keulayu
+1111072018, geurugok
+1111072019, blang kede
+1111072020, cot tufah
+1111072021, cot tunong
+1111072022, paya baro
+1111072023, paloh kaye kunyet
+1111072024, cot jabet
+1111072025, cot tube
+1111072026, pante sikumbong
+1111072027, blang guron
+1111072028, dama kawan
+1111072029, paya seupat
+1111072030, cot rambat
+1111072031, paya kareung
+1111072032, mon jeurujak
+1111072033, tanjong raya
+1111072034, tanjong mesjid
+1111072035, blang kubu
+1111072036, tanjong bungong
+1111072037, pulo gisa
+1111072038, ujong bayu
+1111072078, mon jambe
+1111072079, blang rheue

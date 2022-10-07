@@ -1,0 +1,11 @@
+1611082001, puntang
+1611082002, bandaraji
+1611082003, paduraksa
+1611082004, karang gede
+1611082005, karang dapo baru
+1611082006, karang dapo lama
+1611082007, tanggarasa
+1611082008, tapa baru
+1611082009, tapa lama
+1611082010, martapura
+1611082011, karang anyar

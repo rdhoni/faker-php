@@ -1,0 +1,12 @@
+1219122001, sentang
+1219122002, tanjung mulia
+1219122003, jati mulia
+1219122004, lima laras
+1219122005, mekar laras
+1219122006, bandar sono
+1219122007, ujung kubu
+1219122008, sei mentaram
+1219122009, pematang rambe
+1219122010, tali air permai
+1219122011, bagan baru
+1219122012, kapal merah

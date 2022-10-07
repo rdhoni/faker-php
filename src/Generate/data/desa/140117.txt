@@ -1,0 +1,9 @@
+1401172001, pulau birandang
+1401172002, pulau rambai
+1401172003, kampar
+1401172004, koto perambahan
+1401172005, sei putih
+1401172006, deli makmur
+1401172007, sungaitarap
+1401172008, tanjungbungo
+1401172009, sawahbaru

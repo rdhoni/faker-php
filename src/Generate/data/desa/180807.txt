@@ -1,0 +1,19 @@
+1808072001, negeri agung
+1808072002, bandar dalam
+1808072003, pulau batu
+1808072004, penengahan
+1808072005, karya agung
+1808072006, sunsang
+1808072007, kota baru
+1808072008, kotabumi way kanan
+1808072009, gedung meneng
+1808072010, gedung harapan
+1808072011, tanjung rejo
+1808072012, kali papan
+1808072013, mulya sari
+1808072014, way limau
+1808072015, gedung jaya
+1808072016, rejo sari
+1808072017, bandar kasih
+1808072018, sumber rejeki
+1808072019, mulya agung

@@ -1,0 +1,10 @@
+1506011005, pelabuhan dagang
+1506012001, badang
+1506012002, tanjungtayas
+1506012003, kuala dasal
+1506012004, pematang pauh
+1506012006, taman raja
+1506012017, brasau
+1506012019, gemuruh
+1506012020, pematang tembesu
+1506012021, badang sepakat

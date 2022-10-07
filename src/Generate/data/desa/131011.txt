@@ -1,0 +1,7 @@
+1310112001, koto besar
+1310112002, koto tinggi
+1310112003, koto gadang
+1310112004, bonjol
+1310112005, abai siat
+1310112006, koto laweh
+1310112007, koto ranah

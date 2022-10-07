@@ -1,0 +1,16 @@
+7501042001, isimu utara
+7501042002, isimu selatan
+7501042003, datahu
+7501042004, tolotio
+7501042005, labanu
+7501042006, reksonegoro
+7501042007, buhu
+7501042008, dunggala
+7501042009, molowahu
+7501042010, iloponu
+7501042011, ilomata
+7501042012, motilango
+7501042013, isimu raya
+7501042014, balahu
+7501042015, botumoputi
+7501042016, ulobua

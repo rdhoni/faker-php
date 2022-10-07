@@ -1,0 +1,21 @@
+1101022001, fajar harapan
+1101022002, krueng batee
+1101022003, pasi kuala asahan
+1101022004, gunung pulo
+1101022005, pulo ie i
+1101022006, jambo manyang
+1101022007, simpang empat
+1101022008, limau purut
+1101022009, pulo kambing
+1101022010, kampung paya
+1101022011, krueng batu
+1101022012, krueng kluet
+1101022013, alur mas
+1101022014, kampung tinggi
+1101022015, ruak
+1101022016, simpang lhee
+1101022017, suaq geuringgeng
+1101022018, pasi kuala ba\u
+1101022019, kedai padang
+1101022020, kotafajar
+1101022021, gunung pudung

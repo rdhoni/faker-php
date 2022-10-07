@@ -1,0 +1,22 @@
+1206062001, nageri
+1206062002, munte
+1206062003, kineppen
+1206062004, bandar meriah
+1206062005, barung kersap
+1206062006, kutambaru
+1206062007, buluhnaman
+1206062008, singgamanik
+1206062009, kuta gerat
+1206062010, pertumbungen
+1206062011, sarimunte
+1206062012, kaban tua
+1206062013, gunung manumpak
+1206062014, tanjung beringin
+1206062015, kuta suah
+1206062016, sarinembah
+1206062017, selakkar
+1206062018, parimbalang
+1206062019, gunung saribu
+1206062020, sukarame
+1206062021, gurubenua
+1206062022, biaknampe

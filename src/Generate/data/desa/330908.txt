@@ -1,0 +1,12 @@
+3309082001, kateguhan
+3309082002, manjung
+3309082003, gombang
+3309082004, tegalrejo
+3309082005, tlawong
+3309082006, jenengan
+3309082007, cepokosawit
+3309082008, kemasan
+3309082009, jatirejo
+3309082010, bendosari
+3309082011, karangduren
+3309082012, guwokajen

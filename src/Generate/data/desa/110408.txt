@@ -1,0 +1,24 @@
+1104082001, atu payung
+1104082002, bale nosar
+1104082003, bamil nosar
+1104082004, bewang
+1104082005, dedamar
+1104082006, genuren
+1104082007, kala bintang
+1104082008, kala segi
+1104082009, kejurun syiah utama
+1104082010, kelitu sintep
+1104082011, kuala i
+1104082012, kuala ii
+1104082013, linung bulen i
+1104082014, linung bulen ii
+1104082015, mengaya
+1104082016, mude nosar
+1104082017, serule
+1104082018, wakil jalil
+1104082019, wihlah setie
+1104082020, gegarang
+1104082021, jamur konyel
+1104082022, merodot
+1104082023, sintep
+1104082024, gele pulo

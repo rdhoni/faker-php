@@ -1,0 +1,6 @@
+7104162001, tule
+7104162002, tule tengah
+7104162003, tule utara
+7104162004, bowombaru
+7104162005, bowombaru tengah
+7104162006, bowombaru utara

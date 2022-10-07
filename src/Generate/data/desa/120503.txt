@@ -1,0 +1,16 @@
+1205031001, pekan kuala
+1205031019, bela rakyat
+1205032002, dalan naman
+1205032003, balai kasih
+1205032004, bekiung
+1205032005, blankahan
+1205032006, besadi
+1205032007, beruam
+1205032009, raja tengah
+1205032011, namo mbelin
+1205032012, parit bindu
+1205032013, sei penjara
+1205032015, perkebunan bekiun
+1205032016, garunggang);
+1205032017, suka damai
+1205032018, sido makmur

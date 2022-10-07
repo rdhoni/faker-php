@@ -1,0 +1,16 @@
+1207312001, tanjung mulia
+1207312002, purwodadi
+1207312003, sidodadi batu b
+1207312004, suka mulia
+1207312005, jati rejo
+1207312006, pagar merbau i
+1207312007, pagar merbau ii
+1207312008, sidoharjo-i pasar miring
+1207312009, jati baru
+1207312010, bandar dolok
+1207312011, tanjung garbus ii
+1207312012, tanjung garbus kampung
+1207312013, perbarakan
+1207312014, sukamandi hilir
+1207312015, sukamandi hulu
+1207312016, sumberejo

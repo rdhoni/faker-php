@@ -1,0 +1,12 @@
+3302112001, binangun
+3302112002, pasinggangan
+3302112003, kedunggede
+3302112004, karangrau
+3302112005, kejawar
+3302112006, danaraja
+3302112007, kedunguter
+3302112008, sudagaran
+3302112009, pekunden
+3302112010, kalisube
+3302112011, dawuhan
+3302112012, papringan

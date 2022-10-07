@@ -1,0 +1,10 @@
+1803172001, negera kemakmuran
+1803172002, bonglai tengah
+1803172003, tanjung harapan
+1803172004, lubuk rukam
+1803172005, ibul jaya
+1803172006, beringin jaya
+1803172007, gedung makrifat
+1803172008, gedung raja
+1803172009, gedung negara
+1803172010, tulung buyut

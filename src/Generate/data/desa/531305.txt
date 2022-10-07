@@ -1,0 +1,18 @@
+5313051001, lewoleba
+5313051002, lewoleba timur
+5313051003, lewoleba tengah
+5313051004, lewoleba utara
+5313051015, selandoro
+5313051016, lewoleba selatan
+5313051017, lewoleba barat
+5313052006, baolangu
+5313052007, nubamado
+5313052008, watokobu
+5313052009, belobatang
+5313052010, waijarang
+5313052011, udak melomata
+5313052012, paubokol
+5313052013, pada
+5313052014, lite ulu mado
+5313052018, bakalerek
+5313052019, bour

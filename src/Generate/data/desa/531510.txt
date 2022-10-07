@@ -1,0 +1,15 @@
+5315102001, liang ndara
+5315102002, tandong belang
+5315102003, cunca lolos
+5315102004, cunca wulang
+5315102005, golo damu
+5315102006, golo ndoal
+5315102007, golo sembea
+5315102008, golo desat
+5315102009, kempo
+5315102010, wae jare
+5315102011, golo tantong
+5315102012, tiwi riwung
+5315102013, watu wangka
+5315102014, compang liang ndara
+5315102015, watu galang

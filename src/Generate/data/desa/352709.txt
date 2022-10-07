@@ -1,0 +1,20 @@
+3527092001, olor
+3527092002, planggaran barat
+3527092003, planggaran timur
+3527092004, tolang
+3527092005, lar lar
+3527092006, tlagah
+3527092007, nagasareh
+3527092008, trapang
+3527092009, terosan
+3527092010, asem jaran
+3527092011, kembang jeruk
+3527092012, morbatoh
+3527092013, montor
+3527092014, tebanah
+3527092015, nepa
+3527092016, batioh
+3527092017, masaran
+3527092018, banyuates
+3527092019, jatra timur
+3527092020, tapaan

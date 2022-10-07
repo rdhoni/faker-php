@@ -1,0 +1,13 @@
+3209042001, pabedilan kidul
+3209042002, pabedilan wetan
+3209042003, pabedilan kulon
+3209042004, pabedilan kaler
+3209042005, silih asih
+3209042006, tersana
+3209042007, pasuruan
+3209042008, dukuhwidara
+3209042009, kalibuntu
+3209042010, kalimukti
+3209042011, sidaresmi
+3209042012, babakan losari
+3209042013, babakan losari lor

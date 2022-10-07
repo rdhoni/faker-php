@@ -1,0 +1,17 @@
+3526162001, patereman
+3526162002, paeng
+3526162003, kolla
+3526162004, neroh
+3526162005, langpanggang
+3526162006, patenteng
+3526162007, srabi barat
+3526162008, srabi timur);
+3526162009, pangpajung
+3526162010, karang anyar
+3526162011, alas kokon
+3526162012, pakong
+3526162013, glisgis
+3526162014, brakas dajah
+3526162015, modung
+3526162016, suwaan
+3526162017, manggaan

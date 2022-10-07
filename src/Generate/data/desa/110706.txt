@@ -1,0 +1,34 @@
+1107062001, simpang
+1107062002, krueng jangko
+1107062003, krueng nyong
+1107062004, cot baroh
+1107062005, cot tunong
+1107062006, bili
+1107062007, panjoe
+1107062008, amud mesjid
+1107062009, reudeup meulayu
+1107062010, dayah tanoh
+1107062011, mamplam
+1107062012, balee
+1107062013, keupula
+1107062014, pulo lueng teuga
+1107062015, sukon mesjid
+1107062016, sukon baroh
+1107062017, krut teumpeun
+1107062018, blang drang
+1107062019, ude gampong
+1107062020, kayee jatou
+1107062021, kampong jeumpa
+1107062022, pulo lon / pulo dayah
+1107062023, jurong pande
+1107062024, pulo gajah mate
+1107062025, tufah jeulatang
+1107062026, kumbang keupula
+1107062027, pulo batee
+1107062028, meunjee
+1107062029, keutapang  mesjid
+1107062030, dayah kp pisang
+1107062031, blang tunong
+1107062032, blang pueb
+1107062033, lambaro
+1107062034, neurok

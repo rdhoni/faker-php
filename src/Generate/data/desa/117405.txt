@@ -1,0 +1,12 @@
+1174052001, timbang langsa
+1174052002, alue dua
+1174052003, birem puntong
+1174052004, paya bujok seuleumak
+1174052005, pondok kelapa
+1174052006, karang anyar
+1174052007, paya bujok tunong
+1174052008, geudubang jawa
+1174052009, geudubang aceh
+1174052010, alue dua bakaran batee
+1174052011, lengkong
+1174052012, sukajadi makmur

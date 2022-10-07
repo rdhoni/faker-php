@@ -1,0 +1,12 @@
+1101112001, tengah peulumat
+1101112002, paya peulumat
+1101112003, padang peulumat
+1101112004, aur peulumat
+1101112005, limau saring
+1101112006, beutong
+1101112007, peuneulop
+1101112008, gunung rotan
+1101112009, keumumu  hilir
+1101112010, keumumu hulu
+1101112011, keumumu seberang
+1101112012, sawang indah

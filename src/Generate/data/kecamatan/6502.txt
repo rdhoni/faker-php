@@ -1,0 +1,15 @@
+650201, mentarang
+650202, malinau kota
+650203, pujungan
+650204, kayan hilir
+650205, kayan hulu
+650206, malinau selatan
+650207, malinau utara
+650208, malinau barat
+650209, sungai boh
+650210, kayan selatan
+650211, bahau hulu
+650212, mentarang hulu
+650213, malinau selatan hilir
+650214, malinau selatan hulu
+650215, sungai tubu

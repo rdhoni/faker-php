@@ -1,0 +1,16 @@
+6206051009, samba kahayan
+6206052001, tumbang lahang
+6206052002, tewang panjang
+6206052003, petak puti
+6206052004, telok
+6206052005, samba danum
+6206052006, samba bakumpai
+6206052007, samba katung
+6206052008, napu sahur
+6206052010, batu badinding
+6206052011, rantau asem
+6206052012, mirah kalanaman
+6206052013, tumbang kalemei
+6206052014, tumbang marak
+6206052015, tumbang hangei
+6206052016, tumbang pariyei

@@ -1,0 +1,20 @@
+1811042001, buko poso
+1811042002, kejadian
+1811042003, bumi harapan
+1811042004, kebun dalem
+1811042005, panca warna
+1811042006, gedung boga
+1811042007, suka agung
+1811042008, rejo mulyo
+1811042009, hadi mulyo
+1811042010, labuhan batin
+1811042011, labuhan baru
+1811042012, labuhan makmur
+1811042013, sri gedung mulya
+1811042014, labuhan permai
+1811042015, sumber rejo
+1811042016, margo bhakti
+1811042017, labuhan mulya
+1811042018, karang mulya
+1811042019, tri tunggal jaya
+1811042020, suka mandiri

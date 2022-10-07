@@ -1,0 +1,24 @@
+5319032001, tengku leda
+5319032002, tengku lawar
+5319032003, goreng meni
+5319032004, golo munga
+5319032005, nampar tabang
+5319032006, satar punda
+5319032007, golo mangung
+5319032008, satar padut
+5319032009, golo rentung
+5319032010, golo lembur
+5319032011, compang necak
+5319032012, lencur
+5319032013, compang mekar
+5319032014, compang deru
+5319032015, liang deruk
+5319032016, golo nimbung
+5319032017, keli
+5319032018, satar kampas
+5319032019, haju wangi
+5319032020, golo munga barat
+5319032021, goreng meni utara
+5319032022, golo wontong
+5319032023, golo paleng
+5319032024, satar punda barat

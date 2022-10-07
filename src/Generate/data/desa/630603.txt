@@ -1,0 +1,11 @@
+6306032001, lok binuang
+6306032002, telaga langsat
+6306032003, mandala
+6306032004, ambutun
+6306032005, hamak
+6306032006, hamak timur
+6306032007, hamak utara
+6306032008, pakuan timur
+6306032009, gumbil
+6306032010, longawang
+6306032011, pandulangan

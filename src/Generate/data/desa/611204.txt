@@ -1,0 +1,10 @@
+6112042002, teluk empening
+6112042003, terentang hilir
+6112042004, terentang hulu
+6112042005, permata
+6112042006, betuah
+6112042007, sungai radak satu
+6112042008, sungai radak dua
+6112042009, sungai dungun
+6112042010, teluk bayur
+6112042011, radak baru

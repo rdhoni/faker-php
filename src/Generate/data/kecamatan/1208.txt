@@ -1,0 +1,32 @@
+120801, siantar
+120802, gunung malela
+120803, gunung maligas
+120804, panei
+120805, panombeian pane
+120806, jorlang hataran
+120807, raya kahean
+120808, bosar maligas
+120809, sidamanik
+120810, pematang sidamanik
+120811, tanah jawa
+120812, hatonduhan
+120813, dolok panribuan
+120814, purba
+120815, haranggaol horison
+120816, girsang sipangan bolon
+120817, dolok batu nanggar
+120818, huta bayu raja
+120819, jawa maraja bah jambi
+120820, dolok pardamean
+120821, pematang bandar
+120822, bandar huluan
+120823, bandar
+120824, bandar masilam
+120825, silimakuta
+120826, dolok silau
+120827, silou kahean
+120828, tapian dolok
+120829, raya
+120830, ujung padang
+120831, pamatang silima huta
+120832, dolog masagal

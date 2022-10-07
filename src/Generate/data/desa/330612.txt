@@ -1,0 +1,40 @@
+3306122001, waled
+3306122002, kroyokulon
+3306122003, rejosari
+3306122004, gesikan
+3306122005, paitan
+3306122006, gedong
+3306122007, rowobayem
+3306122008, kemiri kidul
+3306122009, bedono kluwung
+3306122010, bedono pageron
+3306122011, bedono karangduwur
+3306122012, rebug
+3306122013, loning
+3306122014, winong
+3306122015, sutoragan
+3306122016, jatiwangsan
+3306122017, girimulyo
+3306122018, girijoyo
+3306122019, turus
+3306122020, dilem
+3306122021, kedunglo
+3306122022, wonosuko
+3306122023, sidodadi
+3306122024, kalimeneng
+3306122025, kemirilor
+3306122026, kerep
+3306122027, kroyolor
+3306122028, samping
+3306122029, wonosari
+3306122030, kaliglagah
+3306122031, kapiteran
+3306122032, wanurojo
+3306122033, rejowinangun
+3306122034, kaliurip
+3306122035, kedungpomahanweta n
+3306122036, karangluas
+3306122037, kedungpomahankulo n
+3306122038, sukogelap
+3306122039, gunungteges
+3306122040, purbayan

@@ -1,0 +1,19 @@
+1219031001, indrapura
+1219031019, indrasakti
+1219032002, limau sundai
+1219032003, pematang panjang
+1219032004, sukaraja
+1219032005, tanah tinggi
+1219032006, tanjungmuda
+1219032007, tanah merah
+1219032008, aras
+1219032009, pasar lapan
+1219032010, sipare-pare
+1219032011, tanjungkubah
+1219032012, tanjungharapan
+1219032013, suka ramai
+1219032014, tanah rendah
+1219032015, tanjungmulya
+1219032016, titi payung
+1219032017, perkotaan
+1219032018, kampung kelapa

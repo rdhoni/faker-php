@@ -1,0 +1,12 @@
+7304021001, bonto tangnga
+7304021002, tonro kassi
+7304021003, tonro kassi barat
+7304021004, tonro kassi timur
+7304021005, taman roya
+7304021006, manjangloe
+7304022007, borongtala
+7304022008, bontosunggu
+7304022009, turatea
+7304022010, karelayu
+7304022011, bontojai
+7304022012, turatea timur

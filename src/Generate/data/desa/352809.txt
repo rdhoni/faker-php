@@ -1,0 +1,12 @@
+3528092001, bicorong
+3528092002, klompang barat
+3528092003, klompang timur
+3528092004, cenlecen
+3528092005, bajang
+3528092006, banban
+3528092007, somalang
+3528092008, palalang
+3528092009, seddur
+3528092010, pakong
+3528092011, bandungan
+3528092012, lebbek

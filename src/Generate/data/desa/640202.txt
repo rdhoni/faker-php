@@ -1,0 +1,15 @@
+6402022001, jonggon desa
+6402022002, sungai payang
+6402022003, jembayan
+6402022004, loa kulu kota
+6402022005, loh sumber
+6402022006, ponoragan
+6402022007, rempanga
+6402022008, margahayu
+6402022009, karya utama
+6402022010, lung anai
+6402022011, jembayan tengah
+6402022012, jembayan dalam
+6402022013, sepakat
+6402022014, sumber sari
+6402022015, jongkang

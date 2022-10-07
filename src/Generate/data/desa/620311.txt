@@ -1,0 +1,13 @@
+6203112001, masaran
+6203112002, kayu bulan
+6203112003, kota baru
+6203112004, penda muntei
+6203112005, tapen
+6203112006, pujon
+6203112007, marapit
+6203112008, manis
+6203112009, karukus
+6203112010, bajuh
+6203112011, barunang
+6203112019, buhut jaya
+6203112021, hurung pukung

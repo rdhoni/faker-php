@@ -1,0 +1,9 @@
+7105232001, talaitad
+7105232002, suluun satu
+7105232003, suluun dua
+7105232004, suluun tiga
+7105232005, suluun empat
+7105232006, pinapalangkow
+7105232007, kapoya
+7105232008, talaitad utara
+7105232009, kapoya satu

@@ -1,0 +1,12 @@
+1509011001, matebo
+1509011002, tebing tinggi
+1509012003, bedaro rampak
+1509012004, mangun jayo
+1509012005, teluk pandak
+1509012006, tengah ulu
+1509012007, semabu
+1509012008, kandang
+1509012009, pelayang
+1509012010, sungai keruh
+1509012011, aburan batang tebo
+1509012012, sungai alai

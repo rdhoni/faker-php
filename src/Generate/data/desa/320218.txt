@@ -1,0 +1,7 @@
+3202182001, kalapanunggal
+3202182002, palasari girang
+3202182003, pulosari
+3202182004, makasari
+3202182005, kadununggal
+3202182006, walang sari
+3202182007, gunungendut

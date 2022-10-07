@@ -1,0 +1,5 @@
+3172011001, penjaringan
+3172011002, kamal muara
+3172011003, kapuk muara
+3172011004, pejagalan
+3172011005, pluit

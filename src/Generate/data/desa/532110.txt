@@ -1,0 +1,4 @@
+5321102001, alas utara
+5321102002, kotabiru
+5321102003, alas
+5321102004, alas selatan

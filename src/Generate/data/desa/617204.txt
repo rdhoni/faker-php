@@ -1,0 +1,7 @@
+6172041001, sungai garam hilir
+6172041002, naram
+6172041003, sungai bulan
+6172041004, sungai rasau
+6172041005, setapuk kecil
+6172041006, setapuk besar
+6172041007, semelagi kecil

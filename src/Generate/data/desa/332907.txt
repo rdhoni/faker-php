@@ -1,0 +1,22 @@
+3329072001, bojong
+3329072002, buaran
+3329072003, janegara
+3329072004, jatibarang kidul
+3329072005, jatibarang lor
+3329072006, kalialang
+3329072007, kalipucang
+3329072008, karanglo
+3329072009, kebogadung
+3329072010, kebonagung
+3329072011, kedungtukang
+3329072012, kemiriamba
+3329072013, kendawa
+3329072014, kertasinduyasa
+3329072015, klampis
+3329072016, klikiran
+3329072017, kramat
+3329072018, pamengger
+3329072019, pedeslohor
+3329072020, rengasbandung
+3329072021, tegalwulung
+3329072022, tembelang

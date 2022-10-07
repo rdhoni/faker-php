@@ -1,0 +1,14 @@
+3201031006, puspanegara
+3201031007, karang asem barat
+3201032001, puspasari
+3201032002, citeureup
+3201032003, leuwinutug
+3201032004, tajur
+3201032005, sanja
+3201032008, karang asem timur
+3201032009, tarikolot
+3201032010, gunungsari
+3201032011, tangkil
+3201032012, sukahati
+3201032013, hambalang
+3201032014, pasirmukti

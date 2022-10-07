@@ -1,0 +1,22 @@
+1801092001, kekiling
+1801092002, belambangan
+1801092003, rawi
+1801092004, padan
+1801092005, kuripan
+1801092006, taman baru
+1801092007, kelau
+1801092008, ruang tengah
+1801092009, pasuruan
+1801092010, klaten
+1801092011, kampung baru
+1801092012, banjar masin
+1801092013, way kalam
+1801092014, gedung harta
+1801092015, gayam
+1801092016, penengahan
+1801092017, sukajaya
+1801092018, tetaan
+1801092019, suka baru
+1801092020, pisang
+1801092021, tanjung heran
+1801092026, gandri

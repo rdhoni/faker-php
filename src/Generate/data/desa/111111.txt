@@ -1,0 +1,41 @@
+1111112001, rheum barat
+1111112002, rheum baroh
+1111112003, rheum timu
+1111112004, blang kuta coh
+1111112005, blang kuta dua meunasah
+1111112006, lancang
+1111112007, blang teumulek
+1111112008, meunasah  mesjid
+1111112009, jurong binjee
+1111112010, blang mane duameunasah
+1111112011, blang mane barat
+1111112012, balee
+1111112013, arongan
+1111112014, meunasah  mamplam
+1111112015, pulo dapong
+1111112016, ceurucok
+1111112017, ie rhob glumpang
+1111112018, ie rhob barat
+1111112019, ie rhob timu
+1111112020, ie rhob babah lueng
+1111112021, glee meudong
+1111112022, pulo drien
+1111112023, meunasah dayah
+1111112024, cot trieng
+1111112025, krueng meuseugob
+1111112026, lhok tanoh
+1111112027, blang tambue
+1111112028, keude tambue
+1111112029, meunasah asan
+1111112030, peuneulet tunong
+1111112031, cure tunong
+1111112032, cure baroh
+1111112033, peuneulet baroh
+1111112034, ulee kareung
+1111112035, blang payang
+1111112036, calok
+1111112037, alue leuhop
+1111112038, paku
+1111112039, lhok mane
+1111112040, tambue barat
+1111112041, meunasah  barat

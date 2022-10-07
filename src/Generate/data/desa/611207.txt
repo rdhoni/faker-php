@@ -1,0 +1,6 @@
+6112072001, rasau jaya umum
+6112072002, rasau jaya satu
+6112072003, rasau jaya dua
+6112072004, rasau jaya tiga
+6112072005, bintang mas
+6112072006, pematang tujuh

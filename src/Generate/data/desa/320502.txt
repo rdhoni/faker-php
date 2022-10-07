@@ -1,0 +1,20 @@
+3205021001, suci kaler
+3205021002, lebakjaya
+3205021003, karangmulya
+3205021014, lengkongjaya
+3205022004, karangpawitan
+3205022005, situgede
+3205022006, cimurah
+3205022007, suci
+3205022008, jatisari
+3205022009, godog
+3205022010, situsari
+3205022011, karangsari
+3205022012, sindangpalay
+3205022013, lebakagung
+3205022015, sindanggalih
+3205022016, mekarsari
+3205022017, sindanglaya
+3205022018, tanjungsari
+3205022019, situsaeur
+3205022020, situjaya

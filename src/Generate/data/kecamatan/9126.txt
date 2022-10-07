@@ -1,0 +1,10 @@
+912601, kamu
+912602, mapia
+912603, piyaiye
+912604, kamu utara
+912605, sukikai selatan
+912606, mapia barat
+912607, kamu selatan
+912608, kamu timur
+912609, mapia tengah
+912610, dogiyai

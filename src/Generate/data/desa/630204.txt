@@ -1,0 +1,14 @@
+6302042001, batu tunau
+6302042002, sejakah
+6302042003, bekambit
+6302042004, langkang baru
+6302042005, langkang lama
+6302042006, sungai limau
+6302042007, berangas
+6302042008, tanjung pengharapan
+6302042009, betung
+6302042010, teluk mesjid
+6302042011, teluk gosong
+6302042012, kulipak
+6302042013, karangsari indah
+6302042014, bekambit asri

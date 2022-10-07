@@ -1,0 +1,9 @@
+6301082001, tambang ulang
+6301082002, sungai pinang
+6301082003, martadah
+6301082004, sungai jelai
+6301082005, bingkulu
+6301082006, gunung raja
+6301082007, pulau sari
+6301082008, kayu abang
+6301082009, martadah baru

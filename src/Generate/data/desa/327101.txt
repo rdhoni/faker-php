@@ -1,0 +1,16 @@
+3271011001, batu tulis
+3271011002, bondongan
+3271011003, empang
+3271011004, lawanggintung
+3271011005, pamoyanan
+3271011006, ranggamekar
+3271011007, mulyaharja
+3271011008, cikaret
+3271011009, bojongkerta
+3271011010, rancamaya
+3271011011, kertamaya
+3271011012, harjasari
+3271011013, muarasari
+3271011014, genteng
+3271011015, pakuan
+3271011016, cipaku

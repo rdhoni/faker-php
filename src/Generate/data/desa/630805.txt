@@ -1,0 +1,29 @@
+6308051001, antasari
+6308051002, murung sari
+6308051003, kebun sari
+6308051004, paliwara
+6308051005, sungai malang
+6308052006, tapus
+6308052007, kandang halang
+6308052008, pasar senin
+6308052009, kota raden hulu
+6308052010, tangga ulin hilir
+6308052011, tambalangan
+6308052012, palampitan hulu
+6308052013, harus
+6308052014, pinangkara
+6308052015, sungai karias
+6308052016, tigarun
+6308052017, pinang habang
+6308052018, hulu pasar
+6308052019, kota raden hilir
+6308052020, rantawan
+6308052021, muara tapus
+6308052022, palampitan hilir
+6308052023, harusan
+6308052024, sungai baring
+6308052025, kembang kuning
+6308052026, datu kuning
+6308052027, tangga ulin hulu
+6308052028, mawar sari
+6308052029, danau cermin

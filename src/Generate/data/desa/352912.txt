@@ -1,0 +1,15 @@
+3529122001, ambunten barat
+3529122002, ambunten tengah
+3529122003, ambunten timur
+3529122004, tambaagung barat
+3529122005, tambaagung tengah
+3529122006, tambaagung ares
+3529122007, sogian
+3529122008, tambaagung timur
+3529122009, bukabu
+3529122010, campor barat
+3529122011, keles
+3529122012, campor timur
+3529122013, belluk ares
+3529122014, belluk kenek
+3529122015, belluk raja

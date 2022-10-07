@@ -1,0 +1,23 @@
+321601, tarumajaya
+321602, babelan
+321603, sukawangi
+321604, tambelang
+321605, tambun utara
+321606, tambun selatan
+321607, cibitung
+321608, cikarang barat
+321609, cikarang utara
+321610, karang bahagia
+321611, cikarang timur
+321612, kedung waringin
+321613, pebayuran
+321614, sukakarya
+321615, sukatani
+321616, cabangbungin
+321617, muaragembong
+321618, setu
+321619, cikarang selatan
+321620, cikarang pusat
+321621, serang baru
+321622, cibarusah
+321623, bojongmangu

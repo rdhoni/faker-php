@@ -1,0 +1,15 @@
+1801, kab lampung selatan
+1802, kab lampung tengah
+1803, kab lampung utara
+1804, kab lampung barat
+1805, kab tulang bawang
+1806, kab tanggamus
+1807, kab lampung timur
+1808, kab way kanan
+1809, kab pesawaran
+1810, kab pringsewu
+1811, kab mesuji
+1812, kab tulang bawang barat
+1813, kab pesisir barat
+1871, kota bandar lampung
+1872, kota metro

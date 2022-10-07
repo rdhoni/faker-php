@@ -1,0 +1,11 @@
+3212052001, tunggul payung
+3212052002, tugu
+3212052003, nunuk
+3212052004, tempel
+3212052005, pangauban
+3212052006, tegalasari
+3212052007, langgengsari
+3212052008, tamansari
+3212052009, lelea
+3212052010, cempeh
+3212052011, tempelkulon

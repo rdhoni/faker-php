@@ -1,0 +1,18 @@
+5317042001, mbilur pangadu
+5317042002, soru
+5317042003, praikoruku jangga
+5317042004, bolu bokat
+5317042005, mara desa
+5317042006, weluk praimemang
+5317042007, lenang
+5317042008, tana mbanas
+5317042009, padira tana
+5317042010, ngadu bolu
+5317042011, bolu bokat utara
+5317042012, maradesa timur
+5317042013, maradesa selatan
+5317042014, tana mbanas selatan
+5317042015, tana mbanas barat
+5317042016, ngadu olu
+5317042017, lenang selatan
+5317042018, bolubokat barat

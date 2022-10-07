@@ -1,0 +1,6 @@
+6172011001, roban
+6172011002, condong
+6172011003, sekip lama
+6172011004, jawa
+6172011005, bukit batu
+6172011006, sungai wie

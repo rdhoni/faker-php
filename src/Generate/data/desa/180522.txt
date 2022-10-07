@@ -1,0 +1,9 @@
+1805222001, sumber agung
+1805222002, batang hari
+1805222003, panggung mulyo
+1805222004, duto yoso mulyo
+1805222005, andalas cermin
+1805222006, rawa ragil
+1805222007, gedung jaya
+1805222008, bumi sari
+1805222009, mulyo dadi

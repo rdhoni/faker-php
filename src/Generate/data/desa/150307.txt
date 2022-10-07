@@ -1,0 +1,9 @@
+1503072001, lubuk jering
+1503072002, jernih
+1503072003, desa baru
+1503072004, semurung
+1503072005, lubuk kepayang
+1503072006, pematang kabau
+1503072007, bukit suban
+1503072008, mentawak baru
+1503072009, mentawak ulu

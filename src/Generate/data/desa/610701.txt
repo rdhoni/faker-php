@@ -1,0 +1,5 @@
+6107012001, sungai duri
+6107012004, sungai jaga a
+6107012005, sungai jaga b
+6107012006, sungai pangkalan i
+6107012007, sungai pangkalan ii

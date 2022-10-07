@@ -1,0 +1,10 @@
+130901, pagai utara
+130902, sipora selatan
+130903, siberut selatan
+130904, siberut utara
+130905, siberut barat
+130906, siberut barat daya
+130907, siberut tengah
+130908, sipora utara
+130909, sikakap
+130910, pagai selatan

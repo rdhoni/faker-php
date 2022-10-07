@@ -1,0 +1,19 @@
+6303012001, bakambat
+6303012002, tanipah
+6303012009, pemurus
+6303012010, simpang warga
+6303012011, bunipah
+6303012012, aluh aluh besar
+6303012013, aluh aluh kecil
+6303012014, podok
+6303012015, handil bujur
+6303012016, kuin besar
+6303012017, terapu
+6303012019, labat muara
+6303012022, pulantan
+6303012024, aluh aluh kecil muara
+6303012026, simpang warga dalam
+6303012027, kuin kecil
+6303012028, handil baru
+6303012030, balimau
+6303012031, sungai musang

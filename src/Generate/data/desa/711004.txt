@@ -1,0 +1,14 @@
+7110042001, modayag
+7110042002, liberia
+7110042003, purworejo
+7110042007, buyandi
+7110042008, tobongon
+7110042009, lanut
+7110042010, badaro
+7110042011, modayag barat
+7110042012, modayag timur
+7110042013, purworejo timur
+7110042014, liberia timur
+7110042016, purworejo tengah
+7110042021, candi rejo
+7110042022, sumber rejo

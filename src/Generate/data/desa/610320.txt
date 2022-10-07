@@ -1,0 +1,19 @@
+6103202001, meliau hilir
+6103202002, meliau hulu
+6103202003, kuala buayan
+6103202004, meranggau
+6103202005, melobok
+6103202006, sungai mayam
+6103202007, pampang dua
+6103202008, kuala rosan
+6103202009, sungai kembayau
+6103202010, kunyil
+6103202011, cupang
+6103202012, lalang
+6103202013, baru lombak
+6103202014, enggadai
+6103202015, balai tinggi
+6103202017, bhakti jaya
+6103202018, mukti jaya
+6103202019, melawi makmur
+6103202020, harapan makmur

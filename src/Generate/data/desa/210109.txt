@@ -1,0 +1,8 @@
+2101091001, teluk sekuni
+2101092002, batu lepuk
+2101092003, kampung hilir
+2101092004, kampung melayu
+2101092005, pulau mentebung
+2101092006, pulau pinang
+2101092007, kukup
+2101092008, pengikik

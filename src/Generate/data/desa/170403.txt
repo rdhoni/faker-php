@@ -1,0 +1,11 @@
+1704031010, simpang tiga
+1704032001, tanjung betung
+1704032003, padang manis
+1704032006, guru agung
+1704032009, gunung agung
+1704032021, bandu agung
+1704032027, tanjung betung ii
+1704032028, coko enau
+1704032029, pancur negara
+1704032030, perugaian
+1704032031, guru agung ii

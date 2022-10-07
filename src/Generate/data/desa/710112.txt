@@ -1,0 +1,26 @@
+7101122001, totabuan
+7101122002, pindol
+7101122003, solog
+7101122004, tandu
+7101122005, lolak
+7101122006, motabang
+7101122007, mongkoinit
+7101122008, labuan uki
+7101122009, pinogaluman
+7101122010, sauk
+7101122011, lalow
+7101122012, buntalo
+7101122013, bumbung
+7101122014, baturapa
+7101122015, tuyat
+7101122016, pindolili
+7101122017, lolak tambolango
+7101122018, lolak ii
+7101122019, buntalo timur
+7101122020, buntalo selatan
+7101122021, baturapa ii
+7101122022, diat
+7101122023, pinogalum timur
+7101122024, mongkoinit barat
+7101122025, dulangan
+7101122026, padang lalow

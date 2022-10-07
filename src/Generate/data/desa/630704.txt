@@ -1,0 +1,16 @@
+6307042001, parumahan
+6307042002, kasarangan
+6307042003, banua kupang
+6307042004, rantau keminting
+6307042005, pemangkih
+6307042006, pemangkih seberang
+6307042007, binjai pemangkih
+6307042008, samhurang
+6307042009, pahalatan
+6307042010, mantaas
+6307042011, sungai buluh
+6307042012, kadundung
+6307042013, tungkup
+6307042014, tabat
+6307042015, rantau bujur
+6307042016, binjai pirua

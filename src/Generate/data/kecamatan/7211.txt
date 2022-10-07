@@ -1,0 +1,7 @@
+721101, banggai
+721102, banggai utara
+721103, bokan kepulauan
+721104, bangkurung
+721105, labobo
+721106, banggai selatan
+721107, banggai tengah

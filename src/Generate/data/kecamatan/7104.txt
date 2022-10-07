@@ -1,0 +1,19 @@
+710401, lirung
+710402, beo
+710403, rainis
+710404, essang
+710405, nanusa
+710406, kabaruan
+710407, melonguane
+710408, gemeh
+710409, damau
+710410, tampan\ amma
+710411, salibabu
+710412, kalongan
+710413, miangas
+710414, beo utara
+710415, pulutan
+710416, melonguane timur
+710417, moronge
+710418, beo selatan
+710419, essang selatan

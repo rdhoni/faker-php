@@ -1,0 +1,40 @@
+1108082001, pie
+1108082002, asan
+1108082003, murong
+1108082004, blang kabu
+1108082005, mancang
+1108082006, keude geudong
+1108082007, blang peuria
+1108082008, teupin ara
+1108082009, teupin beulangan
+1108082010, krueng baro langgahan
+1108082011, pusong
+1108082012, tanjong kleng
+1108082013, gampong baro
+1108082014, beuringen
+1108082015, kuta krueng
+1108082016, kuta glumpang
+1108082017, meucat
+1108082018, krueng baro blang mee
+1108082019, ujong
+1108082020, mesjid
+1108082021, teungoh
+1108082022, keude blang mee pulo klat
+1108082023, puuk
+1108082024, lancang
+1108082025, matang ulim
+1108082026, sawang
+1108082027, laga baro
+1108082028, pulo
+1108082029, matang tunong
+1108082030, matang puntong
+1108082031, blang nibong
+1108082032, tanjong baroh
+1108082033, tanjong hagu
+1108082034, tanjong reungkam
+1108082035, tanjong mesjid
+1108082036, paya terbang
+1108082037, madan
+1108082038, tanjong awe
+1108082039, kitou
+1108082040, krueng matee

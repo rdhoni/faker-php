@@ -1,0 +1,6 @@
+532001, sabu barat
+532002, sabu tengah
+532003, sabu timur
+532004, sabu liae
+532005, hawu mehara
+532006, raijua

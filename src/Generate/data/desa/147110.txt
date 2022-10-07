@@ -1,0 +1,13 @@
+1471101001, kulim
+1471101002, bencahlesung
+1471101003, tangkerang timur
+1471101004, rejosari
+1471101005, bambukuning
+1471101006, pebatuan
+1471101007, sialangrampai
+1471101008, mentangor
+1471101009, pematangkapau
+1471101010, melebung
+1471101011, industritenayan
+1471101012, sialangsakti
+1471101013, tuahnegeri

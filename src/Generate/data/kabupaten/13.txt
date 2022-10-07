@@ -1,0 +1,19 @@
+1301, kab pesisir selatan
+1302, kab solok
+1303, kab sijunjung
+1304, kab tanah datar
+1305, kab padang pariaman
+1306, kab agam
+1307, kab lima puluh kota
+1308, kab pasaman
+1309, kab kepulauan mentawai
+1310, kab dharmasraya
+1311, kab solok selatan
+1312, kab pasaman barat
+1371, kota padang
+1372, kota solok
+1373, kota sawahlunto
+1374, kota padang panjang
+1375, kota bukittinggi
+1376, kota payakumbuh
+1377, kota pariaman

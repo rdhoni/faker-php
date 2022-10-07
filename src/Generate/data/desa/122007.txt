@@ -1,0 +1,32 @@
+1220071001, sayur matinggi
+1220072002, pangkal dolok lama
+1220072003, pangkal dolok julu
+1220072004, pintu padang
+1220072005, batang onang lama
+1220072006, bonan dolok
+1220072007, simardona
+1220072008, batang onang baru
+1220072009, parau sorat
+1220072010, pasar matanggor
+1220072011, batu pulut
+1220072012, huta lambung
+1220072013, galanggang
+1220072014, gunungtua tumbu jati
+1220072015, gunungtua batang onang
+1220072016, simanapang
+1220072017, simaninggir
+1220072018, batu mamak
+1220072019, padang garugur
+1220072020, padang matinggi
+1220072021, purba tua
+1220072022, janji mauli
+1220072023, sayur matinggi julu
+1220072024, gunung tua julu
+1220072025, pasir ampolu hopong
+1220072026, pagaran batu
+1220072027, tamosu
+1220072028, simangambat dolok
+1220072029, janji manahan
+1220072030, padang bujur baru
+1220072031, batu nanggar
+1220072032, morang

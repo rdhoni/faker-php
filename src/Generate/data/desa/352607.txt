@@ -1,0 +1,22 @@
+3526072001, klampis barat
+3526072002, bulukagung
+3526072003, mrandung
+3526072004, tobaddung
+3526072005, tolbuk
+3526072006, moarah
+3526072007, raas
+3526072008, polongan
+3526072009, karang asem
+3526072010, trogan
+3526072011, bulung
+3526072012, banteyan
+3526072013, bragang
+3526072014, lergunong
+3526072015, panyaksagan
+3526072016, manonggal
+3526072017, bator
+3526072018, klampis timur
+3526072019, tenggun dajah
+3526072020, larangan sorjan
+3526072021, larangan glintong
+3526072022, kool

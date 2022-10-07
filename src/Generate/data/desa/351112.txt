@@ -1,0 +1,13 @@
+3511122001, ambulu
+3511122002, bukor
+3511122003, sumbermalang
+3511122004, jambewungu
+3511122005, gubrih
+3511122006, ampelan
+3511122007, jatitamban
+3511122008, banyuwulu
+3511122009, jatisari
+3511122010, glingseran
+3511122011, banyuputih
+3511122012, wringin
+3511122013, sumbercanting

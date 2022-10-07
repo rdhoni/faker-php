@@ -1,0 +1,12 @@
+1405011010, ukui i
+1405012001, air hitam
+1405012002, air emas
+1405012003, bukit gajah
+1405012004, bukit jaya
+1405012005, kampung baru
+1405012006, lubuk kembang bunga
+1405012007, lubuk kembang sari
+1405012008, silikuan hulu
+1405012009, tri mulya jaya
+1405012011, ukui dua
+1405012012, bagan limau

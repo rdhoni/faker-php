@@ -1,0 +1,12 @@
+3215072001, waluya
+3215072002, mulyajaya
+3215072003, kutakarya
+3215072004, kutagandok
+3215072005, kutamukti
+3215072006, kutajaya
+3215072007, sampalan
+3215072008, sindangmulya
+3215072009, sindangmukti
+3215072010, kutaraja
+3215072011, sindangsari
+3215072012, sindangkarya

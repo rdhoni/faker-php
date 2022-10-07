@@ -1,0 +1,6 @@
+1871141001, labuhan ratu
+1871141002, labuhan ratu raya
+1871141003, sepang jaya
+1871141004, kota sepang
+1871141006, kampung baru raya
+1871141007, kampung baru

@@ -1,0 +1,7 @@
+3671121001, karang tengah
+3671121002, karang mulya
+3671121003, pondok bahar
+3671121004, pondok pucung
+3671121005, karang timur
+3671121006, padurenan
+3671121007, parung jaya

@@ -1,0 +1,12 @@
+3528102001, bajur
+3528102002, sumber waru
+3528102003, tampojung pregih
+3528102004, tampojung guwa
+3528102005, tampojung tengah
+3528102006, tampojung tenggina
+3528102007, ragang
+3528102008, sana laok
+3528102009, waru timur
+3528102010, waru barat
+3528102011, tlonto ares
+3528102012, tagangser laok

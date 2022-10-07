@@ -1,0 +1,16 @@
+1503031001, dusun sarolangun
+1503031015, sukasari
+1503031016, pasar sarolangun
+1503031019, sarolangun kembang
+1503031025, gunungkembang
+1503031026, aur
+1503032002, bernai
+1503032003, sungai baung
+1503032004, panti
+1503032005, tinting
+1503032006, sungai abang
+1503032013, lidung
+1503032014, ladang panjang
+1503032024, baru
+1503032027, ujung tanjung
+1503032028, bernai dalam

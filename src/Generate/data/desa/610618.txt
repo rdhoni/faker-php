@@ -1,0 +1,17 @@
+6106182001, nanga sebintang
+6106182002, nanga lebangan
+6106182003, nanga kalis);
+6106182004, nanga raun
+6106182005, bahenap
+6106182006, nanga tubuk
+6106182007, nanga danau
+6106182008, kensuray
+6106182009, rantau kalis
+6106182010, kalis raya
+6106182011, tekudak
+6106182012, semerantau
+6106182013, tapang da\an
+6106182014, segiam
+6106182016, ribang kadeng
+6106182017, rantau bumbun
+6106182018, peniung

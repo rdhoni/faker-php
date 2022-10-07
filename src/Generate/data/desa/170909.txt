@@ -1,0 +1,12 @@
+1709092001, pondok kubang
+1709092002, batu raja
+1709092003, dusun anyar
+1709092004, tanjung dalam
+1709092005, talang tengah i
+1709092006, paku haji
+1709092007, tanjung terdana
+1709092008, linggar galing
+1709092009, dusun baru i
+1709092010, harapan makmur
+1709092011, margo mulyo
+1709092012, taba jambu

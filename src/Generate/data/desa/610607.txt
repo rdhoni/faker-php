@@ -1,0 +1,14 @@
+6106072001, jongkong kiri hilir
+6106072002, jongkong kanan
+6106072003, jongkong kiri hulu
+6106072004, jongkong pasar
+6106072005, ujung said
+6106072006, temenang
+6106072007, ujung jambu
+6106072008, bontai
+6106072009, jongkong kiri tengah
+6106072010, jongkong tanjung
+6106072011, kandung suli
+6106072012, penepian raya
+6106072013, karya baru
+6106072014, nanga serian

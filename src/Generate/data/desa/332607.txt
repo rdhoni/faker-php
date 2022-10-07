@@ -1,0 +1,15 @@
+3326072001, gutomo
+3326072002, limbangan
+3326072003, karanggondang
+3326072004, lolong
+3326072005, pedawang
+3326072006, pododadi
+3326072007, legokalong
+3326072008, karangsari
+3326072009, kulu
+3326072010, banjarejo
+3326072011, wonosari
+3326072012, sokosari
+3326072013, sidomukti
+3326072014, kayugeritan
+3326072015, kutosari

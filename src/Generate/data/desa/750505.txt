@@ -1,0 +1,10 @@
+7505052001, tolinggula tengah
+7505052002, tolinggula pantai
+7505052003, tolinggula ulu
+7505052006, limbato
+7505052007, papulangi
+7505052008, molangga
+7505052011, cempaka putih
+7505052014, tolite jaya
+7505052017, ilomangga
+7505052018, ilotunggulo

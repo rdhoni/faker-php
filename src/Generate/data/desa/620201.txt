@@ -1,0 +1,11 @@
+6202011009, kota besi hulu
+6202011010, kota besi hilir
+6202012003, palangan
+6202012004, hanjalipan
+6202012005, simpur
+6202012006, pamalian
+6202012007, camba
+6202012008, kandan
+6202012012, bajarum
+6202012015, rasau tumbuh
+6202012017, soren

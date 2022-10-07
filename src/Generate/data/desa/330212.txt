@@ -1,0 +1,13 @@
+3302122001, wlahar kulon
+3302122002, sokawera
+3302122003, pegalongan
+3302122004, patikraja);
+3302122005, notog
+3302122006, karangendep
+3302122007, sawangan wetan
+3302122008, kedungwuluh kidul
+3302122009, kedungrandu
+3302122010, kedungwuluh lor
+3302122011, karanganyar
+3302122012, sidabowa
+3302122013, kedungwringin

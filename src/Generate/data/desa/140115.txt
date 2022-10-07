@@ -1,0 +1,9 @@
+1401151007, pulau
+1401151008, pasir sialang
+1401152001, pulau lawas
+1401152002, muara uwai
+1401152003, laboy jaya
+1401152004, bukitpayung
+1401152005, suka mulya
+1401152006, bukit sembilan
+1401152009, binuang

@@ -1,0 +1,18 @@
+5105031008, semarapura kaja
+5105031009, semarapura kauh
+5105031010, semarapura tengah
+5105031011, semarapura kangin
+5105031012, semarapura kelod kangin
+5105031013, semarapura kelod
+5105032001, satra
+5105032002, tojan
+5105032003, gelgel
+5105032004, kampung gelgel
+5105032005, jumpai
+5105032006, tangkas
+5105032007, kamasan
+5105032014, akah
+5105032015, manduang
+5105032016, selat
+5105032017, tegak
+5105032018, selisihan

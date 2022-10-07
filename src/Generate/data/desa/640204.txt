@@ -1,0 +1,8 @@
+6402042001, sepatin
+6402042002, muara pantuan
+6402042003, tani baru
+6402042004, kutai lama
+6402042005, anggana
+6402042006, sungai meriam
+6402042007, sidomulyo
+6402042008, handil terusan

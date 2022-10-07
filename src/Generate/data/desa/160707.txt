@@ -1,0 +1,15 @@
+1607072001, muara padang
+1607072002, tanjungbaru
+1607072003, karang anyar
+1607072006, purwodadi
+1607072007, sumber makmur
+1607072008, air gading
+1607072009, tirto raharjo
+1607072010, daya utama
+1607072011, daya makmur
+1607072012, sido mulyo 18
+1607072013, sido rejo
+1607072018, sido mulyo 20
+1607072037, margo mulyo 20
+1607072038, margo sugihan
+1607072042, tirta jaya

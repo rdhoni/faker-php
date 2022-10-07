@@ -1,0 +1,23 @@
+120501, bahorok
+120502, salapian
+120503, kuala
+120504, sei bingei
+120505, binjai
+120506, selesai
+120507, stabat
+120508, wampu
+120509, secanggang
+120510, hinai
+120511, tanjung pura
+120512, padang tualang
+120513, gebang
+120514, babalan
+120515, pangkalan susu
+120516, besitang
+120517, sei lepan
+120518, berandan barat
+120519, batang serangan
+120520, sawit seberang
+120521, sirapit
+120522, kutambaru
+120523, pematang jaya

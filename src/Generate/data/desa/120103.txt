@@ -1,0 +1,22 @@
+1201031001, pandan
+1201031002, hajoran
+1201031003, aek tolang
+1201031004, lubuk tukko
+1201031005, sibuluan indah
+1201031006, sibuluan nauli
+1201031011, aek sitio-tio
+1201031012, sibuluan raya
+1201031013, kalangan
+1201031016, pandan wangi
+1201031017, lubuk tukko baru
+1201031018, sibuluan baru
+1201031019, sibuluan terpadu
+1201031020, sihaporas nauli
+1201031021, pasar baru
+1201031022, budi luhur
+1201031023, kalangan indah
+1201031024, mangga dua
+1201031025, muara nibung
+1201031026, hajoran indah
+1201032014, aek garut
+1201032015, sitio-tio hilir

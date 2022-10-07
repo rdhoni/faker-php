@@ -1,0 +1,14 @@
+3604132001, tirtayasa
+3604132002, samparwadi
+3604132003, kamanisan
+3604132004, pontang legon
+3604132005, kebon
+3604132006, sujung
+3604132007, lontar
+3604132008, susukan
+3604132009, wargasara
+3604132010, laban
+3604132011, tengkurak
+3604132012, alang-alang
+3604132013, kebuyutan
+3604132014, puser

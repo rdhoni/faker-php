@@ -1,0 +1,11 @@
+1212242001, siantar utara
+1212242002, lumban sitorus
+1212242003, banjar ganjang
+1212242004, tangga batu i
+1212242005, tangga batu ii
+1212242006, pangombusan
+1212242007, jonggi manulus
+1212242008, lumban huala
+1212242009, dolok nauli
+1212242010, bius gu barat
+1212242011, lumban manurung

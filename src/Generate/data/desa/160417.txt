@@ -1,0 +1,32 @@
+1604172001, bunga mas
+1604172002, gunung kembang
+1604172003, tanjung bindu
+1604172004, lubuk tapang
+1604172005, lubuk nambulan
+1604172006, gelumbang
+1604172007, gunung aji
+1604172008, gunung karto
+1604172009, karang endah
+1604172010, padu raksa
+1604172011, seronggo
+1604172012, datar serdang
+1604172013, batu urip
+1604172014, cecar
+1604172015, patikal lama
+1604172016, muara empayang
+1604172017, lubuk kute
+1604172018, patikal baru
+1604172019, gedung agung
+1604172020, babat lama
+1604172021, tanda raja
+1604172022, muara danau
+1604172023, sendawar
+1604172024, lubuk layang ilir
+1604172025, binjai
+1604172026, lubuk layang ulu
+1604172027, cempaka sakti
+1604172028, suka harjo
+1604172029, marga mulya
+1604172030, kencana sari
+1604172031, linggar jaya
+1604172032, purwaraja

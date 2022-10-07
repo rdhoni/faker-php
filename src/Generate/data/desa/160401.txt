@@ -1,0 +1,14 @@
+1604012001, kembang ayun
+1604012002, gunung meraksa
+1604012003, tanjung alam
+1604012004, batu rancing
+1604012005, suban
+1604012006, genting
+1604012007, gunung ayu
+1604012008, ujung pulau
+1604012009, muara cawang
+1604012010, kepala siring
+1604012011, simpang iii pumu
+1604012012, gunung raya
+1604012013, talang tinggi
+1604012014, karang agung

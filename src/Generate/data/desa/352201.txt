@@ -1,0 +1,16 @@
+3522012001, luwihaji
+3522012002, sugihwaras
+3522012003, nganti
+3522012004, jumok
+3522012005, sumberagung
+3522012006, mojorejo
+3522012007, ngraho
+3522012008, blimbinggede
+3522012009, kalirejo
+3522012010, tapelan
+3522012011, tanggungan
+3522012012, pandan
+3522012013, sumberarum
+3522012014, payaman
+3522012015, bancer
+3522012016, klempun

@@ -1,0 +1,11 @@
+6105212001, ampar bedang
+6105212002, telaga satu
+6105212003, telaga dua
+6105212004, binjai hilir
+6105212005, binjai hulu
+6105212006, sungai risap
+6105212007, dak jaya
+6105212008, mensiku
+6105212009, empaka kabiau raya
+6105212010, sungai risap mensiku bersatu
+6105212011, simba raya

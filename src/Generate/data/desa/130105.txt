@@ -1,0 +1,20 @@
+1301052001, painan
+1301052002, tambang
+1301052003, salido
+1301052004, lumpo
+1301052005, bunga pasang salido
+1301052006, sago salido
+1301052007, salido sari bulan
+1301052008, koto rawang
+1301052009, limau gadang lumpo
+1301052010, batu kunik lumpo
+1301052011, taratak tangah lumpo
+1301052012, ampuan lumpo
+1301052013, ampang tareh lumpo
+1301052014, balai sinayan lumpo
+1301052015, sungai gayo lumpo
+1301052016, sungai sariak lumpo
+1301052017, bukik kaciak lumpo
+1301052018, gunung bungkuak lumpo
+1301052019, painan selatan painan
+1301052020, painan timur painan

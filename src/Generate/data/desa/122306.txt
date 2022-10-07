@@ -1,0 +1,13 @@
+1223061001, aek kota batu
+1223062002, pematang
+1223062003, batu tunggal
+1223062004, sungai raja
+1223062005, perkebunan berangir
+1223062006, silumajang
+1223062007, pulo jantan
+1223062008, kampung pajak
+1223062009, meranti omas
+1223062010, hatapang
+1223062011, pasang lela
+1223062012, simpang marbau
+1223062013, bangun rejo

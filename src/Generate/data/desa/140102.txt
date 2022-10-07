@@ -1,0 +1,18 @@
+1401021027, air tiris
+1401022001, batu belah
+1401022003, tanjung berulak
+1401022006, ranah
+1401022007, penyasawan
+1401022008, rumbio
+1401022013, padang mutung
+1401022023, pulau jambu
+1401022024, tanjung rambutan
+1401022025, simpang kubu
+1401022028, limau manis
+1401022030, naumbai
+1401022031, pulau tinggi
+1401022032, ranah baru
+1401022033, bukit ranah
+1401022034, pulau sarak
+1401022035, koto tibun
+1401022036, ranah singkuang

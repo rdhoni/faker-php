@@ -1,0 +1,45 @@
+1118042001, keude ulee gle
+1118042002, gampong ulee gle
+1118042003, blang dalam
+1118042004, pulo
+1118042005, gampong baro
+1118042006, meuko kuthang
+1118042007, uteun bayu
+1118042008, alue ketapang
+1118042009, jaulanga barat
+1118042010, kumba
+1118042011, babah krueng
+1118042012, pohroh
+1118042013, seunong
+1118042014, alue mee
+1118042015, blang kuta
+1118042016, drien tujoh
+1118042017, alue sane
+1118042018, gahru
+1118042019, lhok pusong
+1118042020, paya pisang klat
+1118042021, cot geurefai
+1118042022, muko dayah
+1118042023, meuko buloh
+1118042024, peulakan tunong
+1118042025, adan
+1118042026, meugit kayee panyang
+1118042027, meugit sagoe
+1118042028, meurandeh alue
+1118042029, reudeup melayu
+1118042030, meunasah paku
+1118042031, jeulanga mata ie
+1118042032, jeulanga mesjid
+1118042033, pulo gapu
+1118042034, blang miroe
+1118042035, beurasan
+1118042036, cot keng
+1118042037, krueng kiran
+1118042038, asan kumbang
+1118042039, drien bungong
+1118042040, peulakan cebrek
+1118042041, paya tunong
+1118042042, peulakan tambo
+1118042043, paya baroh
+1118042044, meuko baroh
+1118042045, kuta krueng

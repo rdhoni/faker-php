@@ -1,0 +1,16 @@
+6305041001, rangda malingkung
+6305041002, kupang
+6305041003, rantau kanan
+6305041004, rantau kiwa
+6305042005, keramat
+6305042006, antasari
+6305042007, jingah babaris
+6305042008, banua hanyar
+6305042009, banua halat kiri
+6305042010, banua halat kanan
+6305042011, perintis raya
+6305042012, kakaran
+6305042013, antasan hilir
+6305042014, lumbu raya
+6305042015, banua halar hulu
+6305042016, badaun

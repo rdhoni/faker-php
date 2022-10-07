@@ -1,0 +1,22 @@
+1212041009, parsoburan tengah
+1212042002, lumban rau selatan
+1212042004, lumban rau barat
+1212042006, lumban balik
+1212042007, panamparan
+1212042008, lumban pinasa
+1212042010, parsoburan barat
+1212042011, lumban ruhap
+1212042012, lumban pea
+1212042014, hitetano
+1212042017, lobu hole
+1212042018, batu nabolon
+1212042019, lumban gaol
+1212042020, tornagodang
+1212042021, taon marisi
+1212042022, pagar batu
+1212042023, sibuntuon
+1212042024, pararungan
+1212042025, lumban lintong
+1212042026, pangunjungan
+1212042027, lumban pinasa saroba
+1212042028, aek ulok

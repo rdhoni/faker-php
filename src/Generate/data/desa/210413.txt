@@ -1,0 +1,6 @@
+2104132001, batu belubang
+2104132002, cempa
+2104132003, pasir panjang
+2104132004, tanjung kelit
+2104132005, tanjung lipat
+2104132006, rejai

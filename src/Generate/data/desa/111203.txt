@@ -1,0 +1,18 @@
+1112032001, kedai
+1112032002, padang
+1112032003, tengah
+1112032005, paya
+1112032006, seuneulop
+1112032007, lhok puntoy
+1112032009, ladang panah
+1112032010, pusu ingin jaya
+1112032011, panton makmur
+1112032022, lhueng baro
+1112032023, tokoh
+1112032024, blang manggeng
+1112032025, pante raja
+1112032026, sejahtera
+1112032027, lhok pawoh
+1112032029, pante pirak
+1112032030, ujung tanah
+1112032031, pante cermin

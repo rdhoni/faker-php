@@ -1,0 +1,21 @@
+1202091001, psr siborong borong
+1202092002, siborong borong i
+1202092003, siborong borong ii
+1202092004, sitampurung
+1202092005, sitabotabo
+1202092006, bahal batu i
+1202092007, bahal batu ii
+1202092008, bahal batu iii
+1202092009, lobu siregar i
+1202092010, lobu siregar ii
+1202092011, pohan julu
+1202092012, pohan tonga
+1202092013, pohan jae
+1202092014, paniaran
+1202092015, parik sabungan
+1202092016, hutabulu
+1202092017, lumban tonga tonga
+1202092018, sigumbang
+1202092019, siaro
+1202092020, silait-lait
+1202092021, sitabotabo toruan

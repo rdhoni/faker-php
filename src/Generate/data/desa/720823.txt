@@ -1,0 +1,11 @@
+7208232001, lado
+7208232002, sipayo
+7208232003, bondoyong
+7208232004, sidoan selatan
+7208232005, sidoan timur
+7208232006, sidoan
+7208232007, sidoan barat
+7208232008, ogobagis
+7208232009, muara jaya
+7208232010, bainaa selatan
+7208232011, sintuwu raya

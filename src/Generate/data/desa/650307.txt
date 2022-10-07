@@ -1,0 +1,13 @@
+6503072001, long pasia
+6503072002, liang lunuk
+6503072003, pa\ ibang
+6503072004, pa\ amai
+6503072005, pa\ kaber
+6503072006, pa\ tera
+6503072007, pa\ sing
+6503072009, pa\ dalan
+6503072010, long birar
+6503072011, pa\ upan
+6503072016, long budung
+6503072018, long pupung
+6503072020, pa\ urang

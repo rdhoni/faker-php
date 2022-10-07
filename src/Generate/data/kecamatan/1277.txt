@@ -1,0 +1,6 @@
+127701, padangsidimpuan utara
+127702, padangsidimpuan selatan
+127703, padangsidimpuan batunadua
+127704, padangsidimpuan hutaimbaru
+127705, padangsidimpuan tenggara
+127706, padangsidimpuan angkola julu

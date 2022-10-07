@@ -1,0 +1,10 @@
+3210242001, jatisawit
+3210242002, leuwikidang
+3210242003, ranji kulon
+3210242004, ranji wetan
+3210242005, gunungsari
+3210242006, kasokandel
+3210242007, girimukti
+3210242008, jatimulya
+3210242009, wanajaya
+3210242010, gandasari

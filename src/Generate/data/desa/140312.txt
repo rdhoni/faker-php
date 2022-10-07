@@ -1,0 +1,17 @@
+1403122001, lubuk muda
+1403122002, tanjungbelit
+1403122003, sungaisiput
+1403122004, sepotong
+1403122005, lubuk gaung
+1403122006, langkat
+1403122007, sadar jaya
+1403122008, sungailinau
+1403122009, bandar jaya
+1403122010, muara dua
+1403122011, tanjungdamai
+1403122012, sumber jaya
+1403122013, lubuk garam
+1403122014, liang banir
+1403122015, tanjungdatuk
+1403122016, koto raja
+1403122017, sungainibung

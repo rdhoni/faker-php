@@ -1,0 +1,15 @@
+1703152003, genting perangkap
+1703152004, lubuk balam
+1703152005, datar mancang
+1703152006, tanjung genting
+1703152007, talang renah
+1703152008, kota agung
+1703152009, talang lembak
+1703152010, kertapati
+1703152011, talang pungguk
+1703152012, teluk baru ginting
+1703152013, tanjung karet
+1703152014, talang ginting
+1703152015, sungai pura
+1703152016, dusun curup
+1703152017, penyangkak

@@ -1,0 +1,15 @@
+710105, sang tombolang
+710109, dumoga barat
+710110, dumoga timur
+710111, dumoga utara
+710112, lolak
+710113, bolaang
+710114, lolayan
+710119, passi barat
+710120, poigar
+710122, passi timur
+710131, bolaang timur
+710132, bilalang
+710133, dumoga
+710134, dumoga tenggara
+710135, dumoga tengah

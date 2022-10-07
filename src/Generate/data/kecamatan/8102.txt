@@ -1,0 +1,11 @@
+810201, kei kecil
+810203, kei besar
+810204, kei besar selatan
+810205, kei besar utara timur
+810213, kei kecil timur
+810214, kei kecil barat
+810215, manyeuw
+810216, hoat sorbay
+810217, kei besar utara barat
+810218, kei besar selatan barat
+810219, kei kecil timur selatan

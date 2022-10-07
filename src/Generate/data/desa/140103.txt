@@ -1,0 +1,17 @@
+1401032001, tambang
+1401032002, kuapan
+1401032003, gobah
+1401032004, teluk kenidai
+1401032005, aursati
+1401032006, padang luas
+1401032007, terantang
+1401032008, kualu
+1401032009, rimbo panjang
+1401032010, parit baru
+1401032011, kemang indah
+1401032012, kualu nenas
+1401032013, tarai bangun
+1401032014, sungai pinang
+1401032015, balam jaya
+1401032016, pulaupermai
+1401032017, palungraya

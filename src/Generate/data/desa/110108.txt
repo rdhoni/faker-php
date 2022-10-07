@@ -1,0 +1,16 @@
+1101082001, lhok keutapang
+1101082002, hilir
+1101082003, padang
+1101082004, hulu
+1101082005, jambo apha
+1101082006, tepi air
+1101082007, pasar
+1101082008, lhok bengkuang
+1101082009, panton luas
+1101082010, gunung kerambil
+1101082011, air berudang
+1101082012, batu itam
+1101082013, panjupian
+1101082014, lhok rukam
+1101082015, air pinang
+1101082016, lhok bengkuang timur

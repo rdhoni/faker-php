@@ -1,0 +1,18 @@
+6304051001, berangas barat
+6304051002, berangas
+6304051003, handil bakti
+6304052004, pulau alalak
+6304052005, pulau sewangi
+6304052006, pulau sugara
+6304052007, sungai lumbah
+6304052008, berangas timur
+6304052009, sei semangat bhakti
+6304052010, sungai pitung
+6304052011, belandean muara
+6304052012, belandean
+6304052013, tanjung harapan
+6304052014, semangat dalam
+6304052015, beringin
+6304052016, semangat karya
+6304052017, panca karya
+6304052018, tatah mesjid

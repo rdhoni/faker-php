@@ -1,0 +1,6 @@
+7303082001, bonto tiro
+7303082002, bonto karaeng
+7303082003, bonto maccini
+7303082004, bonto mate\ne
+7303082005, bonto majannang
+7303082006, bonto bulaeng

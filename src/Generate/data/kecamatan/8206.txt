@@ -1,0 +1,10 @@
+820601, wasile
+820602, maba
+820603, maba selatan
+820604, wasile selatan
+820605, wasile tengah
+820606, wasile utara
+820607, wasile timur
+820608, maba tengah
+820609, maba utara
+820610, kota maba

@@ -1,0 +1,10 @@
+1209152003, bandar pulau pekan
+1209152005, buntu maraja
+1209152006, gonting malaha
+1209152010, padang pulau
+1209152012, perkebunan aek tarum
+1209152016, perkebunan padang pulau
+1209152019, huta rao
+1209152020, aek nagali
+1209152021, gajah sakti
+1209152022, gunung berkat

@@ -1,0 +1,9 @@
+1203291002, hutaraja
+1203291008, muara manompas
+1203291009, muara ampolu
+1203292001, bandar hapinis
+1203292003, pardamean
+1203292004, tarapung raya
+1203292007, muara opu
+1203292010, simarlelan
+1203292011, muara huta raja

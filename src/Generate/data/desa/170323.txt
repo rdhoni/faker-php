@@ -1,0 +1,10 @@
+1703232001, air lelangi
+1703232002, bukit berlian
+1703232003, tanjung dalam
+1703232004, bukit sari
+1703232005, pagardin
+1703232006, tanjung harapan
+1703232007, tanjung sari
+1703232008, bangun karya
+1703232009, pondok bakil
+1703232010, talang berantai

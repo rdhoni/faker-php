@@ -1,0 +1,26 @@
+1501162001, siulak gedang
+1501162004, pasar siulak gedang
+1501162005, siulak panjang
+1501162006, siulak kecil mudik
+1501162007, koto rendah
+1501162009, lubuk nagodang
+1501162010, sungaipegeh
+1501162011, sungailebuh
+1501162012, koto kapeh
+1501162013, koto beringin
+1501162014, dusun baru
+1501162015, dusun dalam
+1501162016, air terjun
+1501162019, koto aro
+1501162021, koto lebuh tinggi
+1501162024, siulak kecil hilir
+1501162025, koto tengah
+1501162028, telago biru
+1501162030, tutung bungkuk
+1501162033, baru sungaipegeh
+1501162034, bendar sedap
+1501162035, plak naneh
+1501162036, padang jantung
+1501162038, pelak gedang
+1501162039, demong sakti
+1501162040, pasar senen

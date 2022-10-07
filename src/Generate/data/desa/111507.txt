@@ -1,0 +1,16 @@
+1115072001, suak puntong
+1115072002, gampong lhok
+1115072003, kuala baro
+1115072004, padang rubek
+1115072005, pulo
+1115072006, langkak
+1115072007, kuala tuha
+1115072008, kubang gajah
+1115072009, kuala trang
+1115072010, cot rambong
+1115072011, padang panyang
+1115072012, arongan
+1115072013, jati rejo
+1115072014, purwodadi
+1115072015, leung teuku ben
+1115072016, purwosari

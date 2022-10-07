@@ -1,0 +1,7 @@
+1471111001, tampan
+1471111002, labuh baru timur
+1471111003, labuh baru barat
+1471111004, air hitam
+1471111005, bandarraya
+1471111006, sungaisibam
+1471111007, tirtasiak

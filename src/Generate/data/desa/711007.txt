@@ -1,0 +1,10 @@
+7110072001, mooat
+7110072002, bongkudai selatan
+7110072003, bongkudai baru
+7110072004, bongkudai utara
+7110072005, bongkudai timur
+7110072006, guaan
+7110072007, mototompian
+7110072008, mokitompia
+7110072009, kokapoi
+7110072010, kokapoi timur

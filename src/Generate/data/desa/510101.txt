@@ -1,0 +1,12 @@
+5101011006, baler bale agung
+5101011008, banjar tengah
+5101011013, lelateng
+5101011014, loloan barat
+5101012001, cupel
+5101012002, baluk
+5101012003, banyu biru
+5101012004, kaliakah
+5101012005, berangbang
+5101012009, tegal badeng timur
+5101012010, tegal badeng barat
+5101012011, pengambengan

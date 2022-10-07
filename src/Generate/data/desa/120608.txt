@@ -1,0 +1,20 @@
+1206081019, tiga binanga
+1206082001, gunung
+1206082002, kem kem
+1206082003, pertumbuken
+1206082004, kuala
+1206082005, limang
+1206082006, perbesi
+1206082007, lau kapur
+1206082008, kuta bangun
+1206082009, kuta raya
+1206082010, pergendangen
+1206082011, simolap
+1206082012, simpang pergendangen
+1206082013, kuta gerat
+1206082014, suka julu
+1206082015, kuta galoh
+1206082016, bunga baru
+1206082017, kutambaru punti
+1206082018, kuta buara
+1206082020, batumamak

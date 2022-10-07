@@ -1,0 +1,33 @@
+1116022001, mesjid sungai iyu
+1116022002, alur cantek
+1116022003, tanjung lipat i
+1116022004, tanjung lipat ii
+1116022005, seuneubok  dalam mesjid
+1116022006, bandar baru
+1116022007, cinta raja
+1116022008, kuala genting
+1116022009, bandar khalifah
+1116022010, suka mulia bendahara
+1116022011, seuneubok aceh
+1116022012, tengku tinggi
+1116022013, perkebunan sungai iyu
+1116022014, marlempang
+1116022015, balai
+1116022016, lubuk batil
+1116022017, lambung blang
+1116022018, tanjung parit
+1116022019, tanjung
+1116022020, raja
+1116022021, tumpok tengoh
+1116022029, upah
+1116022030, perkebunan  upah
+1116022031, matang tepah
+1116022035, seuneubok dalam upah
+1116022036, mesjid bendahara
+1116022037, teluk kemiri
+1116022038, teluk kepayang
+1116022039, teluk halban
+1116022040, rantau pakam
+1116022041, tanjung binjai
+1116022042, tanjung mulia
+1116022043, kuala penaga

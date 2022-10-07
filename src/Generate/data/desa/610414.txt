@@ -1,0 +1,22 @@
+6104142001, periangan
+6104142002, tanggerang
+6104142003, kesuma jaya
+6104142004, penyarang
+6104142005, biku sarana
+6104142006, semantun
+6104142007, riam danau kanan
+6104142008, limpang
+6104142009, pasir mayang
+6104142010, tebing berseri
+6104142011, deranuk
+6104142012, rangga intan
+6104142013, pangkalan suka
+6104142014, teluk runjai
+6104142015, asam jelai
+6104142016, air dua
+6104142017, sidahari
+6104142018, kusik batu lapu
+6104142019, karang dangin
+6104142020, perigi
+6104142021, bayam raya
+6104142022, pangkalan paket

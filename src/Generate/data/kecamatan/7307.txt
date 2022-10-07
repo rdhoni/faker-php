@@ -1,0 +1,9 @@
+730701, sinjai barat
+730702, sinjai selatan
+730703, sinjai timur
+730704, sinjai tengah
+730705, sinjai utara
+730706, bulupoddo
+730707, sinjai borong
+730708, tellu limpoe
+730709, pulau sembilan

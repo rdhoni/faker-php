@@ -1,0 +1,15 @@
+6303082005, paku
+6303082006, simpang empat
+6303082007, lok cantung
+6303082008, tanah intan
+6303082009, sungai raya
+6303082010, sungkai
+6303082011, sungai langsat
+6303082014, lawiran
+6303082017, batu balian
+6303082018, cabi
+6303082019, berkat mulya
+6303082021, sungai baru
+6303082022, paring tali
+6303082025, pasar lama
+6303082026, sungai tabuk

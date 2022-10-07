@@ -1,0 +1,10 @@
+1902042001, sijuk
+1902042002, batu itam
+1902042003, terong
+1902042004, air seruk
+1902042005, tanjung binga
+1902042006, air selumar
+1902042007, sungai padang
+1902042008, keciput
+1902042009, pelepak pute
+1902042010, tanjong tinggi

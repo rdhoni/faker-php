@@ -1,0 +1,13 @@
+1771031001, berkas
+1771031002, pasar baru
+1771031003, jitra
+1771031004, pasar melintang
+1771031005, kebun roos
+1771031007, tengah padang
+1771031008, bajak
+1771031010, pondok besi
+1771031011, kebun keling
+1771031013, sumur meleleh
+1771031014, malabero
+1771031018, pintu batu
+1771031019, kampung bali

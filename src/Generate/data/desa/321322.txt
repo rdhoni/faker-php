@@ -1,0 +1,9 @@
+3213222001, kawunganten
+3213222002, sindangsari
+3213222003, cikaum barat
+3213222004, cikaum timur
+3213222005, tanjungsari barat
+3213222006, mekarsari
+3213222007, tanjungsari timur
+3213222008, gandasari
+3213222009, pasirmuncang

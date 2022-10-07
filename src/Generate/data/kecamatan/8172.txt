@@ -1,0 +1,5 @@
+817201, pulau dullah utara
+817202, pulau dullah selatan
+817203, tayando tam
+817204, pulau-pulau kur
+817205, kur selatan

@@ -1,0 +1,15 @@
+1409141015, beringin jaya
+1409142001, pulaukomang sentajo
+1409142002, muaro sentajo
+1409142003, koto sentajo
+1409142004, kampungbaru sentajo
+1409142005, pulaukopung sentajo
+1409142006, teratak air hitam
+1409142007, seberang teratak air hitam
+1409142008, parit teratak air hitam
+1409142009, jalur patah
+1409142010, geringing baru
+1409142011, marsawa
+1409142012, langsat hulu
+1409142013, muara langsat
+1409142014, geringging jaya

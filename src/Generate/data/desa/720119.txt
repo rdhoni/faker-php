@@ -1,0 +1,10 @@
+7201192001, kampangar
+7201192002, kuntang
+7201192003, pulau dua
+7201192004, teku
+7201192005, ondoliang
+7201192006, batu simpang
+7201192007, batu mandi
+7201192008, pangkalaseang
+7201192009, pangkalaseang baru
+7201192010, toweer

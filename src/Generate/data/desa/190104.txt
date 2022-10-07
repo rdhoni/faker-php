@@ -1,0 +1,15 @@
+1901042001, petaling
+1901042002, penagan
+1901042003, zed
+1901042004, mendo
+1901042005, paya benua
+1901042006, cengkong abang
+1901042007, kace
+1901042008, kemuja
+1901042009, air duren
+1901042010, kota kapur
+1901042011, air buluh
+1901042012, rukam
+1901042013, labuh air pandan
+1901042014, kace timur
+1901042015, petaling banjar

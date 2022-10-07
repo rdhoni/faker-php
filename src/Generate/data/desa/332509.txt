@@ -1,0 +1,17 @@
+3325092004, menjangan
+3325092005, karangtengah
+3325092006, mangunharjo
+3325092007, tenggulangharjo
+3325092008, kalimanggis
+3325092009, keborangan
+3325092010, jatisari
+3325092011, subah
+3325092012, kumejing
+3325092014, durenombo
+3325092019, clapar
+3325092020, adinuso
+3325092021, sengon
+3325092023, gondang
+3325092024, kuripan
+3325092025, kemiri barat
+3325092026, kemiri timur

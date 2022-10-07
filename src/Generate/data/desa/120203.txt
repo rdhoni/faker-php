@@ -1,0 +1,16 @@
+1202032001, dolok nauli
+1202032002, pansurbatu
+1202032003, pardomuan nauli
+1202032004, siantar naipospos
+1202032005, sibalanga
+1202032006, pagaran lambung iii
+1202032007, pagaran lambung iv
+1202032008, adian koting
+1202032009, pangaran pisang
+1202032010, banuaji iv
+1202032011, banuaji i
+1202032012, banuaji ii
+1202032013, pangaran lambung i
+1202032014, pangaran lambung ii
+1202032015, pansurbatu i
+1202032016, pansurbatu ii

@@ -1,0 +1,15 @@
+1601222001, merbau
+1601222002, gunung meraksa
+1601222003, kurup
+1601222004, banu ayu
+1601222005, tanjung dalam
+1601222006, lubuk batang baru
+1601222007, lubuk batang lama
+1601222008, belatung
+1601222009, karta mulya
+1601222010, lunggaian
+1601222011, bandar agung
+1601222012, tanjung manggus
+1601222015, markisa
+1601222016, air wall
+1601222017, sumber bahagia

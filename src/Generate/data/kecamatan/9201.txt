@@ -1,0 +1,30 @@
+920101, makbon
+920104, beraur
+920105, salawati
+920106, seget
+920107, aimas
+920108, klamono
+920110, sayosa
+920112, segun
+920113, mayamuk
+920114, salawati selatan
+920117, klabot
+920118, klawak
+920120, maudus
+920139, mariat
+920140, klayili
+920141, klaso
+920142, moisegen
+920143, sorong
+920144, bagun
+920145, wemak
+920146, sunook
+920147, buk
+920148, saengkeduk
+920149, malabotom
+920150, konhir
+920151, klasafet
+920152, hobard
+920153, salawati tengah
+920154, botain
+920155, sayosa timur

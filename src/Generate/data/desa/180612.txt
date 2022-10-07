@@ -1,0 +1,22 @@
+1806122001, tugu papak
+1806122002, kacapura
+1806122003, sukaraja
+1806122004, bangun rejo
+1806122005, tugu rejo
+1806122006, sidodadi
+1806122007, garut
+1806122008, karang rejo
+1806122009, kanoman
+1806122010, sudimoro
+1806122011, sudimoro bangun
+1806122012, sri purnomo
+1806122013, sri kuncoro
+1806122014, sidomulyo
+1806122015, karang agung
+1806122016, tulung asahan
+1806122017, sri katon
+1806122018, pardawaras
+1806122019, sedayu
+1806122020, way kerap
+1806122021, margomulyo
+1806122022, sukajaya

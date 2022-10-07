@@ -1,0 +1,9 @@
+1401052001, kuok
+1401052005, merangin
+1401052006, empat balai
+1401052007, pulau jambu
+1401052008, silam
+1401052010, bukit melintang
+1401052011, pulau terap
+1401052012, lereng
+1401052013, batulangka kecil

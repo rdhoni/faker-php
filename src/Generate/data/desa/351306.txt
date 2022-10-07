@@ -1,0 +1,14 @@
+3513062001, sentulan
+3513062002, gadingkulon
+3513062003, klenangkidul
+3513062004, klenanglor
+3513062005, alassapi
+3513062006, pendil
+3513062007, tarokan
+3513062008, liprak wetan
+3513062009, liprak kidul
+3513062010, liprak kulon
+3513062011, banyuanyar tengah
+3513062012, banyuanyar kidul
+3513062013, gununggeni
+3513062014, blado wetan

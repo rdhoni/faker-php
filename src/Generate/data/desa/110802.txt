@@ -1,0 +1,15 @@
+1108022001, keude krueng geukuh
+1108022002, tambon baroh
+1108022003, tambon tunong
+1108022004, paloh gadeng
+1108022005, paloh lada
+1108022006, uteun geulinggang
+1108022007, pulo rungkom
+1108022008, paloh igeuh
+1108022009, bangka jaya
+1108022010, ulee pulo
+1108022011, ulee reuleung
+1108022012, geulumpang  sulu timu
+1108022013, geulumpang  sulu barat
+1108022014, bluka teubai
+1108022015, lancang barat

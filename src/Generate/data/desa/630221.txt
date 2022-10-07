@@ -1,0 +1,10 @@
+6302212001, tanjung pelayar
+6302212002, tanjung sungkai
+6302212003, tanjung tengah
+6302212004, tanjung kunyit
+6302212005, teluk tamiang
+6302212006, gosong panjang
+6302212007, kampung baru
+6302212008, tata mekar
+6302212009, bandar raya
+6302212010, bangun rejo

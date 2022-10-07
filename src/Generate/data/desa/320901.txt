@@ -1,0 +1,12 @@
+3209012008, waled desa
+3209012009, waled kota
+3209012010, mekarsari
+3209012011, waled asem
+3209012012, ambit
+3209012013, ciuyah
+3209012014, gunungsari
+3209012015, karangsari
+3209012016, cikulak kidul
+3209012017, cikulak
+3209012018, cibogo
+3209012019, cisaat

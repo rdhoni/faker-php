@@ -1,0 +1,29 @@
+1112042001, pantai perak
+1112042002, durian rampak
+1112042003, barat
+1112042004, palak hulu
+1112042005, palak hilir
+1112042006, durian jangek
+1112042007, rumah dua lapis
+1112042008, pinang
+1112042009, rumah panjang
+1112042010, baharu
+1112042011, pawoh
+1112042012, padang baru
+1112042013, pulau kayu
+1112042014, ujung padang
+1112042015, kedai susoh
+1112042016, panjang baru
+1112042017, kedai palak kerambil
+1112042018, ladang
+1112042019, kepala bandar
+1112042020, tangah
+1112042021, gadang
+1112042022, padang hilir
+1112042023, blang dalam
+1112042024, meunasah
+1112042025, lampoh drien
+1112042026, padang panjang
+1112042027, rubek meupayong
+1112042028, cot mancang
+1112042029, geulima jaya

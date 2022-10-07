@@ -1,0 +1,21 @@
+1811072001, brabasan
+1811072002, gedung ram
+1811072003, mekar sari
+1811072004, bujung buring
+1811072005, kagungan dalam
+1811072006, tanjung sari
+1811072007, harapan mukti
+1811072008, sri tanjung
+1811072009, bangun jaya
+1811072010, muara tenang
+1811072011, wira jaya
+1811072012, sinar laga
+1811072013, tri karya mulya
+1811072014, berasan makmur
+1811072015, mekar jaya
+1811072016, gedung mulya
+1811072017, tanjung harapan
+1811072018, muara tenang timur
+1811072019, sriwijaya
+1811072020, mukti jaya
+1811072021, bujung buring baru

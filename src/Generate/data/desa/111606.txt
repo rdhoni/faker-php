@@ -1,0 +1,15 @@
+1116062001, bukit rata
+1116062002, pangkalan
+1116062003, tanjung mancang
+1116062004, simpang kanan
+1116062005, tanjung genteng
+1116062006, gerenggam
+1116062007, suka makmur
+1116062008, alur selebu
+1116062010, sungai liput
+1116062011, kebun sungai liput
+1116062012, purwodadi
+1116062013, jawa
+1116062014, sidodadi
+1116062015, karang jadi
+1116062016, seumadam

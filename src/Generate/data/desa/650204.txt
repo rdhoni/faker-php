@@ -1,0 +1,5 @@
+6502042001, data dian
+6502042002, long pipa
+6502042003, long sule
+6502042004, sungai anai
+6502042005, long metun

@@ -1,0 +1,14 @@
+1503041005, pauh
+1503042001, pangidaran
+1503042002, karang mendapo
+1503042003, batu ampar
+1503042004, batu kucing
+1503042006, semaran
+1503042007, kasang melintang
+1503042008, pangkal bulian
+1503042009, lubuk napal
+1503042010, sepintun
+1503042011, lamban sigatal
+1503042020, seko besar
+1503042021, taman bandung
+1503042022, danau serdang

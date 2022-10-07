@@ -1,0 +1,20 @@
+1505011003, pijoan
+1505012002, sungai bertam
+1505012004, pematang jering
+1505012005, muaro pijoan
+1505012006, sungai duren
+1505012007, mendalo darat
+1505012008, rengas bandung
+1505012009, sarang burung
+1505012010, mendalo laut
+1505012011, sembubuk
+1505012012, senaung
+1505012013, penyengat olak
+1505012014, simpang sungai duren
+1505012015, kedemangan
+1505012016, muhajirin
+1505012017, maro sebo
+1505012019, danau sarang elang
+1505012020, simpang limo
+1505012021, mendalo indah
+1505012022, pematang gajah

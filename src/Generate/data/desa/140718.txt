@@ -1,0 +1,11 @@
+1407181001, balai jaya kota
+1407181002, balam sempurna kota
+1407182003, balam jaya
+1407182004, balai jaya
+1407182005, balam sempurna
+1407182006, bagan bhakti
+1407182007, kencana
+1407182008, pasir putih
+1407182009, pasir putih utara
+1407182010, pasir putih barat
+1407182011, lubuk jawi

@@ -1,0 +1,8 @@
+5204052001, luar
+5204052002, baru
+5204052003, kalimango
+5204052004, marente
+5204052005, juran alas
+5204052006, dalam
+5204052007, pulau bungin
+5204052012, labuhan alas

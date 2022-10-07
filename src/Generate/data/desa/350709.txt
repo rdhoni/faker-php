@@ -1,0 +1,17 @@
+3507091008, sedayu
+3507091011, turen
+3507092001, tawangrejeni
+3507092002, kemulan
+3507092003, sawahan
+3507092004, undaan
+3507092005, gedok kulon
+3507092006, gedok wetan
+3507092007, talok
+3507092009, tanggung
+3507092010, jeru
+3507092012, pagedangan
+3507092013, sanankerto
+3507092014, sananrejo
+3507092015, kedok
+3507092016, talangsuko
+3507092017, tumpukrenteng

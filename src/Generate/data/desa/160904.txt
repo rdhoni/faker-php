@@ -1,0 +1,18 @@
+1609042001, lawang agung
+1609042002, bayur tengah
+1609042003, tanjung tebat
+1609042004, sugihan
+1609042005, penyandingan
+1609042006, alun dua
+1609042007, bandar alam baru
+1609042008, dusun tengah
+1609042009, ulak agung ilir
+1609042011, gunung gare
+1609042018, ulak agung ulu
+1609042019, muaradua kisam
+1609042020, sukananti
+1609042021, pagar dewa
+1609042022, tanjung beringin
+1609042028, panantian
+1609042029, sukaraja
+1609042040, simpang lubuk dalam

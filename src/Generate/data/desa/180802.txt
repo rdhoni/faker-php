@@ -1,0 +1,19 @@
+1808021004, kasui pasar
+1808022001, datar bancong
+1808022002, kedaton
+1808022003, karang lantang
+1808022005, kasui lama
+1808022006, kampung baru
+1808022007, jukuh kemuning
+1808022008, kota way
+1808022009, tanjung kurung
+1808022010, talang mangga
+1808022011, tanjung harapan
+1808022012, sinar gading
+1808022013, jaya tinggi
+1808022014, suka jadi
+1808022015, gelombang panjang
+1808022016, tangkas
+1808022017, tanjung bulan
+1808022018, tanjungkurung lama
+1808022019, bukitbatu

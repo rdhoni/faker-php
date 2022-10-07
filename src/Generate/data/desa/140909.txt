@@ -1,0 +1,17 @@
+1409092001, pasar baru pangean
+1409092002, koto pangean
+1409092003, pulaukumpai
+1409092004, pulautongah
+1409092005, pulauderas
+1409092006, telukpauh
+1409092007, tanah bekali
+1409092008, padang tanggung
+1409092009, padang kunik
+1409092010, pembatang
+1409092011, pauh angit
+1409092012, sukaping
+1409092013, pulaurengas
+1409092014, rawang binjai
+1409092015, sako
+1409092016, sungailangsat
+1409092017, pauh angit hulu

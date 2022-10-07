@@ -1,0 +1,14 @@
+1406072001, rambah samo
+1406072002, rambah samo barat
+1406072003, rambah baru
+1406072004, rambah utama
+1406072005, pasir makmur
+1406072006, karya mulya
+1406072007, marga mulya
+1406072008, langkitin
+1406072009, masda makmur
+1406072010, lubuk napal
+1406072011, teluk aur
+1406072012, sei salak
+1406072013, sei kuning
+1406072014, lubuk bilang

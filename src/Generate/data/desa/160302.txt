@@ -1,0 +1,16 @@
+1603021006, tungkal
+1603021007, pasar ii muara enim
+1603021008, pasar iii muara enim
+1603021009, pasar i muara enim
+1603021010, muara enim
+1603021016, air lintang
+1603022001, tanjung raja
+1603022002, karang raja
+1603022003, muara lawai
+1603022004, tanjung jati
+1603022005, lubuk emplas
+1603022011, kepur
+1603022012, tanjung serian
+1603022013, muara harapan
+1603022014, saka jaya
+1603022015, harapan jaya

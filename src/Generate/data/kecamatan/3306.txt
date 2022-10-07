@@ -1,0 +1,16 @@
+330601, grabag
+330602, ngombol
+330603, purwodadi
+330604, bagelen
+330605, kaligesing
+330606, purworejo
+330607, banyuurip
+330608, bayan
+330609, kutoarjo
+330610, butuh
+330611, pituruh
+330612, kemiri
+330613, bruno
+330614, gebang
+330615, loano
+330616, bener

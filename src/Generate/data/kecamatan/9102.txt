@@ -1,0 +1,40 @@
+910201, wamena
+910203, kurulu
+910204, asologaima
+910212, hubikosi
+910215, bolakme
+910225, walelagama
+910227, musatfak
+910228, wolo
+910229, asolokobal
+910234, pelebaga
+910235, yalengga
+910240, trikora
+910241, napua
+910242, walaik
+910243, wouma
+910244, hubikiak
+910245, ibele
+910246, taelarek
+910247, itlay hisage
+910248, siepkosi
+910249, usilimo
+910250, wita waya
+910251, libarek
+910252, wadangku
+910253, pisugi
+910254, koragi
+910255, tagime
+910256, molagalome
+910257, tagineri
+910258, silo karno doga
+910259, piramid
+910260, muliama
+910261, bugi
+910262, bpiri
+910263, welesi
+910264, asotipo
+910265, maima
+910266, popugoba
+910267, wame
+910268, wesaput

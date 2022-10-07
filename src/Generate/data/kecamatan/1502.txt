@@ -1,0 +1,24 @@
+150201, jangkat
+150202, bangko
+150203, muara siau
+150204, sungai manau
+150205, tabir
+150206, pamenang
+150207, tabir ulu
+150208, tabir selatan
+150209, lembah masurai
+150210, bangko barat
+150211, nalo tatan
+150212, batang masumai
+150213, pamenang barat
+150214, tabir ilir
+150215, tabir timur
+150216, renah pembarap
+150217, pangkalan jambu
+150218, jangkat timur
+150219, renah pamenang
+150220, pamenang selatan
+150221, margo tabir
+150222, tabir lintas
+150223, tabir barat
+150224, tiang pumpung

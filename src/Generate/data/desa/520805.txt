@@ -1,0 +1,5 @@
+5208052001, pemenang timur
+5208052002, pemenang barat
+5208052003, gili indah
+5208052004, malaka
+5208052005, menggala

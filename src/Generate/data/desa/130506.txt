@@ -1,0 +1,8 @@
+1305062001, campago
+1305062002, sikucua
+1305062003, campago barat
+1305062004, campago selatan
+1305062005, sikucua utara
+1305062006, sikucua timur
+1305062007, sikucua tengah
+1305062008, sikucua barat

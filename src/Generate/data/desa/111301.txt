@@ -1,0 +1,20 @@
+1113012001, kota blangkejeren
+1113012002, penampaan
+1113012003, bukit
+1113012004, bacang
+1113012005, durin
+1113012007, kampung jawa
+1113012008, porang
+1113012011, kute lintang
+1113012014, leme
+1113012016, gele
+1113012017, sere
+1113012018, cempa
+1113012019, lempuh
+1113012021, palok
+1113012022, penggalangan
+1113012027, agusan
+1113012031, bustanussalam
+1113012032, penampaan uken
+1113012033, raklunung
+1113012034, sepang

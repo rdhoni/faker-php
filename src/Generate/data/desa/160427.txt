@@ -1,0 +1,14 @@
+1604272001, pandan arang ilir
+1604272002, tanjung kurung ulu
+1604272003, tanjung kurung ilir
+1604272004, tanjung baru
+1604272005, tanjung nibung
+1604272006, tanjungtebat
+1604272007, tanjung bai
+1604272008, tanjung menang
+1604272009, tanjung raya
+1604272010, air dingin lama
+1604272011, air dingin baru
+1604272012, muara danau
+1604272013, talang jawa
+1604272014, padang perigi

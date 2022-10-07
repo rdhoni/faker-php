@@ -1,0 +1,10 @@
+730201, gantorang
+730202, ujung bulu
+730203, bonto bahari
+730204, bonto tiro
+730205, herlang
+730206, kajang
+730207, bulukumpa
+730208, kindang
+730209, ujungloe
+730210, rilauale

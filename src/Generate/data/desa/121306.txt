@@ -1,0 +1,28 @@
+1213061014, siabu
+1213061023, simangambat
+1213062001, aek mual
+1213062002, bonan dolok
+1213062003, huta raja
+1213062004, huta puli
+1213062005, huta baringin
+1213062006, huta godang muda
+1213062007, huraba i
+1213062008, huraba ii
+1213062009, lumban pinasa
+1213062010, lumban dolok
+1213062011, muara btg angkola
+1213062012, pintu padang jae
+1213062013, pintu padang julu
+1213062015, sibaruang
+1213062016, sihepeng
+1213062017, simaninggir
+1213062018, sinonoan
+1213062019, tangga bosi ii
+1213062020, tanjung sialang
+1213062021, tangga bosi i
+1213062022, tangga bosi iii
+1213062024, sihepeng sada
+1213062025, sihepeng dua
+1213062026, sihepeng tolu
+1213062027, sihepeng opat
+1213062028, sihepeng lima

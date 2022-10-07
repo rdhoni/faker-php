@@ -1,0 +1,20 @@
+120101, barus
+120102, sorkam
+120103, pandan
+120104, pinangsori
+120105, manduamas
+120106, kolang
+120107, tapian nauli
+120108, sibabangun
+120109, sosorgadong
+120110, sorkam barat
+120111, sirandorung
+120112, andam dewi
+120113, sitahuis
+120114, tukka
+120115, badiri
+120116, pasaribu tobing
+120117, barus utara
+120118, suka bangun
+120119, lumut
+120120, sarudik

@@ -1,0 +1,21 @@
+1224101001, pasar lahewa
+1224102002, iraono lase
+1224102003, holi
+1224102004, sifaoro\asi
+1224102005, hilizukhu
+1224102006, onozalukhu
+1224102007, hilina\a
+1224102008, hiligodu hoya
+1224102009, sitolubanua
+1224102010, hilihati
+1224102011, fadoro sitolu hili
+1224102012, marafala
+1224102013, hiligawolo
+1224102014, balefadoro tuho
+1224102015, ombolata
+1224102016, afia
+1224102017, moawo
+1224102018, lasara
+1224102019, sihene\asi
+1224102020, fadoro hilimbowo
+1224102021, fadoro hilihambawa

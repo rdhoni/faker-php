@@ -1,0 +1,14 @@
+6402061001, jahab
+6402061002, loa ipuh
+6402061003, bukit biru
+6402061004, timbau
+6402061005, melayu
+6402061006, panji
+6402061007, sukarame
+6402061008, kampung baru
+6402061009, loa tebu
+6402061010, mangkurawang
+6402061011, maluhu
+6402061013, loa ipuh darat
+6402062012, rampak lambur
+6402062014, bendang raya

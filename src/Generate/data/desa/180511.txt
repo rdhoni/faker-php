@@ -1,0 +1,11 @@
+1805112001, gunung tapa
+1805112002, gedung meneng
+1805112006, bakung udik
+1805112007, bakung ilir
+1805112008, gedung bandar rahayu
+1805112014, gunung tapa ilir
+1805112015, gunung tapa tengah
+1805112016, gunung tapa udik
+1805112017, gedung bandar rejo
+1805112018, bakung rahayu
+1805112019, gedung meneng baru

@@ -1,0 +1,6 @@
+2102021001, tanjungbatu barat
+2102021002, tanjungbatu kota
+2102021009, gading sari
+2102022004, sebesi
+2102022005, sei ungar
+2102022006, lubuk

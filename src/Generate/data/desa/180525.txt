@@ -1,0 +1,12 @@
+1805252001, teladas
+1805252002, kekatung
+1805252003, kuala teladas
+1805252004, mahabang
+1805252005, sungai nibung
+1805252006, pasiran jaya
+1805252007, bratasena adiwarna
+1805252008, bratasena mandiri
+1805252009, way dente
+1805252010, dente makmur
+1805252011, pendowo asri
+1805252012, sungai burung

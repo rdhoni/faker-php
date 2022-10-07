@@ -1,0 +1,11 @@
+3312131009, mlokomanis kulon
+3312131010, kasihan
+3312132001, gemawang
+3312132002, kerjo kidul
+3312132003, gedong
+3312132004, pondok
+3312132005, kerjo lor
+3312132006, ngadirojo kidul
+3312132007, ngadirojo lor
+3312132008, mlokomanis wetan
+3312132011, jatimarto

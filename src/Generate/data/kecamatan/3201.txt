@@ -1,0 +1,40 @@
+320101, cibinong
+320102, gunung putri
+320103, citeureup
+320104, sukaraja
+320105, babakan madang
+320106, jonggol
+320107, cileungsi
+320108, cariu
+320109, sukamakmur
+320110, parung
+320111, gunung sindur
+320112, kemang
+320113, bojong gede
+320114, leuwiliang
+320115, ciampea
+320116, cibungbulang
+320117, pamijahan
+320118, rumpin
+320119, jasinga
+320120, parung panjang
+320121, nanggung
+320122, cigudeg
+320123, tenjo
+320124, ciawi
+320125, cisarua
+320126, megamendung
+320127, caringin
+320128, cijeruk
+320129, ciomas
+320130, dramaga
+320131, tamansari
+320132, klapanunggal
+320133, ciseeng
+320134, ranca bungur
+320135, sukajaya
+320136, tanjungsari
+320137, tajurhalang
+320138, cigombong
+320139, leuwisadeng
+320140, tenjolaya

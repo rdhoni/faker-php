@@ -1,0 +1,39 @@
+1106052001, mata ie
+1106052002, gampong baroh
+1106052003, lampaseh lhok
+1106052004, lampaseh krueng
+1106052005, lamnga
+1106052006, dayah daboh
+1106052007, weulhok
+1106052008, kp alue
+1106052009, weu krueng
+1106052010, seuban cot
+1106052011, bak dilib
+1106052012, ulee lhat
+1106052015, lamraya
+1106052016, lamme garot
+1106052017, weu bada
+1106052018, meunasah  tutong
+1106052019, empee tanong
+1106052020, bak cirih
+1106052021, warabo
+1106052022, teubang phui mesjid
+1106052023, teubang phui baro
+1106052024, bira cot
+1106052025, bira lhok
+1106052026, bung tujoh
+1106052027, peurumping
+1106052028, atong
+1106052029, reudeup
+1106052042, seubam lhok
+1106052043, seumet
+1106052044, cot seunong
+1106052045, mon ara
+1106052046, cot lhok
+1106052047, cot lampoh soh
+1106052048, bueng raya
+1106052049, piyeung lhang
+1106052050, piyeung manee
+1106052051, bueng daroh
+1106052052, kuweu
+1106052053, piyeung datu

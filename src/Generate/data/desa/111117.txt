@@ -1,0 +1,41 @@
+1111172001, paloh dama
+1111172002, paya rangkuluh
+1111172003, paloh raya
+1111172004, crueng kumbang
+1111172005, tanjong siron
+1111172006, balee mee
+1111172007, buket dalam
+1111172008, parang sikureung
+1111172009, cot baroh
+1111172010, paloh peuradi
+1111172011, cot mee
+1111172012, blang mee
+1111172013, glee putoh
+1111172014, tingkeum baro
+1111172015, tingkeum manyang
+1111172016, kulu
+1111172017, babah suak
+1111172018, ulee pusong
+1111172019, pulo nga
+1111172020, meusee
+1111172021, blang panjo
+1111172022, babah jurong
+1111172023, dayah panjoe
+1111172024, pulo blang
+1111172025, im budee
+1111172026, pulo siren
+1111172027, jarommah  me
+1111172028, jaromah baroh
+1111172029, lhok nga
+1111172030, pulo reudeup
+1111172031, geulanggang meunjee
+1111172032, geulanggang panah
+1111172033, ujong blang
+1111172034, geulanggang rayeuk
+1111172035, dayah mesjid
+1111172036, keurumbok
+1111172037, cot ara
+1111172038, rancong
+1111172039, jambo kajeung
+1111172040, kulu kuta
+1111172041, pulo awe

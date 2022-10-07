@@ -1,0 +1,20 @@
+1201051001, po manduamas
+1201051003, binjohara
+1201051020, perluasan
+1201052002, saragih
+1201052004, pagaran nauli
+1201052005, sarma nauli
+1201052006, manduamas lama
+1201052007, tumba
+1201052008, tumba jae
+1201052009, lae monong
+1201052010, saragih barat
+1201052011, saragih timur
+1201052012, binjohara uruk
+1201052013, binjohara baru
+1201052014, tumba nauli
+1201052015, manduamas baru
+1201052016, muara tapus
+1201052017, pagaran baru
+1201052018, parsihotangan
+1201052019, tambahan nanjur

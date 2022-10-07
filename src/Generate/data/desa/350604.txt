@@ -1,0 +1,16 @@
+3506042001, tales
+3506042002, seketi
+3506042003, banggle
+3506042004, branggahan
+3506042005, slumbung
+3506042006, dukuh
+3506042007, purwokerto
+3506042008, ngadiluwih
+3506042009, badal
+3506042010, badal pandean
+3506042011, rembang
+3506042012, rembangkepuh
+3506042013, bedug
+3506042014, mangunrejo
+3506042015, banjarejo
+3506042016, wonorejo

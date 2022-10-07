@@ -1,0 +1,11 @@
+3216092001, cikarangkota
+3216092002, karangbaru
+3216092003, karangasih
+3216092004, waluya
+3216092005, karangraharja
+3216092006, pasirgombong
+3216092007, simpangan
+3216092008, tanjungsari
+3216092009, hajarmekar
+3216092010, mekarmukti
+3216092011, wangunharja

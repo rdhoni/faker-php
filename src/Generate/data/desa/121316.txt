@@ -1,0 +1,30 @@
+1213161008, pasar ii natal
+1213161025, pasar i natal
+1213162001, balimbing
+1213162002, bintuas
+1213162003, bonda kase
+1213162004, buburan
+1213162005, kampung sawah
+1213162006, panggautan
+1213162007, pardamean baru
+1213162009, pasar iii natal
+1213162010, pasar v natal
+1213162011, patiluban hilir
+1213162012, patiluban mudik
+1213162013, perkebunan patiluban
+1213162014, rukun jaya
+1213162015, setia karya
+1213162016, sikara kara
+1213162017, sikara kara i
+1213162018, sikara kara ii
+1213162019, sikara kara iii
+1213162020, sikara kara iv
+1213162021, sundutan tigo
+1213162022, taluk
+1213162023, tegal sari
+1213162024, tunas karya
+1213162026, pasar vi natal
+1213162027, sinunukan v
+1213162028, suka maju
+1213162029, sasaran
+1213162030, kun-kun

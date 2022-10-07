@@ -1,0 +1,16 @@
+7412011001, langara laut
+7412012002, langara iwawo
+7412012003, wawolaa
+7412012004, langara indah
+7412012005, lamoluo
+7412012006, bukit permai
+7412012007, wawobili
+7412012008, langaro bajo
+7412012009, mata langara
+7412012010, mata baho
+7412012011, lanowatu
+7412012012, lantula
+7412012013, pasir putih
+7412012014, langkowala
+7412012015, kawa-kawali
+7412012016, langara tanjung batu

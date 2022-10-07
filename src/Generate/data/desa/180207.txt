@@ -1,0 +1,10 @@
+1802071002, bandar jaya timur
+1802071003, bandar jaya barat
+1802071004, yukum jaya
+1802072001, adi jaya
+1802072005, indra putra subing
+1802072006, karang endah
+1802072007, nambah dadi
+1802072008, ono harjo
+1802072009, terbanggi besar
+1802072010, poncowati

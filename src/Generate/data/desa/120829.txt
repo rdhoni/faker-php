@@ -1,0 +1,17 @@
+1208291001, merek raya
+1208291002, dalig raya
+1208291005, sondi raya
+1208291011, pematang raya
+1208291018, baringin raya
+1208292004, raya bayu
+1208292007, bahapal raya
+1208292010, siporkas
+1208292012, sihubu raya
+1208292013, raya bosi
+1208292014, silou huluan
+1208292015, silou buttu
+1208292016, bongguran kariahan
+1208292017, simbou baru
+1208292020, dame raya
+1208292021, limag raya
+1208292022, lokkung raya

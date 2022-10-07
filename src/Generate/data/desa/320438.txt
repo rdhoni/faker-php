@@ -1,0 +1,10 @@
+3204382001, pasirjambu
+3204382002, cibodas
+3204382003, cikoneng
+3204382004, cukanggenteng
+3204382005, cisondari
+3204382006, margamulya
+3204382007, mekarsari
+3204382008, mekarmaju
+3204382009, sugihmukti
+3204382010, tenjolaya

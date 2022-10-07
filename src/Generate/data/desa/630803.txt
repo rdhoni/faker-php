@@ -1,0 +1,33 @@
+6308032001, rantau karau hilir
+6308032002, rantau karau hulu
+6308032003, banyu tajun hilir
+6308032004, banyu tajun hulu
+6308032005, banyu tajun pangkalan
+6308032006, sungai sandung
+6308032007, sungai pandan hilir
+6308032008, teluk betung
+6308032009, tambalang
+6308032010, hambuku hulu
+6308032011, hambuku tengah
+6308032014, pandulangan
+6308032015, sungai pandan hulu
+6308032021, pondok babaris
+6308032024, sungai pinang
+6308032025, tambalang kecil
+6308032026, putat atas
+6308032029, banyu tajun dalam
+6308032031, sungai pandan tengah
+6308032032, hambuku raya
+6308032033, sungai kuini
+6308032034, tapus dalam
+6308032035, rantau karautengah
+6308032037, tambalang tengah
+6308032038, teluk mesjid
+6308032039, murung asam
+6308032040, tatah laban
+6308032041, jalan lurus
+6308032042, teluk sinar
+6308032043, padang bangkal
+6308032044, hambuku pasar
+6308032045, pangkalan sari
+6308032046, rantau karau raya

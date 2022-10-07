@@ -1,0 +1,20 @@
+1401071027, lipat kain
+1401072003, kuntu
+1401072004, padang sawah
+1401072005, domo
+1401072006, iv koto setingkai
+1401072008, teluk paman
+1401072013, sungai geringging
+1401072016, sungai paku
+1401072019, muara selayah
+1401072020, sungai rambai
+1401072021, tanjung harapan
+1401072023, sungai raja
+1401072026, sungai sarik
+1401072028, lipat kain utara
+1401072029, lipat kain selatan
+1401072030, kuntu darussalam
+1401072031, tanjungmas
+1401072032, sungaiharapan
+1401072033, sungailiti
+1401072034, telukpaman timur

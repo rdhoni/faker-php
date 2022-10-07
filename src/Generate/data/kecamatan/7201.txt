@@ -1,0 +1,23 @@
+720101, batui
+720102, bunta
+720103, kintom
+720104, luwuk
+720105, lamala
+720106, balantak
+720107, pagimana
+720108, bualemo
+720109, toili
+720110, masama
+720111, luwuk timur
+720112, toili barat
+720113, nuhon
+720114, moilong
+720115, batui selatan
+720116, lobu
+720117, simpang raya
+720118, balantak selatan
+720119, balantak utara
+720120, luwuk selatan
+720121, luwuk utara
+720122, mantoh
+720123, nambo

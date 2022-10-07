@@ -1,0 +1,25 @@
+120908, meranti
+120909, air joman
+120910, tanjung balai
+120911, sei kepayang
+120912, simpang empat
+120913, air batu
+120914, pulau rakyat
+120915, bandar pulau
+120916, buntu pane
+120917, bandar pasir mandoge
+120918, aek kuasan
+120919, kota kisaran barat
+120920, kota kisaran timur
+120921, aek songsongan
+120922, rahunig
+120923, sei dadap
+120924, sei kepayang barat
+120925, sei kepayang timur
+120926, tinggi raja
+120927, setia janji
+120928, silau laut
+120929, rawang panca arga
+120930, pulo bandring
+120931, teluk dalam
+120932, aek ledong

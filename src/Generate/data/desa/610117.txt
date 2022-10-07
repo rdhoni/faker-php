@@ -1,0 +1,8 @@
+6101172001, tangaran
+6101172002, simpang empat
+6101172003, merabuan
+6101172004, semata
+6101172005, merpati
+6101172006, pancur
+6101172007, arung parak
+6101172008, arung medang

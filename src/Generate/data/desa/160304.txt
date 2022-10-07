@@ -1,0 +1,13 @@
+1603042001, penanggiran
+1603042002, gunung megang luar
+1603042003, gunung megang dalam
+1603042004, lubuk mumpo
+1603042005, perjito
+1603042006, tanjung muning
+1603042007, tanjung terang
+1603042016, bangun sari
+1603042017, sumaja makmur
+1603042018, sidomulyo
+1603042019, pajar indah
+1603042020, kayu ara sakti
+1603042021, panang jaya

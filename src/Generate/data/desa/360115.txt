@@ -1,0 +1,10 @@
+3601152001, palanyar
+3601152002, baturanjang
+3601152003, cikadueun
+3601152004, koncang
+3601152005, kadugadung
+3601152006, parumasan
+3601152007, curugbarang
+3601152008, kalanggunung
+3601152009, pasireurih
+3601152010, pasirmae

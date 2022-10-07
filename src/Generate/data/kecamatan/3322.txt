@@ -1,0 +1,19 @@
+332201, getasan
+332202, tengaran
+332203, susukan
+332204, suruh
+332205, pabelan
+332206, tuntang
+332207, banyubiru
+332208, jambu
+332209, sumowono
+332210, ambarawa
+332211, bawen
+332212, bringin
+332213, bergas
+332215, pringapus
+332216, bancak
+332217, kaliwungu
+332218, ungaran barat
+332219, ungaran timur
+332220, bandungan

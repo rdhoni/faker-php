@@ -1,0 +1,10 @@
+3217102001, cipatik
+3217102002, citapen
+3217102003, cihampelas
+3217102004, mekarjaya
+3217102005, mekarmukti
+3217102006, pataruman
+3217102007, situwangi
+3217102008, singajaya
+3217102009, tanjungwangi
+3217102010, tanjungjaya

@@ -1,0 +1,19 @@
+6104042001, kendawangan kiri
+6104042002, banjar sari
+6104042003, kendawangan kanan
+6104042004, pangkalan batu
+6104042005, bangkal serai
+6104042006, air hitam besar
+6104042007, suka harapan
+6104042008, suka damai
+6104042009, selimantan jaya
+6104042010, danau buntar
+6104042011, mekar utama
+6104042012, pembedilan
+6104042013, airhitam hulu
+6104042014, natai kuini
+6104042015, keramat jaya
+6104042016, seriam
+6104042017, kedondong
+6104042018, sungai jelayan
+6104042019, air tarap

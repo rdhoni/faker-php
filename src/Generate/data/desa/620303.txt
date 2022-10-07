@@ -1,0 +1,7 @@
+6203032001, anjir serapat timur
+6203032002, anjir serapat tengah
+6203032003, anjir serapat barat
+6203032004, anjir mambulau timur
+6203032005, anjir mambulau tengah
+6203032006, anjir mambulau barat
+6203032007, anjir serapat baru

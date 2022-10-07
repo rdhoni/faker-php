@@ -1,0 +1,9 @@
+1771071001, padang jati
+1771071002, kebun dahri
+1771071003, belakang pondok
+1771071004, penurunan
+1771071005, anggut bawah
+1771071006, anggut atas
+1771071007, anggut dalam
+1771071008, kebun geran
+1771071009, pengantungan

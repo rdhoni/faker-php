@@ -1,0 +1,7 @@
+1272011001, kebun sayur
+1272011002, tomuan
+1272011003, pahlawan
+1272011004, asuhan
+1272011005, merdeka
+1272011006, pardomuan
+1272011007, siopat suhu

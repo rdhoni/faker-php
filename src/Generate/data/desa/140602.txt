@@ -1,0 +1,14 @@
+1406021001, rokan
+1406022002, cipang kanan
+1406022003, cipang kiri hulu
+1406022004, cipang kiri hilir
+1406022006, tanjung medan
+1406022007, lubuk bendahara timur
+1406022008, lubuk bendahara
+1406022010, sikebau jaya
+1406022013, rokan koto ruang
+1406022014, rokan timur
+1406022016, lubuk betung
+1406022017, pemandang
+1406022018, alahan
+1406022019, tibawan

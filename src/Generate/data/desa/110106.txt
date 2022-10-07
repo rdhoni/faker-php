@@ -1,0 +1,28 @@
+1101062001, dalam
+1101062002, subarang
+1101062003, kuta baru
+1101062004, gunung ketek
+1101062005, ladang panton luas
+1101062006, madat
+1101062007, alur seumerah
+1101062008, tengah
+1101062009, gunung cut
+1101062010, alur pinang
+1101062011, kuta blang
+1101062012, batee tunggai
+1101062013, ujung tanah
+1101062014, ujung kampung
+1101062015, jilatang
+1101062016, luar
+1101062017, lubuk layu
+1101062018, suaq hulu
+1101062019, tampang
+1101062020, payonan gadang
+1101062021, gadang
+1101062022, baru
+1101062023, ladang kasik putih
+1101062024, air sialang hilir
+1101062025, air sialang hulu
+1101062026, air sialang tengah
+1101062027, balai
+1101062028, arafah

@@ -1,0 +1,9 @@
+7173021009, talete satu
+7173021010, talete dua
+7173021011, kamasi
+7173021012, kolongan
+7173021015, matani satu
+7173021016, matani dua
+7173021017, matani tiga
+7173021018, kamasi satu
+7173021019, kolongan satu

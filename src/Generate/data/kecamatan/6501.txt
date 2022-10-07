@@ -1,0 +1,10 @@
+650101, tanjung palas
+650102, tanjung palas barat
+650103, tanjung palas utara
+650104, tanjung palas timur
+650105, tanjung selor
+650106, tanjung palas tengah
+650107, peso
+650108, peso hilir
+650109, sekatak
+650110, bunyu

@@ -1,0 +1,10 @@
+1611092001, lubuk kelumpang
+1611092002, tanjungning simpang
+1611092003, tanjungning tengah
+1611092004, tanjungning lama
+1611092005, tanjungning jaya
+1611092006, sawah
+1611092007, kebon
+1611092008, suka kaya
+1611092009, taba
+1611092010, muara saling

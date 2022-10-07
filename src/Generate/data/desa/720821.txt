@@ -1,0 +1,13 @@
+7208212001, bolano
+7208212002, bolano tengah
+7208212003, bolano barat
+7208212004, bolano utara
+7208212005, bajo
+7208212006, sritabaang
+7208212007, beringin jaya
+7208212008, wanamukti
+7208212009, wanamukti utara
+7208212010, lembah bomban
+7208212011, sidomukti
+7208212012, wanamukti barat
+7208212013, sama bahari

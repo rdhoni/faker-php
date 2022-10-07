@@ -1,0 +1,13 @@
+6303192001, tatah bangkal
+6303192002, bangkal tengah
+6303192003, layap baru
+6303192004, tatah layap
+6303192005, mekar sari
+6303192006, pandan sari
+6303192007, tampang awang
+6303192008, pemangkih darat
+6303192009, pemangkih baru
+6303192010, pemangkih tengah
+6303192011, tatah jaruju
+6303192012, jaruju laut
+6303192013, thaibah raya

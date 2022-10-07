@@ -1,0 +1,16 @@
+3302162001, cikembulan
+3302162002, candinegara
+3302162003, karangklesem
+3302162004, cikawung
+3302162005, cibangkong
+3302162006, petahunan
+3302162007, semedo
+3302162008, banjaranyar
+3302162009, pasiraman lor
+3302162010, pasiraman kidul
+3302162011, tumiyang
+3302162012, glempang
+3302162013, pekuncen
+3302162014, karangkemiri
+3302162015, kranggan
+3302162016, krajan

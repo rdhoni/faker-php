@@ -1,0 +1,7 @@
+6302102001, sungai hanyar
+6302102002, sungai seluang
+6302102003, pudi
+6302102004, mangga
+6302102005, wilas
+6302102006, pudi seberang
+6302102007, sulangkit

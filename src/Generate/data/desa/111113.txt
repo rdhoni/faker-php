@@ -1,0 +1,23 @@
+1111132001, bandar bireuen
+1111132002, bireuen meunasah reulet
+1111132003, bireuen meunasah blang
+1111132004, bireuen meunasah capa
+1111132005, bireuen meunasah dayah
+1111132006, bireuen mns tgk digadon
+1111132007, geudong-geudong
+1111132008, pulo ara geudong teungoh
+1111132009, geudong aleu
+1111132010, pulo kiton
+1111132011, lhok awe teungoh
+1111132012, geulanggang teungoh
+1111132013, cot gapu
+1111132014, geulanggang kulam
+1111132015, geulanggang gampong
+1111132016, blang tingkeum
+1111132017, buket teukueh
+1111132018, blang reuling
+1111132019, cot jrat
+1111132020, cot peutek
+1111132021, uteun reutoh
+1111132022, geulanggang baro
+1111132023, gampong baro

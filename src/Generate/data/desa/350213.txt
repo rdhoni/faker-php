@@ -1,0 +1,10 @@
+3502132001, dayakan
+3502132002, karangan
+3502132003, tanjunggunung
+3502132004, karangjoho
+3502132005, tanjungrejo
+3502132006, bandaralim
+3502132007, kapuran
+3502132008, watubonang
+3502132009, biting
+3502132010, badegan

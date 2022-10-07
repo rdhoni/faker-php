@@ -1,0 +1,62 @@
+1220041001, pasar gunung tua
+1220042008, lubuk torop
+1220042012, tanjung marulak
+1220042013, ambasang natigor
+1220042014, napagadung laut
+1220042015, rampa jae
+1220042016, rampa julu
+1220042017, mananti
+1220042018, paran padang
+1220042019, rahuning jae
+1220042020, botung
+1220042021, sigimbal
+1220042022, dolok sae
+1220042023, simasi
+1220042024, sihapas hapas
+1220042025, sungai tolang
+1220042026, losung batu
+1220042027, batu mamak
+1220042028, sampuran
+1220042029, gunung tua baru
+1220042030, sibatang kayu
+1220042031, aek suhat
+1220042038, gunung tua tonga
+1220042039, gunung tua jae
+1220042040, gunung tua julu
+1220042041, hutalombang
+1220042042, batang baruhar julu
+1220042043, batang baruhar jae
+1220042044, purba sinomba
+1220042045, hambiri
+1220042046, sosopan
+1220042047, pagaran singkam
+1220042048, pagaran tonga
+1220042049, sibagasi
+1220042050, batu tambun
+1220042051, tanjung tiram
+1220042052, garoga
+1220042053, hajoran
+1220042054, batu sundung
+1220042055, garonggang
+1220042056, nabonggal
+1220042057, liang hasona
+1220042058, simandiangin dolok
+1220042059, simandiangin lombang
+1220042060, padang garugur
+1220042061, simanosor
+1220042062, sigama
+1220042063, sigama ujung gading
+1220042064, parlimbatan
+1220042065, saba sitahul tahul
+1220042066, saba bangunan
+1220042067, sidingkat
+1220042069, gunung manaon ii
+1220042070, purba tua
+1220042071, sungai durian
+1220042072, sungai orosan
+1220042073, hutaimbaru ii
+1220042074, siombob
+1220042075, aek gambir
+1220042076, bukit raya sordang
+1220042077, aek jangkang
+1220042078, simbolon

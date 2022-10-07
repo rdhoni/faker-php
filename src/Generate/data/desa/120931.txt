@@ -1,0 +1,6 @@
+1209312001, air teluk kiri
+1209312002, teluk dalam
+1209312003, perkebunan teluk dalam
+1209312004, pulau maria
+1209312005, pulau tanjung
+1209312006, mekar tanjung

@@ -1,0 +1,8 @@
+1502172001, baru pangkalan jambu
+1502172002, bukit perentak
+1502172003, birun
+1502172004, tiga alur
+1502172005, bungo tanjung
+1502172006, sungai jering
+1502172007, kampung limo
+1502172008, tanjung mudo

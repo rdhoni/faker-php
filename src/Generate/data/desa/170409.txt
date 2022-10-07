@@ -1,0 +1,13 @@
+1704092001, tanjung ganti i
+1704092002, tanjung ganti ii
+1704092003, rigangan i
+1704092004, rigangan ii
+1704092005, rigangan iii
+1704092006, sukarami
+1704092007, darat sawah
+1704092008, siring agung
+1704092009, penantian
+1704092010, talang tais
+1704092011, pagar dewa
+1704092012, talang marap
+1704092013, suka rami ii

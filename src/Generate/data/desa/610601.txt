@@ -1,0 +1,19 @@
+6106011001, putussibau kota
+6106011002, hilir kantor
+6106012004, pala pulau
+6106012005, sibau hilir
+6106012006, padua mendalam
+6106012007, datah dian
+6106012008, sibau hulu
+6106012009, nanga nyabau
+6106012010, nanga awin
+6106012011, ariung mendalam
+6106012012, nanga sambus
+6106012013, banua tanga
+6106012014, tanjung beruang
+6106012015, tanjung karang
+6106012016, seluan
+6106012017, sungai uluk palin
+6106012018, tanjung lasa
+6106012019, lauk
+6106012020, jangkang

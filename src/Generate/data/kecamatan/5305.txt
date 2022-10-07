@@ -1,0 +1,17 @@
+530501, teluk mutiara
+530502, alor barat laut
+530503, alor barat daya
+530504, alor selatan
+530505, alor timur
+530506, pantar
+530507, alor tengah utara
+530508, alor timur laut
+530509, pantar barat
+530510, kabola
+530511, pulau pura
+530512, mataru
+530513, pureman
+530514, pantar timur
+530515, lembur
+530516, pantar tengah
+530517, pantar baru laut

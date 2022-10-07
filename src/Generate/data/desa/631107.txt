@@ -1,0 +1,16 @@
+6311071001, batu piring
+6311072002, baruh bahinu luar
+6311072003, inan
+6311072004, baruh bahinu dalam
+6311072005, panggung
+6311072006, galumbang
+6311072007, halubau
+6311072008, binjai
+6311072009, murung abuin
+6311072010, bungin
+6311072011, maradap
+6311072012, halubau utara
+6311072013, murung jambu
+6311072014, telaga purun
+6311072015, lingsir
+6311072016, tarangan

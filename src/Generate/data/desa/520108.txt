@@ -1,0 +1,12 @@
+5201082001, bengkel
+5201082002, merembu
+5201082003, bagik polak
+5201082004, telagawaru
+5201082005, perampuan
+5201082006, bajur
+5201082007, terong tawah
+5201082008, kuranji
+5201082009, karang bongkot
+5201082010, labuapi
+5201082011, bagik polak barat
+5201082012, kuranji dalang

@@ -1,0 +1,15 @@
+3210152001, biyawak
+3210152002, panyingkiran
+3210152003, panongan
+3210152004, randegan wetan
+3210152005, putridalem
+3210152006, jatitengah
+3210152007, jatitujuh
+3210152008, babajurang
+3210152009, pilangsari
+3210152010, jatiraga
+3210152011, sumber wetan
+3210152012, pangkalanpari
+3210152013, randegan kulon
+3210152014, sumber kulon
+3210152015, pasindangan

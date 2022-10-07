@@ -1,0 +1,5 @@
+1306122001, padang laweh
+1306122002, sungai pua
+1306122003, batagak
+1306122004, batu palano
+1306122005, sariak

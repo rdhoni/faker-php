@@ -1,0 +1,7 @@
+1110102001, gosong telaga utara
+1110102002, gosong telaga selatan
+1110102003, kampung baru
+1110102004, ketapang indah
+1110102005, gosong telaga timur
+1110102006, gosong telaga barat
+1110102007, telaga bakti

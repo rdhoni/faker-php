@@ -1,0 +1,11 @@
+3529252001, sepanjang
+3529252002, tanjung kiaok
+3529252003, sakala
+3529252004, pagerungan besar
+3529252005, pagerungan kecil
+3529252006, saseel
+3529252007, sapeken
+3529252008, sabunten
+3529252009, paliat
+3529252010, sadulang
+3529252011, saur saebus

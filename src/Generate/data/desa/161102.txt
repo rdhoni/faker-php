@@ -1,0 +1,19 @@
+1611021018, beruge ilir
+1611021030, pendopo
+1611021031, pagar tengah
+1611022001, jarakan
+1611022002, bandar agung
+1611022003, lubuk sepang
+1611022004, lubuk layang
+1611022005, nanjungan
+1611022006, tanjungeran
+1611022007, tanjungraman
+1611022020, bayau
+1611022022, gn meraksa baru
+1611022023, landur
+1611022024, muarakarang
+1611022025, sarang bulan
+1611022026, tanjungbaru
+1611022027, batu cawang
+1611022028, manggilan
+1611022029, gn merakasa lama

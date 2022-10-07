@@ -1,0 +1,37 @@
+1213081032, tamiang
+1213081036, pasar kotanopan
+1213082001, batahan
+1213082002, botung
+1213082003, gading bain
+1213082004, gunung tua ms
+1213082005, gunung tua sm
+1213082006, hutapuli
+1213082007, huta padang ms
+1213082008, hutarimbaru sm
+1213082009, huta baringin tb
+1213082010, huta pungkut jae
+1213082011, huta pungkut tonga
+1213082012, huta pungkut julu
+1213082013, huta dangka
+1213082014, muara potan
+1213082015, muara siambak
+1213082016, manambin
+1213082017, muara pungkut
+1213082018, muara botung
+1213082019, pagar gunung
+1213082020, padang bulan
+1213082021, patialo
+1213082022, saba dolok
+1213082023, singengu jae
+1213082024, singengu julu
+1213082025, sayur maincat
+1213082026, simpang tolang jae
+1213082027, simpang tolang julu
+1213082028, sibio bio
+1213082029, sopo sorik
+1213082030, simandolam
+1213082031, tombang bustak
+1213082033, tobang
+1213082034, ujung marisi
+1213082035, usor tolang
+1213082037, muara saladi

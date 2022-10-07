@@ -1,0 +1,9 @@
+7104052001, kakorotan
+7104052002, marampit
+7104052003, laluhe
+7104052004, dampulis
+7104052005, karatung
+7104052007, karatung tengah
+7104052008, karatung selatan
+7104052009, dampulis selatan
+7104052010, marampit timur

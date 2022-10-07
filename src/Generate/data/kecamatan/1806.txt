@@ -1,0 +1,20 @@
+180601, kota agung
+180602, talang padang
+180603, wonosobo
+180604, pulau panggung
+180609, cukuh balak
+180611, pugung
+180612, semaka
+180613, sumber rejo
+180615, ulu belu
+180616, pematang sawa
+180617, klumbayan
+180618, kota agung barat
+180619, kota agung timur
+180620, gisting
+180621, gunung alip
+180624, limau
+180625, bandar negeri semuong
+180626, air naningan
+180627, bulok
+180628, klumbayan barat

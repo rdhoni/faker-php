@@ -1,0 +1,13 @@
+3323102001, jumo
+3323102002, jamusan
+3323102003, kertosari
+3323102004, giyono
+3323102005, gununggempol
+3323102006, padureso
+3323102007, barang
+3323102008, jombor
+3323102009, ketitang
+3323102010, morobongo
+3323102011, karangtejo
+3323102012, sukomarto
+3323102013, gedongsari

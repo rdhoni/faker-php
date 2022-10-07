@@ -1,0 +1,12 @@
+3527112001, tobai barat
+3527112002, tobai tengah
+3527112003, tobai timur
+3527112004, bira tengah
+3527112005, bira timur
+3527112006, sokobanah laok
+3527112007, tamberu laok
+3527112008, tamberu daya
+3527112009, sokobanah tengah
+3527112010, sokobanah daya
+3527112011, tamberu barat
+3527112012, tamberu timur

@@ -1,0 +1,12 @@
+1801082001, tarahan
+1801082002, babatan
+1801082003, pardasuka
+1801082004, sukajaya
+1801082005, tanjung ratu
+1801082006, tanjung agung
+1801082007, tanjungan
+1801082008, trans tanjungan
+1801082009, neglasari
+1801082018, karya tunggal
+1801082019, rangai tri tunggal
+1801082020, sidomekar

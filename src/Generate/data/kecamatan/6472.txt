@@ -1,0 +1,10 @@
+647201, palaran
+647202, samarinda seberang
+647203, samarinda ulu
+647204, samarinda ilir
+647205, samarinda utara
+647206, sungai kunjang
+647207, sambutan
+647208, sungai pinang
+647209, samarinda kota
+647210, loa janan ilir

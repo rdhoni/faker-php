@@ -1,0 +1,4 @@
+2172011001, tanjung pinang barat
+2172011002, kemboja
+2172011003, kampung baru
+2172011004, bukit cermin

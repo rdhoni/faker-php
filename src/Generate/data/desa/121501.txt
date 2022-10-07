@@ -1,0 +1,10 @@
+1215012001, tanjung meriah
+1215012002, tanjung mulia
+1215012003, kaban tengah
+1215012004, bandar baru
+1215012005, simberruna
+1215012006, perolihen
+1215012007, maholida
+1215012008, perjaga
+1215012009, malum
+1215012010, mbinalun

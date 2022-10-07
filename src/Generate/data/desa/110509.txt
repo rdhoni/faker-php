@@ -1,0 +1,26 @@
+1105092001, ranto panyang barat
+1105092002, ranto panyang timur
+1105092003, mesjid tuha
+1105092004, ujong tanoh darat
+1105092005, pasi aceh tunong
+1105092006, pasi aceh baroh
+1105092007, buloh
+1105092008, puloteungoh ranto p
+1105092009, paya baro ranto p
+1105092010, ranub dong
+1105092011, pasi pinang
+1105092012, pasi mesjid
+1105092013, meureubo
+1105092014, langung
+1105092015, gunong kleng
+1105092016, ujong drien
+1105092017, peunaga rayeuk
+1105092018, peunaga pasi
+1105092019, peunaga cut ujong
+1105092020, reudeup
+1105092021, balee
+1105092022, paya peunaga
+1105092023, ujong tanjung
+1105092024, pucok reudeup
+1105092025, sumber batu
+1105092026, bakit jaya

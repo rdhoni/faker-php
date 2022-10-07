@@ -1,0 +1,6 @@
+1305162001, sungai durian
+1305162002, tandikek
+1305162003, tandikek utara
+1305162004, tandikek selatan
+1305162005, tandikek barat
+1305162006, kampuang tanjuang koto mambang sungai

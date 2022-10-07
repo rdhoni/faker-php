@@ -1,0 +1,14 @@
+7306011001, bontonompo
+7306011002, tamallayang
+7306011003, kalaserena
+7306012004, bontolangkasa utara
+7306012005, bontolangkasa selatan
+7306012006, barembeng
+7306012015, manjapai
+7306012016, bontobiraeng
+7306012017, romanglasa
+7306012018, katangka
+7306012019, bulogading
+7306012020, bategulung
+7306012021, kalabarembeng
+7306012022, bontobiraeng selatan

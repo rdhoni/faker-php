@@ -1,0 +1,10 @@
+7101342001, bonawang
+7101342002, tapadaka satu
+7101342003, tapadaka utara
+7101342004, tapadaka timur
+7101342005, konarom
+7101342006, konarom barat
+7101342007, konarom utara
+7101342008, osion
+7101342009, ikuna
+7101342010, dumara

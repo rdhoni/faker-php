@@ -1,0 +1,39 @@
+6105032001, nanga sepauk
+6105032002, tanjung ria
+6105032003, sekubang
+6105032004, kenyauk
+6105032005, lengkenat
+6105032006, manis raya
+6105032007, temiang kapuas
+6105032008, ensabang
+6105032009, mait hilir
+6105032010, sekujam timbai
+6105032011, semuntai
+6105032012, sirang setambang
+6105032013, nanga libau
+6105032014, bernayau
+6105032015, sinar pekayau
+6105032016, nanga pari
+6105032017, buluh kuning
+6105032018, temawang muntai
+6105032019, tawang sari
+6105032020, gernis jaya
+6105032021, paoh benua
+6105032022, bedayan
+6105032023, tanjung hulu
+6105032024, sungai raya
+6105032025, landau panjang
+6105032026, bangun
+6105032027, sukau bersatu
+6105032028, kemantan
+6105032029, peninsung
+6105032030, sepulut
+6105032031, temawang bulai
+6105032032, sungai segak
+6105032033, tanjung balai
+6105032034, sinar harapan
+6105032035, riam kempadik
+6105032036, nanga layung
+6105032037, limau bakti
+6105032038, tanjung mawang
+6105032040, sungai jaung

@@ -1,0 +1,10 @@
+510201, selemadeg
+510202, salamadeg timur
+510203, salemadeg barat
+510204, kerambitan
+510205, tabanan
+510206, kediri
+510207, marga
+510208, penebel
+510209, baturiti
+510210, pupuan

@@ -1,0 +1,9 @@
+1376031001, balai jaring
+1376031002, padang alai bodi
+1376031003, padang tangah payobadar
+1376031005, sicincin
+1376031007, padang tiakar
+1376031009, payobasung
+1376031010, koto panjang
+1376031011, koto baru
+1376031015, tiakar

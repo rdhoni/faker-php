@@ -1,0 +1,7 @@
+1901, kab bangka
+1902, kab belitung
+1903, kab bangka selatan
+1904, kab bangka tengah
+1905, kab bangka barat
+1906, kab belitung timur
+1971, kota pangkal pinang

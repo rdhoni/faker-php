@@ -1,0 +1,12 @@
+1706092001, sungai ipuh
+1706092002, lubuk sahung
+1706092003, surian bungkal
+1706092004, sungai gading
+1706092005, pondok baru
+1706092006, sungai jerinjing
+1706092007, lubuk bangko
+1706092008, talang buai
+1706092009, aur cina
+1706092010, talang medan
+1706092011, sungai ipuh satu
+1706092012, sungai ipuh dua

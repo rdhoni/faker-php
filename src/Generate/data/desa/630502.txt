@@ -1,0 +1,11 @@
+6305021004, tambarangan
+6305022001, tatakan
+6305022002, suato tatakan
+6305022005, sawang
+6305022006, lawahan
+6305022007, timbaan
+6305022009, rumintin
+6305022011, cempaka
+6305022012, harapan masa
+6305022016, tandui
+6305022017, hatiwin

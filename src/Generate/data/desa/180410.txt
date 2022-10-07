@@ -1,0 +1,11 @@
+1804102001, kembahang
+1804102002, negeri ratu
+1804102003, kegeringan
+1804102004, gunung sugih
+1804102005, pekon balak
+1804102006, sukabumi
+1804102007, canggu
+1804102008, kota besi
+1804102009, sukaraja
+1804102010, kerang
+1804102011, teba liyokh

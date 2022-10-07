@@ -1,0 +1,11 @@
+157101, telanaipura
+157102, jambi selatan
+157103, jambi timur
+157104, pasar jambi
+157105, pelayangan
+157106, danau teluk
+157107, kota baru
+157108, jelutung
+157109, alam barajo
+157110, danau sipin
+157111, paal merah

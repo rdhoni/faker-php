@@ -1,0 +1,17 @@
+1505031008, tanjung
+1505032001, puding
+1505032002, pulau mentaro
+1505032003, betung
+1505032004, pematang raman
+1505032005, sungai bungur
+1505032006, seponjen
+1505032007, sogo
+1505032009, sungai aur
+1505032010, jebus
+1505032011, gedong karya
+1505032013, rantau panjang
+1505032014, londerang
+1505032016, petanang
+1505032017, mekar sari
+1505032018, rondang
+1505032019, maju jaya

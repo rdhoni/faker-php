@@ -1,0 +1,7 @@
+1275041001, tanah tinggi
+1275041002, dataran tinggi
+1275041003, timbang langkat
+1275041004, mencirim
+1275041005, tunggurono
+1275041006, sumber mulyorejo
+1275041007, sumber karya

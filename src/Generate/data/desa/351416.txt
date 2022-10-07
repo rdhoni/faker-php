@@ -1,0 +1,25 @@
+3514162001, pukul
+3514162002, gambirkuning
+3514162003, mulyorejo
+3514162004, kebotohan
+3514162005, ngabar
+3514162006, slambrit
+3514162007, jeruk
+3514162008, klampisrejo
+3514162009, plinggisan
+3514162010, tambaksari
+3514162011, dhompo
+3514162012, ngempit
+3514162013, sidogiri
+3514162014, karanganyar
+3514162015, selotambak
+3514162016, curahdukuh
+3514162017, rejosari
+3514162018, asem kandang
+3514162019, tambak rejo
+3514162020, kalirejo
+3514162021, semare
+3514162022, kraton
+3514162023, pulokerto
+3514162024, bendungan
+3514162025, gerongan

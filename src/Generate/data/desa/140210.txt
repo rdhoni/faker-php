@@ -1,0 +1,10 @@
+1402102001, tambak
+1402102002, kuala cenaku
+1402102003, pulau gelang
+1402102004, kuala mulia
+1402102005, tanjung sari
+1402102006, rawa sekip
+1402102007, rawa asri
+1402102008, suka jadi
+1402102009, teluk sungkai
+1402102010, pulau jum\at

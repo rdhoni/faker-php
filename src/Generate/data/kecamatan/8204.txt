@@ -1,0 +1,30 @@
+820401, pulau makian
+820402, kayoa
+820403, gane timur
+820404, gane barat
+820405, obi selatan
+820406, obi);
+820407, bacan timur
+820408, bacan
+820409, bacan barat
+820410, makian barat
+820411, kayoa barat
+820412, kayoa selatan
+820413, kayoa utara
+820414, bacan barat utara
+820415, kasiruta barat
+820416, kasiruta timur
+820417, bacan selatan
+820418, kepulauan botanglomang
+820419, mandioli selatan
+820420, mandioli utara
+820421, bacan timur selatan
+820422, bacan timur tengah
+820423, gane barat selatan
+820424, gane barat utara
+820425, kepulauan joronga
+820426, gane timur selatan
+820427, gane timur tengah
+820428, obi barat
+820429, obi timur
+820430, obi utara

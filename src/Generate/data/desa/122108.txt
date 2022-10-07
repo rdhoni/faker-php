@@ -1,0 +1,39 @@
+1221082001, siborna bunut
+1221082002, hurung jilok
+1221082003, pasir jae
+1221082004, harang julu
+1221082005, parapat
+1221082006, pasar ujung batu
+1221082007, hapung
+1221082008, plasma mondang
+1221082009, mandian
+1221082010, bonan dolok
+1221082011, hutaimbaru
+1221082012, mondang
+1221082013, sisoma
+1221082014, aek tinga
+1221082015, gunung baringin
+1221082016, simarancar
+1221082017, huta raja lamo
+1221082018, tanjung botung sosa jae
+1221082019, ujung batu
+1221082020, janjiraja
+1221082021, rao-rao dolok
+1221082022, parau sorat
+1221082023, aer bale
+1221082024, tanjung bale
+1221082025, ampolu
+1221082026, mananti sosa julu
+1221082027, siginduang
+1221082028, ramba
+1221082029, roburan
+1221082030, tanjung
+1221082031, sungai jior
+1221082032, lumban huayan
+1221082033, pasir julu
+1221082034, hapung torop
+1221082035, batu gajah
+1221082036, harang jae
+1221082037, horuon
+1221082038, gunung tua
+1221082039, handio

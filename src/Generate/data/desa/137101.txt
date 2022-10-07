@@ -1,0 +1,12 @@
+1371011001, belakang pondok
+1371011002, alang laweh
+1371011003, ranah parak rumbio
+1371011004, pasa gadang
+1371011005, batang arau
+1371011006, seberang palinggam
+1371011007, seberang padang
+1371011008, mata air
+1371011009, rawang
+1371011010, teluk bayur
+1371011011, air manis
+1371011012, bukit gado-gado

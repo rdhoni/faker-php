@@ -1,0 +1,13 @@
+1706082001, pasar bantal
+1706082002, nenggalo
+1706082003, pondok baru
+1706082004, bunga tanjung
+1706082005, bandar jaya
+1706082006, teramang jaya
+1706082007, brangan mulya
+1706082008, sido makmur
+1706082009, lubuk selandak
+1706082010, nelan indah
+1706082011, mandi angin jaya
+1706082012, batu ejung
+1706082013, pernyah

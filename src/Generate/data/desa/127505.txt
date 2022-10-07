@@ -1,0 +1,8 @@
+1275051001, tanah merah
+1275051002, binjai estate
+1275051003, bhakti karya
+1275051004, rambung dalam
+1275051005, pujidadi
+1275051006, tanah seribu
+1275051007, rambung barat
+1275051008, rambung timur

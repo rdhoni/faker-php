@@ -1,0 +1,6 @@
+5201152001, kuripan
+5201152002, jagaraga
+5201152003, kuripan utara
+5201152004, kuripan selatan
+5201152005, kuripan timur
+5201152006, giri sasak

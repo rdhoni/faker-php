@@ -1,0 +1,19 @@
+6306082001, pakapuran kecil
+6306082002, panggandingan
+6306082003, tambak bitin
+6306082004, pakan dalam
+6306082005, paramaian
+6306082006, pandak daun
+6306082007, murung raya
+6306082008, balah paikat
+6306082009, sungai garuda
+6306082010, sungai mandala
+6306082011, mdl murung mesjid
+6306082012, baruh kembang
+6306082013, teluk haur
+6306082014, pasungkan
+6306082015, teluk kabak
+6306082016, hamayung
+6306082017, hamayung utara
+6306082018, paharangan
+6306082019, hakurung

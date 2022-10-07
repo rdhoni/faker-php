@@ -1,0 +1,14 @@
+3203232001, cidamar
+3203232002, cibuluh
+3203232003, cisalak
+3203232004, cimaragang
+3203232005, mekarjaya
+3203232006, kertajadi
+3203232007, sukapura
+3203232008, gelarpawitan
+3203232009, karangwangi
+3203232010, karyabakti
+3203232011, jayapura
+3203232012, neglasari
+3203232013, puncakbaru
+3203232014, gelarwangi

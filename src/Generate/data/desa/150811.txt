@@ -1,0 +1,8 @@
+1508111001, manggis
+1508111003, bungo taman agung
+1508111004, sungai binjai
+1508112002, lubuk benteng
+1508112005, air gemuruh
+1508112006, purwo bakti
+1508112007, sarana jaya
+1508112008, teluk panjang

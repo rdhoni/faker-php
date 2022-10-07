@@ -1,0 +1,25 @@
+1110062001, tanjung betik
+1110062002, penjahitan
+1110062003, bukit harapan
+1110062004, cingkam
+1110062005, labuhan kera
+1110062006, tanah bara
+1110062007, rimo
+1110062008, blok vi baru
+1110062009, blok 15
+1110062010, blok 18
+1110062011, blok 31
+1110062012, sidorejo
+1110062013, suka makmur
+1110062014, gunung lagan
+1110062015, perangusan
+1110062016, seping baru
+1110062017, sebatang
+1110062018, tanah merah
+1110062019, pertampakan
+1110062020, panda sari
+1110062021, sanggaberu silulusan
+1110062022, tulaan
+1110062023, tunas harapan
+1110062024, lae butar
+1110062025, sianjo-anjo meriah

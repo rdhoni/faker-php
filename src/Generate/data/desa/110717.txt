@@ -1,0 +1,49 @@
+1107172001, balue tanoh
+1107172002, balue kulu
+1107172003, meunasah empeh
+1107172004, cot sukon
+1107172005, mns dayah tuha
+1107172006, kampong cot
+1107172007, paloh jeureula
+1107172008, barieh
+1107172009, kandang
+1107172010, riweuek
+1107172011, mancang
+1107172012, kampong pisang bucue
+1107172013, bucue
+1107172014, lhok panah
+1107172015, murong cot
+1107172016, cumbok lie
+1107172017, lam ujong
+1107172018, murong lhok
+1107172019, blang cut
+1107172020, cot cantek
+1107172021, blang kumot baroh
+1107172022, b kumot tunong
+1107172023, cumbok niwa
+1107172024, leupeuem  mesjid
+1107172025, pulo jeumpa
+1107172026, beutong pocut
+1107172027, beutong perlak
+1107172028, gampong jumpa
+1107172029, pantee krueng
+1107172030, jurong pante
+1107172032, mali lamkuta
+1107172033, mali uke
+1107172034, mali mesjid
+1107172035, mali cot
+1107172036, tangkueng
+1107172037, lhok mee
+1107172038, lameue mns raya
+1107172039, lameue mns baro
+1107172040, lameue mns lueng
+1107172041, pulo kreumbok
+1107172042, mns raya kp pisang
+1107172043, mns blang sakti
+1107172044, perlak baroh
+1107172045, lingkok
+1107172046, pasar kota bakti
+1107172047, mns balee
+1107172048, perlak asan
+1107172049, kampong baro
+1107172050, mali guyui

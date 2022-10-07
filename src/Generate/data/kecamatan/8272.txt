@@ -1,0 +1,8 @@
+827201, tidore
+827202, oba utara
+827203, oba
+827204, tidore selatan
+827205, tidore utara
+827206, oba tengah
+827207, oba selatan
+827208, tidore timur

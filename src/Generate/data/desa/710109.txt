@@ -1,0 +1,12 @@
+7101092001, matayangan
+7101092002, uuan
+7101092003, ikhwan
+7101092004, doloduo
+7101092005, wangga baru
+7101092010, totaut
+7101092011, mekaruo
+7101092017, toraut utara
+7101092018, doloduo satu
+7101092019, doloduo dua
+7101092020, doloduo tiga
+7101092022, toraut tengah

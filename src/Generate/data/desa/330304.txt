@@ -1,0 +1,18 @@
+3303042001, lamongan
+3303042002, tejasari
+3303042003, cilapar
+3303042004, penolih
+3303042005, sinduraja
+3303042006, selakambang
+3303042007, selanegara
+3303042008, kaligondang
+3303042009, brecek
+3303042010, sempor lor
+3303042011, penaruban
+3303042012, kalikajar
+3303042013, kembaran wetan
+3303042014, slinga
+3303042015, arenan
+3303042016, sidanegara
+3303042017, pagerandong
+3303042018, sidareja

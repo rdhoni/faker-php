@@ -1,0 +1,14 @@
+1404011001, pulaukijang
+1404011017, metro
+1404011018, madani
+1404012002, sanglar
+1404012003, pulaukecil
+1404012004, sungaiterap
+1404012009, sungaiundan
+1404012010, seberang sanglar
+1404012011, mekar sari
+1404012012, seberang pulau kijang
+1404012013, sungaiasam
+1404012014, pulauruku
+1404012019, tanjunglabuh
+1404012020, sungaimahang

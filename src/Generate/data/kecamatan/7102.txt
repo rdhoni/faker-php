@@ -1,0 +1,25 @@
+710201, tondano barat
+710202, tondano timur
+710203, eris
+710204, kombi
+710205, lembean timur
+710206, kakas
+710207, tompaso
+710208, remboken
+710209, langowan timur
+710210, langowan barat
+710211, sonder
+710212, kawangkoan
+710213, pineleng
+710214, tombulu
+710215, tombariri
+710216, tondano utara
+710217, langowan selatan
+710218, tondano selatan
+710219, langowan utara
+710220, kakas barat
+710221, kawangkoan utara
+710222, kawangkoan barat
+710223, mandolang
+710224, tombariri timur
+710225, tompaso barat

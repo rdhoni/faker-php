@@ -1,0 +1,13 @@
+6305062001, keladan
+6305062002, sungai selai
+6305062003, pariok
+6305062004, margasari hilir
+6305062005, batalas
+6305062006, rawana
+6305062007, buas-buas
+6305062008, teluk haur
+6305062009, sungai puting
+6305062010, sawaja
+6305062011, sungai selai hilir
+6305062012, buas-buas hilir
+6305062013, rawana hulu

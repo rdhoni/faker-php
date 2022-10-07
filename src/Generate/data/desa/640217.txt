@@ -1,0 +1,11 @@
+6402172001, sebuntal
+6402172002, santan ulu
+6402172003, santan tengah
+6402172004, santan ilir
+6402172005, kersik
+6402172006, bunga putih
+6402172007, makarti
+6402172008, prangat selatan
+6402172009, prangat baru
+6402172010, semangko
+6402172011, sambera baru

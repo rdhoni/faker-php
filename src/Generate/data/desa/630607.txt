@@ -1,0 +1,16 @@
+6306072001, muning baru
+6306072002, muning dalam
+6306072003, muning tengah
+6306072004, banjarbaru
+6306072005, bayanan
+6306072006, pandan sari
+6306072007, pihanin raya
+6306072008, tumbukan banyu
+6306072009, sungai pinang
+6306072010, habirau
+6306072011, habirau tengah
+6306072012, parigi
+6306072013, banua hanyar
+6306072014, tambangan
+6306072015, baruh jaya
+6306072016, samuda

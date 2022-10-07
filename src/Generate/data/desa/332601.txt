@@ -1,0 +1,14 @@
+3326012001, klesem
+3326012002, bodas
+3326012003, sukoharjo
+3326012004, gembong
+3326012005, garungwiyoro
+3326012006, bojongkoneng
+3326012007, bubak
+3326012008, wangkelang
+3326012009, kandangserang
+3326012010, luragung
+3326012011, lambur
+3326012012, tajur
+3326012013, trajumas
+3326012014, karanggondang

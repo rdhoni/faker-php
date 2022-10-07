@@ -1,0 +1,11 @@
+8101, kab maluku tengah
+8102, kab maluku tenggara
+8103, kab kepulauan tanimbar
+8104, kab buru
+8105, kab seram bagian timur
+8106, kab seram bagian barat
+8107, kab kepulauan aru
+8108, kab maluku barat daya
+8109, kab buru selatan
+8171, kota ambon
+8172, kota tual

@@ -1,0 +1,10 @@
+7107122001, wioi
+7107122002, wioi satu
+7107122003, wioi dua
+7107122004, wioi tiga
+7107122005, wioi timur
+7107122006, pangu
+7107122007, pangu satu
+7107122008, pangu dua
+7107122009, wongkai
+7107122010, wongkai satu

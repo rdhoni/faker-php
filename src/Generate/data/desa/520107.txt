@@ -1,0 +1,9 @@
+5201072001, sekotong tengah
+5201072002, sekotong barat
+5201072003, pelangan
+5201072004, buwun mas
+5201072005, kedaro
+5201072006, batu putih
+5201072007, gili gede indah
+5201072008, cendi manik
+5201072009, taman baru

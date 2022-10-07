@@ -1,0 +1,9 @@
+6371021001, kuripan
+6371021002, kebun bunga
+6371021003, karang mekar
+6371021004, sungai bilu
+6371021005, sungai lulut
+6371021006, banua anyar
+6371021007, pengambangan
+6371021008, pekapuran raya
+6371021009, pemurus luar

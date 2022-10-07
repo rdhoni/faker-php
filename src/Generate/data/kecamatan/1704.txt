@@ -1,0 +1,15 @@
+170401, kinal
+170402, tanjung kemuning
+170403, kaur utara
+170404, kaur tengah
+170405, kaur selatan
+170406, maje
+170407, nasal
+170408, semidang gumay
+170409, kelam tengah
+170410, luas
+170411, muara sahung
+170412, tetap
+170413, lungkang kule
+170414, padang guci hilir
+170415, padang guci hulu

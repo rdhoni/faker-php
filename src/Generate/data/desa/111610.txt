@@ -1,0 +1,15 @@
+1116102001, aras sembilan
+1116102002, jambu rambong
+1116102003, blang kandis
+1116102004, alur jambu
+1116102005, perkebunan   alur jambu
+1116102006, batang ara
+1116102007, perupuk
+1116102008, serba
+1116102009, sunting
+1116102010, rantau bintang
+1116102011, babo
+1116102012, pantai cempa
+1116102013, pengidam
+1116102014, bengkelang
+1116102015, batu bedulang

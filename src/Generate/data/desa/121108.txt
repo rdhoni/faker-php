@@ -1,0 +1,10 @@
+1211082001, lae itam
+1211082002, lae luhung
+1211082003, pardomuan
+1211082004, lae markelang
+1211082005, jambur indonesia
+1211082006, simungun
+1211082007, janji
+1211082008, sopo butar
+1211082009, lae sering
+1211082010, lae haporas

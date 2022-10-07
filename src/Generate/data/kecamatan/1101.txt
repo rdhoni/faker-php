@@ -1,0 +1,18 @@
+110101, bakongan
+110102, kluet utara
+110103, kluet selatan
+110104, labuhan haji
+110105, meukek
+110106, samadua
+110107, sawang
+110108, tapaktuan
+110109, trumon
+110110, pasi raja
+110111, labuhan haji timur
+110112, labuhan haji barat
+110113, kluet tengah
+110114, kluet timur
+110115, bakongan  timur
+110116, trumon timur
+110117, kota bahagia
+110118, trumon tengah

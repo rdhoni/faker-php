@@ -1,0 +1,9 @@
+6401012009, samuranggau
+6401012010, busui
+6401012011, batu kajang
+6401012012, legai
+6401012013, sungai terik
+6401012014, kasungai
+6401012015, rantau buta
+6401012016, rantau layung
+6401012017, songka

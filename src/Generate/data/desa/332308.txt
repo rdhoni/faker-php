@@ -1,0 +1,16 @@
+3323081001, parakan wetan
+3323081006, parakan kauman
+3323082002, campursalam
+3323082003, wanutengah
+3323082004, nglondong
+3323082005, bagusan
+3323082007, dangkel
+3323082008, mandisari
+3323082009, tegalroso
+3323082010, traji
+3323082011, watukumpul
+3323082012, ringinanom
+3323082013, depokharjo
+3323082014, caturanom
+3323082015, glapansari
+3323082016, sunggingsari

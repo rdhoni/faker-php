@@ -1,0 +1,12 @@
+1606152001, jirak
+1606152002, rukun rahayu
+1606152003, talang simpang
+1606152004, jembatan gantung
+1606152005, talang mandung
+1606152006, rejosari
+1606152007, bangkit jaya
+1606152008, baru jaya
+1606152009, sinar jaya
+1606152010, setia jaya
+1606152011, mekar jaya
+1606152012, layan

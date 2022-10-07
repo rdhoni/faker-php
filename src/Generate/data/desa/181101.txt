@@ -1,0 +1,11 @@
+1811012001, wiralaga i
+1811012002, wiralaga ii
+1811012003, sungai badak
+1811012004, nipah kuning
+1811012005, sido mulyo
+1811012006, tirta laga
+1811012007, tanjung serayan
+1811012008, sumber makmur
+1811012009, mulya sari
+1811012010, wiralaga mulya
+1811012011, suka maju

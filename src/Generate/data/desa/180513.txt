@@ -1,0 +1,14 @@
+1805132001, tri rejo mulyo
+1805132002, tri jaya
+1805132005, sidoharjo
+1805132006, sidomulyo
+1805132010, bogatama
+1805132011, wiratama
+1805132013, tri tunggal jaya
+1805132019, pulo gadung
+1805132020, sidodadi
+1805132021, dwimulyo
+1805132022, rejo sari
+1805132023, wira agung sari
+1805132024, sidomakmur
+1805132025, trikarya

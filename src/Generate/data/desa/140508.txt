@@ -1,0 +1,10 @@
+1405081011, pangkalan bunut terap
+1405082001, petani
+1405082002, merbau
+1405082003, sungai buluh
+1405082008, lubuk mas
+1405082009, balam merah
+1405082010, bagan labah
+1405082013, lubuk mandian gajah
+1405082017, keriung
+1405082018, sialang kayu batu

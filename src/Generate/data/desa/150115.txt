@@ -1,0 +1,13 @@
+1501152001, sungairumpun
+1501152002, sungaisikai
+1501152003, tangkil
+1501152004, pelompek
+1501152005, jernih jaya
+1501152006, bengkolan duo
+1501152007, lubuk pauh
+1501152008, telun berasap
+1501152009, bumbun duri
+1501152010, pesisir bukit
+1501152011, pauh tinggi
+1501152012, sungaijernih
+1501152013, pelompek pasar baru

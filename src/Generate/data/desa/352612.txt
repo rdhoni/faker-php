@@ -1,0 +1,13 @@
+3526122001, kesek
+3526122002, labang
+3526122003, jukong
+3526122004, pangpong
+3526122005, sukolilo timur
+3526122006, sukolilo barat
+3526122007, bringen
+3526122008, baengas
+3526122009, bunajih
+3526122010, sendang laok
+3526122011, sendang dajah
+3526122012, petapan
+3526122013, morkepek

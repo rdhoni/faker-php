@@ -1,0 +1,13 @@
+1113032001, ampa kolak
+1113032002, cane toa
+1113032003, padang pasir
+1113032005, pinang rugub
+1113032006, kuning
+1113032008, mangang
+1113032011, rempelam
+1113032012, cane uken
+1113032013, tungel
+1113032014, kota rikit gaib
+1113032016, lukup baru
+1113032017, penomon jaya
+1113032018, tungel baru

@@ -1,0 +1,10 @@
+1402142001, pesajian
+1402142002, punti kayu
+1402142003, pematang
+1402142004, selunak
+1402142005, suka maju
+1402142006, pematang benteng
+1402142007, sencano jaya
+1402142008, sungai aur
+1402142009, peladangan
+1402142010, koto tuo

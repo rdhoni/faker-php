@@ -1,0 +1,12 @@
+6309021001, pulau
+6309022002, ampukung
+6309022003, telaga itar
+6309022004, sungai buluh
+6309022005, binturu
+6309022006, pudak setegal
+6309022007, pasar panas
+6309022008, masintan
+6309022009, takulat
+6309022010, paliat
+6309022011, karangan putih
+6309022012, bahungin

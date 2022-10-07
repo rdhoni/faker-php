@@ -1,0 +1,11 @@
+1810062001, banyumas
+1810062002, banyuwangi
+1810062003, sukamulya
+1810062004, sriwungu
+1810062005, banjarejo
+1810062006, waya krui
+1810062007, sri rahayu
+1810062008, nusa wungu
+1810062009, sinar mulya
+1810062010, banyu urip
+1810062011, mulyo rejo

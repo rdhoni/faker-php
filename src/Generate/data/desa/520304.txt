@@ -1,0 +1,14 @@
+5203042001, semaya
+5203042002, sikur
+5203042003, montong baan
+5203042004, loyok
+5203042005, kota raja
+5203042006, tete batu
+5203042007, kembang kuning
+5203042008, montong baan selatan
+5203042009, gelora
+5203042010, darmasari
+5203042011, tetebatu selatan
+5203042012, jeruk manis
+5203042013, sikur selatan
+5203042014, sikur barat

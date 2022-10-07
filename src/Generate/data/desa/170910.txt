@@ -1,0 +1,12 @@
+1709102001, sekayun
+1709102002, sekayun mudik
+1709102003, sekayun hilir
+1709102004, talang donok
+1709102005, taba tengah
+1709102006, padang berunai
+1709102007, lubuk langkap
+1709102008, air napal
+1709102009, genting
+1709102010, talang panjang
+1709102011, bang haji
+1709102012, sungkai berayun

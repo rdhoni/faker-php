@@ -1,0 +1,12 @@
+1401, kab kampar
+1402, kab indragiri hulu
+1403, kab bengkalis
+1404, kab indragiri hilir
+1405, kab pelalawan
+1406, kab rokan hulu
+1407, kab rokan hilir
+1408, kab siak
+1409, kab kuantan singingi
+1410, kab kepulauan meranti
+1471, kota pekanbaru
+1472, kota dumai

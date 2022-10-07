@@ -1,0 +1,11 @@
+1205151009, beras basah
+1205151010, bukit jengkol
+1205152001, alur cempedak
+1205152002, sei siur
+1205152003, tanjung pasar
+1205152004, paya tampak
+1205152005, pintu air
+1205152006, sei meran
+1205152007, pulau sembilan
+1205152008, pulau kampai
+1205152011, pangkalan siata

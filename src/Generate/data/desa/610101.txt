@@ -1,0 +1,18 @@
+6101012001, dalam kaum
+6101012002, lubuk dagang
+6101012003, tanjung bugis
+6101012004, pendawan
+6101012005, pasar melayu
+6101012006, durian
+6101012007, lorong
+6101012008, jagur
+6101012009, tumuk manggis
+6101012010, tanjung mekar
+6101012011, sebayan
+6101012012, kartiasa
+6101012013, saing rambi
+6101012014, lumbang
+6101012015, sungai rambah
+6101012023, gapura
+6101012024, sumber harapan
+6101012029, semangau

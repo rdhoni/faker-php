@@ -1,0 +1,12 @@
+5203171004, tanjung
+5203171005, suryawangi
+5203171007, ijobalit
+5203171012, geres
+5203172001, labuhan haji
+5203172002, peneda gandor
+5203172003, teros
+5203172006, korleko
+5203172008, kertasari
+5203172009, tirtanadi
+5203172010, banjarsari
+5203172011, korleko selatan

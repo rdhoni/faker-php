@@ -1,0 +1,17 @@
+3307031008, sapuran
+3307032001, bogoran
+3307032002, karangsari
+3307032003, pecekelan
+3307032004, glagah
+3307032005, surojoyo
+3307032006, talunombo
+3307032007, tempursari
+3307032009, jolontoro
+3307032010, sedayu
+3307032011, ngadisalam
+3307032012, tempuranduwur
+3307032013, marongsari
+3307032014, batursari
+3307032015, banyumudal
+3307032016, ngadikerso
+3307032017, rimpak

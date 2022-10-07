@@ -1,0 +1,10 @@
+810301, tanimbar selatan
+810302, selaru
+810303, wer tamrian
+810304, wer maktian
+810305, tanimbar utara
+810306, yaru
+810307, wuar labobar
+810308, kormomolin
+810309, nirunmas
+810318, molu maru

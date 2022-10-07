@@ -1,0 +1,7 @@
+3312101006, pagutan
+3312101007, punduhsari
+3312102001, kepuhsari
+3312102002, pijiharjo
+3312102003, bero
+3312102004, gunungan
+3312102005, karanglor

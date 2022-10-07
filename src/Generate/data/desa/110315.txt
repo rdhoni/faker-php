@@ -1,0 +1,16 @@
+1103152001, jalan dua
+1103152002, jambo reuhat
+1103152003, seuneubok  benteng
+1103152004, seuneubok  pango
+1103152005, seuneubok  simpang
+1103152006, seuneubok  kandang
+1103152007, ulee jalan
+1103152008, uram jalan
+1103152009, seuneubok  bayu
+1103152010, blang rambong
+1103152011, buket drien
+1103152012, panton rayeuk a
+1103152013, panton rayeuk b
+1103152014, panton rayeuk m
+1103152015, panton rayeuk t
+1103152016, paya laman

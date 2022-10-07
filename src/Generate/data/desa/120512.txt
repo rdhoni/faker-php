@@ -1,0 +1,12 @@
+1205121006, tanjung selamat
+1205122001, serapuh abc
+1205122002, padang tualang
+1205122003, kwala besilam
+1205122004, buluh telang
+1205122005, besilam
+1205122007, tebing tanjung selamat
+1205122008, tanjung putus
+1205122009, suka ramai
+1205122010, jati sari
+1205122011, banjar jaya
+1205122012, bukit sari

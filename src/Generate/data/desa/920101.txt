@@ -1,0 +1,15 @@
+9201011001, makbon
+9201012002, asbaken
+9201012004, malaumkarta
+9201012005, batu lubang
+9201012007, batu lubang pantai
+9201012008, kwadas
+9201012009, bainkete
+9201012010, teluk dore
+9201012011, sawatuk
+9201012012, malagasih
+9201012013, klasimigik
+9201012014, klasigi
+9201012015, klagulus
+9201012016, suatolo
+9201012017, mibi

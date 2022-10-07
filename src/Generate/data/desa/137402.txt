@@ -1,0 +1,8 @@
+1374021001, bukit surungan
+1374021002, pasar usang
+1374021003, kampung manggis
+1374021004, silaing bawah
+1374021005, silaing atas
+1374021006, pasar baru
+1374021007, tanah hitam
+1374021008, balai-balai

@@ -1,0 +1,20 @@
+1806092001, karang buah
+1806092002, sawang balak
+1806092003, way rilau
+1806092004, tanjung raja
+1806092005, tengor
+1806092006, tanjung jati
+1806092007, kejadian lom
+1806092008, sukaraja
+1806092009, banjar negeri
+1806092010, gedung
+1806092011, suka padang
+1806092012, kacamarga
+1806092013, pampangan
+1806092014, banjar manis
+1806092015, tanjung betuah
+1806092016, putih doh
+1806092017, pekondoh
+1806092028, kubulangka
+1806092029, kutakakhang
+1806092030, suka banjar

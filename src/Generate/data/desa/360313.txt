@@ -1,0 +1,13 @@
+3603132001, teluknaga
+3603132002, bojong renged
+3603132003, babakan asem
+3603132004, keboncau
+3603132005, pangkalan
+3603132006, kmp melayu tim
+3603132007, kmp melayu brt
+3603132008, muara
+3603132009, lemo
+3603132010, tanjung pasir
+3603132011, tegal angus
+3603132012, tanjung burung
+3603132013, kampung besar

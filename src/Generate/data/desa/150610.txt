@@ -1,0 +1,8 @@
+1506101001, tungkal v
+1506102002, tungkal iv desa
+1506102003, kuala baru
+1506102004, telukpulai raya
+1506102005, mekar alam
+1506102006, harapan jaya
+1506102007, kuala kahar
+1506102008, muaraseberang

@@ -1,0 +1,12 @@
+1408072001, kerinci kanan
+1408072002, kerinci kiri
+1408072003, buana bakti
+1408072004, bukit harapan
+1408072005, kumbara utama
+1408072006, bukit agung
+1408072008, simpang perak jaya
+1408072009, buatan baru
+1408072010, gabung makmur
+1408072011, jati mulya
+1408072012, seminai
+1408072013, delima jaya

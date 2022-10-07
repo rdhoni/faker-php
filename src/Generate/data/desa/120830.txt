@@ -1,0 +1,20 @@
+1208301001, ujung padang
+1208302002, huta parik
+1208302003, dusun ulu
+1208302004, tinjoan
+1208302005, sayur matinggi
+1208302006, taratak nagodang
+1208302007, sordang bolon
+1208302008, teluk lapian
+1208302009, tanjung rapuan
+1208302010, pagar bosi
+1208302011, bangun sordang
+1208302012, aek gerger sidodadi
+1208302013, pulo pitu marihat
+1208302014, siringan ringan
+1208302015, riah na poso
+1208302016, sei merbau
+1208302017, kampung lalang
+1208302018, sordang baru
+1208302019, banjar hulu
+1208302020, rawa masin

@@ -1,0 +1,34 @@
+1114052011, pante cermin
+1114052012, sabet
+1114052013, sango
+1114052014, mareu
+1114052015, lam asan
+1114052016, alue rayeuk
+1114052017, sapek
+1114052018, lambaroh
+1114052019, meudheun
+1114052020, babah ie
+1114052021, ujong sedheun
+1114052022, krueng tunong
+1114052023, jambo masi
+1114052024, lam tui
+1114052025, pasar lamno
+1114052026, meunasah weh
+1114052027, bak paoh
+1114052028, babah krueng
+1114052029, cot dulang
+1114052030, lam durian
+1114052031, putue
+1114052032, gle putoh
+1114052033, pante keutapang
+1114052034, lam me
+1114052035, meunasah serba
+1114052036, leupe
+1114052037, meutara
+1114052038, lhuet
+1114052039, gle jong
+1114052040, darat
+1114052041, gampong baro
+1114052042, panton makmur
+1114052043, rumpet
+1114052044, nusa

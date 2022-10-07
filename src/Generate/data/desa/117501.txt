@@ -1,0 +1,17 @@
+1175012001, subulussalam
+1175012002, pegayo
+1175012003, sikalondang
+1175012004, buluh dori
+1175012005, subulussalam utara
+1175012006, subulussalam selatan
+1175012007, subulussalam barat
+1175012008, suka makmur
+1175012009, tangga besi
+1175012010, kuta cepu
+1175012011, pasar panjang
+1175012012, mukti makmur
+1175012013, lae oram
+1175012014, makmur jaya
+1175012015, belegen mulia
+1175012016, danau tras
+1175012017, subulussalam timur

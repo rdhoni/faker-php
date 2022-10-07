@@ -1,0 +1,13 @@
+1610161012, payaraman barat
+1610161013, payaraman timur
+1610162001, tebedak i
+1610162002, lubuk bandung
+1610162003, talang seleman
+1610162004, tebedak ii
+1610162005, tanjung lalang
+1610162006, seri kembang i
+1610162007, rengas i
+1610162008, paya besar
+1610162009, rengas ii
+1610162010, seri kembang ii
+1610162011, seri kembang iii

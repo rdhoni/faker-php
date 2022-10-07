@@ -1,0 +1,13 @@
+1211042001, sinampang
+1211042002, sihorbo
+1211042003, soban
+1211042004, adian nangka
+1211042005, bunturaja
+1211042006, juma siulok
+1211042007, juma teguh
+1211042008, sosor lontung
+1211042009, huta imbaru
+1211042010, jumantuang
+1211042011, gomit
+1211042012, adian gupa
+1211042013, maju

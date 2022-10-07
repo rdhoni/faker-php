@@ -1,0 +1,12 @@
+2104051007, pancur
+2104052001, bukit harapan
+2104052002, duara
+2104052003, limbung
+2104052004, resun
+2104052005, sekanah
+2104052006, teluk
+2104052008, linau
+2104052009, sungaibesar
+2104052010, rantau panjang
+2104052011, belungkur
+2104052012, resun pesisir

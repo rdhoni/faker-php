@@ -1,0 +1,10 @@
+1506021004, tungkal empat kota
+1506021005, tungkal iii
+1506021006, tungkal harapan
+1506021007, tungkal ii
+1506021015, kampung nelayan
+1506021016, patunas
+1506021017, sriwijaya
+1506021018, sungainibung
+1506022003, tungkal i
+1506022014, teluksialang

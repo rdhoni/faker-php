@@ -1,0 +1,16 @@
+1208231014, perdagangan i
+1208231015, perdagangan iii
+1208232001, pematang kerasaan
+1208232002, marihat bandar
+1208232003, nagori bandar
+1208232004, bandar rakyat
+1208232005, bandar pulo
+1208232006, bah lias
+1208232007, pardagangan ii
+1208232008, perlanaan
+1208232009, sugarang bayu
+1208232010, pemkerasaan rejo
+1208232011, timbaan
+1208232012, bandar jawa
+1208232013, sidotani
+1208232016, landbouw

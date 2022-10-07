@@ -1,0 +1,14 @@
+6303031001, gambut
+6303031014, gambut barat
+6303032002, sungai kupang
+6303032003, guntung papuyu
+6303032004, makmur
+6303032005, tambak sirang darat
+6303032006, tambak sirang laut
+6303032007, malintang
+6303032008, kayu bawang
+6303032009, banyu hirang
+6303032010, guntung ujung
+6303032011, tambak sirang baru
+6303032012, malintang baru
+6303032013, keladan baru

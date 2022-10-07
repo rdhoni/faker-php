@@ -1,0 +1,12 @@
+1271011001, pasar baru
+1271011002, pusat pasar
+1271011003, sei rengas i
+1271011004, mesjid
+1271011005, pandau hulu i
+1271011006, kotamatsum iii
+1271011007, pasar merah barat
+1271011008, teladan timur
+1271011009, teladan barat
+1271011010, sudirejo 
+1271011011, sudirejo ii
+1271011012, sitirejo i

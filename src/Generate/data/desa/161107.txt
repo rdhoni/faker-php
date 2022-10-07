@@ -1,0 +1,15 @@
+1611072001, talang padang
+1611072002, tanjung beringin
+1611072003, penantian
+1611072004, pagar jati
+1611072005, kebon jati
+1611072006, bandar agung
+1611072007, lawang agung
+1611072008, nanjungan
+1611072009, talang randai
+1611072010, air mayam
+1611072011, muara rungga
+1611072012, padang gelai
+1611072013, padang bindu
+1611072014, muara sindang
+1611072015, muara aman

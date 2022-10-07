@@ -1,0 +1,10 @@
+1607182001, terusan dalam
+1607182002, karang anyar
+1607182003, muaratelang
+1607182004, terusan tengah
+1607182005, sumber jaya
+1607182006, karang baru
+1607182007, muaratelang marga
+1607182008, terusan muara
+1607182009, talang lubuk
+1607182010, sri tiga

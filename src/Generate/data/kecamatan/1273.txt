@@ -1,0 +1,4 @@
+127301, sibolga utara
+127302, sibolga kota
+127303, sibolga selatan
+127304, sibolga sambas

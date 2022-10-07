@@ -1,0 +1,16 @@
+3374121001, pakintelan
+3374121002, mangunsari
+3374121003, plalangan
+3374121004, gunungpati
+3374121005, nongkosawit
+3374121006, pongangan
+3374121007, ngijo
+3374121008, patemon
+3374121009, sekaran
+3374121010, sukorejo
+3374121011, sadeng
+3374121012, cepoko
+3374121013, jatirejo
+3374121014, sumurrejo
+3374121015, kalisegoro
+3374121016, kandri

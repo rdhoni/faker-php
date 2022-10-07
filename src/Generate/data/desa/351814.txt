@@ -1,0 +1,21 @@
+3518141014, guyangan
+3518141015, kedondong
+3518142001, balongrejo
+3518142002, girirejo
+3518142003, pesudukuh
+3518142004, sekarputih
+3518142005, buduran
+3518142006, ngumpul
+3518142007, bagor kulon
+3518142008, petak
+3518142009, paron
+3518142010, karang tengah
+3518142011, selorejo
+3518142012, gandu
+3518142013, kerepkidul
+3518142016, kutorejo
+3518142017, sugihwaras
+3518142018, gemenggeng
+3518142019, kendalrejo
+3518142020, banaran kulon
+3518142021, banaran wetan

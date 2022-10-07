@@ -1,0 +1,6 @@
+1971061001, selindung
+1971061002, selindung baru
+1971061003, gabek satu
+1971061004, gabek dua
+1971061005, air salemba
+1971061006, jerambah gantung

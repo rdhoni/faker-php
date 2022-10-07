@@ -1,0 +1,10 @@
+7107102001, tombatu dua
+7107102002, tombatu dua utara
+7107102003, tombatu dua barat
+7107102004, tombatu dua tengah
+7107102005, tombatu tiga
+7107102006, tombatu tiga tengah
+7107102007, kuyanga
+7107102008, kuyanga satu
+7107102009, winorangian
+7107102010, winorangian satu

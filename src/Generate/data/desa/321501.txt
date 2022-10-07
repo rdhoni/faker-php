@@ -1,0 +1,8 @@
+3215011001, karawang kulon
+3215011003, adiarsa barat
+3215011005, tanjungpura
+3215011006, tanjungmekar
+3215011007, tunggakjati
+3215011010, karawangpawitan
+3215011011, nagasari
+3215011012, mekarjati

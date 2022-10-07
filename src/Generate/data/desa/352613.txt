@@ -1,0 +1,23 @@
+3526132001, tanah merah dajah
+3526132002, tanah merah laok
+3526132003, petrah
+3526132004, jangkar
+3526132005, pettong
+3526132006, kendaban
+3526132007, dumajah
+3526132008, pacentan
+3526132009, baipajung
+3526132010, tlomar
+3526132011, rongdurin
+3526132012, landak
+3526132013, basanah
+3526132014, poter
+3526132015, patemon
+3526132016, dlambah dajah
+3526132017, dlambah laok
+3526132018, mrecah
+3526132019, buddan
+3526132020, batangan
+3526132021, padurungan
+3526132022, pangeleyan
+3526132023, kranggan barat

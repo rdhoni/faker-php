@@ -1,0 +1,9 @@
+1805021008, menggala selatan
+1805021009, ujung gunung ilir
+1805021010, menggala tengah
+1805021011, menggala kota
+1805022001, bujung tenuk
+1805022002, ujung gunung ilir
+1805022007, astra ksetra
+1805022013, kagungan rahayu
+1805022014, tiuh tohou

@@ -1,0 +1,11 @@
+810601, kairatu
+810602, seram barat
+810603, taniwel
+810604, huamual belakang
+810605, amalatu
+810606, inamosol
+810607, kairatu barat
+810608, huamual
+810609, kepulauan manipa
+810610, taniwel timur
+810611, elpaputih

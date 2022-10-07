@@ -1,0 +1,15 @@
+1807032001, negara batin
+1807032002, asahan
+1807032003, adirejo
+1807032004, gunung mekar
+1807032005, gunung sugih kecil
+1807032006, pematang tahalo
+1807032007, jabung
+1807032008, negara saka
+1807032014, betengsari
+1807032015, belimbing sari
+1807032016, mekar jaya
+1807032018, mumbang jaya
+1807032019, tanjung sari
+1807032020, adi luhur
+1807032021, sambirejo

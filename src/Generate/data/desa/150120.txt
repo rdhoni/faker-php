@@ -1,0 +1,15 @@
+1501202001, pasar kerman
+1501202002, lolo gedang
+1501202003, lolo kecil
+1501202004, lolo hilir
+1501202005, tanjung syam
+1501202006, talang kemuning
+1501202007, pondok
+1501202008, muak
+1501202009, pengasi lama
+1501202010, pulaupandan
+1501202011, pulausangkar
+1501202012, bintang marak
+1501202013, karang pandan
+1501202014, pengasi baru
+1501202015, muaro lulo

@@ -1,0 +1,17 @@
+1613011007, muara rupit
+1613012001, tanjung beringin
+1613012002, noman
+1613012003, batu gajah
+1613012004, maur lama
+1613012005, maur baru
+1613012006, bingin rupit
+1613012008, lubuk rumbai
+1613012009, pantai
+1613012010, lawang agung
+1613012011, karang waru
+1613012012, karang anyar
+1613012013, sungai jernih
+1613012014, beringin jaya
+1613012015, lubuk rumbai baru
+1613012016, noman baru
+1613012017, batu gajah baru

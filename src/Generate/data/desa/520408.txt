@@ -1,0 +1,8 @@
+5204081001, samapuin
+5204081002, brang bara
+5204081003, pekat
+5204081004, seketeng
+5204081005, bugis
+5204081006, lempeh
+5204081007, brang biji
+5204081008, uma sima

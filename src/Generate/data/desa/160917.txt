@@ -1,0 +1,8 @@
+1609172001, tekana
+1609172002, tanjung beringin
+1609172003, bandar
+1609172004, jagaraga
+1609172005, damarpura
+1609172006, tunas jaya
+1609172007, sinar danau
+1609172008, gemiung

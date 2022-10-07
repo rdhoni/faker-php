@@ -1,0 +1,13 @@
+1806132001, kebumen
+1806132002, sidomulyo
+1806132003, sumber rejo
+1806132004, tegal binangun
+1806132005, argopeni
+1806132006, margodadi
+1806132007, margoyoso
+1806132008, dadapan
+1806132009, simpang kanan
+1806132010, wonoharjo
+1806132011, sumber mulyo
+1806132012, argomulyo
+1806132013, sidorejo

@@ -1,0 +1,10 @@
+1509062001, tanjung pucuk jambi
+1509062002, kuamang
+1509062003, teluk kayu putih
+1509062004, sungai abang
+1509062005, aur cino
+1509062007, muara niro
+1509062013, teluk lancang
+1509062014, dusun baru
+1509062015, tabun
+1509062016, muara tabun

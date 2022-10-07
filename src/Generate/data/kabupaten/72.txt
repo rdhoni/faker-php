@@ -1,0 +1,13 @@
+7201, kab banggai
+7202, kab poso
+7203, kab donggala
+7204, kab toli toli
+7205, kab buol
+7206, kab morowali
+7207, kab banggai kepulauan
+7208, kab parigi moutong
+7209, kab tojo una una
+7210, kab sigi
+7211, kab banggai laut
+7212, kab morowali utara
+7271, kota palu

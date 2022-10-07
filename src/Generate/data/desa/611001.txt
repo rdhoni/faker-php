@@ -1,0 +1,17 @@
+6110012001, pemuar
+6110012002, nusa kenyikap
+6110012003, batu ampar
+6110012007, balai lagas
+6110012008, upit
+6110012009, langan
+6110012010, batu buil
+6110012011, guhung
+6110012013, batu nanta
+6110012014, belonsat
+6110012016, laman bukit
+6110012017, tekaban
+6110012019, labang
+6110012020, nanga pau
+6110012021, nanga entebah
+6110012023, nanga menunuk
+6110012024, sepan tonak

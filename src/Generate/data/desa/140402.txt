@@ -1,0 +1,14 @@
+1404021001, enok
+1404021002, pusaran
+1404021003, telukmedan
+1404021013, pantaiseberang makmur
+1404022004, pengalihan
+1404022005, sungaiambat
+1404022006, simpang tiga
+1404022007, rantau panjang
+1404022008, sungairukam
+1404022009, bagan jaya
+1404022010, suhada
+1404022011, jaya bhakti
+1404022012, sungailokan
+1404022014, simpang tiga daratan

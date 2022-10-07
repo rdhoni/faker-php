@@ -1,0 +1,10 @@
+520101, gerung
+520102, kediri
+520103, narmada
+520107, sekotong
+520108, labuapi
+520109, gunungsari
+520112, lingsar
+520113, lembar
+520114, batu layar
+520115, kuripan

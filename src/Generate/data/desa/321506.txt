@@ -1,0 +1,9 @@
+3215062001, rengasdengklok selatan
+3215062002, rengasdengklok utara
+3215062003, kertasari
+3215062004, dewisari
+3215062005, amansari
+3215062006, karyasari
+3215062007, dukuhkarya
+3215062008, kalangsari
+3215062009, kalangsurya

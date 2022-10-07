@@ -1,0 +1,11 @@
+1311022001, pasir talang
+1311022002, koto baru
+1311022004, sako pasia talang
+1311022005, pasar muara labuh
+1311022006, pulakek koto baru
+1311022007, bomas
+1311022008, sako utara pasia talang
+1311022009, sako selatan pasia talang
+1311022010, pasir talang barat
+1311022011, pasir talang timur
+1311022012, pasir talang selatan

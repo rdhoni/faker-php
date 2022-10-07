@@ -1,0 +1,18 @@
+5313012001, pasir putih
+5313012002, duawutun
+5313012003, atawai
+5313012004, lusiduawutun
+5313012005, labalimut
+5313012006, ileboli
+5313012007, babokerong
+5313012008, penikenek
+5313012009, belobaja
+5313012010, lolong
+5313012011, wuakoreng
+5313012012, baobolak
+5313012013, tewaowutung
+5313012014, boli bean
+5313012015, warawatung
+5313012016, idalolong
+5313012017, ria bao
+5313012018, liwulagang

@@ -1,0 +1,10 @@
+1219112001, sumber tani
+1219112002, sei muka
+1219112003, perkebunan tanah datar
+1219112004, binjai baru
+1219112005, bangun sari
+1219112006, karang baru
+1219112007, perkebunan petatal
+1219112008, mekar baru
+1219112009, petatal
+1219112010, glugur makmur

@@ -1,0 +1,22 @@
+1602021011, tanjung lubuk
+1602022001, ulak kapal
+1602022002, tanjung merindu
+1602022003, tanjung baru
+1602022004, seritanjung
+1602022005, pengaraian
+1602022006, sukarami
+1602022008, sukamulya
+1602022010, pulau gemantung
+1602022012, bumiagung
+1602022013, kotabumi
+1602022014, tanjung beringin
+1602022015, tanjung laga
+1602022016, tanjung laut
+1602022017, ulak balam
+1602022018, jambu ilir
+1602022031, jukdadak
+1602022032, atar balam
+1602022033, tanjung harapan
+1602022034, pulau gemantung ilir
+1602022035, pulau gemantung ulu
+1602022036, pulau gemantung darat

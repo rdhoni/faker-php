@@ -1,0 +1,4 @@
+6372061001, landasan ulin barat
+6372061002, landasan ulin tengah
+6372061003, landasan ulin utara
+6372061004, landasan ulin selatan

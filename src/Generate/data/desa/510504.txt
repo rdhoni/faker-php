@@ -1,0 +1,12 @@
+5105042001, paksebali
+5105042002, sampalan tengah
+5105042003, sampalan kelod
+5105042004, sulang
+5105042005, gunaksa
+5105042006, kusamba
+5105042007, kampung kusamba
+5105042008, pesinggahan
+5105042009, dawan kelod
+5105042010, pikat
+5105042011, dawan kaler
+5105042012, besan

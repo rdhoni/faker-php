@@ -1,0 +1,12 @@
+3205222001, cikajang
+3205222002, simpang
+3205222003, mekarsari
+3205222004, girijaya
+3205222005, giriawas
+3205222006, cibodas
+3205222007, mekarjaya
+3205222008, cikandang
+3205222009, padasuka
+3205222010, margamulya
+3205222011, cipangramatan
+3205222012, kramatwangi

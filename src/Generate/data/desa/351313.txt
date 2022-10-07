@@ -1,0 +1,17 @@
+3513132001, bago
+3513132002, kecik
+3513132003, alasnyiur
+3513132004, sindetlami
+3513132005, jambangan
+3513132006, klampokan
+3513132007, matekan
+3513132008, krampilan
+3513132009, besukagung
+3513132010, besukkidul
+3513132011, sumurdalam
+3513132012, sindetanyar
+3513132013, randujalak
+3513132014, alastengah
+3513132015, alaskandang
+3513132016, alassumurlor
+3513132017, sumberan

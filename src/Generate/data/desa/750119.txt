@@ -1,0 +1,9 @@
+7501192001, tabongo timur
+7501192002, tabongo barat
+7501192003, limehe barat
+7501192004, limehe timur
+7501192005, ilomangga
+7501192006, motinelo
+7501192007, moahudu
+7501192008, teratai
+7501192009, limehu

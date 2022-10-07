@@ -1,0 +1,19 @@
+1402132001, talang 7 buah tangga
+1402132002, talang durian cacar
+1402132003, talang selantai
+1402132004, talang perigi
+1402132005, kuantan tenang
+1402132006, kota baru
+1402132007, rimba seminai
+1402132008, kelayang
+1402132009, talang gedabu
+1402132010, talang sungai limau
+1402132011, talang sungai parit
+1402132012, batu sawar
+1402132013, petonggan
+1402132014, lubuk sitarak
+1402132015, bukit indah
+1402132016, sungai ekok
+1402132017, talang suka maju
+1402132018, kampung bunga
+1402132019, talang pring jaya

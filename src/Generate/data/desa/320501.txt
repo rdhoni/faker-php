@@ -1,0 +1,11 @@
+3205011001, kota kulon
+3205011002, kota wetan
+3205011003, margawati
+3205011004, pakuwon
+3205011005, muara sanding
+3205011006, sukamentri
+3205011007, ciwalen
+3205011008, paminggir
+3205011009, regol
+3205011010, sukanegla
+3205011011, cimuncang

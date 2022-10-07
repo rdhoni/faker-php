@@ -1,0 +1,14 @@
+1211032001, sumbul tengah
+1211032002, ujung teran
+1211032003, juma gerat
+1211032004, sarintonu
+1211032005, tigalingga
+1211032006, palding
+1211032007, lau bagot
+1211032008, bertungen julu
+1211032009, lau molgap
+1211032010, lau pak-pak
+1211032012, sukandebi
+1211032013, lau mil
+1211032014, lau sireme
+1211032019, polding jaya sumbul

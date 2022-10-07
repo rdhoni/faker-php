@@ -1,0 +1,16 @@
+5105012001, sakti
+5105012002, batumadeg
+5105012003, klumpu
+5105012004, batukandik
+5105012005, sekartaji
+5105012006, tanglad
+5105012007, suana
+5105012008, batununggul
+5105012009, kutampi
+5105012010, ped
+5105012011, kampung toyapakeh
+5105012012, lembongan
+5105012013, jungutbatu
+5105012014, pejukutan
+5105012015, kutampi kaler);
+5105012016, bunga mekar

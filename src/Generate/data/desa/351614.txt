@@ -1,0 +1,14 @@
+3516142001, ngareskidul
+3516142002, gembongan
+3516142003, gempolkerep
+3516142004, bandung
+3516142005, gedeg
+3516142006, pagerluyung
+3516142007, kemantren
+3516142008, terusan
+3516142009, sidoharjo
+3516142010, balongsari
+3516142011, batankrajan
+3516142012, pagerjo
+3516142013, jerukseger
+3516142014, beratwetan

@@ -1,0 +1,24 @@
+7301, kab kepulauan selayar
+7302, kab bulukumba
+7303, kab bantaeng
+7304, kab jeneponto
+7305, kab takalar
+7306, kab gowa
+7307, kab sinjai
+7308, kab bone
+7309, kab maros
+7310, kab pangkajene kepulauan
+7311, kab barru
+7312, kab soppeng
+7313, kab wajo
+7314, kab sidenreng rappang
+7315, kab pinrang
+7316, kab enrekang
+7317, kab luwu
+7318, kab tana toraja
+7322, kab luwu utara
+7324, kab luwu timur
+7326, kab toraja utara
+7371, kota makassar
+7372, kota pare pare
+7373, kota palopo

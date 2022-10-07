@@ -1,0 +1,13 @@
+6303142001, teluk selong
+6303142002, sungai batang
+6303142003, sungai batang ilir
+6303142004, sungai ranggas
+6303142005, penggalaman
+6303142006, keliling benteng ulu
+6303142007, antasan sutun
+6303142008, sungai ranggas ulu
+6303142009, sungai ranggas hambuku
+6303142010, keliling benteng tengah
+6303142011, teluk selong ulu
+6303142012, tangkas
+6303142013, sungai ranggas tengah

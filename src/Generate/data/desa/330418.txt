@@ -1,0 +1,16 @@
+3304182001, kalibening
+3304182002, asinan
+3304182003, sembawa
+3304182004, kalibombong
+3304182005, majatengah
+3304182006, kalisat kidul
+3304182007, sirukem
+3304182008, kertosari
+3304182009, sidakangen
+3304182010, sikumpul
+3304182011, gununglangit
+3304182012, bedana
+3304182013, sirukun
+3304182014, karanganyar
+3304182015, plorengan
+3304182016, kasinoman

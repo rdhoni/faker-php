@@ -1,0 +1,26 @@
+1106232001, cot puklat
+1106232002, lamme
+1106232003, meulayo
+1106232004, lam siem
+1106232005, cot geundreut
+1106232006, paya ue
+1106232007, cot monraya
+1106232008, cot meulangeun
+1106232009, cot madhi
+1106232010, bueng sidom
+1106232011, cot karieng
+1106232012, gampong blang
+1106232013, cot malem
+1106232014, cot rumpun
+1106232015, cot hoho
+1106232016, cot jambo
+1106232017, cot nambak
+1106232018, bueng pageu
+1106232019, cot sayun
+1106232020, teupin batee
+1106232021, cot leuot
+1106232022, cot bagie
+1106232023, kayee kunyet
+1106232024, cot mancang
+1106232025, empee bata
+1106232026, data makmur

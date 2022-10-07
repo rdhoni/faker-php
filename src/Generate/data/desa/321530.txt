@@ -1,0 +1,10 @@
+3215302001, kertamukti
+3215302002, rawasari
+3215302003, pusakajaya selatan
+3215302004, cikande
+3215302005, kosambibatu
+3215302006, pusakajaya utara
+3215302007, sukaratu
+3215302008, ciptamargi
+3215302009, mekarpohaci
+3215302010, tanjungsari

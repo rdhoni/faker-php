@@ -1,0 +1,14 @@
+3302232001, karangsalam kidul
+3302232002, kebocoran
+3302232003, kedungbanteng
+3302232004, beji
+3302232005, karangnangka
+3302232006, keniten
+3302232007, dawuhan wetan
+3302232008, dawuhan kulon
+3302232009, baseh
+3302232010, kalisalak
+3302232011, windujaya
+3302232012, kalikesur
+3302232013, kutaliman
+3302232014, melung

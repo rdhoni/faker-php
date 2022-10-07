@@ -1,0 +1,11 @@
+7326011001, laang tanduk
+7326011002, rantepao
+7326011003, mentirotiku
+7326011004, manggalo
+7326011005, pasale
+7326011006, singki\
+7326011007, karassik
+7326011008, penanian
+7326011009, rante pasele
+7326012010, limbong
+7326012011, saloso

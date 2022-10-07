@@ -1,0 +1,3 @@
+337101, magelang selatan
+337102, magelang utara
+337103, magelang tengah

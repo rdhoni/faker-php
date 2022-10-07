@@ -1,0 +1,10 @@
+1505102001, bukit subur
+1505102002, tri jaya
+1505102003, mekar jaya
+1505102004, ujung tanjung
+1505102005, tanjung baru
+1505102006, tanjung mulia
+1505102007, adipura kencana
+1505102008, bukit jaya
+1505102009, tanjung sari
+1505102010, tanjung lebar

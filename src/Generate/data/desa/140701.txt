@@ -1,0 +1,10 @@
+1407011010, telukmerbau
+1407012002, tanjungleban
+1407012003, sungaikubu
+1407012004, rantau panjang kanan
+1407012012, telukpiyai
+1407012013, sungaisegajah
+1407012015, sei segajah makmur
+1407012020, telukpiyai pesisir
+1407012021, sungaikubu hulu
+1407012022, sungai segajah jaya

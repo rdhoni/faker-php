@@ -1,0 +1,31 @@
+1213131017, muara soma
+1213132001, aek guo
+1213132002, aek holbung
+1213132003, aek manggis
+1213132004, aek nabara
+1213132005, aek nangali
+1213132006, ampung julu
+1213132007, ampung padang
+1213132008, ampung siala
+1213132009, bangkelang
+1213132010, banjar malayu
+1213132011, batu madinding
+1213132012, bulu soma
+1213132013, guo batu
+1213132014, hadangkahan
+1213132015, hatupangan
+1213132016, muara parlampungan
+1213132018, rantobi
+1213132019, rao rao
+1213132020, simanguntong
+1213132021, sipogu
+1213132022, sopo tinjak
+1213132023, tarlola
+1213132024, tombang kaluang
+1213132025, huta lobu
+1213132026, lubuk samboa
+1213132027, jambur baru
+1213132028, aek baru jae
+1213132029, aek baru julu
+1213132030, lubuk bondar panjang
+1213132031, tor naincat

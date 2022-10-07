@@ -1,0 +1,9 @@
+1701111003, tanjung mulia
+1701111004, pasar mulia
+1701111005, belakang gedung
+1701111006, gunung mesir
+1701111007, padang sialang
+1701111008, ketapang besar
+1701111009, pasar bawah
+1701112001, batu kuning
+1701112002, batu lambang

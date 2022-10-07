@@ -1,0 +1,11 @@
+1408092001, pangkalan pisang
+1408092002, kuala gasib
+1408092003, teluk rimba
+1408092004, buatan i
+1408092005, buatan ii
+1408092006, sengkemang
+1408092007, rantau panjang
+1408092008, empang pandan
+1408092009, keranji guguh
+1408092010, sri gemilang
+1408092011, tasik seminai

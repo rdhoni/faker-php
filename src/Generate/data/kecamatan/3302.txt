@@ -1,0 +1,27 @@
+330201, lumbir
+330202, wangon
+330203, jatilawang
+330204, rawalo
+330205, kebasen
+330206, kemranjen
+330207, sumpiuh
+330208, tambak
+330209, somagede
+330210, kalibagor
+330211, banyumas
+330212, patikraja
+330213, purwojati
+330214, ajibarang
+330215, gumelar
+330216, pekuncen
+330217, cilongok
+330218, karanglewas
+330219, sokaraja
+330220, kembaran
+330221, sumbang
+330222, baturraden
+330223, kedungbanteng
+330224, purwokerto selatan
+330225, purwokerto barat
+330226, purwokerto timur
+330227, purwokerto utara

@@ -1,0 +1,20 @@
+5305031001, moru
+5305032002, probur
+5305032003, tribur
+5305032004, wakapsir
+5305032007, morba
+5305032008, pintumas
+5305032009, wolwal
+5305032010, halerman
+5305032013, kafelulang
+5305032014, moramam
+5305032015, pailelang
+5305032016, wolwal barat
+5305032017, wolwal tengah
+5305032018, wolwal selatan
+5305032019, probur utara
+5305032020, manatang
+5305032021, orgen
+5305032022, wakapsir timur
+5305032023, kuifana
+5305032027, margeta

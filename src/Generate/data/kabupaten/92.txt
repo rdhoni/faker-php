@@ -1,0 +1,13 @@
+9201, kab sorong
+9202, kab manokwari
+9203, kab fak fak
+9204, kab sorong selatan
+9205, kab raja ampat
+9206, kab teluk bintuni
+9207, kab teluk wondama
+9208, kab kaimana
+9209, kab tambrauw
+9210, kab maybrat
+9211, kab manokwari selatan
+9212, kab pegunungan arfak
+9271, kota sorong

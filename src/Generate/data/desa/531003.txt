@@ -1,0 +1,19 @@
+5310031005, wae belang
+5310032002, cumbi
+5310032003, kakor
+5310032004, pong murung
+5310032006, bulan
+5310032010, pong lao
+5310032011, beo rahong
+5310032019, golo worok
+5310032020, meler
+5310032021, benteng kuwu
+5310032022, belang turi
+5310032023, pong leko
+5310032024, rai
+5310032025, poco likang
+5310032029, bangka lao
+5310032030, compang dalo
+5310032031, bea kakor
+5310032032, compang namut
+5310032033, pong lale

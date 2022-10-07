@@ -1,0 +1,21 @@
+1201021001, sorkam
+1201021002, pargarutan
+1201021004, tarutung bolak
+1201021009, naipospos barat
+1201022003, teluk roban
+1201022005, fajar
+1201022006, pardamean
+1201022007, pelita
+1201022008, rianiate
+1201022010, gonting mahe
+1201022011, dolok pantis
+1201022014, pea raja
+1201022015, bottot
+1201022016, sorkam tengah
+1201022017, sorkam kiri
+1201022018, pananggahan
+1201022019, pagaran julu
+1201022020, hite urat
+1201022021, sihapas
+1201022022, nauli
+1201022023, muara nauli

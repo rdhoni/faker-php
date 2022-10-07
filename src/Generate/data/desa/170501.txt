@@ -1,0 +1,21 @@
+1705011001, babatan
+1705011025, sukaraja
+1705012002, niur
+1705012003, lubuk sahung
+1705012011, bukit peninjauan i
+1705012026, padang pelawi
+1705012027, kayu arang
+1705012028, jenggalu
+1705012029, cahaya negeri
+1705012030, bukit peninjauan ii
+1705012032, riak siabun
+1705012033, padang kuas
+1705012034, kuti agung
+1705012035, riak siabun i
+1705012036, sido luhur
+1705012037, sumber arung
+1705012038, sido sari
+1705012039, sari mulyo
+1705012043, air kemuning
+1705012044, sumber makmur
+1705012045, air petai

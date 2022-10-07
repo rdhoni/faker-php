@@ -1,0 +1,20 @@
+1207242001, hamparan perak
+1207242002, sei baharu
+1207242003, klumpang kebun
+1207242004, klumpang kampung
+1207242005, klambir lima kampung
+1207242006, tandem hulu ii
+1207242007, klambir
+1207242008, selemak
+1207242009, kelambir lima kebun
+1207242010, sialang muda
+1207242011, paya bakung
+1207242012, tandem hulu i
+1207242013, tandem hilir i
+1207242014, tandem hilir ii
+1207242015, kota datar
+1207242016, bulu cina
+1207242017, kota rantang
+1207242018, paluh manan
+1207242019, lama
+1207242020, paluh kurau

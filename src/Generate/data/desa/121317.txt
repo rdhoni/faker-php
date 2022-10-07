@@ -1,0 +1,14 @@
+1213172001, batu mundom
+1213172002, hutaimbaru
+1213172003, lubuk kapundung
+1213172004, manuncang
+1213172005, panunggulan
+1213172006, pasar singkuang i
+1213172007, pasar singkuang ii
+1213172008, rantau panjang
+1213172009, sikapas
+1213172010, tabuyung
+1213172011, tagilang julu
+1213172012, sali baru
+1213172013, lubuk kapundung ii
+1213172014, suka makmur

@@ -1,0 +1,19 @@
+3208172001, cimenga
+3208172002, cageur
+3208172003, sakerta barat
+3208172004, sukarasa
+3208172005, paninggaran
+3208172006, cipasung
+3208172007, kawah manuk
+3208172008, cikupa
+3208172009, parung
+3208172010, darma
+3208172011, jagara
+3208172012, bakom
+3208172013, karanganyar
+3208172014, karangsari
+3208172015, sagarahiyang
+3208172016, gunungsirah
+3208172017, sakerta timur
+3208172018, tugumulya
+3208172019, situsari

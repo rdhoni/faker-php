@@ -1,0 +1,15 @@
+1103182001, beusa seberang
+1103182002, mon geudong
+1103182003, paya seungat
+1103182004, teumpeun
+1103182005, alue bu tuha
+1103182006, alue bu jalan
+1103182007, tanjong tualang
+1103182008, beringen
+1103182009, kebon tempeun
+1103182010, paya gajah
+1103182011, kabu
+1103182012, paya biek
+1103182013, beusa baroh
+1103182014, alue bu jalan baroh
+1103182015, alue bu tunong

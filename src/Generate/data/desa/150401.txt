@@ -1,0 +1,18 @@
+1504011001, kembang paseban
+1504012002, sengkati kecil
+1504012003, sengkati gedang
+1504012004, sengkati baru
+1504012005, kembang tanjung
+1504012006, mersam
+1504012007, benteng rendah
+1504012008, sungai puar
+1504012009, rantau gedang
+1504012010, pematang gadung
+1504012011, teluk melintang
+1504012012, bukit harapan
+1504012013, belanti jaya
+1504012014, tapah sari
+1504012015, bukit kemuning
+1504012016, simpang rantau gedang
+1504012017, tanjung putra
+1504012018, sengkati mudo

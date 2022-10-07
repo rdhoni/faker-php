@@ -1,0 +1,17 @@
+1602042001, pematang panggang
+1602042002, sungai sodong
+1602042005, pagar dewa
+1602042006, surya adi
+1602042007, makarti mulya
+1602042008, marga bakti
+1602042009, jaya bakti
+1602042025, sukamukti
+1602042026, mekar wangi
+1602042035, karya mukti
+1602042037, kalideras
+1602042038, sumber deras
+1602042047, kembang jajar
+1602042050, kota baru
+1602042051, sido basuki
+1602042052, pematang kasih
+1602042053, labuhan jaya

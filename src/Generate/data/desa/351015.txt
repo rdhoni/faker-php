@@ -1,0 +1,10 @@
+3510151002, bakungan
+3510151003, banjarsari
+3510152001, rejosari
+3510152004, kemiren
+3510152005, olehsari
+3510152006, glagah
+3510152007, paspan
+3510152010, tamansuruh
+3510152011, kenjo
+3510152012, kampunganyar

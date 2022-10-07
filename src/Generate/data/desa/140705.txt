@@ -1,0 +1,13 @@
+1407051018, bagan batu kota
+1407051019, bahtera makmur kota
+1407052002, bagan batu
+1407052003, bahtera makmur
+1407052007, pelita
+1407052008, gelora
+1407052015, suka maju
+1407052016, bagan manunggal
+1407052017, bagan sapta permai
+1407052025, bakti makmur
+1407052028, jaya agung
+1407052030, meranti makmur
+1407052031, bhayangkara jaya

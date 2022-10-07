@@ -1,0 +1,6 @@
+6502112001, long uli
+6502112002, long alango
+6502112003, long berini
+6502112004, long tebulo
+6502112005, apau ping
+6502112006, long kemuat

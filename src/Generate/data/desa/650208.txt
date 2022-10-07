@@ -1,0 +1,9 @@
+6502082001, long bila
+6502082002, long kenipe
+6502082003, punan bengalun
+6502082004, sesua
+6502082005, sentaban
+6502082006, tanjung lapang
+6502082007, taras
+6502082008, kuala lapang
+6502082009, sempayang

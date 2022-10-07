@@ -1,0 +1,7 @@
+1671141001, plaju ulu
+1671141002, plaju darat
+1671141003, plaju ilir
+1671141004, bagus kuning
+1671141005, komperta
+1671141006, talang putri
+1671141007, talang bubuk

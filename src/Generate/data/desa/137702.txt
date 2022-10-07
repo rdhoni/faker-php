@@ -1,0 +1,17 @@
+1377022005, ampalu
+1377022006, apar
+1377022007, tanjung sabar
+1377022008, cubadak air selatan
+1377022009, sikapak barat
+1377022010, sikapak timur
+1377022011, manggung
+1377022012, cubadak air utara
+1377022013, tungkal selatan
+1377022014, naras hilir
+1377022015, naras i
+1377022016, balai naras
+1377022017, padang birik birik
+1377022018, sintuk
+1377022019, sungai rambai
+1377022020, tungkal utara
+1377022021, cubadak air

@@ -1,0 +1,33 @@
+1201, kab tapanuli tengah
+1202, kab tapanuli utara
+1203, kab tapanuli selatan
+1204, kab nias
+1205, kab langkat
+1206, kab karo
+1207, kab deli serdang
+1208, kab simalungun
+1209, kab asahan
+1210, kab labuhanbatu
+1211, kab dairi
+1212, kab toba samosir
+1213, kab mandailing natal
+1214, kab nias selatan
+1215, kab pakpak bharat);
+1216, kab humbang hasundutan
+1217, kab samosir
+1218, kab serdang bedagai
+1219, kab batu bara
+1220, kab padang lawas utara
+1221, kab padang lawas
+1222, kab labuhanbatu selatan
+1223, kab labuhanbatu utara
+1224, kab nias utara
+1225, kab nias barat
+1271, kota medan
+1272, kota pematangsiantar
+1273, kota sibolga
+1274, kota tanjung balai
+1275, kota binjai
+1276, kota tebing tinggi
+1277, kota padangsidimpuan
+1278, kota gunungsitoli

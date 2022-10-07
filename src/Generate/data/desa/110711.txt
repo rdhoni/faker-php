@@ -1,0 +1,20 @@
+1107112001, blang
+1107112002, teumeucet
+1107112003, blang cut
+1107112004, kumbang
+1107112005, pulo tanjong
+1107112006, ara bungkok
+1107112007, lagang
+1107112008, mesjid ilot
+1107112009, baroh ilot
+1107112010, tunong ilot
+1107112011, teungoh ilot
+1107112012, dayah andeue
+1107112013, dayah sinthop
+1107112014, kulu
+1107112015, mesjid andeue
+1107112016, meuyub lala
+1107112017, tuha lada
+1107112018, lhok lubue
+1107112019, babah jurong
+1107112020, krueng lala

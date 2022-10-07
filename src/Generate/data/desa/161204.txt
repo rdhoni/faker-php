@@ -1,0 +1,8 @@
+1612042001, betung
+1612042002, betung barat
+1612042003, karang agung
+1612042004, tanjung kurung
+1612042005, pengabuan
+1612042006, prambatan
+1612042007, pengabuan timur
+1612042008, betung selatan

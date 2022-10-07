@@ -1,0 +1,16 @@
+1801162001, banding
+1801162002, betung
+1801162003, batu balak
+1801162004, canti
+1801162005, canggung
+1801162006, cugung
+1801162007, hargo pancuran
+1801162008, kerinjing
+1801162009, kunjir
+1801162010, kota guring
+1801162011, rajabasa
+1801162012, sukaraja
+1801162013, tanjung gading
+1801162014, tejang pulau sebesi
+1801162015, way muli
+1801162016, wai muli timur

@@ -1,0 +1,14 @@
+6112082001, teluk pakedai hulu
+6112082002, teluk pakedai satu
+6112082003, teluk pakedai dua
+6112082004, kuala karang
+6112082005, seruat satu
+6112082006, sungai deras
+6112082007, selat remis
+6112082008, madura
+6112082009, pasir putih
+6112082010, teluk gelam
+6112082011, tanjung bunga
+6112082012, sungai nibung
+6112082013, arus deras
+6112082014, sungai nipah

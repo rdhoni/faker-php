@@ -1,0 +1,25 @@
+1501112001, kemantan tinggi
+1501112002, kemantan kebalai
+1501112003, kemantan darat
+1501112004, sungaiabu
+1501112005, pondok sungaiabu
+1501112006, koto tebat
+1501112007, sungaimedang
+1501112008, air hangat
+1501112009, baru sungai tutung
+1501112010, pungut tengah
+1501112011, pungut hilir
+1501112012, pungut mudik
+1501112014, kemantan hilir
+1501112015, sungaitutung
+1501112018, kemantan agung
+1501112019, sungaideras
+1501112020, kemantan mudik
+1501112021, simpang empat sungai tutung
+1501112022, baru sungaideras
+1501112023, taman jernih sungaitutung
+1501112024, baru sungaimedang
+1501112025, kemantan raya
+1501112026, baru air hangat
+1501112027, air panas sungaiabu
+1501112028, baru sungaiabu

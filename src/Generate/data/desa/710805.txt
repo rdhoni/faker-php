@@ -1,0 +1,15 @@
+7108052001, solo
+7108052002, boroko
+7108052003, bigo
+7108052004, kuala
+7108052005, pontak
+7108052006, inomunga
+7108052007, komus ii
+7108052008, boroko timur
+7108052009, kuala utara
+7108052010, gihang
+7108052011, boroko utara
+7108052012, bigo selatan
+7108052013, soligir
+7108052014, inomunga utara
+7108052015, komus dua timur

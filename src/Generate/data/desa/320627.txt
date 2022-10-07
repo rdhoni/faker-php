@@ -1,0 +1,16 @@
+3206272001, kersamaju
+3206272002, nangtang
+3206272003, pusparaja
+3206272004, jayapura
+3206272005, lengkongjaya
+3206272006, nangerang
+3206272007, sukamanah
+3206272008, sirnaraja
+3206272009, cidugaleun
+3206272010, parentas
+3206272011, puspamukti
+3206272012, tenjonagara
+3206272013, cigalontang
+3206272014, sirnagalih
+3206272015, tanjungkarang
+3206272016, sirnaputra

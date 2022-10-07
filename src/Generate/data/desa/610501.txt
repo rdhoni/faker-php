@@ -1,0 +1,29 @@
+6105011001, ladang
+6105011002, kapuas kanan hulu
+6105011003, tanjung puri
+6105011004, kapuas kanan hilir
+6105011005, kapuas kiri hilir
+6105011006, kapuas kiri hulu
+6105011016, akcaya
+6105011017, alai
+6105011018, rawa mambok
+6105011019, sengkuang
+6105011020, mengkurai
+6105011021, kedabang
+6105011022, mekar jaya
+6105011023, batu lalau
+6105011024, menyumbung tengah
+6105011025, ulak jaya
+6105012007, baning kota
+6105012008, tertung
+6105012009, mungguk bantok
+6105012010, teluk kelansam
+6105012011, sungai ana
+6105012012, merti guna
+6105012013, tanjung kelansam
+6105012014, anggah jaya
+6105012015, lalang baru
+6105012026, tebing raya
+6105012027, mail jampong
+6105012028, jerora satu
+6105012029, kebiau baru

@@ -1,0 +1,16 @@
+1404151002, pelangiran
+1404152001, rotan semelur
+1404152003, simpang kateman
+1404152004, tanjungsimpang
+1404152005, baung rejo jaya
+1404152006, tagagiri tama jaya
+1404152007, pinang jaya
+1404152008, wonosari
+1404152009, tegal rejo
+1404152010, intan mulia jaya
+1404152011, saka palas jaya
+1404152012, catur karya
+1404152013, bagan jaya
+1404152014, telukbunian
+1404152015, terusan beringin jaya
+1404152016, hidayah

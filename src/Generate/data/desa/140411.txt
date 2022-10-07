@@ -1,0 +1,13 @@
+1404111001, sungaipiring
+1404112002, sungailuar
+1404112003, sungaidusun
+1404112004, sungaijunjangan
+1404112005, sungairaya
+1404112006, kuala sebatu
+1404112007, tanjungsiantar
+1404112008, sungairawa
+1404112009, sialang jaya
+1404112010, gemilang jaya
+1404112011, tasik raya
+1404112012, pasir emas
+1404112013, simpang jaya

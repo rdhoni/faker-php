@@ -1,0 +1,24 @@
+920601, bintuni
+920602, merdey
+920603, babo
+920604, aranday
+920605, moskona selatan
+920606, moskona utara
+920607, wamesa
+920608, fafurwar
+920609, tembuni
+920610, kuri
+920611, manimeri
+920612, tuhiba
+920613, dataran beimes
+920614, sumuri
+920615, kaitaro
+920616, aroba
+920617, masyeta
+920618, biscoop
+920619, tomu
+920620, kamundan
+920621, weriagar
+920622, moskona barat
+920623, meyado
+920624, moskona timur

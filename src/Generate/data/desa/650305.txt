@@ -1,0 +1,23 @@
+6503052002, pa\ padi
+6503052003, cinglat
+6503052022, liang butan
+6503052029, pa\ rupai
+6503052030, ba sikor
+6503052031, pa\ nado
+6503052032, buduk kinangan
+6503052033, liang tuer
+6503052034, buduk tumu
+6503052035, long berayang
+6503052036, pa\ api
+6503052037, pa\ sire
+6503052038, wa\ yanud
+6503052039, long nawang
+6503052040, long katung
+6503052041, long bawan
+6503052044, long matung
+6503052045, long rupan
+6503052046, liang biadung
+6503052047, wa\ laya
+6503052048, pa\ matung
+6503052049, pa\ terutun
+6503052065, pa\ putuk

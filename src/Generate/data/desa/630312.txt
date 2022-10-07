@@ -1,0 +1,15 @@
+6303122001, baru
+6303122002, bawahan pasar
+6303122003, bawahan seberang
+6303122004, pematang danau
+6303122005, surian
+6303122006, mataraman
+6303122007, simpang tiga
+6303122008, bawahan selan
+6303122009, takuti
+6303122010, pasiraman
+6303122011, lok tamu
+6303122012, sungai jati
+6303122013, mangkalawat
+6303122014, gunung ulin
+6303122015, tanah abang

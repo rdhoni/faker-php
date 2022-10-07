@@ -1,0 +1,39 @@
+1213011011, kota siantar
+1213011014, kayu jati
+1213011022, pasar hilir
+1213011023, pidoli dolok
+1213011031, panyabungan ii
+1213011032, panyabungan iii
+1213011033, panyabungan i
+1213011035, sipolu-polu
+1213011036, dalan lidang
+1213012001, adian jior
+1213012002, aek banir
+1213012003, aek mata
+1213012004, darussalam
+1213012005, gunung barani
+1213012006, gunung manaon
+1213012007, gunung tua jae
+1213012008, gunung tua julu
+1213012009, gunung tua tonga
+1213012010, huta lombang lubis
+1213012012, ipar bondar
+1213012013, kampung padang
+1213012015, lumban pasir
+1213012016, manyabar
+1213012017, pagaran tonga
+1213012018, panyabungan jae
+1213012019, panyabungan julu
+1213012020, panyabungan tonga
+1213012021, perbangunan
+1213012024, pidoli lombang
+1213012025, salam bue
+1213012026, sarak matua
+1213012027, sigalapang julu
+1213012028, siobon julu
+1213012029, sipapaga
+1213012030, sopobatu
+1213012037, siobon jae
+1213012038, panggorengan
+1213012039, saba jambu
+1213012040, manyabar jae

@@ -1,0 +1,9 @@
+1813102001, negeri ratu ngaras
+1813102003, kota batu
+1813102004, mulang maya
+1813102005, rajabasa
+1813102006, pardasuka
+1813102017, padang alam
+1813102018, suka maju
+1813102019, sukarame
+1813102020, bandar jaya

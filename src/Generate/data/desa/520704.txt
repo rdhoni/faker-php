@@ -1,0 +1,7 @@
+5207042001, sekongkang atas
+5207042002, sekongkang bawah
+5207042003, tongo
+5207042004, ai kangkung
+5207042005, tatar
+5207042006, talonang baru
+5207042007, kemuning

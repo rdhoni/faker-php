@@ -1,0 +1,24 @@
+1221042001, janji matogu
+1221042002, pagaran silindung
+1221042003, tangga bosi
+1221042004, hutaibus
+1221042005, pagaran jalu-jalu
+1221042006, hutanopan
+1221042007, pasar latong
+1221042008, pagaran jae batu
+1221042009, aek lancat
+1221042010, batang tanggal baru
+1221042011, bonal
+1221042012, pagaran malaka
+1221042013, huta dolok
+1221042014, gunung manobot
+1221042015, batang bulu jae
+1221042016, suro dingin
+1221042017, janji lobi lima
+1221042018, sangkilon
+1221042019, siali-ali
+1221042020, huta lombang
+1221042021, pagaran mompang
+1221042022, parsombaan
+1221042023, sihiuk
+1221042024, batang bulu tanggal

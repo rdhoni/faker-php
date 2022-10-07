@@ -1,0 +1,10 @@
+7105122001, tumpaan satu
+7105122002, tumpaan
+7105122003, matani
+7105122004, popontolen
+7105122005, lelema
+7105122006, tangkunei
+7105122007, munte
+7105122016, tumpaan baru
+7105122017, matani satu
+7105122018, tumpan dua

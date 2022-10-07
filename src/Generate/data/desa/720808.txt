@@ -1,0 +1,18 @@
+7208082001, kasimbar
+7208082002, posona
+7208082003, laemanta
+7208082004, donggulu
+7208082005, kasimbar selatan
+7208082006, kasimbar barat
+7208082007, silampayang
+7208082008, tovalo
+7208082009, donggulu selatan
+7208082010, labuan donggulu
+7208082011, kasimbar palapi
+7208082012, peningka
+7208082013, laemanta utara
+7208082014, agodopi kasimbar
+7208082015, sendana
+7208082016, kasimbar utara
+7208082017, posona atas
+7208082018, sumber tani

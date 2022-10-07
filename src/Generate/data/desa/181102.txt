@@ -1,0 +1,20 @@
+1811022001, talang batu
+1811022002, sungai cambai
+1811022003, tanjung mas makmur
+1811022004, margo jadi
+1811022005, tanjung meneng
+1811022006, eka mulya
+1811022007, wono sari
+1811022008, dwi karya mustika
+1811022009, pangkal mas jaya
+1811022010, pangkal mas mulya
+1811022011, tanjung mas mulya
+1811022012, muara mas
+1811022013, tanjung mas jaya
+1811022014, margo jaya
+1811022015, pangkal mas
+1811022016, tanjung menang raya
+1811022017, tebing karya mandiri
+1811022018, tanjung mas rejo
+1811022019, margo mulyo
+1811022020, muara asri

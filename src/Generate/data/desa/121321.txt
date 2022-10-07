@@ -1,0 +1,8 @@
+1213212001, pakantan dolok
+1213212002, pakantan lombang
+1213212003, huta gambir
+1213212004, huta lancat
+1213212005, huta julu
+1213212006, huta toras
+1213212007, huta padang
+1213212008, silogun

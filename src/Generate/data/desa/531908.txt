@@ -1,0 +1,18 @@
+5319082001, watu arus
+5319082002, arus
+5319082003, golo lero
+5319082004, rengkam
+5319082005, compang wunis
+5319082006, benteng rampas
+5319082007, ngkiong dora
+5319082008, ulu wae
+5319082009, rende nao
+5319082010, wangkar weli
+5319082011, tango molas
+5319082012, urung dora
+5319082013, compang raci
+5319082014, wejang mawe
+5319082015, bangka arus
+5319082016, colol
+5319082017, benteng wunis
+5319082018, wejang mali

@@ -1,0 +1,17 @@
+1115012003, lawa batu
+1115012004, jogja
+1115012019, ujong sikuneng
+1115012020, blang muko
+1115012021, pulo ie
+1115012022, purworejo
+1115012023, blang baro
+1115012024, alue ie mameh
+1115012025, ujong pasi
+1115012026, simpang peut
+1115012027, blang teungoh
+1115012028, ujong padang
+1115012029, cot kumbang
+1115012030, blang bintang
+1115012031, ujong patihah
+1115012032, kuta makmue
+1115012033, gunong reubo

@@ -1,0 +1,16 @@
+1611052001, umo jati
+1611052002, tanjung jati
+1611052003, pagar jati
+1611052004, nibung
+1611052005, batu ampar
+1611052006, karang tanding
+1611052007, lubuk cik
+1611052008, rantau kasai
+1611052009, sukarami
+1611052010, rantau aleh
+1611052011, tanjung alam
+1611052012, lesung batu
+1611052013, babatan
+1611052014, muara danau
+1611052015, endalo
+1611052016, lubuk tapang

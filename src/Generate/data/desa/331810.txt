@@ -1,0 +1,29 @@
+3318101005, pati wetan
+3318101007, pati kidul
+3318101012, pati lor
+3318101013, parenggan
+3318101015, kalidoro
+3318102001, panjunan
+3318102002, gajahmati
+3318102003, mustokoharjo
+3318102004, semampir
+3318102006, blaru
+3318102008, plangitan
+3318102009, puri
+3318102010, winong
+3318102011, ngarus
+3318102014, sidoharjo
+3318102016, sarirejo
+3318102017, geritan
+3318102018, dengkek
+3318102019, sugiharjo
+3318102020, widorokandang
+3318102021, payang
+3318102022, kutoharjo
+3318102023, sidokerto
+3318102024, mulyoharjo
+3318102025, tambaharjo
+3318102026, tambahsari
+3318102027, ngepungrojo
+3318102028, purworejo
+3318102029, sinoman

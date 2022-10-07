@@ -1,0 +1,20 @@
+6112062001, kubu
+6112062002, olak-olak kubu
+6112062003, sungai selamat
+6112062004, sungai bemban
+6112062005, pinang luar
+6112062006, seruat dua
+6112062007, seruat tiga
+6112062008, dabong
+6112062009, ambawang
+6112062010, sepakat baru
+6112062011, kampung baru
+6112062012, air putih
+6112062013, teluk nangka
+6112062014, jangkang satu
+6112062015, jangkang dua
+6112062016, pinang dalam
+6112062017, sungai terus
+6112062018, pelita jaya
+6112062019, mengkalang
+6112062020, mengkalang jambu

@@ -1,0 +1,20 @@
+3527052001, kebun sareh
+3527052002, karangnangger
+3527052003, rapa laok
+3527052004, rapa daya
+3527052005, astapah
+3527052006, sogian
+3527052007, gersempal
+3527052008, temoran
+3527052009, meteng
+3527052010, madulang
+3527052011, kamondung
+3527052012, omben
+3527052013, tambak
+3527052014, angsokah
+3527052015, jranguan
+3527052016, rongdalam
+3527052017, napo laok
+3527052018, napo daya
+3527052019, karanggayam
+3527052020, pandan

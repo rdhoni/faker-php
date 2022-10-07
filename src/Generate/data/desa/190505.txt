@@ -1,0 +1,9 @@
+1905052001, tempilang
+1905052002, tanjung niur
+1905052003, sangku
+1905052004, buyan kelumbi
+1905052005, penyampak
+1905052006, benteng kota
+1905052007, air lintang
+1905052008, sinar surya
+1905052009, simpang yul

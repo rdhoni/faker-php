@@ -1,0 +1,12 @@
+1213192001, bangun sejati
+1213192002, hutarimbaru
+1213192003, pasar huta bargot
+1213192004, huta bargot lombang
+1213192005, huta bargot dolok
+1213192006, huta bargot setia
+1213192007, huta bargot nauli
+1213192008, mondan
+1213192009, sayur maincat
+1213192010, kumpulan setia
+1213192011, simalagi
+1213192012, saba padang

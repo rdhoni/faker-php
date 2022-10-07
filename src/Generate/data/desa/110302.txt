@@ -1,0 +1,37 @@
+1103022001, blang keumahang
+1103022002, blang jambee
+1103022003, keumuneng
+1103022004, ladang baro
+1103022005, buket panyang
+1103022006, seuneubok  rambong
+1103022007, seuneubok  baro
+1103022008, blang mideun
+1103022009, paya bakong
+1103022010, teupin raya
+1103022011, lhok rambong
+1103022012, julok tunong
+1103022013, ulee ateung
+1103022014, ulee blang
+1103022015, labuhan
+1103022016, naleung
+1103022017, mane rampak
+1103022018, matang
+1103022019, blang uyok
+1103022020, blang pauh sa
+1103022021, blang pauh dua
+1103022022, ulee tanoh
+1103022023, keude kuta binjei
+1103022024, bukit seroja
+1103022025, kuala geulumpang
+1103022026, gampong baro
+1103022027, tumpok teungoh
+1103022028, seumatang
+1103022029, ujong tunong
+1103022030, bukit dindeng
+1103022031, paya pasi
+1103022032, alue cek doi
+1103022033, blang gleum
+1103022034, tanjong tok blang
+1103022035, buket makmu
+1103022036, lhok seuntang
+1103022037, simpang lhee

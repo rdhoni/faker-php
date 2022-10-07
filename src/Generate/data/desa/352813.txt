@@ -1,0 +1,9 @@
+3528132001, sana tengah
+3528132002, sana dajah
+3528132003, tagangser dajah
+3528132004, sotabar
+3528132005, tlonto raja
+3528132006, dempo barat
+3528132007, dempo timur
+3528132008, bindang
+3528132009, batukerbuy

@@ -1,0 +1,13 @@
+1406082001, rambah hilir
+1406082002, rambah hilir tengah
+1406082003, rambah hilir timur
+1406082004, pasir utama
+1406082005, pasir jaya
+1406082006, rambah muda
+1406082007, sungai sitolang
+1406082008, lubuk kerapat
+1406082009, rambah
+1406082010, serombou indah
+1406082011, sungai dua indah
+1406082012, muara musu
+1406082013, sejati

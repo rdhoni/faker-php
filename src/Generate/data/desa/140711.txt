@@ -1,0 +1,6 @@
+1407111001, simpang kanan
+1407112002, kota parit
+1407112003, bagan nibung
+1407112004, bukit damar
+1407112005, bukit mas
+1407112006, bukit selamat

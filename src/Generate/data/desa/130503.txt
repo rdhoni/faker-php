@@ -1,0 +1,9 @@
+1305032001, kapalo koto
+1305032002, pauh kambar
+1305032003, padang bintungan
+1305032004, kurai taji
+1305032005, sunua
+1305032006, padang kandang pulau air padang
+1305032007, sunua tengah
+1305032008, sunua barat
+1305032009, kurai taji timur

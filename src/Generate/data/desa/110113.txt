@@ -1,0 +1,13 @@
+1101132001, koto
+1101132002, alur keujrun
+1101132003, jambo papan
+1101132004, malaka
+1101132005, koto indarung
+1101132006, siurai-urai
+1101132007, kampung sawah
+1101132008, kampung padang
+1101132009, pulo air
+1101132010, lawe melang
+1101132011, mersak
+1101132012, simpang dua
+1101132013, simpang tiga

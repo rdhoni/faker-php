@@ -1,0 +1,14 @@
+5201011001, gerung utara
+5201011004, dasan geres
+5201011011, gerung selatan
+5201012002, kebon ayu
+5201012003, gapuk
+5201012005, suka makmur
+5201012006, banyu urip
+5201012007, babussalam
+5201012008, dasan tapen
+5201012009, beleke
+5201012010, tempos
+5201012012, mesanggok
+5201012013, taman ayu
+5201012014, giri tembesi

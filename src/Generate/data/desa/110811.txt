@@ -1,0 +1,38 @@
+1108112001, bale
+1108112002, bie
+1108112003, beurandang
+1108112004, baro kulam gajah
+1108112005, glong
+1108112006, nibong
+1108112007, langa
+1108112008, beunot
+1108112009, keude bayu
+1108112010, blang bayu
+1108112011, dayah tuha
+1108112012, dayah baro
+1108112013, lancok
+1108112014, punti
+1108112015, bungong
+1108112016, baroh blang rimueng
+1108112017, ulee meuria
+1108112018, kayee panyang
+1108112019, rheng
+1108112020, trieng meudurou
+1108112021, ulee gampong
+1108112022, garut
+1108112023, blang awe
+1108112024, pulo blang mangat
+1108112025, cibrek
+1108112026, pulo blang trieng
+1108112027, meudang ara
+1108112028, cot neuheun
+1108112029, tumpeun
+1108112030, alen
+1108112031, dayah blang seureukuy
+1108112032, blang patra
+1108112033, blang majron
+1108112034, seuneubok  baro
+1108112035, buket glumpang
+1108112037, alue majron
+1108112038, siren tujoh
+1108112047, blang seureukuy

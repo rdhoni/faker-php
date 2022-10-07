@@ -1,0 +1,14 @@
+6304062001, terantang
+6304062002, tanipah
+6304062003, puntik luar
+6304062004, puntik dalam
+6304062005, tabing rimbah
+6304062006, pantai hambawang
+6304062009, tatah alayung
+6304062011, puntik tengah
+6304062014, lokrawa
+6304062015, sei ramania
+6304062016, bangkit baru
+6304062017, antasan segera
+6304062020, karang bunga
+6304062021, karang indah

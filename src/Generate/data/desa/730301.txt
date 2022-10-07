@@ -1,0 +1,11 @@
+7303011001, bonto manai
+7303011002, bonto lebang
+7303011003, bonto sunggu
+7303011004, bonto atu
+7303011005, bonto rita
+7303011006, bonto langkasa
+7303011007, bonto jaya
+7303012008, bonto jai
+7303012009, bonto cinde
+7303012010, bonto loe
+7303012012, bonto salluang

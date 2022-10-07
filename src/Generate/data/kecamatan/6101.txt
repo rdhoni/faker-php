@@ -1,0 +1,19 @@
+610101, sambas
+610102, teluk keramat
+610103, jawai
+610104, tebas
+610105, pemangkat
+610106, sejangkung
+610107, selakau
+610108, paloh
+610109, sajingan besar
+610110, subah
+610111, galing
+610112, tekarang
+610113, semparuk
+610114, sajad
+610115, sebawi
+610116, jawai selatan
+610117, tangaran
+610118, salatiga
+610119, selakau timur

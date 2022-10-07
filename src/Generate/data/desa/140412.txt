@@ -1,0 +1,16 @@
+1404121006, kuala lahang
+1404122001, terusan kempas
+1404122002, lahang baru
+1404122003, simpang gaung
+1404122004, belantaraya
+1404122005, sungaibaru
+1404122007, lahang tengah
+1404122008, lahang hulu
+1404122009, pungkat
+1404122010, jerambang
+1404122011, telukkabung
+1404122012, gembira
+1404122013, semambu kuning
+1404122014, telukmerbau
+1404122015, soren
+1404122016, pintasan

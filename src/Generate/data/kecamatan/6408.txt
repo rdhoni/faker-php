@@ -1,0 +1,18 @@
+640801, muara ancalong
+640802, muara wahau
+640803, muara bengkal
+640804, sangatta utara
+640805, sangkulirang
+640806, busang
+640807, telen
+640808, kombeng
+640809, bengalon
+640810, kaliorang
+640811, sandaran
+640812, sangatta selatan
+640813, teluk pandan
+640814, rantau pulung
+640815, kaubun
+640816, karangan
+640817, batu ampar
+640818, long mesangat

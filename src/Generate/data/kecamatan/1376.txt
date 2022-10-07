@@ -1,0 +1,5 @@
+137601, payakumbuh barat
+137602, payakumbuh utara
+137603, payakumbuh timur
+137604, lamposi tigo nagori
+137605, payakumbuh selatan

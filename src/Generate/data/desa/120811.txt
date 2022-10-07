@@ -1,0 +1,20 @@
+1208111018, pematang tanah jawa
+1208112001, tanjung pasir
+1208112002, totap majawa
+1208112003, balimbingan
+1208112004, baja dolok
+1208112005, bosar galugur
+1208112006, bah jambi ii
+1208112007, bah kisat
+1208112008, panembean marjanji
+1208112009, muara mulia
+1208112010, pardamean asih
+1208112011, mekar mulia
+1208112012, maligas tonga
+1208112013, marubun jaya
+1208112014, pagar jambi
+1208112015, baliju
+1208112016, bayu bagasan
+1208112017, bah jambi iii
+1208112019, parbalogan
+1208112020, marubun bayu

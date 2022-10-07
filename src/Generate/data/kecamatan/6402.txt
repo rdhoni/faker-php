@@ -1,0 +1,18 @@
+640201, muara muntai
+640202, loa kulu
+640203, loa janan
+640204, anggana
+640205, muara badak
+640206, tenggarong
+640207, sebulu
+640208, kota bangun
+640209, kenohan
+640210, kembang janggut
+640211, muara kaman
+640212, tabang
+640213, samboja
+640214, muara jawa
+640215, sanga sanga
+640216, tenggarong seberang
+640217, marang kayu
+640218, muara wis

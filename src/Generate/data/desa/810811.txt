@@ -1,0 +1,8 @@
+8108112001, herley
+8108112002, upuhupun
+8108112003, pota besar
+8108112004, pota kecil
+8108112005, wasarili
+8108112006, rumahlewang kecil
+8108112007, rumahlewang besar
+8108112008, nusiata

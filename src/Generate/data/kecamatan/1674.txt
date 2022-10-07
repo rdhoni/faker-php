@@ -1,0 +1,6 @@
+167401, prabumulih barat
+167402, prabumulih timur
+167403, cambai
+167404, rambang kpk tengah
+167405, prabumulih utara
+167406, prabumulih selatan

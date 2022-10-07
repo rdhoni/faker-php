@@ -1,0 +1,31 @@
+1221052001, simangambat
+1221052002, sigala-gala
+1221052003, tanjung ale
+1221052004, lubuk bunut
+1221052005, ujung padang
+1221052006, tanjung baringin
+1221052007, sibodak sosa jae
+1221052008, parmainan
+1221052009, pagaran dolok sosa jae
+1221052010, aliaga
+1221052011, mananti sosa jae
+1221052012, panyabungan
+1221052013, pasar panyabungan
+1221052014, sigalapung
+1221052015, siabu
+1221052016, paya ombur
+1221052017, hutaraja tinggi
+1221052018, sungai korang
+1221052019, ujung batu i
+1221052020, ujung batu ii
+1221052021, ujung batu iii
+1221052022, ujung batu iv
+1221052023, ujung batu v
+1221052024, pir trans sosa i a
+1221052025, pir trans sosa i b
+1221052026, pir trans sosa iii a
+1221052027, pir trans sosa iii b
+1221052028, pir trans sosa ii
+1221052029, pir trans sosa iv
+1221052030, pir trans sosa v
+1221052031, pir trans sosa vi

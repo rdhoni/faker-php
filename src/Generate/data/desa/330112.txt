@@ -1,0 +1,14 @@
+3301122001, cidadap
+3301122002, pangawaren
+3301122003, gunungtelu
+3301122004, sindangbarang
+3301122005, karangpucung
+3301122006, ciporos
+3301122007, tayem
+3301122008, bengbulang
+3301122009, surusunda
+3301122010, babakan
+3301122011, ciruyung
+3301122012, pamulihan
+3301122013, tayem timur
+3301122014, sidamulya

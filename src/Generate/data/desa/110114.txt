@@ -1,0 +1,9 @@
+1101142001, paya dapur
+1101142002, sapik
+1101142003, alai
+1101142004, durian kawan
+1101142005, lawe sawah
+1101142006, lawe buluh didi
+1101142007, pucuk lembang
+1101142008, paya laba
+1101142009, lawe cimanok

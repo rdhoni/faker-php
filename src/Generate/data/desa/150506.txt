@@ -1,0 +1,18 @@
+1505062001, pudak
+1505062002, muara kumpeh
+1505062003, kota karang
+1505062004, kasang lopak alai
+1505062005, kasang pudak
+1505062008, solok
+1505062009, sakean
+1505062010, lopak alai
+1505062011, tarikan
+1505062012, ramin
+1505062013, teluk raya
+1505062014, pemunduran
+1505062015, sipin teluk duren
+1505062016, arang arang
+1505062017, sumber jaya
+1505062018, sungai terap
+1505062023, kasang kumpeh
+1505062024, kasang kota karang

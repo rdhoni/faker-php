@@ -1,0 +1,27 @@
+1105072001, arongan
+1105072002, alue bagok
+1105072003, alue sundak
+1105072004, alue batee
+1105072005, cot buloh
+1105072006, cot kumbang
+1105072007, cot juru mudi
+1105072008, drien rampak
+1105072009, kubu
+1105072010, keub
+1105072011, pante mutia
+1105072012, peribu
+1105072013, panton makmu
+1105072014, panton bahagia
+1105072015, peulanteu lb
+1105072016, rimba langgeh
+1105072017, suak keumudee
+1105072018, seuneubok lhong
+1105072019, suak ie beuso
+1105072020, suak bidok
+1105072021, simpang peut
+1105072022, seuneubok teungoh
+1105072023, teupin peraho
+1105072024, ujong beusa
+1105072025, ujong simpang
+1105072026, gunong pulo
+1105072027, karang hampa

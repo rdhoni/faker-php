@@ -1,0 +1,11 @@
+3205232001, banjarwangi
+3205232002, talagajaya
+3205232003, padahurip
+3205232004, kadongdong
+3205232005, talagasari
+3205232006, jayabakti
+3205232007, mulyajaya
+3205232008, dangiang
+3205232009, tanjungjaya
+3205232010, bojong
+3205232011, wangunjaya

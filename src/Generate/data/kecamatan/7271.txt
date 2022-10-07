@@ -1,0 +1,8 @@
+727101, palu timur
+727102, palu barat
+727103, palu selatan
+727104, palu utara
+727105, ulujadi
+727106, tatanga
+727107, tawaeli
+727108, mantikulore

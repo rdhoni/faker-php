@@ -1,0 +1,20 @@
+7208102001, tada
+7208102002, sinei
+7208102003, maninili
+7208102004, sigenti
+7208102005, malanggo
+7208102006, silutung
+7208102007, tada selatan
+7208102008, sigega bersehati
+7208102009, siaga
+7208102010, khatulistiwa
+7208102011, poly
+7208102012, sigenti selatan
+7208102013, tada timur
+7208102014, sigenti barat
+7208102015, malanggo pesisir
+7208102016, maninili barat
+7208102017, maninili utara
+7208102018, siney tengah
+7208102019, tada utara
+7208102020, oncone raya

@@ -1,0 +1,13 @@
+3526172001, bandung
+3526172002, konang
+3526172003, genteng
+3526172004, pakes
+3526172005, cangkareman
+3526172006, sen asen
+3526172007, sambiyan
+3526172008, campor
+3526172009, galis dajah
+3526172010, kanegarah
+3526172011, durin barat
+3526172012, durin timur
+3526172013, batokaban

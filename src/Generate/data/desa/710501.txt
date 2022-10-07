@@ -1,0 +1,10 @@
+7105012001, sinisir
+7105012002, kakenturan
+7105012003, palelon
+7105012004, pinasungkulan
+7105012005, wulurmaatus
+7105012006, makaaruyen
+7105012007, linelean
+7105012008, mokobang
+7105012009, kakenturan barat
+7105012010, pinasungkulan utara

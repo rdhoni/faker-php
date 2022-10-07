@@ -1,0 +1,5 @@
+1572011001, sungai penuh
+1572011003, pasar sungai penuh
+1572012004, pasar baru
+1572012006, gedang
+1572012014, amar sakti

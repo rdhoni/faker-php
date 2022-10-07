@@ -1,0 +1,15 @@
+6104082001, balai pinang
+6104082002, semandang kiri
+6104082003, kualan hulu
+6104082005, semandang hulu
+6104082006, merawa
+6104082009, kualan tengah
+6104082010, kualan hilir
+6104082011, sekucing labai
+6104082012, paoh concong
+6104082013, legong
+6104082014, kenanga
+6104082015, balai pinang hulu
+6104082016, sekucing kualan
+6104082017, labai hilir
+6104082018, botuh bosi

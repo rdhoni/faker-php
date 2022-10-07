@@ -1,0 +1,17 @@
+6106092001, gudang hulu
+6106092002, gudang hilir
+6106092003, dalam
+6106092004, nibung
+6106092005, piasak hilir
+6106092006, engkerengas
+6106092007, gerayau
+6106092008, benuis
+6106092012, titian kuala
+6106092013, sekubah
+6106092014, piasak hulu
+6106092015, sekulat
+6106092016, nanga leboyan
+6106092017, vega
+6106092018, mawan
+6106092019, semalah
+6106092020, tempurau

@@ -1,0 +1,11 @@
+6301112001, handil babirik
+6301112002, kurau utara
+6301112003, bumi harapan
+6301112004, sungai rasau
+6301112005, pantai harapan
+6301112006, handil suruk
+6301112007, handil gayam
+6301112008, handil birayang atas
+6301112009, handil birayang bawah
+6301112010, handil maluka
+6301112011, handil labuan amas

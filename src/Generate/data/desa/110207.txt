@@ -1,0 +1,28 @@
+1102072001, gulo
+1102072002, pulo piku
+1102072003, terutung kute
+1102072004, kute ujung
+1102072005, lawe stul
+1102072006, kite merangun
+1102072007, mamas
+1102072008, tanjung lama
+1102072009, tanjung muda
+1102072010, rambung teldak
+1102072011, tanjung aman
+1102072012, sri muda
+1102072013, ujung baru
+1102072014, kute rambe
+1102072015, mamas baru
+1102072016, rambung jaya
+1102072017, makmur jaya
+1102072018, darul makmur
+1102072019, tanjung bakhu
+1102072020, pulo gabung
+1102072021, kokhtan jaya
+1102072022, istiqamah
+1102072023, lawe mamas indah
+1102072024, tanjung leuser
+1102072025, simpang iv tanjung
+1102072026, lawe pinis
+1102072027, buntul kendawi
+1102072028, kuning abadi

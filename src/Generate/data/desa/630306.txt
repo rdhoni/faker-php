@@ -1,0 +1,26 @@
+6303062001, kiram
+6303062002, mandiangin barat
+6303062003, karang intan
+6303062004, pandak daun
+6303062005, jingah habang hulu
+6303062006, mali mali
+6303062007, lok tangga
+6303062008, lihung
+6303062009, bi ih
+6303062010, penyambaran
+6303062011, sungai alang
+6303062012, sungai asam
+6303062013, mandikapau timur
+6303062014, awang bangkal barat
+6303062015, awang bangkal timur
+6303062016, sungai besar
+6303062017, mandiangin timur
+6303062018, pasar lama
+6303062019, jingah habang ilir
+6303062020, sungai arfat
+6303062021, padang panjang
+6303062022, sungai landas
+6303062023, abirau
+6303062024, pulau nyiur
+6303062025, mandi kapau barat
+6303062026, balau

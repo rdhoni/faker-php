@@ -1,0 +1,13 @@
+3311012001, grogol
+3311012002, karangtengah
+3311012003, karangwuni
+3311012004, krajan
+3311012005, jatingarang
+3311012006, karanganyar
+3311012007, alasombo
+3311012008, karangmojo
+3311012009, weru
+3311012010, karakan
+3311012011, tegalsari
+3311012012, tawang
+3311012013, ngreco

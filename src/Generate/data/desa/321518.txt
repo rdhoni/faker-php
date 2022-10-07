@@ -1,0 +1,13 @@
+3215182001, sukamerta
+3215182002, kutawargi
+3215182003, panyingkiran
+3215182004, pasirkaliki
+3215182005, pasirawi
+3215182006, balongsari
+3215182007, mekarjaya
+3215182008, sekarwangi
+3215182009, purwamekar
+3215182010, sukapura
+3215182011, cibadak
+3215182012, sukaraja
+3215182014, gombongsari

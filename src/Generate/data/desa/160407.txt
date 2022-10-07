@@ -1,0 +1,22 @@
+1604072001, bangke
+1604072002, tebat langsat
+1604072003, singapure
+1604072004, gunung liwat
+1604072005, kebun jati
+1604072006, bintuhan
+1604072007, mutar alam baru
+1604072008, pandan arang ulu
+1604072009, mutar alam lama
+1604072010, tanjung raman
+1604072011, tunggul bute
+1604072012, karang endah
+1604072013, karang agung
+1604072014, suka raja
+1604072015, gedung agung
+1604072016, kota agung
+1604072017, lawang agung
+1604072018, sukarami
+1604072019, tanjung beringin
+1604072020, pagaruyung
+1604072031, muara gula
+1604072032, tanjung bulan

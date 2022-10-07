@@ -1,0 +1,7 @@
+5103042001, carangsari
+5103042002, petang
+5103042003, belok/sidan
+5103042004, pelaga
+5103042005, getasan
+5103042006, pangsan
+5103042007, sulangai

@@ -1,0 +1,10 @@
+1605182001, lubuk besar
+1605182002, batu bandung
+1605182003, rantau bingin
+1605182004, rantau serik
+1605182005, muara kati lama
+1605182006, muara kati baru i
+1605182007, muara kati baru ii
+1605182008, kebur
+1605182009, simpang gegas temuan
+1605182010, kebur jaya

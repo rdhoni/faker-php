@@ -1,0 +1,10 @@
+3201251010, cisarua
+3201252001, batulayang
+3201252002, jogjogan
+3201252003, cibeureum
+3201252004, cilember
+3201252005, citeko
+3201252006, tugu selatan
+3201252007, leuwimalang
+3201252008, kopo
+3201252009, tugu utara

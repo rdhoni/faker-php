@@ -1,0 +1,17 @@
+3513102001, ranon
+3513102002, kedungsumur
+3513102003, gunggungan kidul
+3513102004, gunggungan lor
+3513102005, petemon kulon
+3513102006, pakuniran
+3513102007, alaspandan
+3513102008, sumberkembar
+3513102009, sogaan
+3513102010, glagah
+3513102011, bucor kulon
+3513102012, bucor wetan
+3513102013, bimo
+3513102014, kertonegoro
+3513102015, gondosuli
+3513102016, kalidandan
+3513102017, blimbing

@@ -1,0 +1,8 @@
+1871041001, panjang selatan
+1871041002, srengsem
+1871041003, panjang utara
+1871041004, pidada
+1871041007, karang maritim
+1871041008, way lunik
+1871041009, ketapang
+1871041010, ketapang kuala

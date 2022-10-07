@@ -1,0 +1,15 @@
+6304032001, andaman
+6304032002, hilir mesjid
+6304032003, anjir pasar kota
+6304032004, banyiur
+6304032005, gandaraya
+6304032006, gandaria
+6304032007, anjir pasar kota ii
+6304032008, andaman ii
+6304032009, anjir seberang pasar ii
+6304032010, anjir seberang pasar i
+6304032011, anjir pasar lama
+6304032012, pandan sari
+6304032013, mentaren
+6304032014, barunai baru
+6304032015, danau karya

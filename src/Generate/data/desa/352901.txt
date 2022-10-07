@@ -1,0 +1,16 @@
+3529011015, kepanjin
+3529011016, pajagalan
+3529011017, bangselok
+3529011018, karangduak
+3529012005, kolor
+3529012006, pabian
+3529012007, marengan daya
+3529012008, kacongan
+3529012009, paberasan
+3529012010, parsanga
+3529012011, bangkal
+3529012012, kebunan
+3529012013, pamolokan
+3529012014, pangarangan
+3529012019, pandian
+3529012020, kebunagung

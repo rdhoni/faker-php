@@ -1,0 +1,15 @@
+810501, bula
+810502, seram timur
+810503, werinama
+810504, pulau gorom
+810505, wakate
+810506, tutuk tolu
+810507, siwalalat
+810508, kilmury
+810509, pulau panjang
+810510, teor
+810511, gorom timur
+810512, bula barat
+810513, kian darat
+810514, siritaun wida timur
+810515, teluk waru

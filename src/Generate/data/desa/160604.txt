@@ -1,0 +1,16 @@
+1606042001, bukit sejahtera
+1606042002, bukit pangkuasan
+1606042003, tanah abang
+1606042004, talang leban
+1606042005, talang buluh
+1606042006, lubuk buah
+1606042007, sungai napal
+1606042008, lubuk bintialo
+1606042009, sako suban
+1606042010, bukit selabu
+1606042011, saut
+1606042012, tanjung bali
+1606042013, pinggap
+1606042014, pengaturan
+1606042015, ulak kembang
+1606042016, pangkalan bulian

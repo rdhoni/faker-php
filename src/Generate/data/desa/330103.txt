@@ -1,0 +1,16 @@
+3301032001, welahan wetan
+3301032002, glempangpasir
+3301032003, pedasong
+3301032004, karangbenda
+3301032005, karanganyar
+3301032006, bunton
+3301032007, wlahar
+3301032008, penggalang
+3301032009, adipala
+3301032010, adireja kulon
+3301032011, adireja wetan
+3301032012, adiraja
+3301032013, doplang
+3301032014, kalikudi
+3301032015, karangsari
+3301032016, gombolharjo

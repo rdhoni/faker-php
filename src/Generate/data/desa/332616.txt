@@ -1,0 +1,16 @@
+3326161010, gumawang
+3326161011, kepatihan
+3326161012, mayangan
+3326161013, pekuncen
+3326161014, bener
+3326162001, kadipaten
+3326162002, delegtukang
+3326162003, karangjati
+3326162004, petukangan
+3326162005, wiradesa
+3326162006, warukidul
+3326162007, bondansari
+3326162008, warulor
+3326162009, kampil
+3326162015, kemplong
+3326162016, kauman

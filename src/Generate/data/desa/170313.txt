@@ -1,0 +1,10 @@
+1703132003, tanjungalai
+1703132004, jabi
+1703132005, napal putih
+1703132006, air tenang
+1703132007, teluk anggung
+1703132008, tanjung kemenyan
+1703132009, muara santan
+1703132016, lebong tandai
+1703132019, gembung raya
+1703132020, kinal jaya

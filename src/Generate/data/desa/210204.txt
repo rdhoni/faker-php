@@ -1,0 +1,6 @@
+2102041001, meral kota
+2102041002, baran barat
+2102041003, sei raya
+2102041006, baran timur
+2102041007, sungai pasir
+2102041008, parit benut

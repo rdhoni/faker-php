@@ -1,0 +1,45 @@
+1103012001, alue luddin sa
+1103012002, alue luddin dua
+1103012003, alue dalam
+1103012004, dama pulo sa
+1103012005, dama pulo dua
+1103012006, buket kulam
+1103012007, seuneubok teungoh
+1103012008, jungka gajah
+1103012009, seuneubok simpang
+1103012010, matang pineung
+1103012011, lhok geulumpang
+1103012012, blang buket
+1103012013, meunasah keutapang
+1103012014, buket rumia
+1103012015, alue gadeng
+1103012016, kapai baro
+1103012017, seuneubok  tuha sa
+1103012018, seuneubok  tuha dua
+1103012019, seuneubok  buloh
+1103012020, gaseh sayang
+1103012021, alue lhok
+1103012022, trieng gadeng
+1103012023, grong-grong
+1103012024, matang geuto
+1103012025, alue merbo
+1103012026, buket raya
+1103012027, gampong keude
+1103012028, peukan idi cut
+1103012029, gampong beunot
+1103012030, seuneubok  baroh
+1103012031, teupin drum
+1103012032, kuala idi cut
+1103012034, seuneubok  aceh
+1103012035, gampong baro
+1103012036, bagok panah sa
+1103012037, bagok panah dua
+1103012038, bagok panah lhee
+1103012039, bagok panah peut
+1103012040, buket tualang
+1103012041, keumuneng sa
+1103012042, keumuneng dua
+1103012043, keumuneng lhee
+1103012044, keumuneng peut
+1103012045, keumuneng limong
+1103012046, meunasah blang

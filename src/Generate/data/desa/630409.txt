@@ -1,0 +1,8 @@
+6304092001, sungai kambat
+6304092002, sungai rasau
+6304092003, simpang nungki
+6304092004, sawahan
+6304092005, bantuil
+6304092006, badandan
+6304092007, sei tunjang
+6304092008, sei raya

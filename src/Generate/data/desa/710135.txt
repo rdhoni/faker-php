@@ -1,0 +1,10 @@
+7101352001, ibolian
+7101352002, ibolian satu
+7101352003, kinomalingan
+7101352004, kosio
+7101352005, kosio timur
+7101352006, kasio barat
+7101352007, werdhi agung
+7101352008, werdhi agung selatan
+7101352009, werdhi agung utara
+7101352010, werdhi agung timur

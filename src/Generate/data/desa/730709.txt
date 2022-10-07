@@ -1,0 +1,4 @@
+7307092001, pulau harapan
+7307092002, pulau buhung pitue
+7307092003, pulau padaelo
+7307092004, pulau persatuan

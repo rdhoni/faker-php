@@ -1,0 +1,19 @@
+1218172001, gudang garam
+1218172002, dolok masango
+1218172003, panombean
+1218172004, bandar negeri
+1218172005, ujung negeri kahan
+1218172006, bandar magodang
+1218172007, ujung negeri hulu
+1218172008, pegajahan hulu
+1218172009, marihat dolok
+1218172010, bintang bayu
+1218172011, bandar pinang kebun
+1218172012, damak tolong buho
+1218172013, bandar pinang rambe
+1218172014, pegajahan kahan
+1218172015, huta durian
+1218172016, kampung kristen
+1218172017, sarang ginting kahan
+1218172018, sarang ginting hulu
+1218172019, siahap

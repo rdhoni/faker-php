@@ -1,0 +1,40 @@
+1203041001, pasar sipirok
+1203041003, hutasuhut
+1203041004, baringin
+1203041005, bunga bondar
+1203041061, parau sorat
+1203041114, sipirok godang
+1203042010, bagas lombang
+1203042017, batu satail
+1203042025, hasang marsada
+1203042034, janji mauli
+1203042048, paran julu
+1203042051, pangaribuan
+1203042052, pargarutan
+1203042054, panaungan
+1203042059, padang bujur
+1203042060, paran padang
+1203042064, pangurabaan
+1203042068, ramba sihasur
+1203042069, tolang
+1203042072, sampean
+1203042075, simaninggir
+1203042076, sibadoar
+1203042085, sialagundi
+1203042096, bulu mario
+1203042097, barnang koling
+1203042101, dolok sordang julu
+1203042102, situmba julu
+1203042103, situmba
+1203042104, kilang papan
+1203042105, sialaman
+1203042106, paran dolok mardomu
+1203042107, batang tura julu
+1203042108, batang tura
+1203042109, dolok sordang
+1203042110, pahae aek sagala
+1203042111, marsada
+1203042112, luat lombang
+1203042113, aek batang paya
+1203042115, saba batang miha
+1203042116, sarogodung

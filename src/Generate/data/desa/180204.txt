@@ -1,0 +1,15 @@
+1802041005, gunung sugih
+1802041006, gunung s raya
+1802041007, komering agung
+1802041008, seputih jaya
+1802042001, terbanggi subing
+1802042002, terbanggi agung
+1802042003, fajar bulan
+1802042004, komering putih
+1802042009, buyut udik
+1802042010, buyut ilir
+1802042011, bangun rejo
+1802042012, wono sari
+1802042013, putra buyut
+1802042014, gunung sari
+1802042015, buyut utara

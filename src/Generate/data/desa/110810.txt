@@ -1,0 +1,34 @@
+1108102001, keude aron
+1108102002, dayah aron
+1108102003, moncrang
+1108102004, kanot
+1108102005, meuria aron
+1108102006, mee aron
+1108102007, glok
+1108102008, cibrek baroh
+1108102009, cibrek tunong
+1108102010, matang munye
+1108102011, pante
+1108102012, keutapang
+1108102013, blang
+1108102014, teungoh
+1108102015, tanjong krueng pase
+1108102016, mesjid
+1108102017, keude teupin punti
+1108102018, kumbang
+1108102019, gampong u
+1108102020, calong
+1108102021, manyang baroh
+1108102022, peurupok
+1108102023, alue gunto
+1108102024, pulo
+1108102025, kulam
+1108102026, ampeh
+1108102027, dayah meuria
+1108102028, mampree
+1108102029, meucat
+1108102030, ara
+1108102031, hagu
+1108102032, awe
+1108102033, tanjong mulieng
+1108102034, daya teungku

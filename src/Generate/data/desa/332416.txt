@@ -1,0 +1,16 @@
+3324162001, wonotenggang
+3324162002, pojoksari
+3324162003, randusari
+3324162004, karangsari
+3324162005, parakan
+3324162006, tambaksari
+3324162007, jatipurwo
+3324162008, rowosari
+3324162009, tanjungsari
+3324162010, tanjunganom
+3324162011, sendangdawuhan
+3324162012, kebonsari
+3324162013, bulak
+3324162014, gebanganom
+3324162015, gempolsewu
+3324162016, sendangsikucing

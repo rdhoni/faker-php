@@ -1,0 +1,10 @@
+3512132001, kedunglo
+3512132002, bantal
+3512132003, awar-awar
+3512132004, parante
+3512132005, trigonco
+3512132006, kertosari
+3512132007, mojosari
+3512132008, asembagus
+3512132009, gudang
+3512132010, wringin anom

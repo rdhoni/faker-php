@@ -1,0 +1,12 @@
+1305052001, balah aie
+1305052002, sungai sariak
+1305052003, lurah ampalu
+1305052004, lareh nan panjang
+1305052005, lareh nan panjang selatan
+1305052006, lareh nan panjang barat
+1305052007, bisati sungai sariak
+1305052008, ambuang kapua sungai sariak
+1305052009, lareh nan panjang sungai sariak
+1305052010, limpato sungai sariak
+1305052011, balah aie utara
+1305052012, balah aie timur

@@ -1,0 +1,26 @@
+1808011005, blambangan umpu
+1808012001, rambang jaya
+1808012002, gistang
+1808012003, sidoarjo
+1808012004, bumi ratu
+1808012006, lembasung
+1808012007, negeri baru
+1808012008, negeri batin
+1808012009, gunung sangkaran
+1808012010, tanjung raja giham
+1808012011, segara mider
+1808012012, umpu bhakti
+1808012013, sangkaran bhakti
+1808012014, bumi baru
+1808012015, tanjung sari
+1808012016, sri rejeki
+1808012017, karang umpu
+1808012018, umpu kencana
+1808012019, sriwijaya
+1808012020, brata yudha
+1808012021, gedung batin
+1808012022, tanjung raja sakti
+1808012023, negeri bumi putra
+1808012024, panca negeri
+1808012025, gedung riang
+1808012026, ojo lali

@@ -1,0 +1,11 @@
+1709112001, pagar gunung
+1709112002, karang nanding
+1709112003, semidang
+1709112004, gajah mati
+1709112005, padang siring
+1709112006, lagan bungin
+1709112007, pagar jati
+1709112008, taba lagan
+1709112009, lagan
+1709112010, bukit
+1709112011, kota niur

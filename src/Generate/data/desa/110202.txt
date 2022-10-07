@@ -1,0 +1,35 @@
+1102022001, bukit merdeka
+1102022002, darul aman
+1102022003, lawe kesumpat
+1102022004, lawe tua gabungan
+1102022005, lawe sigala ii
+1102022006, lawe sigala timur
+1102022007, lawe sigala barat
+1102022008, suka damai
+1102022009, kute tengah
+1102022010, tanah baru
+1102022011, kedataran  gabungan
+1102022012, gabungan  parsaroan
+1102022013, lawe loning gabungan
+1102022014, lawe loning aman
+1102022015, suka maju
+1102022016, lawe tua makmur
+1102022017, lawe tua persatuan
+1102022018, lawe serke
+1102022019, lawe rakat
+1102022020, suka jaya
+1102022021, enmiya batu dua ratus
+1102022022, sebungke
+1102022023, bukit sepakat
+1102022024, lawe loning sepakat
+1102022025, lawe loning i
+1102022026, gaya jaya
+1102022027, gelah musara
+1102022028, mulie dame
+1102022029, lawe loning hakhapen
+1102022030, karya indah
+1102022031, kayu mbelin
+1102022032, lawe sigala barat jaya
+1102022033, lawe pekhidinen
+1102022034, kertimbang
+1102022035, ndauh nitenggo

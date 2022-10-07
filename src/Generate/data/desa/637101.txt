@@ -1,0 +1,12 @@
+6371011001, mantuil
+6371011002, kelayan selatan
+6371011003, pekauman
+6371011004, kelayan barat
+6371011005, kelayan tengah
+6371011006, kelayan dalam
+6371011007, murung raya
+6371011008, kelayan timur
+6371011009, tanjung pagar
+6371011010, pemurus dalam
+6371011011, pemurus baru
+6371011012, basirih selatan

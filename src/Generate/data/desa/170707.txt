@@ -1,0 +1,9 @@
+1707072001, karang dapo atas
+1707072002, bukit nibung
+1707072003, karang dapo bawah
+1707072004, pungguk pedaro
+1707072005, talang kerinci
+1707072006, pelabuhan talang liak
+1707072007, talang liak i
+1707072008, talang liak ii
+1707072009, bungin

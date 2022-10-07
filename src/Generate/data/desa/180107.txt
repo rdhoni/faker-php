@@ -1,0 +1,16 @@
+1801072001, bandar dalam
+1801072002, campang tiga
+1801072003, talang baru
+1801072004, suka banjar
+1801072005, kota dalam
+1801072006, budidaya
+1801072007, siring jaha
+1801072008, suak
+1801072009, sukamaju
+1801072010, sukamarga
+1801072011, seloretno
+1801072012, sidodadi
+1801072013, sidorejo
+1801072014, sidomulyo
+1801072015, sidowaluyo
+1801072020, banjar suri

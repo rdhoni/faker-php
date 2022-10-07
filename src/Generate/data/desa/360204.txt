@@ -1,0 +1,14 @@
+3602042002, cipanas
+3602042003, girilaya
+3602042004, malangsari
+3602042005, bintangresmi
+3602042006, talagahiyang
+3602042007, luhurjaya
+3602042008, haurgajrug
+3602042009, giriharja
+3602042010, sukasari
+3602042013, jayapura
+3602042014, sipayung
+3602042015, bintangsari
+3602042016, pasirhaur
+3602042020, harumsari

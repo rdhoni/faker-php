@@ -1,0 +1,10 @@
+3278051001, kersamenak
+3278051002, cilamajang
+3278051003, gunung tandala
+3278051004, urug
+3278051005, tanjung
+3278051006, cibeuti
+3278051007, karanganyar
+3278051008, talagasari
+3278051009, leuwiliang
+3278051010, gunung gede

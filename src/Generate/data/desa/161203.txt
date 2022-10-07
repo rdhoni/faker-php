@@ -1,0 +1,13 @@
+1612032001, purun
+1612032002, gunung menang
+1612032003, mangkunegara
+1612032004, raja jaya
+1612032005, air itam
+1612032006, gunung raja
+1612032007, air itam timur
+1612032008, sungai langan
+1612032009, spantan jaya
+1612032010, babat
+1612032011, suka raja
+1612032012, purun timur
+1612032013, mangkunegara timur

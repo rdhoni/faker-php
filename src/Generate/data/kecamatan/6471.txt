@@ -1,0 +1,6 @@
+647101, balikpapan timur
+647102, balikpapan barat
+647103, balikpapan utara
+647104, balikpapan tengah
+647105, balikpapan selatan
+647106, balikpapan kota

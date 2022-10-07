@@ -1,0 +1,18 @@
+3514192001, minggir
+3514192002, karang tengah
+3514192003, kedungrejo
+3514192004, umbulan
+3514192005, sidepan
+3514192006, sruwi
+3514192007, jeladri
+3514192008, sumberrejo
+3514192009, prodo
+3514192010, lebak
+3514192011, menyarik
+3514192012, kandung
+3514192013, mendalan
+3514192014, penataan
+3514192015, winongan kidul
+3514192016, bandaran
+3514192017, winongan lor
+3514192018, gading

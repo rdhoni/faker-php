@@ -1,0 +1,4 @@
+217201, tanjung pinang barat
+217202, tanjung pinang timur
+217203, tanjung pinang kota
+217204, bukit bestari

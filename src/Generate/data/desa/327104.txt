@@ -1,0 +1,16 @@
+3271041001, menteng
+3271041002, sindang barang
+3271041003, bubulak
+3271041004, margajaya
+3271041005, balumbang jaya
+3271041006, situ gede
+3271041007, semplak
+3271041008, cilendek barat
+3271041009, cilendek timur
+3271041010, curug mekar
+3271041011, curug
+3271041012, pasir jaya
+3271041013, pasir kuda
+3271041014, pasir mulya
+3271041015, gunung batu
+3271041016, loji

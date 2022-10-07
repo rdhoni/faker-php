@@ -1,0 +1,9 @@
+1403152001, tasikserai
+1403152002, tasikserai barat
+1403152003, kualapenaso
+1403152004, beringin
+1403152005, kotopaitberingin
+1403152006, melibur
+1403152007, tasikserai timur
+1403152008, tasiktebingserai
+1403152009, seraiwangi

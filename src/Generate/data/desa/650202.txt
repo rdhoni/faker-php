@@ -1,0 +1,6 @@
+6502022001, batu lidung
+6502022002, malinau kota
+6502022003, pelita kanaan
+6502022004, malinau hulu
+6502022005, malinau hilir
+6502022006, tanjung keranjang

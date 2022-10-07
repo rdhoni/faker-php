@@ -1,0 +1,15 @@
+210304, midai
+210305, bunguran barat
+210306, serasan
+210307, bunguran timur
+210308, bunguran utara
+210309, subi
+210310, pulau laut
+210311, pulau tiga
+210315, bunguran timur laut
+210316, bunguran tengah
+210318, bunguran selatan
+210319, serasan timur
+210320, bunguran batubi
+210321, pulau tiga barat
+210322, suak midai

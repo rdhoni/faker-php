@@ -1,0 +1,8 @@
+3202262001, ciracap
+3202262002, cikangkung
+3202262003, gunungbatu
+3202262004, purwasedar
+3202262005, pasirpanjang
+3202262006, mekarsari
+3202262007, ujung genteng
+3202262008, pangumbahan

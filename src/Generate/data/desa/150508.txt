@@ -1,0 +1,15 @@
+1505082001, kebon ix
+1505082002, talang belido
+1505082003, talang kerinci
+1505082004, ladang panjang
+1505082005, tangkit
+1505082006, tangkit baru
+1505082007, sungai gelam
+1505082008, parit
+1505082009, petaling jaya
+1505082010, sumber agung
+1505082011, mingkung jaya
+1505082012, trimulya jaya
+1505082013, mekar jaya
+1505082014, sido mukti
+1505082015, gambut jaya

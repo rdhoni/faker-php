@@ -1,0 +1,16 @@
+6304022001, purwosari ii
+6304022002, purwosari i
+6304022003, tamban bangun
+6304022004, tamban muara
+6304022005, tamban kecil
+6304022006, tinggiran ii luar
+6304022007, jelapat i
+6304022008, tamban muara baru
+6304022009, purwosari baru
+6304022010, sekata baru
+6304022011, koanda
+6304022012, damsari
+6304022013, sidorejo
+6304022014, jelapat baru
+6304022015, tamban bangun baru
+6304022016, tamban sari baru

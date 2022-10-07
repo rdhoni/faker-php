@@ -1,0 +1,35 @@
+1103032001, gampong jawa
+1103032002, keude blang
+1103032003, tanoh anoe
+1103032004, kuala peudawa puntong
+1103032005, gampong aceh
+1103032006, kuta blang
+1103032007, gampong tanjong
+1103032008, blang geulumpang
+1103032009, meunasah  pu\uk
+1103032010, bantayan timu
+1103032011, keutapang  mameh
+1103032012, seuneubok  rambong
+1103032013, kuala idi
+1103032014, keude aceh
+1103032023, seuneubok bacee
+1103032029, titi baro
+1103032047, tanjong kapai
+1103032048, alue dua muka o
+1103032049, alue dua muka s
+1103032050, ulee blang
+1103032051, buket jok
+1103032052, buket meulinteung
+1103032053, gampong jalan
+1103032054, teupin batee
+1103032055, buket langa
+1103032056, buket pala
+1103032057, buket juara
+1103032058, seuneubok tutong
+1103032059, seuneubok tuha
+1103032060, sampoimah
+1103032061, dama pulo
+1103032062, gureb blang
+1103032064, gampong baro
+1103032065, seuneubok teungoh ppuntong
+1103032067, kuta lawah

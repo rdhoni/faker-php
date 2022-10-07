@@ -1,0 +1,16 @@
+150101, gunung raya
+150102, danau kerinci
+150104, sitinjau laut
+150105, air hangat
+150106, gunung kerinci
+150107, batang merangin
+150108, keliling danau
+150109, kayu aro
+150111, air hangat timur
+150115, gunung tujuh
+150116, siulak
+150117, depati tujuh
+150118, siulak mukai
+150119, kayu aro barat
+150120, bukitkerman
+150121, air hangat barat

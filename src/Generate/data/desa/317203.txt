@@ -1,0 +1,6 @@
+3172031001, koja
+3172031002, tugu utara
+3172031003, lagoa
+3172031004, rawa badak utara
+3172031005, tugu selatan
+3172031006, rawa badak selatan

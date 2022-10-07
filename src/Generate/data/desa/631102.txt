@@ -1,0 +1,24 @@
+6311022001, hauwai
+6311022002, bangkal
+6311022003, mantuyan
+6311022004, tabuan
+6311022005, halong
+6311022008, puyun
+6311022009, buntu pilanduk
+6311022010, gunung riut
+6311022011, kapul
+6311022012, mamantang
+6311022013, binjai punggal
+6311022014, liyu
+6311022015, binuang santang
+6311022016, aniungan
+6311022017, binju
+6311022018, karya
+6311022019, uren
+6311022020, marajai
+6311022021, suryatama
+6311022022, baruh panyambaran
+6311022023, mauya
+6311022024, padang raya
+6311022025, sumber agung
+6311022026, mamigang

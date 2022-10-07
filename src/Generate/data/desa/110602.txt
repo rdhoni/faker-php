@@ -1,0 +1,28 @@
+1106022001, mon ikeun
+1106022002, nusa
+1106022003, weu raya
+1106022004, lamkrut
+1106022005, lamgaboh
+1106022006, lambaro kueh
+1106022007, lam ateuk
+1106022008, kueh
+1106022009, tanjong
+1106022010, aneuk paya
+1106022011, seubun keutapang
+1106022012, seubun ayon
+1106022013, lambaro seubun
+1106022014, naga umbang
+1106022015, lampaya
+1106022016, meunasah  mesjid lamlhom
+1106022017, meunasah mon cut
+1106022018, meunasah manyang
+1106022019, meunasah lam girek
+1106022020, meunasah lambaro
+1106022021, meunasah baro lamlhom
+1106022022, meunasah beutong
+1106022023, mns mesjid lampuuk
+1106022024, meunasah belee
+1106022025, meunasah karieng
+1106022026, lamcok
+1106022027, meunasah cut
+1106022028, meunasah blang

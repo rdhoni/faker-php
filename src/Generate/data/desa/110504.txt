@@ -1,0 +1,43 @@
+1105042001, kuala bhee
+1105042002, pasi lunak
+1105042003, pasi aceh
+1105042004, aron tunong
+1105042005, aron baroh
+1105042006, pasi pandan
+1105042007, ranto panyang
+1105042008, gempa raya
+1105042009, padang jawa
+1105042010, ie itam tunong
+1105042011, ie itam baroh
+1105042012, tingkeum panyang
+1105042013, lueng teungku yah
+1105042014, lueng tanoh tho
+1105042015, gunong rambong
+1105042016, drien mangko
+1105042017, gunung hampa
+1105042018, lung jawa
+1105042019, blang mee
+1105042020, alue blang
+1105042021, paya dua
+1105042022, paya luah
+1105042023, pasi ara kuala batee
+1105042024, alue sikaya
+1105042025, darul huda
+1105042026, keuleumbah
+1105042027, jawa
+1105042028, pulo ie
+1105042029, alue panyang
+1105042030, cot keumudai
+1105042031, seumantok
+1105042032, cot situah
+1105042033, jawi
+1105042034, panton
+1105042035, pasi birah
+1105042036, alue sundak
+1105042037, teumarom
+1105042038, cot murong
+1105042039, glee siblah
+1105042040, suak trieng
+1105042041, cot lagan bubon
+1105042042, bakat
+1105042043, lueng buloh

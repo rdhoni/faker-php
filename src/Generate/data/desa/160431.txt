@@ -1,0 +1,10 @@
+1604312001, banjar negara
+1604312002, tanjung payang
+1604312003, tanjung tebat
+1604312004, nantal
+1604312005, karang anyar
+1604312006, karang baru
+1604312007, kerung
+1604312008, muara cawang
+1604312009, talang sawah
+1604312010, talang sejemput

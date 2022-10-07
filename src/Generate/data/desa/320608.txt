@@ -1,0 +1,8 @@
+3206082001, simpang
+3206082002, parakanhonje
+3206082003, pamijahan
+3206082004, sukamaju
+3206082005, wangunsari
+3206082006, hegarwangi
+3206082007, wakap
+3206082008, sirnagalih

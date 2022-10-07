@@ -1,0 +1,21 @@
+630201, pulau sembilan
+630202, pulau laut barat
+630203, pulau laut selatan
+630204, pulau laut timur
+630205, pulau sebuku
+630206, pulau laut utara
+630207, kelumpang selatan
+630208, kelumpang hulu
+630209, kelumpang tengah
+630210, kelumpang utara
+630211, pamukan selatan
+630212, sampanahan
+630213, pamukan utara
+630214, hampang
+630215, sungai durian
+630216, pulau laut tengah
+630217, kelumpang hilir
+630218, kelumpang barat
+630219, pamukan barat
+630220, pulau laut kepulauan
+630221, pulau laut tanjung selayar

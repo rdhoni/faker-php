@@ -1,0 +1,8 @@
+3175031001, kampung melayu
+3175031002, bidara cina
+3175031003, bali mester
+3175031004, rawa bunga
+3175031005, cipinang cempedak
+3175031006, cipinang muara
+3175031007, cipinang besar selatan
+3175031008, cipinang besar utara

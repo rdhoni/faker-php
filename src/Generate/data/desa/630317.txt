@@ -1,0 +1,4 @@
+6303172001, paramasan atas
+6303172002, paramasan bawah
+6303172003, remo
+6303172004, angkipih

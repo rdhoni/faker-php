@@ -1,0 +1,7 @@
+6502122001, lung fala
+6502122002, lung kebinu
+6502122003, lung mekatip
+6502122004, lung simau
+6502122005, lung barang
+6502122006, lung sulit
+6502122007, lung semamu

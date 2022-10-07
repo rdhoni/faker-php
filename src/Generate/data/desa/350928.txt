@@ -1,0 +1,10 @@
+3509282001, lembengan
+3509282002, suren
+3509282003, karangpaiton
+3509282004, sumberanget
+3509282005, sukogidri
+3509282006, ledokombo
+3509282007, sumberlesung
+3509282008, sumbersalak
+3509282009, slateng
+3509282010, sumberbulus

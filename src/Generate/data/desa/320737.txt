@@ -1,0 +1,10 @@
+3207372001, pasawahan
+3207372002, banjaranyar
+3207372003, cigayam
+3207372004, langkapsari
+3207372005, kalijaya
+3207372006, sindangrasa
+3207372007, cikaso
+3207372008, cikupa
+3207372009, karyamukti
+3207372010, tanjungsari

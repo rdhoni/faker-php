@@ -1,0 +1,7 @@
+7172061001, girian atas
+7172061002, girian weru satu
+7172061003, girian bawah
+7172061004, girian permai
+7172061005, girian weru dua
+7172061006, girian indah
+7172061007, wangurer

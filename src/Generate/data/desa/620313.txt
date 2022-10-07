@@ -1,0 +1,10 @@
+6203132001, tamban baru timur
+6203132002, tamban baru tengah
+6203132003, tamban baru mekar
+6203132004, bandaraya
+6203132005, sidorejo
+6203132006, warna sari
+6203132007, bandar mekar
+6203132008, tamban makmur
+6203132009, sidomulyo
+6203132010, tamban jaya

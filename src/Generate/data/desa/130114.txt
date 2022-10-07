@@ -1,0 +1,10 @@
+1301142001, sungai gambir sako tapan
+1301142002, limau purut tapan
+1301142003, talang balarik tapan
+1301142004, tebing tinggi tapan
+1301142005, binjai tapan
+1301142006, sungai pinang tapan
+1301142007, talang koto pulai tapan
+1301142008, kampung tengah tapan
+1301142009, kubu tapan
+1301142010, simpang gunung tapan

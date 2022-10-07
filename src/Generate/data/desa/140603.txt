@@ -1,0 +1,14 @@
+1406031001, pasir pengarayan
+1406032002, rambah tengah utara
+1406032003, rambah tengah hilir
+1406032004, rambah tengah hulu
+1406032005, rambah tengah barat
+1406032006, menaming
+1406032007, pasir baru
+1406032008, sialang jaya
+1406032009, tanjung belit
+1406032010, koto tinggi
+1406032011, suka maju
+1406032012, pematang berangan
+1406032013, babussalam
+1406032014, pasir maju

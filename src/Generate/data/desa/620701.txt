@@ -1,0 +1,10 @@
+6207011001, kuala pembuang i
+6207011002, kuala pembuang ii
+6207012005, pematang limau
+6207012006, sungai perlu
+6207012007, tanjung rangas
+6207012008, muara dua
+6207012009, jahitan
+6207012010, baung
+6207012015, persil raya
+6207012016, sungai undang

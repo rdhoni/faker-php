@@ -1,0 +1,28 @@
+1221092001, tanjung baru
+1221092002, tamiang
+1221092003, tanjung barani
+1221092004, manggis
+1221092005, pagaran tayas
+1221092006, hatongga
+1221092007, botung
+1221092008, siadam
+1221092009, siojo
+1221092010, pagaran manggis
+1221092011, muara malinto lama
+1221092012, hutabaru
+1221092013, huta nopan
+1221092014, tandolan
+1221092015, tangga batu
+1221092016, pagaran dolok pinarik
+1221092017, muara malinto baru
+1221092018, aek sorik
+1221092019, tanjung botung pinarik
+1221092020, pinarik
+1221092021, rombayan
+1221092022, salambue
+1221092023, papaso
+1221092024, muara tige
+1221092025, sibodak papaso
+1221092026, pagaran baringin
+1221092027, gunung inten
+1221092028, gunung manaon

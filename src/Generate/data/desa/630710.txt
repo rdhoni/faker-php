@@ -1,0 +1,11 @@
+6307102001, batu tangga
+6307102002, hinas kiri
+6307102003, pembakulan
+6307102004, nateh
+6307102005, tandilang
+6307102006, muara hungi
+6307102007, atiran
+6307102008, batu perahu
+6307102009, aing bantai
+6307102010, juhu
+6307102011, datar batung

@@ -1,0 +1,10 @@
+1506121001, betara kiri
+1506122002, sungaidualap
+1506122003, betara kanan
+1506122004, sungaigebar
+1506122005, dataran pinang
+1506122006, tanjungpasir
+1506122007, sungaigebar barat
+1506122008, sungaidungun
+1506122009, kuala indah
+1506122010, suak labu

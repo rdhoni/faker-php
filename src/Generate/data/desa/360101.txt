@@ -1,0 +1,7 @@
+3601012001, sumberjaya
+3601012002, kertajaya
+3601012003, kertamukti
+3601012004, tunggaljaya
+3601012005, cigorondong
+3601012006, tamanjaya
+3601012007, ujungjaya

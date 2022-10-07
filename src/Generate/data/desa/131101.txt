@@ -1,0 +1,4 @@
+1311012001, lubuk gadang
+1311012002, lubuk gadang timur
+1311012003, lubuk gadang selatan
+1311012004, lubuk gadang utara

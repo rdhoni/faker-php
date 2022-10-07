@@ -1,0 +1,5 @@
+2101151003, teluk lobam
+2101151005, tanjung permai
+2101152001, busung
+2101152002, teluk sasah
+2101152004, kuala sempang

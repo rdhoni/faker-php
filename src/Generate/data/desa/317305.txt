@@ -1,0 +1,7 @@
+3173051001, kebon jeruk
+3173051002, sukabumi utara
+3173051003, sukabumi selatan
+3173051004, kelapa dua
+3173051005, duri kepa
+3173051006, kedoya utara
+3173051007, kedoya selatan

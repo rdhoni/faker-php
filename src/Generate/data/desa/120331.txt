@@ -1,0 +1,10 @@
+1203311001, sangkunur
+1203311002, rianiate
+1203312003, simatohir
+1203312004, perkebunan
+1203312005, bandar tarutung
+1203312006, aek pardomuan
+1203312007, tindoan laut
+1203312008, simataniari
+1203312009, batu godang
+1203312010, malombu

@@ -1,0 +1,9 @@
+1408052001, muara kelantan
+1408052002, teluk lancang
+1408052003, sungai selodang
+1408052004, olak
+1408052005, lubuk jering
+1408052006, muara bungkal
+1408052007, lubuk umbut
+1408052008, bencah umbai
+1408052009, tasik betung

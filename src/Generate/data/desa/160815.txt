@@ -1,0 +1,19 @@
+1608152001, karang melati
+1608152002, karang menjangan
+1608152003, karang anyar
+1608152004, tulung harapan
+1608152005, kota tanah
+1608152006, nirwana
+1608152007, brunai mulia
+1608152008, kota mulya
+1608152009, bungin jaya
+1608152010, burnai jaya
+1608152011, mulia jaya
+1608152012, melati jaya
+1608152013, karang mulya
+1608152014, wanasari
+1608152015, harapan jaya
+1608152016, melati agung
+1608152017, wana makmur
+1608152018, bawang tikar
+1608152019, karya bakti

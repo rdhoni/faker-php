@@ -1,0 +1,35 @@
+6310021001, kota pagatan
+6310022002, betung
+6310022003, sungai lembu
+6310022004, wiritasi
+6310022005, pejala
+6310022006, pagaruyung
+6310022007, muara pagatan tengah
+6310022008, kampung baru
+6310022009, pasar baru
+6310022010, batuah
+6310022011, baru gelang
+6310022012, pulau salak
+6310022013, salimuran
+6310022014, satiung
+6310022015, saring sungai binjai
+6310022016, pulau tanjung
+6310022017, batarang
+6310022018, manurung
+6310022019, mudalang
+6310022020, tanette
+6310022021, muara pagatan
+6310022022, pulau satu
+6310022023, sepunggur
+6310022024, pakatellu
+6310022025, saring s bubu
+6310022026, serdangan
+6310022027, juku eja
+6310022028, api-api
+6310022029, gusunge
+6310022030, rantau panjang hulu
+6310022031, penyolongan
+6310022032, beringin
+6310022033, mekar jaya
+6310022034, rantau panjang hilir
+6310022035, upt karya bakti

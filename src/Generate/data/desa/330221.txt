@@ -1,0 +1,19 @@
+3302212001, silado
+3302212002, karangturi
+3302212003, karangcegak
+3302212004, sumbang
+3302212005, tambaksogra
+3302212006, kebanggan
+3302212007, kawungcarang
+3302212008, karanggintung
+3302212009, datar
+3302212010, banjarsari kulon
+3302212011, banjarsari wetan
+3302212012, banteran
+3302212013, ciberem
+3302212014, susukan
+3302212015, sikapat
+3302212016, gandatapa
+3302212017, kotayasa
+3302212018, limpakuwus
+3302212019, kedungmalang

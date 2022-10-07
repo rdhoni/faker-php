@@ -1,0 +1,18 @@
+6307031001, pantai hambawang barat
+6307032002, mahang baru
+6307032003, mundar
+6307032004, tabudarat hilir
+6307032005, tabudarat hulu
+6307032006, pantai hambawang timur
+6307032007, banua kepayang
+6307032008, ta\al
+6307032009, durian gantang
+6307032010, guha
+6307032011, bangkal
+6307032012, panggang marak
+6307032013, jamil
+6307032014, taras padang
+6307032015, murung ta\al
+6307032016, sungai rangas
+6307032017, batang bahalang
+6307032018, sungai jaranih

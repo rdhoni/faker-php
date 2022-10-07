@@ -1,0 +1,14 @@
+6202152001, tumbang tilap
+6202152002, tumbang kaminting
+6202152003, tanah haluan
+6202152004, tumbang panyahuan
+6202152005, tumbang sapia
+6202152006, tumbang getas
+6202152007, tewai hara
+6202152008, tumbang payang
+6202152009, tumbang kania
+6202152010, tumbang tawan
+6202152011, lunuk bagantung
+6202152012, tumbang torung
+6202152013, tumbang batu
+6202152014, tumbang saluang

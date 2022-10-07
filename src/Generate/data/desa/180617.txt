@@ -1,0 +1,8 @@
+1806172001, negeri kelumbayan
+1806172002, pekon susuk
+1806172003, napal
+1806172005, pekon unggak
+1806172006, penyandingan
+1806172009, paku
+1806172010, umbar
+1806172012, kiluan negeri

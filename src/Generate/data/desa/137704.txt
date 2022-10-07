@@ -1,0 +1,16 @@
+1377042001, talago sarik
+1377042002, pakasai
+1377042003, kampung baru padusunan
+1377042004, kampung gadang
+1377042005, koto marapak
+1377042006, batang kabung
+1377042007, bato
+1377042008, air santok
+1377042009, cubadak mentawai
+1377042010, sungai sirah
+1377042011, sungai pasak
+1377042012, bungo tanjung
+1377042013, kampung tangah
+1377042014, kampung kandang
+1377042015, kaluat
+1377042016, kajai

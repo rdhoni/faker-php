@@ -1,0 +1,5 @@
+7406172001, masaloka
+7406172002, batu lamburi
+7406172003, masaloka selatan
+7406172004, masaloka timur
+7406172005, masaloka barat

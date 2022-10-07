@@ -1,0 +1,19 @@
+910601, biak kota
+910602, biak utara
+910603, biak timur
+910604, numfor barat
+910605, numfor timur
+910608, biak barat
+910609, warsa
+910610, padaido
+910611, yendidori
+910612, samofa
+910613, yawosi
+910614, andey
+910615, swandiwe
+910616, bruyadori
+910617, orkeri
+910618, poiru
+910619, aimando padaido
+910620, oridek
+910621, bondifuar
