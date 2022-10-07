@@ -17,6 +17,13 @@ This library is made to generate fake data, the data generated is random if ther
 
 
 #### Usage
+
+Install with composer
+
+```
+composer require rdhoni/faker-php
+```
+
 ```
 use Rdhoni\FakerPhp\Faker;
 
