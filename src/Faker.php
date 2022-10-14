@@ -30,23 +30,27 @@ class Faker
     $browser   = $generate_browser->ua_android();
 
     /** Return get array **/
-    $res['name']          = ucwords($user['nama']);
-    $res['user']          = $user['user'];
-    $res['pass']          = $user['pass'];
-    $res['ttl']           = strtolower($any['tanggal']);
-    $res['email']         = $user['email'];
-    $res['gender']        = ucwords($any['kelamin']);
-    $res['phone']         = $user['phone'];
-    $res['ip']            = $ip;
-    $res['ua']            = $browser['ua'];
-    $res['address']       = $any['alamat'];
-    $res['details']       = $any['data'];
-    $res['hp']['brand']   = $browser['brand'];
-    $res['hp']['type']    = $browser['type'];
-    $res['hp']['os']      = $browser['os'];
-    $res['hp']['browser'] = $browser['browser'];
-    $res['hp']['path']    = $browser['id'];
-    $res['kodepos']       = $any['pos'];
+    $res['name']           = ucwords($user['nama']);
+    $res['user']           = $user['user'];
+    $res['pass']           = $user['pass'];
+    $res['ttl']            = strtolower($any['tanggal']);
+    $res['email']          = $user['email'];
+    $res['gender']         = ucwords($any['kelamin']);
+    $res['phone']          = $user['phone'];
+    $res['ip']             = $ip;
+    $res['ua']             = $browser['ua'];
+    $res['address']        = $any['alamat'];
+    $res['details']        = $any['data'];
+    $res['hp']['brand']    = $browser['brand'];
+    $res['hp']['type']     = $browser['type'];
+    $res['hp']['os']       = $browser['os'];
+    $res['hp']['browser']  = $browser['browser'];
+    $res['hp']['path']     = $browser['id'];
+    $res['kodepos']        = $any['pos'];
+    $res['imei']['number'] = $browser['imei_number'];
+    $res['imei']['string'] = $browser['imei_string'];
+
+    
     return json_encode($res);
   }
 }
